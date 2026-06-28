@@ -1,1 +1,57 @@
+name: Update Research Articles
+
+on:
+  workflow_dispatch:
+    inputs:
+      article_count:
+        description: "Number of recent articles to publish"
+        required: true
+        default: "50"
+      recent_days:
+        description: "How far back to search, in days"
+        required: true
+        default: "60"
+  schedule:
+    # Runs daily at 10:15 UTC. Change this later if you want a different update time.
+    - cron: "15 10 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-research:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Pull, summarize, and save articles
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          ARTICLE_COUNT: ${{ github.event.inputs.article_count || '50' }}
+          RECENT_DAYS: ${{ github.event.inputs.recent_days || '60' }}
+          OUTPUT_FILE: data/articles.json
+        run: python scripts/update_articles.py
+
+      - name: Commit updated articles
+        run: |
+          git config user.name "research-unwrapped-bot"
+          git config user.email "actions@github.com"
+          git add data/articles.json
+          if git diff --cached --quiet; then
+            echo "No article changes to commit."
+          else
+            git commit -m "Update research articles"
+            git push
+          fi
 
