@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sample-1",
+    "title": "New Brain Implant Restores Speech in Paralyzed Patients",
+    "category": "Neuroscience",
+    "date": "2024-05-12",
+    "displayDate": "May 12, 2024",
+    "readTime": 4,
+    "image": "RUimages/neuro.jpg",
+    "blurb": "A tiny brain implant may help people who cannot speak turn thoughts into words faster than before.",
+    "summary": "Imagine knowing exactly what you want to say, but your body cannot say it. Researchers tested a brain-computer interface that listens to speech-related brain signals and converts them into text or speech-like output.",
+    "whyItMatters": "This matters because communication tools for paralyzed patients can be painfully slow. A faster speech system could improve independence, school, work, and everyday relationships.",
+    "keyTakeaways": [
+      "The system reads brain signals connected to attempted speech.",
+      "It may help people with paralysis communicate faster.",
+      "The technology is promising, but still needs larger safety studies."
+    ],
+    "limitations": "This is early-stage research and should not be treated as a widely available treatment yet.",
+    "sourceName": "PubMed",
+    "journal": "Example Journal",
+    "authors": ["Research Unwrapped Demo"],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/",
+    "doi": "",
+    "pmid": ""
+  }
+]
