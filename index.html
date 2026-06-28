@@ -1003,6 +1003,35 @@
       margin-bottom: 18px;
     }
 
+    #modalBody {
+      color: #cbd3e2;
+      line-height: 1.75;
+      margin-bottom: 18px;
+    }
+
+    .modal-section {
+      margin-bottom: 18px;
+    }
+
+    .modal-section strong {
+      color: #ffffff;
+    }
+
+    .source-link {
+      color: var(--purple-2);
+      font-weight: 850;
+    }
+
+    .source-link:hover {
+      color: #ffffff;
+    }
+
+    .source-meta {
+      color: var(--muted);
+      font-size: 14px;
+      margin-top: 6px;
+    }
+
     .takeaways {
       margin-top: 22px;
       padding: 22px;
@@ -1524,7 +1553,7 @@
         </div>
 
         <p id="modalSummary"></p>
-        <p id="modalBody"></p>
+        <div id="modalBody"></div>
 
         <div class="takeaways">
           <h3>Key takeaways</h3>
@@ -1537,7 +1566,11 @@
   <div class="toast" id="toast"></div>
 
   <script>
-    const discoveries = [
+    let discoveries = [];
+
+    // Demo content used only if data/articles.json is missing or cannot load.
+    // Your GitHub automation will update data/articles.json, and the site will use that instead.
+    const fallbackDiscoveries = [
       {
         id: 1,
         title: "New Brain Implant Restores Speech in Paralyzed Patients",
@@ -1676,6 +1709,16 @@
       }
     ];
 
+    const IMAGE_FALLBACKS = {
+      "Neuroscience": "RUimages/neuro.jpg",
+      "Biomedical Engineering": "RUimages/prosthetic.jpg",
+      "AI & Computer Science": "RUimages/AI.jpg",
+      "Medicine": "RUimages/prosthetic.jpg",
+      "Genetics": "RUimages/genetics.jpg",
+      "Environment": "RUimages/genetics.jpg",
+      "All": "RUimages/genetics.jpg"
+    };
+
     const cardsGrid = document.getElementById("cardsGrid");
     const searchInput = document.getElementById("searchInput");
     const categorySelect = document.getElementById("categorySelect");
@@ -1697,7 +1740,93 @@
 
     let activeCategory = "All";
     let visibleCount = 4;
-    let savedIds = JSON.parse(localStorage.getItem("ruSaved") || "[]");
+    let savedIds = JSON.parse(localStorage.getItem("ruSaved") || "[]").map(String);
+
+    function escapeHTML(value) {
+      return String(value ?? "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+    }
+
+    function safeUrl(url) {
+      const value = String(url || "").trim();
+
+      if (!value) {
+        return "";
+      }
+
+      try {
+        const parsed = new URL(value, window.location.href);
+        if (parsed.protocol === "https:" || parsed.protocol === "http:") {
+          return parsed.href;
+        }
+      } catch (error) {
+        return "";
+      }
+
+      return "";
+    }
+
+    function getImageForArticle(item) {
+      return item.image || IMAGE_FALLBACKS[item.category] || IMAGE_FALLBACKS.All;
+    }
+
+    function handleImageError(img, category) {
+      img.onerror = null;
+      img.src = IMAGE_FALLBACKS[category] || IMAGE_FALLBACKS.All;
+    }
+
+    function formatDate(value) {
+      if (!value) {
+        return "";
+      }
+
+      const parsed = new Date(value);
+
+      if (Number.isNaN(parsed.getTime())) {
+        return value;
+      }
+
+      return parsed.toLocaleDateString("en-US", {
+        month: "short",
+        day: "numeric",
+        year: "numeric"
+      });
+    }
+
+    function getDisplayDate(item) {
+      return item.displayDate || formatDate(item.dateISO || item.date) || "Recently";
+    }
+
+    function getDateForSort(item) {
+      return new Date(item.dateISO || item.date || 0);
+    }
+
+    function getReadTime(item) {
+      return Number(item.readTime) || 3;
+    }
+
+    function getBlurb(item) {
+      return item.blurb || item.excerpt || item.summary || "A new research finding, simplified for quick understanding.";
+    }
+
+    function getSearchText(item) {
+      return `
+        ${item.title || ""}
+        ${item.category || ""}
+        ${item.blurb || ""}
+        ${item.excerpt || ""}
+        ${item.summary || ""}
+        ${item.body || ""}
+        ${item.whyItMatters || ""}
+        ${item.limitations || ""}
+        ${item.journal || ""}
+        ${item.sourceName || ""}
+      `.toLowerCase();
+    }
 
     function showToast(message) {
       toast.textContent = message;
@@ -1708,6 +1837,34 @@
       }, 2200);
     }
 
+    async function loadDiscoveries() {
+      cardsGrid.innerHTML = "";
+      emptyState.classList.remove("show");
+
+      try {
+        const response = await fetch("data/articles.json?cache=" + Date.now());
+
+        if (!response.ok) {
+          throw new Error("Could not load data/articles.json");
+        }
+
+        const data = await response.json();
+
+        if (!Array.isArray(data) || data.length === 0) {
+          throw new Error("articles.json is empty or not an array");
+        }
+
+        discoveries = data;
+        showToast("Latest research loaded.");
+      } catch (error) {
+        console.warn(error);
+        discoveries = fallbackDiscoveries;
+        showToast("Using demo research. Add data/articles.json for automation.");
+      }
+
+      renderCards();
+    }
+
     function getFilteredDiscoveries() {
       const query = searchInput.value.trim().toLowerCase();
       const selectedCategory = activeCategory;
@@ -1716,15 +1873,7 @@
         const matchesCategory =
           selectedCategory === "All" || item.category === selectedCategory;
 
-        const searchable = `
-          ${item.title}
-          ${item.category}
-          ${item.excerpt}
-          ${item.summary}
-          ${item.body}
-        `.toLowerCase();
-
-        const matchesSearch = searchable.includes(query);
+        const matchesSearch = getSearchText(item).includes(query);
 
         return matchesCategory && matchesSearch;
       });
@@ -1733,15 +1882,15 @@
 
       filtered.sort((a, b) => {
         if (sortMode === "newest") {
-          return new Date(b.dateISO) - new Date(a.dateISO);
+          return getDateForSort(b) - getDateForSort(a);
         }
 
         if (sortMode === "oldest") {
-          return new Date(a.dateISO) - new Date(b.dateISO);
+          return getDateForSort(a) - getDateForSort(b);
         }
 
         if (sortMode === "quick") {
-          return a.readTime - b.readTime;
+          return getReadTime(a) - getReadTime(b);
         }
 
         return 0;
@@ -1757,40 +1906,46 @@
       cardsGrid.innerHTML = "";
 
       visible.forEach((item) => {
-        const isSaved = savedIds.includes(item.id);
+        const itemId = String(item.id || item.sourceUrl || item.title);
+        const isSaved = savedIds.includes(itemId);
+        const image = getImageForArticle(item);
 
         const card = document.createElement("article");
         card.className = "card reveal visible";
         card.innerHTML = `
           <div class="card-img">
-            <img src="${item.image}" alt="${item.title}">
+            <img
+              src="${escapeHTML(image)}"
+              alt="${escapeHTML(item.title || "Research article")}"
+              onerror="this.onerror=null; this.src='${IMAGE_FALLBACKS[item.category] || IMAGE_FALLBACKS.All}';"
+            >
           </div>
 
           <div class="card-body">
-            <span class="tag">${item.category}</span>
+            <span class="tag">${escapeHTML(item.category || "Research")}</span>
 
-            <h3>${item.title}</h3>
+            <h3>${escapeHTML(item.title || "Untitled Research Discovery")}</h3>
 
             <div class="meta">
-              <span>${item.date}</span>
+              <span>${escapeHTML(getDisplayDate(item))}</span>
               <span class="dot"></span>
-              <span>${item.readTime} min read</span>
+              <span>${getReadTime(item)} min read</span>
             </div>
 
-            <p class="excerpt">${item.excerpt}</p>
+            <p class="excerpt">${escapeHTML(getBlurb(item))}</p>
 
             <div class="card-foot">
-              <button class="read-more" data-open="${item.id}">
+              <button class="read-more" data-open="${escapeHTML(itemId)}">
                 Read More
                 <span>→</span>
               </button>
 
               <div class="mini-actions">
-                <button class="mini-btn ${isSaved ? "saved" : ""}" data-save="${item.id}" aria-label="Bookmark">
+                <button class="mini-btn ${isSaved ? "saved" : ""}" data-save="${escapeHTML(itemId)}" aria-label="Bookmark">
                   ${isSaved ? "◆" : "◇"}
                 </button>
 
-                <button class="mini-btn" data-share="${item.id}" aria-label="Share">
+                <button class="mini-btn" data-share="${escapeHTML(itemId)}" aria-label="Share">
                   ⤴
                 </button>
               </div>
@@ -1802,27 +1957,80 @@
       });
 
       emptyState.classList.toggle("show", filtered.length === 0);
+      emptyState.textContent = filtered.length === 0
+        ? "No discoveries found. Try a different keyword or category."
+        : "";
       viewMoreBtn.style.display = filtered.length > visibleCount ? "inline-flex" : "none";
     }
 
     function openArticle(id) {
-      const item = discoveries.find((discovery) => discovery.id === Number(id));
+      const item = discoveries.find((discovery) => {
+        const discoveryId = String(discovery.id || discovery.sourceUrl || discovery.title);
+        return discoveryId === String(id);
+      });
+
       if (!item) return;
 
-      modalImage.src = item.image;
-      modalImage.alt = item.title;
-      modalCategory.textContent = item.category;
-      modalTitle.textContent = item.title;
-      modalMeta.innerHTML = `
-        <span>${item.date}</span>
-        <span class="dot"></span>
-        <span>${item.readTime} min read</span>
-      `;
-      modalSummary.textContent = item.summary;
-      modalBody.textContent = item.body;
+      const sourceUrl = safeUrl(item.sourceUrl);
+      const sourceLabel = item.journal || item.sourceName || "Original research source";
+      const doi = item.doi ? `<div class="source-meta">DOI: ${escapeHTML(item.doi)}</div>` : "";
+      const pmid = item.pmid ? `<div class="source-meta">PMID: ${escapeHTML(item.pmid)}</div>` : "";
+      const authors = Array.isArray(item.authors) && item.authors.length
+        ? `<div class="source-meta">Authors: ${escapeHTML(item.authors.slice(0, 4).join(", "))}${item.authors.length > 4 ? " et al." : ""}</div>`
+        : "";
 
-      modalTakeaways.innerHTML = item.takeaways
-        .map((takeaway) => `<li>${takeaway}</li>`)
+      modalImage.src = getImageForArticle(item);
+      modalImage.alt = item.title || "Research article";
+      modalImage.onerror = function () {
+        handleImageError(this, item.category);
+      };
+
+      modalCategory.textContent = item.category || "Research";
+      modalTitle.textContent = item.title || "Untitled Research Discovery";
+      modalMeta.innerHTML = `
+        <span>${escapeHTML(getDisplayDate(item))}</span>
+        <span class="dot"></span>
+        <span>${getReadTime(item)} min read</span>
+      `;
+
+      modalSummary.textContent = item.summary || getBlurb(item);
+
+      modalBody.innerHTML = `
+        <div class="modal-section">
+          <strong>Why it matters:</strong><br>
+          ${escapeHTML(item.whyItMatters || "This research could help scientists better understand an important problem and may guide future studies.")}
+        </div>
+
+        <div class="modal-section">
+          <strong>Limitations:</strong><br>
+          ${escapeHTML(item.limitations || "More research is needed before applying this finding widely.")}
+        </div>
+
+        <div class="modal-section">
+          <strong>Source:</strong><br>
+          ${
+            sourceUrl
+              ? `<a class="source-link" href="${escapeHTML(sourceUrl)}" target="_blank" rel="noopener">${escapeHTML(sourceLabel)}</a>`
+              : `<span class="source-link">${escapeHTML(sourceLabel)}</span>`
+          }
+          ${authors}
+          ${pmid}
+          ${doi}
+        </div>
+      `;
+
+      const takeaways = Array.isArray(item.keyTakeaways)
+        ? item.keyTakeaways
+        : Array.isArray(item.takeaways)
+          ? item.takeaways
+          : [
+              "This article was selected because it connects to an important research trend.",
+              "The summary is simplified, so always check the original source for technical details.",
+              "Future studies will help confirm how broadly the finding applies."
+            ];
+
+      modalTakeaways.innerHTML = takeaways
+        .map((takeaway) => `<li>${escapeHTML(takeaway)}</li>`)
         .join("");
 
       modal.classList.add("show");
@@ -1837,13 +2045,13 @@
     }
 
     function toggleSave(id) {
-      const numericId = Number(id);
+      const itemId = String(id);
 
-      if (savedIds.includes(numericId)) {
-        savedIds = savedIds.filter((savedId) => savedId !== numericId);
+      if (savedIds.includes(itemId)) {
+        savedIds = savedIds.filter((savedId) => savedId !== itemId);
         showToast("Removed from saved discoveries.");
       } else {
-        savedIds.push(numericId);
+        savedIds.push(itemId);
         showToast("Saved to your discoveries.");
       }
 
@@ -1852,13 +2060,17 @@
     }
 
     async function shareArticle(id) {
-      const item = discoveries.find((discovery) => discovery.id === Number(id));
+      const item = discoveries.find((discovery) => {
+        const discoveryId = String(discovery.id || discovery.sourceUrl || discovery.title);
+        return discoveryId === String(id);
+      });
+
       if (!item) return;
 
       const shareData = {
-        title: item.title,
-        text: item.excerpt,
-        url: window.location.href
+        title: item.title || "Research Unwrapped",
+        text: getBlurb(item),
+        url: safeUrl(item.sourceUrl) || window.location.href
       };
 
       if (navigator.share) {
@@ -1868,7 +2080,7 @@
           return;
         }
       } else {
-        await navigator.clipboard.writeText(`${item.title} - ${window.location.href}`);
+        await navigator.clipboard.writeText(`${shareData.title} - ${shareData.url}`);
         showToast("Link copied to clipboard.");
       }
     }
@@ -1947,7 +2159,7 @@
       event.preventDefault();
 
       const email = emailInput.value.trim();
-      const valid = /^[^\\s@]+@[^\\s@]+\\.[^\\s@]+$/.test(email);
+      const valid = /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
 
       if (!valid) {
         showToast("Please enter a valid email address.");
@@ -2027,7 +2239,7 @@
       revealObserver.observe(element);
     });
 
-    renderCards();
+    loadDiscoveries();
   </script>
 </body>
 </html>
