@@ -1,252 +1,317 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Axon | Research for Everyone</title>
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: Arial, sans-serif;
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Research Unwrapped</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+<style>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background: #f5f7fb;
+    color: #111827;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px 8%;
+    background: #020817;
+    color: white;
+}
+
+.logo {
+    font-size: 1.6rem;
+    font-weight: 800;
+}
+
+.logo span {
+    color: #5b8cff;
+}
+
+.nav-links a {
+    color: white;
+    margin-left: 28px;
+    font-weight: 500;
+}
+
+.hero {
+    background:
+        linear-gradient(rgba(2,8,23,0.75), rgba(2,8,23,0.85)),
+        url('images/hero-bg.jpg') center/cover;
+    color: white;
+    padding: 90px 8%;
+}
+
+.hero-content {
+    max-width: 700px;
+}
+
+.hero h1 {
+    font-size: 4rem;
+    line-height: 1.1;
+    margin-bottom: 20px;
+}
+
+.hero h1 span {
+    color: #5b8cff;
+}
+
+.hero p {
+    font-size: 1.1rem;
+    line-height: 1.7;
+    color: #d1d5db;
+}
+
+.hero-buttons {
+    margin-top: 30px;
+}
+
+.btn {
+    padding: 14px 28px;
+    border-radius: 14px;
+    border: none;
+    cursor: pointer;
+    font-weight: 600;
+    margin-right: 15px;
+}
+
+.btn-primary {
+    background: linear-gradient(90deg, #2563eb, #7c3aed);
+    color: white;
+}
+
+.btn-secondary {
+    background: transparent;
+    color: white;
+    border: 1px solid #64748b;
+}
+
+.search-container {
+    margin-top: 40px;
+}
+
+.search-bar {
+    width: 100%;
+    padding: 18px;
+    border-radius: 16px;
+    border: none;
+    font-size: 1rem;
+}
+
+.section {
+    padding: 60px 8%;
+}
+
+.categories {
+    display: flex;
+    gap: 14px;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+}
+
+.category {
+    background: white;
+    padding: 12px 20px;
+    border-radius: 999px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.category:hover {
+    background: #2563eb;
+    color: white;
+}
+
+.section-title {
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 24px;
+}
+
+.card {
+    background: white;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.08);
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-6px);
+}
+
+.card img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+}
+
+.card-content {
+    padding: 24px;
+}
+
+.tag {
+    display: inline-block;
+    background: #dbeafe;
+    color: #2563eb;
+    padding: 6px 12px;
+    border-radius: 999px;
+    font-size: 0.8rem;
+    margin-bottom: 14px;
+}
+
+.card h3 {
+    margin-bottom: 14px;
+    font-size: 1.2rem;
+}
+
+.card p {
+    color: #4b5563;
+    line-height: 1.6;
+}
+
+.newsletter {
+    background: linear-gradient(135deg, #020817, #172554);
+    color: white;
+    margin: 60px 8%;
+    border-radius: 28px;
+    padding: 50px;
+    text-align: center;
+}
+
+.newsletter h2 {
+    font-size: 2rem;
+    margin-bottom: 16px;
+}
+
+.newsletter input {
+    margin-top: 20px;
+    padding: 16px;
+    width: 60%;
+    border-radius: 12px;
+    border: none;
+}
+
+footer {
+    background: #020817;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    margin-top: 60px;
+}
+
+@media (max-width: 768px) {
+    .hero h1 {
+        font-size: 2.5rem;
     }
 
-    body {
-      background: #f5f7fa;
-      color: #111;
-    }
-
-    header {
-      background: linear-gradient(135deg, #1e3c72, #2a5298);
-      color: white;
-      padding: 40px 10%;
-    }
-
-    nav {
-      display: flex;
-      justify-content: space-between;
-      margin-bottom: 40px;
-    }
-
-    nav h1 {
-      font-size: 2rem;
-    }
-
-    .hero {
-      text-align: center;
-      padding: 40px 0;
-    }
-
-    .hero h2 {
-      font-size: 2.5rem;
-      margin-bottom: 20px;
-    }
-
-    .hero p {
-      font-size: 1.1rem;
-      max-width: 700px;
-      margin: auto;
-      line-height: 1.6;
-    }
-
-    .search-section {
-      padding: 40px 10%;
-      text-align: center;
-    }
-
-    .search-section input {
-      width: 60%;
-      max-width: 500px;
-      padding: 12px;
-      border-radius: 12px;
-      border: 1px solid #ccc;
-      margin-bottom: 20px;
-      font-size: 1rem;
-    }
-
-    .topics {
-      display: flex;
-      justify-content: center;
-      gap: 15px;
-      flex-wrap: wrap;
-      margin-top: 20px;
-    }
-
-    .topic-btn {
-      padding: 10px 20px;
-      border-radius: 25px;
-      border: none;
-      background: #ddd;
-      cursor: pointer;
-      transition: 0.3s;
-    }
-
-    .topic-btn:hover {
-      background: #2a5298;
-      color: white;
-    }
-
-    .research-feed {
-      padding: 40px 10%;
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-      gap: 25px;
-    }
-
-    .card {
-      background: white;
-      padding: 24px;
-      border-radius: 18px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-      transition: transform 0.2s;
-    }
-
-    .card:hover {
-      transform: translateY(-4px);
-    }
-
-    .tag {
-      display: inline-block;
-      background: #e8f0ff;
-      color: #2a5298;
-      padding: 6px 12px;
-      border-radius: 15px;
-      margin-bottom: 12px;
-      font-size: 0.85rem;
-    }
-
-    .card h3 {
-      margin-bottom: 12px;
-      font-size: 1.2rem;
-    }
-
-    .card p {
-      line-height: 1.6;
-      margin-bottom: 12px;
-      color: #444;
-    }
-
-    .impact {
-      font-weight: bold;
-      color: #1e3c72;
-    }
-
-    footer {
-      background: #111;
-      color: white;
-      text-align: center;
-      padding: 30px;
-      margin-top: 50px;
-    }
-
-    @media (max-width: 768px) {
-      .search-section input {
+    .newsletter input {
         width: 100%;
-      }
-
-      .hero h2 {
-        font-size: 2rem;
-      }
     }
-  </style>
+
+    .nav-links {
+        display: none;
+    }
+}
+</style>
 </head>
 <body>
 
-<header>
-  <nav>
-    <h1>Axon</h1>
-    <p>Research for Everyone</p>
-  </nav>
+<nav>
+    <div class="logo">Research <span>Unwrapped</span></div>
+    <div class="nav-links">
+        <a href="#">Home</a>
+        <a href="#">Explore</a>
+        <a href="#">Categories</a>
+        <a href="#">About</a>
+    </div>
+</nav>
 
-  <div class="hero">
-    <h2>Making Research Accessible.</h2>
-    <p>
-      Scientific research is often hidden behind technical jargon and paywalls.
-      Axon translates new discoveries into easy-to-understand summaries so anyone can stay informed.
-    </p>
-  </div>
-</header>
+<section class="hero">
+    <div class="hero-content">
+        <h1>Breaking research. <span>Made simple.</span></h1>
+        <p>We translate complex scientific discoveries into bite-sized insights anyone can understand.</p>
 
-<section class="search-section">
-  <input type="text" id="searchInput" placeholder="Search research topics...">
+        <div class="hero-buttons">
+            <button class="btn btn-primary">Explore Research</button>
+            <button class="btn btn-secondary">How It Works</button>
+        </div>
 
-  <div class="topics">
-    <button class="topic-btn" onclick="filterTopic('All')">All</button>
-    <button class="topic-btn" onclick="filterTopic('Neuroscience')">Neuroscience</button>
-    <button class="topic-btn" onclick="filterTopic('Biomedical Engineering')">Biomedical Engineering</button>
-    <button class="topic-btn" onclick="filterTopic('AI')">AI</button>
-  </div>
+        <div class="search-container">
+            <input class="search-bar" placeholder="Search research topics...">
+        </div>
+    </div>
 </section>
 
-<section class="research-feed" id="feed">
+<section class="section">
+    <div class="categories">
+        <div class="category">Neuroscience</div>
+        <div class="category">Biomedical Engineering</div>
+        <div class="category">AI</div>
+        <div class="category">Genetics</div>
+    </div>
+
+    <h2 class="section-title">Latest Discoveries</h2>
+
+    <div class="cards">
+        <div class="card">
+            <img src="images/neuro.jpg">
+            <div class="card-content">
+                <div class="tag">Neuroscience</div>
+                <h3>New Brain Implant Restores Speech</h3>
+                <p>Researchers developed a brain implant that helps paralyzed patients communicate.</p>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="images/prosthetic.jpg">
+            <div class="card-content">
+                <div class="tag">Biomedical Engineering</div>
+                <h3>EEG Prosthetic Hand Breakthrough</h3>
+                <p>New AI decoding improves prosthetic hand responsiveness significantly.</p>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="images/genetics.jpg">
+            <div class="card-content">
+                <div class="tag">Genetics</div>
+                <h3>Gene Variant Linked to Alzheimer’s Resistance</h3>
+                <p>Scientists identified a gene variant associated with protection against Alzheimer’s.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="newsletter">
+    <h2>Stay in the loop.</h2>
+    <p>Get weekly research discoveries delivered to your inbox.</p>
+    <input type="email" placeholder="Enter your email">
 </section>
 
 <footer>
-  <p>© 2026 Axon | Bridging Science and Accessibility</p>
+    © 2026 Research Unwrapped
 </footer>
-
-<script>
-const researchPosts = [
-  {
-    topic: "Neuroscience",
-    title: "New Brain Implant Restores Speech",
-    summary: "Researchers developed a brain implant that helps paralyzed patients communicate using neural signals.",
-    impact: "This could revolutionize communication for patients with severe paralysis."
-  },
-  {
-    topic: "Biomedical Engineering",
-    title: "EEG Prosthetic Hand Breakthrough",
-    summary: "A new EEG system improved prosthetic hand movement accuracy by 37%.",
-    impact: "This may improve quality of life for amputees."
-  },
-  {
-    topic: "AI",
-    title: "AI Predicts Cancer Earlier",
-    summary: "Researchers trained AI to detect cancer markers earlier than traditional methods.",
-    impact: "Earlier detection could significantly improve treatment outcomes."
-  }
-];
-
-function renderPosts(posts) {
-  const feed = document.getElementById("feed");
-  feed.innerHTML = "";
-
-  posts.forEach(post => {
-    feed.innerHTML += `
-      <div class="card">
-        <div class="tag">${post.topic}</div>
-        <h3>${post.title}</h3>
-        <p>${post.summary}</p>
-        <p class="impact">Why it matters: ${post.impact}</p>
-      </div>
-    `;
-  });
-}
-
-function filterTopic(topic) {
-  if (topic === "All") {
-    renderPosts(researchPosts);
-    return;
-  }
-
-  const filtered = researchPosts.filter(post => post.topic === topic);
-  renderPosts(filtered);
-}
-
-document.getElementById("searchInput").addEventListener("input", function() {
-  const value = this.value.toLowerCase();
-
-  const filtered = researchPosts.filter(post =>
-    post.title.toLowerCase().includes(value) ||
-    post.topic.toLowerCase().includes(value)
-  );
-
-  renderPosts(filtered);
-});
-
-renderPosts(researchPosts);
-</script>
 
 </body>
 </html>
