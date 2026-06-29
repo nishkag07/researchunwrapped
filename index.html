@@ -1916,7 +1916,7 @@
           <div class="card-img">
             <img
               src="${escapeHTML(image)}"
-              alt="${escapeHTML(item.title || "Research article")}"
+              alt="${escapeHTML(item.imageAltText || item.title || "Research article")}"
               onerror="this.onerror=null; this.src='${IMAGE_FALLBACKS[item.category] || IMAGE_FALLBACKS.All}';"
             >
           </div>
@@ -1980,7 +1980,7 @@
         : "";
 
       modalImage.src = getImageForArticle(item);
-      modalImage.alt = item.title || "Research article";
+      modalImage.alt = item.imageAltText || item.title || "Research article";
       modalImage.onerror = function () {
         handleImageError(this, item.category);
       };
