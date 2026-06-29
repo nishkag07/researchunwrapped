@@ -109,25 +109,40 @@ ARTICLE_SCHEMA: Dict[str, Any] = {
     "type": "object",
     "additionalProperties": False,
     "required": [
-        "blurb", "summary", "deepDive", "whyItMatters", "keyTakeaways",
-        "limitations", "scientificTerms", "difficulty", "readTime"
+        "simpleTitle",
+        "blurb",
+        "summary",
+        "deepDive",
+        "whyItMatters",
+        "keyTakeaways",
+        "limitations",
+        "scientificTerms",
+        "difficulty",
+        "readTime",
+        "imageSearchQuery",
+        "imageAltText",
+        "imageCaption"
     ],
     "properties": {
+        "simpleTitle": {
+            "type": "string",
+            "description": "A short, clear title under 10 words. Easy for a general reader to understand. Do not copy the academic paper title unless it is already simple."
+        },
         "blurb": {
             "type": "string",
-            "description": "One catchy but accurate sentence for the card. No hype."
+            "description": "Two short sentences maximum for the card. Plain English. Explain what the study found."
         },
         "summary": {
             "type": "string",
-            "description": "A student-friendly 2-4 sentence summary."
+            "description": "A friendly 3-4 sentence summary for students and general readers."
         },
         "deepDive": {
             "type": "string",
-            "description": "A more difficult explanation that teaches the actual science in 2-3 short paragraphs."
+            "description": "A more detailed explanation that teaches the real science in 2-3 short paragraphs. Explain hard concepts clearly."
         },
         "whyItMatters": {
             "type": "string",
-            "description": "Why a curious student or reader should care."
+            "description": "One clear sentence explaining the general implication: why this matters for people, health, medicine, technology, environment, or science."
         },
         "keyTakeaways": {
             "type": "array",
@@ -137,7 +152,7 @@ ARTICLE_SCHEMA: Dict[str, Any] = {
         },
         "limitations": {
             "type": "string",
-            "description": "Cautious note explaining what the article does not prove yet."
+            "description": "What the study does not prove yet. Keep this careful and honest."
         },
         "scientificTerms": {
             "type": "array",
@@ -149,7 +164,10 @@ ARTICLE_SCHEMA: Dict[str, Any] = {
                 "required": ["term", "explanation"],
                 "properties": {
                     "term": {"type": "string"},
-                    "explanation": {"type": "string"}
+                    "explanation": {
+                        "type": "string",
+                        "description": "Simple definition for someone new to science."
+                    }
                 }
             }
         },
@@ -161,10 +179,21 @@ ARTICLE_SCHEMA: Dict[str, Any] = {
             "type": "integer",
             "minimum": 2,
             "maximum": 8
+        },
+        "imageSearchQuery": {
+            "type": "string",
+            "description": "A specific image search phrase that visually matches the article topic."
+        },
+        "imageAltText": {
+            "type": "string",
+            "description": "Accessible alt text for the article image."
+        },
+        "imageCaption": {
+            "type": "string",
+            "description": "One short caption explaining how the image connects to the research."
         }
     }
 }
-
 
 def log(message: str) -> None:
     print(f"[ResearchUnwrapped] {message}", flush=True)
@@ -318,22 +347,47 @@ def summarize_with_openai(raw: Dict[str, Any]) -> Dict[str, Any]:
 
     client = OpenAI(api_key=OPENAI_API_KEY)
     prompt = f"""
-You are writing for Research Unwrapped, a student-friendly research discovery website.
+You are creating science article cards for Research Unwrapped, a public research website.
 
 Audience:
-- Curious high school and college students.
-- They want simple summaries, but they also want real science and difficult terms explained.
+- Curious high school students
+- College students
+- Parents
+- Non-scientists
+- Readers who want research explained clearly without losing the real science
 
-Rules:
+Your job:
+Make serious research feel understandable, interesting, and useful without making it childish or inaccurate.
+
+Very important rules:
 - Use ONLY the article metadata and abstract below.
-- Do not exaggerate. Do not imply medical advice.
-- Mention uncertainty and limitations clearly.
-- Make the blurb engaging but accurate.
-- The deepDive should teach the science behind the paper, not just repeat the abstract.
+- Do NOT exaggerate.
+- Do NOT imply medical advice.
+- Do NOT call something a cure, breakthrough, or proven unless the article clearly proves that.
+- Do NOT copy the original scientific title if it is too technical.
+- Create a short, clear simpleTitle under 10 words.
+- The simpleTitle should sound like science news, not like a journal article.
+- The blurb should be easy to read on a website card.
+- The whyItMatters field should explain the general implication in everyday language.
+- The deepDive should teach the actual science, but in short readable paragraphs.
 - Explain 3-6 scientific terms that appear in or are directly relevant to the article.
+- Be honest about limitations.
+- If the article is difficult, mark it Advanced, but still explain it clearly.
+
+Image guidance:
+- Choose an image concept that directly matches the research.
+- Do not use generic lab photos unless the article is broadly about lab research.
+- If the article is about the brain, use brain/neuron imagery.
+- If it is about cancer, use cells, tumors, immune cells, or treatment imagery.
+- If it is about genetics, use DNA, gene editing, sequencing, or chromosomes.
+- If it is about AI, use data, models, code, or AI-assisted science visuals.
+- If it is about environment, use the specific ecosystem, pollutant, organism, or climate issue.
+- imageSearchQuery should be specific enough to find a relevant image.
+- imageAltText should help screen readers understand the image.
+- imageCaption should explain why the image belongs with the article.
 
 Article metadata:
-Title: {raw['title']}
+Original title: {raw['title']}
 Category: {raw['category']}
 Journal: {raw.get('journal', '')}
 Authors: {', '.join(raw.get('authors', [])[:6])}
@@ -484,7 +538,8 @@ def assemble_article(raw: Dict[str, Any], summary: Dict[str, Any]) -> Dict[str, 
 
     return {
         "id": article_id,
-        "title": raw["title"],
+        "title": clean_text(summary.get("simpleTitle")) or raw["title"],
+        "originalTitle": raw["title"],
         "category": raw["category"],
         "date": raw["dateISO"],
         "dateISO": raw["dateISO"],
@@ -492,6 +547,9 @@ def assemble_article(raw: Dict[str, Any], summary: Dict[str, Any]) -> Dict[str, 
         "readTime": summary.get("readTime", 4),
         "difficulty": summary.get("difficulty", "Intermediate"),
         "image": raw["image"],
+        "imageSearchQuery": clean_text(summary.get("imageSearchQuery")),
+        "imageAltText": clean_text(summary.get("imageAltText")),
+        "imageCaption": clean_text(summary.get("imageCaption")),
         "blurb": clean_text(summary.get("blurb")),
         "excerpt": clean_text(summary.get("blurb")),
         "summary": clean_text(summary.get("summary")),
