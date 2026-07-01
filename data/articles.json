@@ -1,5 +1,220 @@
 [
   {
+    "id": "biomedical-engineering-995f0fd09b",
+    "title": "Biomaterial-Focused Strategies Targeting Dendritic Cells for Autoimmune Disease Treatment.",
+    "originalTitle": "Biomaterial-Focused Strategies Targeting Dendritic Cells for Autoimmune Disease Treatment.",
+    "category": "Biomedical Engineering",
+    "date": "2026-07-01",
+    "dateISO": "2026-07-01",
+    "displayDate": "Jul 1, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/prosthetic.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Autoimmune diseases encompass over 100 distinct diseases where the immune cells betray our body by attacking the tissues they are meant to protect.",
+    "excerpt": "Autoimmune diseases encompass over 100 distinct diseases where the immune cells betray our body by attacking the tissues they are meant to protect.",
+    "summary": "This recent study explores biomaterial-focused strategies targeting dendritic cells for autoimmune disease treatment.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Autoimmune diseases encompass over 100 distinct diseases where the immune cells betray our body by attacking the tissues they are meant to protect. Even though rare, 15 million Americans are collectively affected by autoimmune diseases, a number that continues to rise every year. Current treatment modalities primarily focus on alleviating symptoms rather than providing prevention or a cure. Tolerogenic dendritic cells (tolDCs) have gained popularity for autoimmune disease treatment as an alternative to traditional systemic immunosuppressive therapies due to their ability to restore immune homeostasis. However, clinical translation of tolDC therapies faces significant hurdles once injected into the body due to suboptimal delivery routes, systemic distribution throughout the body, faster clearance rate, phenotypic instability, and inefficient homing. So, the big question here is: How can we retrain dendritic cells to restore the immune balance while overcoming these challenges? Engineered biomaterials such as nanoparticles, microparticles, hydrogels, and polymer scaffolds offer innovative solutions by enabling targeted delivery of ex vivo-generated tolDCs or in situ reprogramming of…",
+    "body": "Autoimmune diseases encompass over 100 distinct diseases where the immune cells betray our body by attacking the tissues they are meant to protect. Even though rare, 15 million Americans are collectively affected by autoimmune diseases, a number that continues to rise every year. Current treatment modalities primarily focus on alleviating symptoms rather than providing prevention or a cure. Tolerogenic dendritic cells (tolDCs) have gained popularity for autoimmune disease treatment as an alternative to traditional systemic immunosuppressive therapies due to their ability to restore immune homeostasis. However, clinical translation of tolDC therapies faces significant hurdles once injected into the body due to suboptimal delivery routes, systemic distribution throughout the body, faster clearance rate, phenotypic instability, and inefficient homing. So, the big question here is: How can we retrain dendritic cells to restore the immune balance while overcoming these challenges? Engineered biomaterials such as nanoparticles, microparticles, hydrogels, and polymer scaffolds offer innovative solutions by enabling targeted delivery of ex vivo-generated tolDCs or in situ reprogramming of…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Venkata Suresh Kumar A",
+      "Babensee J."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42333747/",
+    "doi": "10.1002/jbm.a.70107",
+    "pmid": "42333747"
+  },
+  {
+    "id": "environment-9c52e07b9b",
+    "title": "Bayesian Analysis of Postoperative Complication Risk Associated With Preoperative Exposure to Fine Particulate Matter: A Single-Center Cohort Study.",
+    "originalTitle": "Bayesian Analysis of Postoperative Complication Risk Associated With Preoperative Exposure to Fine Particulate Matter: A Single-Center Cohort Study.",
+    "category": "Environment",
+    "date": "2026-07-01",
+    "dateISO": "2026-07-01",
+    "displayDate": "Jul 1, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Background Air pollution, especially particle pollution, is increasingly recognized as a potential perioperative risk factor, yet modeling environmental exposures in surgical cohorts remains methodologically underdevelop…",
+    "excerpt": "Background Air pollution, especially particle pollution, is increasingly recognized as a potential perioperative risk factor, yet modeling environmental exposures in surgical cohorts remains methodologically underdevelop…",
+    "summary": "This recent study explores bayesian analysis of postoperative complication risk associated with preoperative exposure to fine particulate matter: a single-center cohort study.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Background Air pollution, especially particle pollution, is increasingly recognized as a potential perioperative risk factor, yet modeling environmental exposures in surgical cohorts remains methodologically underdeveloped. We demonstrate a Bayesian hierarchical framework to quantify probabilistic associations between preoperative fine particulate matter (PM 2.5 ) exposure and postoperative complications, highlighting its interpretability and flexibility for clinical environmental epidemiology. Methods We conducted a single center, retrospective cohort study using data from 49,615 surgical patients in Utah who underwent elective surgical procedures from 2016 to 2018. Patients' addresses were geocoded and linked to daily Census-tract level PM 2.5 estimates. The exposure variable was defined as the maximum PM 2.5 concentrations in the 7 days prior to surgery. The binary outcome was a composite of postoperative complications: pneumonia, surgical site infection, urinary tract infection, sepsis, stroke, myocardial infarction, or thromboembolic event. A hierarchical Bayesians regression model with weakly informative priors was used adjusting for age, sex, season, neighborhood disadvantag…",
+    "body": "Background Air pollution, especially particle pollution, is increasingly recognized as a potential perioperative risk factor, yet modeling environmental exposures in surgical cohorts remains methodologically underdeveloped. We demonstrate a Bayesian hierarchical framework to quantify probabilistic associations between preoperative fine particulate matter (PM 2.5 ) exposure and postoperative complications, highlighting its interpretability and flexibility for clinical environmental epidemiology. Methods We conducted a single center, retrospective cohort study using data from 49,615 surgical patients in Utah who underwent elective surgical procedures from 2016 to 2018. Patients' addresses were geocoded and linked to daily Census-tract level PM 2.5 estimates. The exposure variable was defined as the maximum PM 2.5 concentrations in the 7 days prior to surgery. The binary outcome was a composite of postoperative complications: pneumonia, surgical site infection, urinary tract infection, sepsis, stroke, myocardial infarction, or thromboembolic event. A hierarchical Bayesians regression model with weakly informative priors was used adjusting for age, sex, season, neighborhood disadvantag…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Pearson JF",
+      "Jacobson CK",
+      "Riss CS",
+      "Strickland MJ",
+      "Lee L",
+      "Wan N",
+      "Benney TM",
+      "Pace NL"
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42036603/",
+    "doi": "10.1111/aas.70235",
+    "pmid": "42036603"
+  },
+  {
+    "id": "environment-b364f2be20",
+    "title": "Towards a Sustainable Future: Embedding Planetary Health in Allied Health Professional Education Through the Lens of Indigenous Knowledges.",
+    "originalTitle": "Towards a Sustainable Future: Embedding Planetary Health in Allied Health Professional Education Through the Lens of Indigenous Knowledges.",
+    "category": "Environment",
+    "date": "2026-07-01",
+    "dateISO": "2026-07-01",
+    "displayDate": "Jul 1, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Planetary health is increasingly recognised as an essential aspect of health professional education, yet its integration within allied health curricula in Australia remains fragmented.",
+    "excerpt": "Planetary health is increasingly recognised as an essential aspect of health professional education, yet its integration within allied health curricula in Australia remains fragmented.",
+    "summary": "This recent study explores towards a sustainable future: embedding planetary health in allied health professional education through the lens of indigenous knowledges.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Planetary health is increasingly recognised as an essential aspect of health professional education, yet its integration within allied health curricula in Australia remains fragmented. This commentary argues that meaningful and sustainable embedding of planetary health requires explicit engagement with Indigenous knowledges. Expanding curricula beyond Western views to include Indigenous eco-centric worldviews enables a deeper understanding of the interconnections between environmental health, human wellbeing and spiritual identity. We reflect on the influential role of accreditation standards in shaping educational priorities, highlighting the leadership demonstrated by medical and nursing professions and the relative absence of coordinated action across allied health in the context of planetary health. We propose the Aboriginal and Torres Strait Islander Health Curriculum Framework as a culturally grounded lens through which planetary health education can be advanced within allied health education. Aligning planetary health capabilities with the Framework's five interconnected cultural capabilities offers a practical and transformative pathway to develop culturally capable graduat…",
+    "body": "Planetary health is increasingly recognised as an essential aspect of health professional education, yet its integration within allied health curricula in Australia remains fragmented. This commentary argues that meaningful and sustainable embedding of planetary health requires explicit engagement with Indigenous knowledges. Expanding curricula beyond Western views to include Indigenous eco-centric worldviews enables a deeper understanding of the interconnections between environmental health, human wellbeing and spiritual identity. We reflect on the influential role of accreditation standards in shaping educational priorities, highlighting the leadership demonstrated by medical and nursing professions and the relative absence of coordinated action across allied health in the context of planetary health. We propose the Aboriginal and Torres Strait Islander Health Curriculum Framework as a culturally grounded lens through which planetary health education can be advanced within allied health education. Aligning planetary health capabilities with the Framework's five interconnected cultural capabilities offers a practical and transformative pathway to develop culturally capable graduat…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "pathway",
+        "explanation": "A chain of molecular events inside cells that produces a biological effect."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "McPherson K",
+      "Barradell S",
+      "Li K",
+      "Watkins M",
+      "Phillips A."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42082163/",
+    "doi": "10.1002/hpja.70195",
+    "pmid": "42082163"
+  },
+  {
+    "id": "environment-f08777c7ca",
+    "title": "[Green paper ANMCO: Environmental sustainability in cardiology: a shared commitment of healthcare professionals].",
+    "originalTitle": "[Green paper ANMCO: Environmental sustainability in cardiology: a shared commitment of healthcare professionals].",
+    "category": "Environment",
+    "date": "2026-07-01",
+    "dateISO": "2026-07-01",
+    "displayDate": "Jul 1, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Environmental sustainability represents an emerging priority for cardiology, owing to the close interconnection between planetary health and human health, with cardiovascular diseases constituting the main clinical outco…",
+    "excerpt": "Environmental sustainability represents an emerging priority for cardiology, owing to the close interconnection between planetary health and human health, with cardiovascular diseases constituting the main clinical outco…",
+    "summary": "This recent study explores [green paper anmco: environmental sustainability in cardiology: a shared commitment of healthcare professionals].. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Environmental sustainability represents an emerging priority for cardiology, owing to the close interconnection between planetary health and human health, with cardiovascular diseases constituting the main clinical outcome. The global healthcare sector accounts for approximately 4-5% of total greenhouse gas emissions, and cardiology contributes substantially to this burden because of its high resource intensity in diagnostic testing, interventional procedures, and energy consumption. At the same time, environmental factors such as air pollution, extreme temperatures, defined as values significantly above or below the regional average caused by climate change, and exposure to emerging contaminants, including heavy metals (lead, cadmium, arsenic) and micro- and nanoplastics are increasingly recognized as major determinants of cardiovascular risk. Chronic exposure to these pollutants is associated with oxidative stress, systemic inflammation, and accelerated progression of atherosclerosis. Strategies for sustainable cardiology primarily aim to reduce emissions related to energy use and supply chains. Priority actions include adopting circular economy principles (reduce, reuse, recycle…",
+    "body": "Environmental sustainability represents an emerging priority for cardiology, owing to the close interconnection between planetary health and human health, with cardiovascular diseases constituting the main clinical outcome. The global healthcare sector accounts for approximately 4-5% of total greenhouse gas emissions, and cardiology contributes substantially to this burden because of its high resource intensity in diagnostic testing, interventional procedures, and energy consumption. At the same time, environmental factors such as air pollution, extreme temperatures, defined as values significantly above or below the regional average caused by climate change, and exposure to emerging contaminants, including heavy metals (lead, cadmium, arsenic) and micro- and nanoplastics are increasingly recognized as major determinants of cardiovascular risk. Chronic exposure to these pollutants is associated with oxidative stress, systemic inflammation, and accelerated progression of atherosclerosis. Strategies for sustainable cardiology primarily aim to reduce emissions related to energy use and supply chains. Priority actions include adopting circular economy principles (reduce, reuse, recycle…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "inflammation",
+        "explanation": "The immune system’s response to injury, infection, or stress, which can help healing but also cause harm if uncontrolled."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Giubilato S",
+      "Di Fusco SA",
+      "Cappannelli S",
+      "Gil Ad V",
+      "Rossini R",
+      "Doimo S",
+      "Della Bona R",
+      "Sorini-Dini C"
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42345057/",
+    "doi": "10.1714/4722.47390",
+    "pmid": "42345057"
+  },
+  {
     "id": "environment-e937fb5315",
     "title": "Revealing DNA damage levels in rat testicular germ cells in vivo using an adapted version of the alkaline comet assay.",
     "originalTitle": "Revealing DNA damage levels in rat testicular germ cells in vivo using an adapted version of the alkaline comet assay.",
@@ -536,55 +751,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42340977/",
     "doi": "10.1371/journal.ppat.1014331",
     "pmid": "42340977"
-  },
-  {
-    "id": "environment-610b6e6356",
-    "title": "Beyond Warming: The Sustainability Challenge of Climate, Pollution & Disease, Water, and Justice in the Anthropocene",
-    "originalTitle": "Beyond Warming: The Sustainability Challenge of Climate, Pollution & Disease, Water, and Justice in the Anthropocene",
-    "category": "Environment",
-    "date": "2026-06-24",
-    "dateISO": "2026-06-24",
-    "displayDate": "Jun 24, 2026",
-    "readTime": 3,
-    "difficulty": "Beginner",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "This review argues that the sustainability challenge of the Anthropocene extends beyond climate warming to encompass interacting crises of water disruption, biodiversity loss, pollution, disease, inequality, and governan…",
-    "excerpt": "This review argues that the sustainability challenge of the Anthropocene extends beyond climate warming to encompass interacting crises of water disruption, biodiversity loss, pollution, disease, inequality, and governan…",
-    "summary": "This recent study explores beyond warming: the sustainability challenge of climate, pollution & disease, water, and justice in the anthropocene. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "This review argues that the sustainability challenge of the Anthropocene extends beyond climate warming to encompass interacting crises of water disruption, biodiversity loss, pollution, disease, inequality, and governance failure. Building on the Earth at Risk framework, we synthesize recent evidence that global warming is accelerating, marine heatwaves are restructuring ocean ecosystems, terrestrial carbon sinks are weakening, and the hydrological cycle is being destabilized by continental drying, groundwater depletion, and intensifying precipitation extremes. These physical changes increasingly intersect with public health risks, including heat-amplified air pollution, expanding vector- and waterborne disease, microplastic contamination, and degraded ecosystem services that once buffered pollution and pathogens. We emphasize that vulnerability is not determined by exposure alone, but by unequal access to infrastructure, wealth, governance capacity, and political power. The review identifies a widening gap between scientific knowledge and institutional response, arguing that fragmented governance and growth-dependent economic systems remain poorly suited to cascading Earth-system…",
-    "body": "This review argues that the sustainability challenge of the Anthropocene extends beyond climate warming to encompass interacting crises of water disruption, biodiversity loss, pollution, disease, inequality, and governance failure. Building on the Earth at Risk framework, we synthesize recent evidence that global warming is accelerating, marine heatwaves are restructuring ocean ecosystems, terrestrial carbon sinks are weakening, and the hydrological cycle is being destabilized by continental drying, groundwater depletion, and intensifying precipitation extremes. These physical changes increasingly intersect with public health risks, including heat-amplified air pollution, expanding vector- and waterborne disease, microplastic contamination, and degraded ecosystem services that once buffered pollution and pathogens. We emphasize that vulnerability is not determined by exposure alone, but by unequal access to infrastructure, wealth, governance capacity, and political power. The review identifies a widening gap between scientific knowledge and institutional response, arguing that fragmented governance and growth-dependent economic systems remain poorly suited to cascading Earth-system…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "DOI",
-    "journal": "{'publisher': 'Preprints.org', 'yearOfPublication': 2026}",
-    "authors": [
-      "Fletcher C."
-    ],
-    "sourceUrl": "https://doi.org/10.20944/preprints202606.1757.v1",
-    "doi": "10.20944/preprints202606.1757.v1",
-    "pmid": ""
   },
   {
     "id": "neuroscience-2d7514f3e9",
@@ -1177,62 +1343,6 @@
     "pmid": "42323703"
   },
   {
-    "id": "nutrition-dd5e05f47a",
-    "title": "Dietary index for gut microbiota, plasma metabolome, and risks of metabolic dysfunction-associated steatotic liver disease and other chronic liver diseases.",
-    "originalTitle": "Dietary index for gut microbiota, plasma metabolome, and risks of metabolic dysfunction-associated steatotic liver disease and other chronic liver diseases.",
-    "category": "Nutrition",
-    "date": "2026-06-19",
-    "dateISO": "2026-06-19",
-    "displayDate": "Jun 19, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Background The dietary index for gut microbiota (DI-GM) is a newly proposed metric for assessing diet quality linked to gut microbiota.",
-    "excerpt": "Background The dietary index for gut microbiota (DI-GM) is a newly proposed metric for assessing diet quality linked to gut microbiota.",
-    "summary": "This recent study explores dietary index for gut microbiota, plasma metabolome, and risks of metabolic dysfunction-associated steatotic liver disease and other chronic liver diseases.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Background The dietary index for gut microbiota (DI-GM) is a newly proposed metric for assessing diet quality linked to gut microbiota. However, prospective evidence is scarce on the associations between DI-GM and adverse liver outcomes. Methods The DI-GM was calculated by averaging the intakes of 12 foods and nutrients. Elastic net regression was performed to identify metabolites associated with DI-GM and metabolic signature reflecting higher adherence to DI-GM was constructed. Cox proportional hazards regression and mediation analyses were employed to explore the potential associations and mechanisms. Results This prospective cohort study included 168,456 participants from the UK Biobank. Compared to participants with DI-GM scores of 0-3, those scoring ≥ 6 presented 22% lower risk of MASLD (HR = 0.78, 95% CI = 0.68-0.90). Metabolic signature for DI-GM and dietary index beneficial to gut microbiota (BDI-GM) were also inversely correlated with MASLD. Similar inverse correlations between DI-GM and BDI-GM and the risks of other chronic liver diseases were identified. Furthermore, phenotypic age, body mass index, metabolic score, inflammatory score, and metabolic signature significant…",
-    "body": "Background The dietary index for gut microbiota (DI-GM) is a newly proposed metric for assessing diet quality linked to gut microbiota. However, prospective evidence is scarce on the associations between DI-GM and adverse liver outcomes. Methods The DI-GM was calculated by averaging the intakes of 12 foods and nutrients. Elastic net regression was performed to identify metabolites associated with DI-GM and metabolic signature reflecting higher adherence to DI-GM was constructed. Cox proportional hazards regression and mediation analyses were employed to explore the potential associations and mechanisms. Results This prospective cohort study included 168,456 participants from the UK Biobank. Compared to participants with DI-GM scores of 0-3, those scoring ≥ 6 presented 22% lower risk of MASLD (HR = 0.78, 95% CI = 0.68-0.90). Metabolic signature for DI-GM and dietary index beneficial to gut microbiota (BDI-GM) were also inversely correlated with MASLD. Similar inverse correlations between DI-GM and BDI-GM and the risks of other chronic liver diseases were identified. Furthermore, phenotypic age, body mass index, metabolic score, inflammatory score, and metabolic signature significant…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "biomarker",
-        "explanation": "A measurable signal in the body that can help indicate a disease, risk, or treatment response."
-      },
-      {
-        "term": "inflammation",
-        "explanation": "The immune system’s response to injury, infection, or stress, which can help healing but also cause harm if uncontrolled."
-      },
-      {
-        "term": "microbiome",
-        "explanation": "The community of bacteria and other microbes living in or on the body or environment."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Zhou M",
-      "Deng Y",
-      "Huang Y",
-      "Yu C",
-      "Chen X",
-      "Yang Q",
-      "Liao Y",
-      "Wang S"
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42321912/",
-    "doi": "10.1186/s12986-026-01145-w",
-    "pmid": "42321912"
-  },
-  {
     "id": "neuroscience-f86141d8b8",
     "title": "Male-Biased Social Deficits in Chd8&lt;sup&gt;+/R2219*&lt;/sup&gt; Mouse Model of Autism Linked to Hippocampal Abnormalities.",
     "originalTitle": "Male-Biased Social Deficits in Chd8&lt;sup&gt;+/R2219*&lt;/sup&gt; Mouse Model of Autism Linked to Hippocampal Abnormalities.",
@@ -1341,6 +1451,166 @@
     "pmid": "42344774"
   },
   {
+    "id": "nutrition-dd5e05f47a",
+    "title": "Dietary index for gut microbiota, plasma metabolome, and risks of metabolic dysfunction-associated steatotic liver disease and other chronic liver diseases.",
+    "originalTitle": "Dietary index for gut microbiota, plasma metabolome, and risks of metabolic dysfunction-associated steatotic liver disease and other chronic liver diseases.",
+    "category": "Nutrition",
+    "date": "2026-06-19",
+    "dateISO": "2026-06-19",
+    "displayDate": "Jun 19, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Background The dietary index for gut microbiota (DI-GM) is a newly proposed metric for assessing diet quality linked to gut microbiota.",
+    "excerpt": "Background The dietary index for gut microbiota (DI-GM) is a newly proposed metric for assessing diet quality linked to gut microbiota.",
+    "summary": "This recent study explores dietary index for gut microbiota, plasma metabolome, and risks of metabolic dysfunction-associated steatotic liver disease and other chronic liver diseases.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Background The dietary index for gut microbiota (DI-GM) is a newly proposed metric for assessing diet quality linked to gut microbiota. However, prospective evidence is scarce on the associations between DI-GM and adverse liver outcomes. Methods The DI-GM was calculated by averaging the intakes of 12 foods and nutrients. Elastic net regression was performed to identify metabolites associated with DI-GM and metabolic signature reflecting higher adherence to DI-GM was constructed. Cox proportional hazards regression and mediation analyses were employed to explore the potential associations and mechanisms. Results This prospective cohort study included 168,456 participants from the UK Biobank. Compared to participants with DI-GM scores of 0-3, those scoring ≥ 6 presented 22% lower risk of MASLD (HR = 0.78, 95% CI = 0.68-0.90). Metabolic signature for DI-GM and dietary index beneficial to gut microbiota (BDI-GM) were also inversely correlated with MASLD. Similar inverse correlations between DI-GM and BDI-GM and the risks of other chronic liver diseases were identified. Furthermore, phenotypic age, body mass index, metabolic score, inflammatory score, and metabolic signature significant…",
+    "body": "Background The dietary index for gut microbiota (DI-GM) is a newly proposed metric for assessing diet quality linked to gut microbiota. However, prospective evidence is scarce on the associations between DI-GM and adverse liver outcomes. Methods The DI-GM was calculated by averaging the intakes of 12 foods and nutrients. Elastic net regression was performed to identify metabolites associated with DI-GM and metabolic signature reflecting higher adherence to DI-GM was constructed. Cox proportional hazards regression and mediation analyses were employed to explore the potential associations and mechanisms. Results This prospective cohort study included 168,456 participants from the UK Biobank. Compared to participants with DI-GM scores of 0-3, those scoring ≥ 6 presented 22% lower risk of MASLD (HR = 0.78, 95% CI = 0.68-0.90). Metabolic signature for DI-GM and dietary index beneficial to gut microbiota (BDI-GM) were also inversely correlated with MASLD. Similar inverse correlations between DI-GM and BDI-GM and the risks of other chronic liver diseases were identified. Furthermore, phenotypic age, body mass index, metabolic score, inflammatory score, and metabolic signature significant…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "biomarker",
+        "explanation": "A measurable signal in the body that can help indicate a disease, risk, or treatment response."
+      },
+      {
+        "term": "inflammation",
+        "explanation": "The immune system’s response to injury, infection, or stress, which can help healing but also cause harm if uncontrolled."
+      },
+      {
+        "term": "microbiome",
+        "explanation": "The community of bacteria and other microbes living in or on the body or environment."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Zhou M",
+      "Deng Y",
+      "Huang Y",
+      "Yu C",
+      "Chen X",
+      "Yang Q",
+      "Liao Y",
+      "Wang S"
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42321912/",
+    "doi": "10.1186/s12986-026-01145-w",
+    "pmid": "42321912"
+  },
+  {
+    "id": "ai-computer-science-a0fb3a9f97",
+    "title": "Artificial Intelligence and Machine Learning solutions-based oral cancer screening and detection: A scoping review.",
+    "originalTitle": "Artificial Intelligence and Machine Learning solutions-based oral cancer screening and detection: A scoping review.",
+    "category": "AI & Computer Science",
+    "date": "2026-06-19",
+    "dateISO": "2026-06-19",
+    "displayDate": "Jun 19, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/AI.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Background Oral cancer is a significant global health burden, with early detection crucial for improving outcomes.",
+    "excerpt": "Background Oral cancer is a significant global health burden, with early detection crucial for improving outcomes.",
+    "summary": "This recent study explores artificial intelligence and machine learning solutions-based oral cancer screening and detection: a scoping review.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Background Oral cancer is a significant global health burden, with early detection crucial for improving outcomes. Traditional screening methods are often subjective and time-consuming, relying heavily on clinician expertise. Artificial Intelligence (AI) and Machine Learning (ML) have emerged as promising tools, leveraging deep learning and image analysis to enhance diagnostic accuracy and automate screening processes. Objectives This scoping review evaluates AI/ML technologies for oral cancer detection, focusing on classification, segmentation, and early diagnosis. It also assesses AI's role in risk prediction, treatment planning, and prognostic modeling. Methods A systematic literature search was conducted across multiple databases, prioritizing peer-reviewed studies on AI/ML techniques for oral cancer screening. Key models analyzed include Convolutional Neural Networks (CNNs), Fully Convolutional Networks (FCNNs), and ensemble learning, applied to intraoral images, histopathology slides, and fluorescence visualization. Results AI-driven fluorescence visualization demonstrates 98.0% sensitivity and 92.7% specificity, surpassing conventional methods. Deep learning-based histopatho…",
+    "body": "Background Oral cancer is a significant global health burden, with early detection crucial for improving outcomes. Traditional screening methods are often subjective and time-consuming, relying heavily on clinician expertise. Artificial Intelligence (AI) and Machine Learning (ML) have emerged as promising tools, leveraging deep learning and image analysis to enhance diagnostic accuracy and automate screening processes. Objectives This scoping review evaluates AI/ML technologies for oral cancer detection, focusing on classification, segmentation, and early diagnosis. It also assesses AI's role in risk prediction, treatment planning, and prognostic modeling. Methods A systematic literature search was conducted across multiple databases, prioritizing peer-reviewed studies on AI/ML techniques for oral cancer screening. Key models analyzed include Convolutional Neural Networks (CNNs), Fully Convolutional Networks (FCNNs), and ensemble learning, applied to intraoral images, histopathology slides, and fluorescence visualization. Results AI-driven fluorescence visualization demonstrates 98.0% sensitivity and 92.7% specificity, surpassing conventional methods. Deep learning-based histopatho…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "machine learning",
+        "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
+      },
+      {
+        "term": "neural",
+        "explanation": "Related to nerves, neurons, or the brain’s communication system."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Abdul Rahman H",
+      "Noraidi AA",
+      "Dhaliwal JS."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42330730/",
+    "doi": "10.1016/j.artmed.2026.103480",
+    "pmid": "42330730"
+  },
+  {
+    "id": "women-s-health-2e271590dc",
+    "title": "Comparative analysis of natural versus ovarian stimulation cycles in intrauterine insemination by diverse infertility indications.",
+    "originalTitle": "Comparative analysis of natural versus ovarian stimulation cycles in intrauterine insemination by diverse infertility indications.",
+    "category": "Women’s Health",
+    "date": "2026-06-19",
+    "dateISO": "2026-06-19",
+    "displayDate": "Jun 19, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/prosthetic.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Objective To describe clinical intrauterine insemination (IUI) outcomes among infertile patients with different infertility indications, and further compare reproductive outcomes between natural cycle (NC) and ovarian st…",
+    "excerpt": "Objective To describe clinical intrauterine insemination (IUI) outcomes among infertile patients with different infertility indications, and further compare reproductive outcomes between natural cycle (NC) and ovarian st…",
+    "summary": "This recent study explores comparative analysis of natural versus ovarian stimulation cycles in intrauterine insemination by diverse infertility indications.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Objective To describe clinical intrauterine insemination (IUI) outcomes among infertile patients with different infertility indications, and further compare reproductive outcomes between natural cycle (NC) and ovarian stimulation cycle (OSC) IUI. Materials and methods A total of 1451 infertile couples that underwent their first IUI cycle with husband sperm were included in this retrospective cohort study. The clinical pregnancy rates and live birth rates were compared between NC and OSC by diverse infertility indications. Results A total of 833 NC-IUI and 618 OSC-IUI cycles were available for analysis. Logistic regression showed patients with ovulatory disorder had significantly higher clinical pregnancy (21.99% vs 14.15%; AOR 1.992, 95% CI 1.207-3.288) and live birth rates (18.67% vs 11.51%; AOR 2.326, 95% CI 1.312-4.124), along with a higher preterm birth rate ( p = 0.032) when compared to the normal ovulation group. Among normal ovulatory patients, NC-IUI achieved higher clinical pregnancy rate than OSC-IUI in endometriosis (12.70% vs 8.00%), tubal infertility (16.67% vs 7.14%), and male factor group (15.92% vs 9.40%, p = 0.047), with similar live birth trends. For unexplained i…",
+    "body": "Objective To describe clinical intrauterine insemination (IUI) outcomes among infertile patients with different infertility indications, and further compare reproductive outcomes between natural cycle (NC) and ovarian stimulation cycle (OSC) IUI. Materials and methods A total of 1451 infertile couples that underwent their first IUI cycle with husband sperm were included in this retrospective cohort study. The clinical pregnancy rates and live birth rates were compared between NC and OSC by diverse infertility indications. Results A total of 833 NC-IUI and 618 OSC-IUI cycles were available for analysis. Logistic regression showed patients with ovulatory disorder had significantly higher clinical pregnancy (21.99% vs 14.15%; AOR 1.992, 95% CI 1.207-3.288) and live birth rates (18.67% vs 11.51%; AOR 2.326, 95% CI 1.312-4.124), along with a higher preterm birth rate ( p = 0.032) when compared to the normal ovulation group. Among normal ovulatory patients, NC-IUI achieved higher clinical pregnancy rate than OSC-IUI in endometriosis (12.70% vs 8.00%), tubal infertility (16.67% vs 7.14%), and male factor group (15.92% vs 9.40%, p = 0.047), with similar live birth trends. For unexplained i…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Fan J",
+      "Li L",
+      "Xu H",
+      "Shu J",
+      "Zhang K."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42319031/",
+    "doi": "10.1080/07853890.2026.2688370",
+    "pmid": "42319031"
+  },
+  {
     "id": "nutrition-80eb9e9150",
     "title": "Multi-Axis Functional Mechanisms of the Milpa Diet in Obesity: A Scoping Review.",
     "originalTitle": "Multi-Axis Functional Mechanisms of the Milpa Diet in Obesity: A Scoping Review.",
@@ -1397,57 +1667,6 @@
     "pmid": "42356376"
   },
   {
-    "id": "ai-computer-science-a0fb3a9f97",
-    "title": "Artificial Intelligence and Machine Learning solutions-based oral cancer screening and detection: A scoping review.",
-    "originalTitle": "Artificial Intelligence and Machine Learning solutions-based oral cancer screening and detection: A scoping review.",
-    "category": "AI & Computer Science",
-    "date": "2026-06-19",
-    "dateISO": "2026-06-19",
-    "displayDate": "Jun 19, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/AI.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Background Oral cancer is a significant global health burden, with early detection crucial for improving outcomes.",
-    "excerpt": "Background Oral cancer is a significant global health burden, with early detection crucial for improving outcomes.",
-    "summary": "This recent study explores artificial intelligence and machine learning solutions-based oral cancer screening and detection: a scoping review.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Background Oral cancer is a significant global health burden, with early detection crucial for improving outcomes. Traditional screening methods are often subjective and time-consuming, relying heavily on clinician expertise. Artificial Intelligence (AI) and Machine Learning (ML) have emerged as promising tools, leveraging deep learning and image analysis to enhance diagnostic accuracy and automate screening processes. Objectives This scoping review evaluates AI/ML technologies for oral cancer detection, focusing on classification, segmentation, and early diagnosis. It also assesses AI's role in risk prediction, treatment planning, and prognostic modeling. Methods A systematic literature search was conducted across multiple databases, prioritizing peer-reviewed studies on AI/ML techniques for oral cancer screening. Key models analyzed include Convolutional Neural Networks (CNNs), Fully Convolutional Networks (FCNNs), and ensemble learning, applied to intraoral images, histopathology slides, and fluorescence visualization. Results AI-driven fluorescence visualization demonstrates 98.0% sensitivity and 92.7% specificity, surpassing conventional methods. Deep learning-based histopatho…",
-    "body": "Background Oral cancer is a significant global health burden, with early detection crucial for improving outcomes. Traditional screening methods are often subjective and time-consuming, relying heavily on clinician expertise. Artificial Intelligence (AI) and Machine Learning (ML) have emerged as promising tools, leveraging deep learning and image analysis to enhance diagnostic accuracy and automate screening processes. Objectives This scoping review evaluates AI/ML technologies for oral cancer detection, focusing on classification, segmentation, and early diagnosis. It also assesses AI's role in risk prediction, treatment planning, and prognostic modeling. Methods A systematic literature search was conducted across multiple databases, prioritizing peer-reviewed studies on AI/ML techniques for oral cancer screening. Key models analyzed include Convolutional Neural Networks (CNNs), Fully Convolutional Networks (FCNNs), and ensemble learning, applied to intraoral images, histopathology slides, and fluorescence visualization. Results AI-driven fluorescence visualization demonstrates 98.0% sensitivity and 92.7% specificity, surpassing conventional methods. Deep learning-based histopatho…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "machine learning",
-        "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
-      },
-      {
-        "term": "neural",
-        "explanation": "Related to nerves, neurons, or the brain’s communication system."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Abdul Rahman H",
-      "Noraidi AA",
-      "Dhaliwal JS."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42330730/",
-    "doi": "10.1016/j.artmed.2026.103480",
-    "pmid": "42330730"
-  },
-  {
     "id": "ai-computer-science-fce2637c63",
     "title": "AI for prognosis and treatment stratification in glioblastoma neurosurgery: a systematic review.",
     "originalTitle": "AI for prognosis and treatment stratification in glioblastoma neurosurgery: a systematic review.",
@@ -1498,61 +1717,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42319645/",
     "doi": "10.1007/s11060-026-05676-3",
     "pmid": "42319645"
-  },
-  {
-    "id": "medicine-304a93977f",
-    "title": "Exploring global research trends in sublingual immunotherapy of allergic rhinitis: a comprehensive bibliometric analysis.",
-    "originalTitle": "Exploring global research trends in sublingual immunotherapy of allergic rhinitis: a comprehensive bibliometric analysis.",
-    "category": "Medicine",
-    "date": "2026-06-18",
-    "dateISO": "2026-06-18",
-    "displayDate": "Jun 18, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/prosthetic.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Aims Sublingual immunotherapy (SLIT) is a well-established, safe, and patient-friendly treatment for allergic rhinitis.",
-    "excerpt": "Aims Sublingual immunotherapy (SLIT) is a well-established, safe, and patient-friendly treatment for allergic rhinitis.",
-    "summary": "This recent study explores exploring global research trends in sublingual immunotherapy of allergic rhinitis: a comprehensive bibliometric analysis.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Aims Sublingual immunotherapy (SLIT) is a well-established, safe, and patient-friendly treatment for allergic rhinitis. This study aims to provide a comprehensive bibliometric analysis of global research trends and emerging hotspots in SLIT for allergic rhinitis. Methods Relevant publications were sourced from the Web of Science Core Collection (1993-2024). VOSviewer, CiteSpace, and the R \"bibliometrix\" package were used to visualize research collaborations, leading contributors, and thematic developments. Results This analysis of 696 publications on SLIT for allergic rhinitis reveals a dynamic, collaborative field. The USA, China, and Italy led production, with the University of Genoa as the top institution. Research is organized into six clusters: immunological mechanisms, clinical efficacy, epidemiology/guidelines, pediatric research, disease classification, and real-world evidence.The focus has evolved over two decades from initial clinical efficacy studies toward understanding underlying immune mechanisms (highlighted by recent keyword bursts like \"dendritic cells\"), biomarker discovery, and specialized pediatric applications. There is also a strengthened emphasis on long-term…",
-    "body": "Aims Sublingual immunotherapy (SLIT) is a well-established, safe, and patient-friendly treatment for allergic rhinitis. This study aims to provide a comprehensive bibliometric analysis of global research trends and emerging hotspots in SLIT for allergic rhinitis. Methods Relevant publications were sourced from the Web of Science Core Collection (1993-2024). VOSviewer, CiteSpace, and the R \"bibliometrix\" package were used to visualize research collaborations, leading contributors, and thematic developments. Results This analysis of 696 publications on SLIT for allergic rhinitis reveals a dynamic, collaborative field. The USA, China, and Italy led production, with the University of Genoa as the top institution. Research is organized into six clusters: immunological mechanisms, clinical efficacy, epidemiology/guidelines, pediatric research, disease classification, and real-world evidence.The focus has evolved over two decades from initial clinical efficacy studies toward understanding underlying immune mechanisms (highlighted by recent keyword bursts like \"dendritic cells\"), biomarker discovery, and specialized pediatric applications. There is also a strengthened emphasis on long-term…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "biomarker",
-        "explanation": "A measurable signal in the body that can help indicate a disease, risk, or treatment response."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Gu W",
-      "Shen Z",
-      "Shi J",
-      "Xu H",
-      "Dong H",
-      "Yan D",
-      "Chu Y."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42312457/",
-    "doi": "10.1080/1750743x.2026.2689847",
-    "pmid": "42312457"
   },
   {
     "id": "neuroscience-f8b451809d",
@@ -1609,6 +1773,61 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42316248/",
     "doi": "10.1186/s13020-026-01409-w",
     "pmid": "42316248"
+  },
+  {
+    "id": "medicine-304a93977f",
+    "title": "Exploring global research trends in sublingual immunotherapy of allergic rhinitis: a comprehensive bibliometric analysis.",
+    "originalTitle": "Exploring global research trends in sublingual immunotherapy of allergic rhinitis: a comprehensive bibliometric analysis.",
+    "category": "Medicine",
+    "date": "2026-06-18",
+    "dateISO": "2026-06-18",
+    "displayDate": "Jun 18, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/prosthetic.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Aims Sublingual immunotherapy (SLIT) is a well-established, safe, and patient-friendly treatment for allergic rhinitis.",
+    "excerpt": "Aims Sublingual immunotherapy (SLIT) is a well-established, safe, and patient-friendly treatment for allergic rhinitis.",
+    "summary": "This recent study explores exploring global research trends in sublingual immunotherapy of allergic rhinitis: a comprehensive bibliometric analysis.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Aims Sublingual immunotherapy (SLIT) is a well-established, safe, and patient-friendly treatment for allergic rhinitis. This study aims to provide a comprehensive bibliometric analysis of global research trends and emerging hotspots in SLIT for allergic rhinitis. Methods Relevant publications were sourced from the Web of Science Core Collection (1993-2024). VOSviewer, CiteSpace, and the R \"bibliometrix\" package were used to visualize research collaborations, leading contributors, and thematic developments. Results This analysis of 696 publications on SLIT for allergic rhinitis reveals a dynamic, collaborative field. The USA, China, and Italy led production, with the University of Genoa as the top institution. Research is organized into six clusters: immunological mechanisms, clinical efficacy, epidemiology/guidelines, pediatric research, disease classification, and real-world evidence.The focus has evolved over two decades from initial clinical efficacy studies toward understanding underlying immune mechanisms (highlighted by recent keyword bursts like \"dendritic cells\"), biomarker discovery, and specialized pediatric applications. There is also a strengthened emphasis on long-term…",
+    "body": "Aims Sublingual immunotherapy (SLIT) is a well-established, safe, and patient-friendly treatment for allergic rhinitis. This study aims to provide a comprehensive bibliometric analysis of global research trends and emerging hotspots in SLIT for allergic rhinitis. Methods Relevant publications were sourced from the Web of Science Core Collection (1993-2024). VOSviewer, CiteSpace, and the R \"bibliometrix\" package were used to visualize research collaborations, leading contributors, and thematic developments. Results This analysis of 696 publications on SLIT for allergic rhinitis reveals a dynamic, collaborative field. The USA, China, and Italy led production, with the University of Genoa as the top institution. Research is organized into six clusters: immunological mechanisms, clinical efficacy, epidemiology/guidelines, pediatric research, disease classification, and real-world evidence.The focus has evolved over two decades from initial clinical efficacy studies toward understanding underlying immune mechanisms (highlighted by recent keyword bursts like \"dendritic cells\"), biomarker discovery, and specialized pediatric applications. There is also a strengthened emphasis on long-term…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "biomarker",
+        "explanation": "A measurable signal in the body that can help indicate a disease, risk, or treatment response."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Gu W",
+      "Shen Z",
+      "Shi J",
+      "Xu H",
+      "Dong H",
+      "Yan D",
+      "Chu Y."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42312457/",
+    "doi": "10.1080/1750743x.2026.2689847",
+    "pmid": "42312457"
   },
   {
     "id": "nutrition-2bb7b3e1d9",
@@ -1822,62 +2041,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42308603/",
     "doi": "10.1016/j.biomaterials.2026.124387",
     "pmid": "42308603"
-  },
-  {
-    "id": "environment-4499ab3e55",
-    "title": "Climate Change and Diabetes Outcomes: Evidence from Climate-Vulnerable Regions.",
-    "originalTitle": "Climate Change and Diabetes Outcomes: Evidence from Climate-Vulnerable Regions.",
-    "category": "Environment",
-    "date": "2026-06-16",
-    "dateISO": "2026-06-16",
-    "displayDate": "Jun 16, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Purpose of review Climate change is progressively recognized as an emerging determinant of metabolic health outcomes, particularly in relation to diabetes mellitus.",
-    "excerpt": "Purpose of review Climate change is progressively recognized as an emerging determinant of metabolic health outcomes, particularly in relation to diabetes mellitus.",
-    "summary": "This recent study explores climate change and diabetes outcomes: evidence from climate-vulnerable regions.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Purpose of review Climate change is progressively recognized as an emerging determinant of metabolic health outcomes, particularly in relation to diabetes mellitus. This review summarizes mechanistic and epidemiological evidence linking climate-related exposures to diabetes outcomes: namely, 1) heat stress, 2) air pollution, and 3) extreme weather-related disruption of diabetes care. Recent findings Warming temperatures, worsening air quality, and more frequent extreme weather events are intensifying exposures that disproportionately affect populations with pre-existing chronic diseases; patients with diabetes may be at the center of climate-related vulnerability. While the greatest burden of diabetes is shouldered by countries in the Global South, these same regions are also at the front lines of climate change, facing extreme environmental conditions. Together, diabetes and climate change can converge to create compounding pressures on already strained public health systems in the world's most climate-vulnerable regions. Using global case studies from climate-vulnerable settings, we show the pathways through which diabetes outcomes and climate change can be connected highlighting…",
-    "body": "Purpose of review Climate change is progressively recognized as an emerging determinant of metabolic health outcomes, particularly in relation to diabetes mellitus. This review summarizes mechanistic and epidemiological evidence linking climate-related exposures to diabetes outcomes: namely, 1) heat stress, 2) air pollution, and 3) extreme weather-related disruption of diabetes care. Recent findings Warming temperatures, worsening air quality, and more frequent extreme weather events are intensifying exposures that disproportionately affect populations with pre-existing chronic diseases; patients with diabetes may be at the center of climate-related vulnerability. While the greatest burden of diabetes is shouldered by countries in the Global South, these same regions are also at the front lines of climate change, facing extreme environmental conditions. Together, diabetes and climate change can converge to create compounding pressures on already strained public health systems in the world's most climate-vulnerable regions. Using global case studies from climate-vulnerable settings, we show the pathways through which diabetes outcomes and climate change can be connected highlighting…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "pathway",
-        "explanation": "A chain of molecular events inside cells that produces a biological effect."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Natarajan L",
-      "Ranjit Mohan A",
-      "Ali H",
-      "Adamkiewicz G",
-      "Rajendra P",
-      "Al-Mulla F",
-      "Mohan V",
-      "Alahmad B."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42301360/",
-    "doi": "10.1007/s11892-026-01634-5",
-    "pmid": "42301360"
   },
   {
     "id": "neuroscience-f1f3511016",
@@ -2098,6 +2261,61 @@
     "pmid": "42296981"
   },
   {
+    "id": "biomedical-engineering-1c6cdc87b1",
+    "title": "Phototunable hydrogel mechanics for spatial guidance of blood capillary morphogenesis.",
+    "originalTitle": "Phototunable hydrogel mechanics for spatial guidance of blood capillary morphogenesis.",
+    "category": "Biomedical Engineering",
+    "date": "2026-06-15",
+    "dateISO": "2026-06-15",
+    "displayDate": "Jun 15, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/prosthetic.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Creating large, functional tissue requires the engineering of a blood capillary network, which is challenging as it necessitates the recapitulation of capillary morphology and spatial distribution.",
+    "excerpt": "Creating large, functional tissue requires the engineering of a blood capillary network, which is challenging as it necessitates the recapitulation of capillary morphology and spatial distribution.",
+    "summary": "This recent study explores phototunable hydrogel mechanics for spatial guidance of blood capillary morphogenesis.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Creating large, functional tissue requires the engineering of a blood capillary network, which is challenging as it necessitates the recapitulation of capillary morphology and spatial distribution. Current approaches employ local mechanical and chemical gradients to modulate capillary morphology or the network's density but they often fail to regulate both parameters to fulfill the needs of tissue engineering. Here, we present a light-mediated biomaterial platform based on the FLight biofabrication technique to regulate blood capillary alignment and density. By modulating local light doses, a highly aligned hydrogel microstructure with spatially tunable matrix stiffness was achieved within a single 3D hydrogel construct. The anisotropic microstructures guided blood capillary elongation and alignment, achieving over 90% alignment in matrices (3.4-5.4 kPa), while spatial variations in stiffness regulated vascularization. Blood capillary density was maximized in regions with intermediate stiffness (4.6-5.0 kPa) and markedly lower in softer (∼2.0 kPa) and stiffer (∼5.4 kPa) matrices. This study establishes spatial light dosage as an effective engineering parameter for programming matri…",
+    "body": "Creating large, functional tissue requires the engineering of a blood capillary network, which is challenging as it necessitates the recapitulation of capillary morphology and spatial distribution. Current approaches employ local mechanical and chemical gradients to modulate capillary morphology or the network's density but they often fail to regulate both parameters to fulfill the needs of tissue engineering. Here, we present a light-mediated biomaterial platform based on the FLight biofabrication technique to regulate blood capillary alignment and density. By modulating local light doses, a highly aligned hydrogel microstructure with spatially tunable matrix stiffness was achieved within a single 3D hydrogel construct. The anisotropic microstructures guided blood capillary elongation and alignment, achieving over 90% alignment in matrices (3.4-5.4 kPa), while spatial variations in stiffness regulated vascularization. Blood capillary density was maximized in regions with intermediate stiffness (4.6-5.0 kPa) and markedly lower in softer (∼2.0 kPa) and stiffer (∼5.4 kPa) matrices. This study establishes spatial light dosage as an effective engineering parameter for programming matri…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Li H",
+      "Liu H",
+      "Louis F",
+      "Jeon O",
+      "Alsberg E",
+      "Zenobi-Wong M",
+      "Matsusaki M."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42214389/",
+    "doi": "10.1088/1758-5090/ae7509",
+    "pmid": "42214389"
+  },
+  {
     "id": "nutrition-89e87f74a5",
     "title": "Longitudinal changes in endocannabinoidome and dietary lipid profile in severe obesity: impact of sleeve gastrectomy.",
     "originalTitle": "Longitudinal changes in endocannabinoidome and dietary lipid profile in severe obesity: impact of sleeve gastrectomy.",
@@ -2152,61 +2370,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42298563/",
     "doi": "10.1186/s12944-026-02988-1",
     "pmid": "42298563"
-  },
-  {
-    "id": "biomedical-engineering-1c6cdc87b1",
-    "title": "Phototunable hydrogel mechanics for spatial guidance of blood capillary morphogenesis.",
-    "originalTitle": "Phototunable hydrogel mechanics for spatial guidance of blood capillary morphogenesis.",
-    "category": "Biomedical Engineering",
-    "date": "2026-06-15",
-    "dateISO": "2026-06-15",
-    "displayDate": "Jun 15, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/prosthetic.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Creating large, functional tissue requires the engineering of a blood capillary network, which is challenging as it necessitates the recapitulation of capillary morphology and spatial distribution.",
-    "excerpt": "Creating large, functional tissue requires the engineering of a blood capillary network, which is challenging as it necessitates the recapitulation of capillary morphology and spatial distribution.",
-    "summary": "This recent study explores phototunable hydrogel mechanics for spatial guidance of blood capillary morphogenesis.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Creating large, functional tissue requires the engineering of a blood capillary network, which is challenging as it necessitates the recapitulation of capillary morphology and spatial distribution. Current approaches employ local mechanical and chemical gradients to modulate capillary morphology or the network's density but they often fail to regulate both parameters to fulfill the needs of tissue engineering. Here, we present a light-mediated biomaterial platform based on the FLight biofabrication technique to regulate blood capillary alignment and density. By modulating local light doses, a highly aligned hydrogel microstructure with spatially tunable matrix stiffness was achieved within a single 3D hydrogel construct. The anisotropic microstructures guided blood capillary elongation and alignment, achieving over 90% alignment in matrices (3.4-5.4 kPa), while spatial variations in stiffness regulated vascularization. Blood capillary density was maximized in regions with intermediate stiffness (4.6-5.0 kPa) and markedly lower in softer (∼2.0 kPa) and stiffer (∼5.4 kPa) matrices. This study establishes spatial light dosage as an effective engineering parameter for programming matri…",
-    "body": "Creating large, functional tissue requires the engineering of a blood capillary network, which is challenging as it necessitates the recapitulation of capillary morphology and spatial distribution. Current approaches employ local mechanical and chemical gradients to modulate capillary morphology or the network's density but they often fail to regulate both parameters to fulfill the needs of tissue engineering. Here, we present a light-mediated biomaterial platform based on the FLight biofabrication technique to regulate blood capillary alignment and density. By modulating local light doses, a highly aligned hydrogel microstructure with spatially tunable matrix stiffness was achieved within a single 3D hydrogel construct. The anisotropic microstructures guided blood capillary elongation and alignment, achieving over 90% alignment in matrices (3.4-5.4 kPa), while spatial variations in stiffness regulated vascularization. Blood capillary density was maximized in regions with intermediate stiffness (4.6-5.0 kPa) and markedly lower in softer (∼2.0 kPa) and stiffer (∼5.4 kPa) matrices. This study establishes spatial light dosage as an effective engineering parameter for programming matri…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Li H",
-      "Liu H",
-      "Louis F",
-      "Jeon O",
-      "Alsberg E",
-      "Zenobi-Wong M",
-      "Matsusaki M."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42214389/",
-    "doi": "10.1088/1758-5090/ae7509",
-    "pmid": "42214389"
   },
   {
     "id": "genetics-7710200583",
@@ -2319,60 +2482,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42288760/",
     "doi": "10.1186/s12879-026-13733-5",
     "pmid": "42288760"
-  },
-  {
-    "id": "nutrition-310f8906a3",
-    "title": "Plant-based diet quality and gut microbiota in relation to cardiometabolic risk in Korean adults.",
-    "originalTitle": "Plant-based diet quality and gut microbiota in relation to cardiometabolic risk in Korean adults.",
-    "category": "Nutrition",
-    "date": "2026-06-13",
-    "dateISO": "2026-06-13",
-    "displayDate": "Jun 13, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Purpose This study investigated the association between plant-based diet quality and gut microbiota and explored whether integrating microbiota profiles with dietary indices improved strength of association with selected…",
-    "excerpt": "Purpose This study investigated the association between plant-based diet quality and gut microbiota and explored whether integrating microbiota profiles with dietary indices improved strength of association with selected…",
-    "summary": "This recent study explores plant-based diet quality and gut microbiota in relation to cardiometabolic risk in korean adults.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Purpose This study investigated the association between plant-based diet quality and gut microbiota and explored whether integrating microbiota profiles with dietary indices improved strength of association with selected cardiometabolic outcomes. Methods In this cross-sectional study, we analyzed cohort data collected from 2,388 Korean adults between 2017 and 2019. Dietary quality indices, including the overall plant-based diet index (PDI), healthful PDI (hPDI), and unhealthful PDI (uPDI), were derived from a food frequency questionnaire. Gut microbiota were profiled using 16S rRNA gene sequencing. Cardiometabolic risk factors included obesity, abdominal obesity, elevated fasting glucose, elevated triglycerides, low high-density lipoprotein cholesterol (HDL-C), and elevated blood pressure. Results A higher hPDI score was associated with reduced obesity risk (OR = 0.72; 95% CI, 0.57-0.91) and improved gut microbiota α-diversity. A higher uPDI score was associated with increased risk of elevated fasting glucose (OR = 1.23; 95% CI, 1.00-1.52) and low HDL-C levels (OR = 1.35; 95% CI, 1.07-1.70), and lower α-diversity. hPDI and uPDI scores were also associated with differences in gut mi…",
-    "body": "Purpose This study investigated the association between plant-based diet quality and gut microbiota and explored whether integrating microbiota profiles with dietary indices improved strength of association with selected cardiometabolic outcomes. Methods In this cross-sectional study, we analyzed cohort data collected from 2,388 Korean adults between 2017 and 2019. Dietary quality indices, including the overall plant-based diet index (PDI), healthful PDI (hPDI), and unhealthful PDI (uPDI), were derived from a food frequency questionnaire. Gut microbiota were profiled using 16S rRNA gene sequencing. Cardiometabolic risk factors included obesity, abdominal obesity, elevated fasting glucose, elevated triglycerides, low high-density lipoprotein cholesterol (HDL-C), and elevated blood pressure. Results A higher hPDI score was associated with reduced obesity risk (OR = 0.72; 95% CI, 0.57-0.91) and improved gut microbiota α-diversity. A higher uPDI score was associated with increased risk of elevated fasting glucose (OR = 1.23; 95% CI, 1.00-1.52) and low HDL-C levels (OR = 1.35; 95% CI, 1.07-1.70), and lower α-diversity. hPDI and uPDI scores were also associated with differences in gut mi…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "microbiome",
-        "explanation": "The community of bacteria and other microbes living in or on the body or environment."
-      },
-      {
-        "term": "pathway",
-        "explanation": "A chain of molecular events inside cells that produces a biological effect."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Shin JH",
-      "Song EJ",
-      "Lim MY",
-      "Choi HJ",
-      "Kim J",
-      "Nam YD."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42287442/",
-    "doi": "10.1007/s00394-026-03991-z",
-    "pmid": "42287442"
   },
   {
     "id": "medicine-691130457c",
@@ -2582,111 +2691,5 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42306492/",
     "doi": "10.1016/j.eclinm.2026.103979",
     "pmid": "42306492"
-  },
-  {
-    "id": "medicine-75307d8dd0",
-    "title": "Efficacy and mechanisms of immune checkpoint inhibitors in late-stage EGFR-mutated non-small cell lung cancer following targeted therapy resistance.",
-    "originalTitle": "Efficacy and mechanisms of immune checkpoint inhibitors in late-stage EGFR-mutated non-small cell lung cancer following targeted therapy resistance.",
-    "category": "Medicine",
-    "date": "2026-06-03",
-    "dateISO": "2026-06-03",
-    "displayDate": "Jun 3, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/prosthetic.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Currently, epidermal growth factor receptor-tyrosine kinase inhibitors (EGFR-TKIs) represent the standard first-line treatment for advanced EGFR-mutated non-small cell lung cancer (NSCLC).",
-    "excerpt": "Currently, epidermal growth factor receptor-tyrosine kinase inhibitors (EGFR-TKIs) represent the standard first-line treatment for advanced EGFR-mutated non-small cell lung cancer (NSCLC).",
-    "summary": "This recent study explores efficacy and mechanisms of immune checkpoint inhibitors in late-stage egfr-mutated non-small cell lung cancer following targeted therapy resistance.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Currently, epidermal growth factor receptor-tyrosine kinase inhibitors (EGFR-TKIs) represent the standard first-line treatment for advanced EGFR-mutated non-small cell lung cancer (NSCLC). However, as the disease progresses, targeted resistance inevitably develops. Chemoimmunotherapy, as the standard treatment for advanced NSCLC without driver gene mutations, has significantly improved patient survival. EGFR-mutant tumors exhibit unique immunogenicity compared to wild-type tumors, with heterogeneity in programmed death ligand 1(PD-L1) expression levels, tumor mutational burden (TMB), and other immune microenvironment characteristics. Therefore, we elucidate the mechanisms of immune resistance in EGFR-mutant patients and analyze the core immune mechanisms underlying EGFR-TKI resistance. We summarize the application of immune checkpoint inhibitors (ICIs) in advanced EGFR-mutant NSCLC and analyze the associated mechanisms of action.",
-    "body": "Currently, epidermal growth factor receptor-tyrosine kinase inhibitors (EGFR-TKIs) represent the standard first-line treatment for advanced EGFR-mutated non-small cell lung cancer (NSCLC). However, as the disease progresses, targeted resistance inevitably develops. Chemoimmunotherapy, as the standard treatment for advanced NSCLC without driver gene mutations, has significantly improved patient survival. EGFR-mutant tumors exhibit unique immunogenicity compared to wild-type tumors, with heterogeneity in programmed death ligand 1(PD-L1) expression levels, tumor mutational burden (TMB), and other immune microenvironment characteristics. Therefore, we elucidate the mechanisms of immune resistance in EGFR-mutant patients and analyze the core immune mechanisms underlying EGFR-TKI resistance. We summarize the application of immune checkpoint inhibitors (ICIs) in advanced EGFR-mutant NSCLC and analyze the associated mechanisms of action.",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Niu J",
-      "Jing W",
-      "Liu Z",
-      "Si Y",
-      "Liu Z."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42317338/",
-    "doi": "10.3389/fimmu.2026.1845547",
-    "pmid": "42317338"
-  },
-  {
-    "id": "women-s-health-d1f4b7337f",
-    "title": "Endometriosis-Associated Infertility: A Review of Pathophysiological Mechanisms and Current Treatment Strategies.",
-    "originalTitle": "Endometriosis-Associated Infertility: A Review of Pathophysiological Mechanisms and Current Treatment Strategies.",
-    "category": "Women’s Health",
-    "date": "2026-06-02",
-    "dateISO": "2026-06-02",
-    "displayDate": "Jun 2, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/prosthetic.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Background: Endometriosis affects 10-15% of reproductive-aged women and is a leading cause of infertility through anatomical, inflammatory, and molecular mechanisms.",
-    "excerpt": "Background: Endometriosis affects 10-15% of reproductive-aged women and is a leading cause of infertility through anatomical, inflammatory, and molecular mechanisms.",
-    "summary": "This recent study explores endometriosis-associated infertility: a review of pathophysiological mechanisms and current treatment strategies.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Background: Endometriosis affects 10-15% of reproductive-aged women and is a leading cause of infertility through anatomical, inflammatory, and molecular mechanisms. Objective: This review synthesizes current evidence on the pathophysiology of endometriosis-associated infertility and evaluates medical, surgical, and ART strategies to guide individualized management. Methods: We conducted a narrative review (2000-2025; PubMed, Scopus, WoS) synthesizing RCTs, meta-analyses, and observational studies on mechanisms and treatment outcomes. Results: In rASRM stage III-IV, tubo-ovarian distortion and adhesions mechanically impair oocyte pickup and embryo transport. In superficial disease, animal models demonstrate that peritoneal inflammatory mediators and ROS can impair oocyte maturation, though direct causal evidence in humans is lacking. Epigenetic dysregulation has been identified in the eutopic endometrium and linked to progesterone resistance, though its direct causal role in infertility remains unestablished. Hormonal suppression controls pain but does not improve spontaneous conception rates. Laparoscopic surgery in stage I-II remains debated. Prospective evidence supporting ferti…",
-    "body": "Background: Endometriosis affects 10-15% of reproductive-aged women and is a leading cause of infertility through anatomical, inflammatory, and molecular mechanisms. Objective: This review synthesizes current evidence on the pathophysiology of endometriosis-associated infertility and evaluates medical, surgical, and ART strategies to guide individualized management. Methods: We conducted a narrative review (2000-2025; PubMed, Scopus, WoS) synthesizing RCTs, meta-analyses, and observational studies on mechanisms and treatment outcomes. Results: In rASRM stage III-IV, tubo-ovarian distortion and adhesions mechanically impair oocyte pickup and embryo transport. In superficial disease, animal models demonstrate that peritoneal inflammatory mediators and ROS can impair oocyte maturation, though direct causal evidence in humans is lacking. Epigenetic dysregulation has been identified in the eutopic endometrium and linked to progesterone resistance, though its direct causal role in infertility remains unestablished. Hormonal suppression controls pain but does not improve spontaneous conception rates. Laparoscopic surgery in stage I-II remains debated. Prospective evidence supporting ferti…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "epigenetic",
-        "explanation": "Changes in gene activity that do not alter the DNA sequence itself."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Gniadek M",
-      "Porubenska A",
-      "Pełka K",
-      "Rzepkowska Z",
-      "Florjański J."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42279157/",
-    "doi": "10.3390/jcm15114297",
-    "pmid": "42279157"
   }
 ]
