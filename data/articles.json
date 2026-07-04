@@ -1,5 +1,61 @@
 [
   {
+    "id": "public-health-87102900f5",
+    "title": "BCAA metabolism promotes lung cancer tumorigenesis by enhancing cholesterol biosynthesis.",
+    "originalTitle": "BCAA metabolism promotes lung cancer tumorigenesis by enhancing cholesterol biosynthesis.",
+    "category": "Public Health",
+    "date": "2026-07-03",
+    "dateISO": "2026-07-03",
+    "displayDate": "Jul 3, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Metabolic dysregulation has been established as a key driver in tumorigenesis, but its underlying mechanisms in lung cancer remain poorly characterized.",
+    "excerpt": "Metabolic dysregulation has been established as a key driver in tumorigenesis, but its underlying mechanisms in lung cancer remain poorly characterized.",
+    "summary": "This recent study explores bcaa metabolism promotes lung cancer tumorigenesis by enhancing cholesterol biosynthesis.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Metabolic dysregulation has been established as a key driver in tumorigenesis, but its underlying mechanisms in lung cancer remain poorly characterized. In this study, we performed nested case-control analyses in two prospective cohorts (208 and 144 matched pairs) to examine associations between plasma metabolites and lung cancer risk. Untargeted metabolomics identified circulating metabolites of the branched-chain amino acid (BCAA) pathway as significantly associated with lung cancer risk. An animal study demonstrated that a high-BCAA diet accelerated lung cancer progression in the KrasG12D/+ mice model. Among the three BCAAs, leucine contributed much more to promoting lung cancer growth. Mechanistically, AUH-mediated acetyl-CoA production from leucine metabolism fuels cholesterol synthesis, promoting lipid raft formation and EGFR redistribution and activation, thereby driving lung tumorigenesis. Moreover, atorvastatin blocked leucine-induced tumor progression in mice. Overall, our findings provide experimental evidence that leucine-driven BCAA metabolic reprogramming promotes lung tumorigenesis via cholesterol metabolism, revealing a potential therapeutic target.",
+    "body": "Metabolic dysregulation has been established as a key driver in tumorigenesis, but its underlying mechanisms in lung cancer remain poorly characterized. In this study, we performed nested case-control analyses in two prospective cohorts (208 and 144 matched pairs) to examine associations between plasma metabolites and lung cancer risk. Untargeted metabolomics identified circulating metabolites of the branched-chain amino acid (BCAA) pathway as significantly associated with lung cancer risk. An animal study demonstrated that a high-BCAA diet accelerated lung cancer progression in the KrasG12D/+ mice model. Among the three BCAAs, leucine contributed much more to promoting lung cancer growth. Mechanistically, AUH-mediated acetyl-CoA production from leucine metabolism fuels cholesterol synthesis, promoting lipid raft formation and EGFR redistribution and activation, thereby driving lung tumorigenesis. Moreover, atorvastatin blocked leucine-induced tumor progression in mice. Overall, our findings provide experimental evidence that leucine-driven BCAA metabolic reprogramming promotes lung tumorigenesis via cholesterol metabolism, revealing a potential therapeutic target.",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "pathway",
+        "explanation": "A chain of molecular events inside cells that produces a biological effect."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Ma H",
+      "Zhang E",
+      "Cai J",
+      "Hang D",
+      "Ma X",
+      "Yang Y",
+      "Zhu M",
+      "Sun Q"
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42397743/",
+    "doi": "10.1016/j.celrep.2026.117641",
+    "pmid": "42397743"
+  },
+  {
     "id": "nutrition-da4ad4e309",
     "title": "Association of a Diet Index for the Gut Microbiome With Hypertension and Obesity-Related Hypertension: A Cross-Sectional Analysis of NHANES 2007-2020.",
     "originalTitle": "Association of a Diet Index for the Gut Microbiome With Hypertension and Obesity-Related Hypertension: A Cross-Sectional Analysis of NHANES 2007-2020.",
@@ -13,11 +69,11 @@
     "imageSearchQuery": "",
     "imageAltText": "",
     "imageCaption": "",
-    "blurb": "Dietary patterns that support gut-microbiome diversity may influence hypertension, but phenotype-specific evidence is limited.",
-    "excerpt": "Dietary patterns that support gut-microbiome diversity may influence hypertension, but phenotype-specific evidence is limited.",
+    "blurb": "Background Dietary patterns that support gut-microbiome diversity may influence hypertension, but phenotype-specific evidence is limited.",
+    "excerpt": "Background Dietary patterns that support gut-microbiome diversity may influence hypertension, but phenotype-specific evidence is limited.",
     "summary": "This recent study explores association of a diet index for the gut microbiome with hypertension and obesity-related hypertension: a cross-sectional analysis of nhanes 2007-2020.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Dietary patterns that support gut-microbiome diversity may influence hypertension, but phenotype-specific evidence is limited. Assess associations of a diet index for the gut microbiome (DI-GM) with prevalent hypertension and obesity-related hypertension in U.S. adults. The National Health and Nutrition Examination Survey 2007-2020 included 22,784 adults aged ≥20 years. Multivariable logistic models related DI-GM (continuous; quartiles) to outcomes; restricted cubic splines characterized dose-response. Effect modification was tested across demographic and clinical subgroups. Variable importance of DI-GM components was estimated using the Boruta algorithm. Discrimination was assessed by the area under the receiver operating characteristic curve. Higher DI-GM was inversely associated with hypertension-per 1-unit higher DI-GM: odds ratio ( OR ) = 0.97 (95% confidence interval [CI], 0.96-0.99; P <.001)-and more strongly with obesity-related hypertension: OR = 0.95 (95% CI, 0.92-0.98; P <.01). Spline analyses suggested approximately linear inverse associations. There was no significant interaction between DI-GM and hypertension, as well as between DI-GM and obesity-related hypertension,…",
-    "body": "Dietary patterns that support gut-microbiome diversity may influence hypertension, but phenotype-specific evidence is limited. Assess associations of a diet index for the gut microbiome (DI-GM) with prevalent hypertension and obesity-related hypertension in U.S. adults. The National Health and Nutrition Examination Survey 2007-2020 included 22,784 adults aged ≥20 years. Multivariable logistic models related DI-GM (continuous; quartiles) to outcomes; restricted cubic splines characterized dose-response. Effect modification was tested across demographic and clinical subgroups. Variable importance of DI-GM components was estimated using the Boruta algorithm. Discrimination was assessed by the area under the receiver operating characteristic curve. Higher DI-GM was inversely associated with hypertension-per 1-unit higher DI-GM: odds ratio ( OR ) = 0.97 (95% confidence interval [CI], 0.96-0.99; P <.001)-and more strongly with obesity-related hypertension: OR = 0.95 (95% CI, 0.92-0.98; P <.01). Spline analyses suggested approximately linear inverse associations. There was no significant interaction between DI-GM and hypertension, as well as between DI-GM and obesity-related hypertension,…",
+    "deepDive": "Background Dietary patterns that support gut-microbiome diversity may influence hypertension, but phenotype-specific evidence is limited. Objective Assess associations of a diet index for the gut microbiome (DI-GM) with prevalent hypertension and obesity-related hypertension in U.S. adults. Methods The National Health and Nutrition Examination Survey 2007-2020 included 22,784 adults aged ≥20 years. Multivariable logistic models related DI-GM (continuous; quartiles) to outcomes; restricted cubic splines characterized dose-response. Effect modification was tested across demographic and clinical subgroups. Variable importance of DI-GM components was estimated using the Boruta algorithm. Discrimination was assessed by the area under the receiver operating characteristic curve. Results Higher DI-GM was inversely associated with hypertension-per 1-unit higher DI-GM: odds ratio ( OR ) = 0.97 (95% confidence interval [CI], 0.96-0.99; P Conclusions In this cross-sectional analysis, higher DI-GM was related to lower odds of hypertension, particularly obesity-related hypertension. Diet index for the gut microbiome may aid hypothesis generation and risk stratification for microbiome-supportive…",
+    "body": "Background Dietary patterns that support gut-microbiome diversity may influence hypertension, but phenotype-specific evidence is limited. Objective Assess associations of a diet index for the gut microbiome (DI-GM) with prevalent hypertension and obesity-related hypertension in U.S. adults. Methods The National Health and Nutrition Examination Survey 2007-2020 included 22,784 adults aged ≥20 years. Multivariable logistic models related DI-GM (continuous; quartiles) to outcomes; restricted cubic splines characterized dose-response. Effect modification was tested across demographic and clinical subgroups. Variable importance of DI-GM components was estimated using the Boruta algorithm. Discrimination was assessed by the area under the receiver operating characteristic curve. Results Higher DI-GM was inversely associated with hypertension-per 1-unit higher DI-GM: odds ratio ( OR ) = 0.97 (95% confidence interval [CI], 0.96-0.99; P Conclusions In this cross-sectional analysis, higher DI-GM was related to lower odds of hypertension, particularly obesity-related hypertension. Diet index for the gut microbiome may aid hypothesis generation and risk stratification for microbiome-supportive…",
     "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
     "keyTakeaways": [
       "The study addresses a recent question in science or medicine.",
@@ -52,6 +108,167 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42391551/",
     "doi": "10.1097/jcn.0000000000001336",
     "pmid": "42391551"
+  },
+  {
+    "id": "ai-computer-science-08d174f73a",
+    "title": "The role of artificial intelligence in the diagnosis, risk stratification, and treatment of heart failure: A narrative review.",
+    "originalTitle": "The role of artificial intelligence in the diagnosis, risk stratification, and treatment of heart failure: A narrative review.",
+    "category": "AI & Computer Science",
+    "date": "2026-07-03",
+    "dateISO": "2026-07-03",
+    "displayDate": "Jul 3, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/AI.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Heart failure (HF) is a complex, multifactorial, and difficult-to-treat syndrome.",
+    "excerpt": "Heart failure (HF) is a complex, multifactorial, and difficult-to-treat syndrome.",
+    "summary": "This recent study explores the role of artificial intelligence in the diagnosis, risk stratification, and treatment of heart failure: a narrative review.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Heart failure (HF) is a complex, multifactorial, and difficult-to-treat syndrome. Over the past years, a concerning increase in its global prevalence, mortality, costs, and burden on the healthcare system has been observed. The recent development of machine learning (ML), especially unsupervised and deep learning (DL) algorithms, offers a potential way to facilitate diagnosis, enable more precise treatment, and reduce both mortality and costs of HF patients. Especially unsupervised ML and DL present new opportunities for increased efficiency in clinical practice in cardiology. Unsupervised ML, e.g., enables novel phenogrouping of HF patients into high-risk groups and disease outcome prediction. Deep learning algorithms can enhance echocardiographic analysis by improving image quality and ECG interpretation, and by providing assistance and guidance to inexperienced cardiologists. However, substantial challenges related to generalizability, external validation, overfitting, model explainability, and ethical considerations currently severely limit the implementation of AI-based tools in real-world clinical practice. This review critically evaluates current AI models in HF, focusing on…",
+    "body": "Heart failure (HF) is a complex, multifactorial, and difficult-to-treat syndrome. Over the past years, a concerning increase in its global prevalence, mortality, costs, and burden on the healthcare system has been observed. The recent development of machine learning (ML), especially unsupervised and deep learning (DL) algorithms, offers a potential way to facilitate diagnosis, enable more precise treatment, and reduce both mortality and costs of HF patients. Especially unsupervised ML and DL present new opportunities for increased efficiency in clinical practice in cardiology. Unsupervised ML, e.g., enables novel phenogrouping of HF patients into high-risk groups and disease outcome prediction. Deep learning algorithms can enhance echocardiographic analysis by improving image quality and ECG interpretation, and by providing assistance and guidance to inexperienced cardiologists. However, substantial challenges related to generalizability, external validation, overfitting, model explainability, and ethical considerations currently severely limit the implementation of AI-based tools in real-world clinical practice. This review critically evaluates current AI models in HF, focusing on…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "machine learning",
+        "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Resch J",
+      "Lelonek M."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42397100/",
+    "doi": "10.17219/acem/218578",
+    "pmid": "42397100"
+  },
+  {
+    "id": "neuroscience-ffae564b41",
+    "title": "Active devices and systems for closed-loop neuromodulation.",
+    "originalTitle": "Active devices and systems for closed-loop neuromodulation.",
+    "category": "Neuroscience",
+    "date": "2026-07-03",
+    "dateISO": "2026-07-03",
+    "displayDate": "Jul 3, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/neuro.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Neuromodulation has become a central topic in neuroscience and biomedical engineering, as it provides powerful means to interrogate and regulate neural activity and offers promising therapeutic strategies for a wide rang…",
+    "excerpt": "Neuromodulation has become a central topic in neuroscience and biomedical engineering, as it provides powerful means to interrogate and regulate neural activity and offers promising therapeutic strategies for a wide rang…",
+    "summary": "This recent study explores active devices and systems for closed-loop neuromodulation.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Neuromodulation has become a central topic in neuroscience and biomedical engineering, as it provides powerful means to interrogate and regulate neural activity and offers promising therapeutic strategies for a wide range of neurological disorders. Conventional neuromodulation approaches predominantly rely on electrode-based electrical stimulation or remote physical stimuli, including optical, chemical, magnetic, and ultrasound-based methods, to influence neuronal excitability and neural circuit dynamics. Recent advances in neuromodulation involve microsystem engineering, nanotechnology, and genetically enabled techniques such as optogenetics. They have achieved increasingly precise and versatile control over neural systems with high spatial and temporal resolution. Owing to their intrinsic capability for integrated sensing, signal amplification, and adaptive regulation, active devices are particularly well suited for system-level implementations of neuromodulation. This review summarizes recent advances in active devices for neuromodulation, with a particular emphasis on their functional roles in neural regulation. By discussing different material platforms and device architecture…",
+    "body": "Neuromodulation has become a central topic in neuroscience and biomedical engineering, as it provides powerful means to interrogate and regulate neural activity and offers promising therapeutic strategies for a wide range of neurological disorders. Conventional neuromodulation approaches predominantly rely on electrode-based electrical stimulation or remote physical stimuli, including optical, chemical, magnetic, and ultrasound-based methods, to influence neuronal excitability and neural circuit dynamics. Recent advances in neuromodulation involve microsystem engineering, nanotechnology, and genetically enabled techniques such as optogenetics. They have achieved increasingly precise and versatile control over neural systems with high spatial and temporal resolution. Owing to their intrinsic capability for integrated sensing, signal amplification, and adaptive regulation, active devices are particularly well suited for system-level implementations of neuromodulation. This review summarizes recent advances in active devices for neuromodulation, with a particular emphasis on their functional roles in neural regulation. By discussing different material platforms and device architecture…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "neural",
+        "explanation": "Related to nerves, neurons, or the brain’s communication system."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Wang J",
+      "Xue H",
+      "Li J",
+      "Li Y",
+      "Li R",
+      "Mei Y",
+      "Song E."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42399230/",
+    "doi": "10.1038/s41378-026-01357-3",
+    "pmid": "42399230"
+  },
+  {
+    "id": "medicine-2e83adfc36",
+    "title": "Differential T cell clonal dynamics underlie outcomes to frontline chemoimmunotherapy in advanced gastric cancer.",
+    "originalTitle": "Differential T cell clonal dynamics underlie outcomes to frontline chemoimmunotherapy in advanced gastric cancer.",
+    "category": "Medicine",
+    "date": "2026-07-02",
+    "dateISO": "2026-07-02",
+    "displayDate": "Jul 2, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/prosthetic.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "The addition of anti-programmed cell death protein 1 (aPD-1) to 5-fluorouracil (5-FU)/platinum in advanced gastric cancer (GC) yields variable responses.",
+    "excerpt": "The addition of anti-programmed cell death protein 1 (aPD-1) to 5-fluorouracil (5-FU)/platinum in advanced gastric cancer (GC) yields variable responses.",
+    "summary": "This recent study explores differential t cell clonal dynamics underlie outcomes to frontline chemoimmunotherapy in advanced gastric cancer.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "The addition of anti-programmed cell death protein 1 (aPD-1) to 5-fluorouracil (5-FU)/platinum in advanced gastric cancer (GC) yields variable responses. To understand chemotherapy-immunotherapy cooperativity, we previously reported a phase II trial sequentially adding pembrolizumab to 5-FU/platinum. In this study, we use single-cell RNA sequencing and T cell receptor (TCR) sequencing to analyze 66,813 T cells from primary tumor biopsies pre-treatment, post-chemotherapy, and post-immunotherapy in 33 patients. We observe greater abundance, persistence, and recruitment of T cells with transcriptionally predicted tumor-reactivity in patients with prolonged progression-free survival (slow progressors). Increased B cell abundance and predicted B cell to T cell interactions support T cell memory and co-stimulation, providing a mechanism for increased abundance and persistence of progenitor-exhausted and tumor-reactive T cells in slow progressors. T cell clones emerging in the tumor after immunotherapy are present in the blood before treatment only in slow progressors. We thus highlight mechanisms that may drive durable responses to chemoimmunotherapy in GC.",
+    "body": "The addition of anti-programmed cell death protein 1 (aPD-1) to 5-fluorouracil (5-FU)/platinum in advanced gastric cancer (GC) yields variable responses. To understand chemotherapy-immunotherapy cooperativity, we previously reported a phase II trial sequentially adding pembrolizumab to 5-FU/platinum. In this study, we use single-cell RNA sequencing and T cell receptor (TCR) sequencing to analyze 66,813 T cells from primary tumor biopsies pre-treatment, post-chemotherapy, and post-immunotherapy in 33 patients. We observe greater abundance, persistence, and recruitment of T cells with transcriptionally predicted tumor-reactivity in patients with prolonged progression-free survival (slow progressors). Increased B cell abundance and predicted B cell to T cell interactions support T cell memory and co-stimulation, providing a mechanism for increased abundance and persistence of progenitor-exhausted and tumor-reactive T cells in slow progressors. T cell clones emerging in the tumor after immunotherapy are present in the blood before treatment only in slow progressors. We thus highlight mechanisms that may drive durable responses to chemoimmunotherapy in GC.",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Wright SJ",
+      "Kang S",
+      "An M",
+      "Heo YJ",
+      "Parikh M",
+      "Bi L",
+      "Lee H",
+      "Moorhead G"
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42392078/",
+    "doi": "10.1016/j.xcrm.2026.102910",
+    "pmid": "42392078"
   },
   {
     "id": "medicine-5195661623",
@@ -265,58 +482,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42389927/",
     "doi": "10.1093/heapol/czag085",
     "pmid": "42389927"
-  },
-  {
-    "id": "environment-58098a4e9b",
-    "title": "Impact of COVID-19 on Water Use, Wastewater Flows, and Air Pollution: A LongTerm Monitoring Study",
-    "originalTitle": "Impact of COVID-19 on Water Use, Wastewater Flows, and Air Pollution: A LongTerm Monitoring Study",
-    "category": "Environment",
-    "date": "2026-07-02",
-    "dateISO": "2026-07-02",
-    "displayDate": "Jul 2, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Abstract In recent years, interconnected crises, including the COVID-19 pandemic, the energy crisis, and climate change have reshaped resource use patterns and environmental pressures.",
-    "excerpt": "Abstract In recent years, interconnected crises, including the COVID-19 pandemic, the energy crisis, and climate change have reshaped resource use patterns and environmental pressures.",
-    "summary": "This recent study explores impact of covid-19 on water use, wastewater flows, and air pollution: a longterm monitoring study. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Abstract In recent years, interconnected crises, including the COVID-19 pandemic, the energy crisis, and climate change have reshaped resource use patterns and environmental pressures. The pandemic created a socio-economic “natural experiment” to evaluate how sudden disruptions in social and economic activity affect water and pollution flows. The aim of this study is to assess the short- and medium-term impacts of the COVID-19 pan-demic on water abstraction, water consumption, wastewater discharge, and air pollutant emissions in Lithuania. National datasets from 2014 to 2024 (water and wastewater) and 2017–2023 (air emissions) were analyzed to quantify sectoral shifts, evaluate wastewater treatment resilience, and determine whether emission reductions were temporary or structural. The results show that total water abstraction increased in 2020–2021, mainly due to intensified activity in the energy sector, while domestic and agricultural water use rose due to remote work and increased hygiene practices. Wastewater volumes increased, particularly technological flows, but treated wastewater also grew, indicating system stability. Most atmospheric pollutants decreased in 2020, followed…",
-    "body": "Abstract In recent years, interconnected crises, including the COVID-19 pandemic, the energy crisis, and climate change have reshaped resource use patterns and environmental pressures. The pandemic created a socio-economic “natural experiment” to evaluate how sudden disruptions in social and economic activity affect water and pollution flows. The aim of this study is to assess the short- and medium-term impacts of the COVID-19 pan-demic on water abstraction, water consumption, wastewater discharge, and air pollutant emissions in Lithuania. National datasets from 2014 to 2024 (water and wastewater) and 2017–2023 (air emissions) were analyzed to quantify sectoral shifts, evaluate wastewater treatment resilience, and determine whether emission reductions were temporary or structural. The results show that total water abstraction increased in 2020–2021, mainly due to intensified activity in the energy sector, while domestic and agricultural water use rose due to remote work and increased hygiene practices. Wastewater volumes increased, particularly technological flows, but treated wastewater also grew, indicating system stability. Most atmospheric pollutants decreased in 2020, followed…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "DOI",
-    "journal": "{'publisher': 'Research Square', 'yearOfPublication': 2026}",
-    "authors": [
-      "Cesoniene L",
-      "Sileikiene D",
-      "Simanaviciute R",
-      "Janušauskas M."
-    ],
-    "sourceUrl": "https://doi.org/10.21203/rs.3.rs-9438172/v1",
-    "doi": "10.21203/rs.3.rs-9438172/v1",
-    "pmid": ""
   },
   {
     "id": "medicine-607120e4a2",
@@ -694,62 +859,6 @@
     "pmid": "42381035"
   },
   {
-    "id": "neuroscience-c9881afe79",
-    "title": "Variations of global brain asymmetry are associated with aging and related diseases.",
-    "originalTitle": "Variations of global brain asymmetry are associated with aging and related diseases.",
-    "category": "Neuroscience",
-    "date": "2026-07-01",
-    "dateISO": "2026-07-01",
-    "displayDate": "Jul 1, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/neuro.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Lateralization is a hallmark of brain organization, yet the structural basis underlying this phenomenon remains a critical, unresolved question in cognitive and systems neuroscience.",
-    "excerpt": "Lateralization is a hallmark of brain organization, yet the structural basis underlying this phenomenon remains a critical, unresolved question in cognitive and systems neuroscience.",
-    "summary": "This recent study explores variations of global brain asymmetry are associated with aging and related diseases.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Lateralization is a hallmark of brain organization, yet the structural basis underlying this phenomenon remains a critical, unresolved question in cognitive and systems neuroscience. In this study, we applied multivariate machine learning techniques to investigate variations of global brain asymmetry and their associations with cognitive functions, aging, and aging-related diseases, using large-scale datasets. Our findings revealed substantial and previously unknown structural differences between the hemispheres, and established key associations between structural asymmetries and lateralized functions. At the population level, we identified unique aging trajectories of hemispheric differences and uncovered diagnosis-specific variations in patients with Alzheimer's and Parkinson's disease, and in APOE ε4 carriers at genetic risk. Notably, we identified a \"left hemi-aging\" pattern that challenges the conventional \"right hemi-aging\" model. Together, these results advance our understanding of functional lateralization in the human brain and highlight the potential of global brain asymmetry as a biomarker for brain aging and related diseases.",
-    "body": "Lateralization is a hallmark of brain organization, yet the structural basis underlying this phenomenon remains a critical, unresolved question in cognitive and systems neuroscience. In this study, we applied multivariate machine learning techniques to investigate variations of global brain asymmetry and their associations with cognitive functions, aging, and aging-related diseases, using large-scale datasets. Our findings revealed substantial and previously unknown structural differences between the hemispheres, and established key associations between structural asymmetries and lateralized functions. At the population level, we identified unique aging trajectories of hemispheric differences and uncovered diagnosis-specific variations in patients with Alzheimer's and Parkinson's disease, and in APOE ε4 carriers at genetic risk. Notably, we identified a \"left hemi-aging\" pattern that challenges the conventional \"right hemi-aging\" model. Together, these results advance our understanding of functional lateralization in the human brain and highlight the potential of global brain asymmetry as a biomarker for brain aging and related diseases.",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "biomarker",
-        "explanation": "A measurable signal in the body that can help indicate a disease, risk, or treatment response."
-      },
-      {
-        "term": "machine learning",
-        "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Hu H",
-      "Guo D",
-      "Pu Y",
-      "Abuduaini Y",
-      "Wang X",
-      "Francks C",
-      "Thompson PM",
-      "Kong XZ."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42384796/",
-    "doi": "10.1126/sciadv.adu9309",
-    "pmid": "42384796"
-  },
-  {
     "id": "ai-computer-science-8197082146",
     "title": "A Narrative Review of Artificial Intelligence for Drug Repurposing: Lessons From COVID-19 and Oncology (2020-2025).",
     "originalTitle": "A Narrative Review of Artificial Intelligence for Drug Repurposing: Lessons From COVID-19 and Oncology (2020-2025).",
@@ -853,132 +962,24 @@
     "pmid": "42082163"
   },
   {
-    "id": "ai-computer-science-a7c48dae90",
-    "title": "AI-Driven Design Platforms of Next-Generation Antibody Therapeutics.",
-    "originalTitle": "AI-Driven Design Platforms of Next-Generation Antibody Therapeutics.",
-    "category": "AI & Computer Science",
-    "date": "2026-06-30",
-    "dateISO": "2026-06-30",
-    "displayDate": "Jun 30, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/AI.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Artificial intelligence (AI) is reshaping drug discovery by bridging the gap between traditional computer-aided drug design (CADD) and next-generation, data-driven methodologies.",
-    "excerpt": "Artificial intelligence (AI) is reshaping drug discovery by bridging the gap between traditional computer-aided drug design (CADD) and next-generation, data-driven methodologies.",
-    "summary": "This recent study explores ai-driven design platforms of next-generation antibody therapeutics.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Artificial intelligence (AI) is reshaping drug discovery by bridging the gap between traditional computer-aided drug design (CADD) and next-generation, data-driven methodologies. Unlike conventional CADD, which relies on physical modelling of molecular interactions, AI integrates machine learning (ML) and deep learning (DL) to leverage rapidly expanding datasets in biology and chemistry. These approaches enable efficient prediction of molecular structures, binding affinities, and pharmacological properties, thereby reducing both time and cost in drug development. The impact is particularly profound in the design of protein therapeutics, such as antibodies, which require accurate modelling of complex structures and interactions. Emerging AI frameworks, including generative adversarial networks (GANs), reinforcement learning (RL), and multi-omics integration, are accelerating target identification, optimizing lead candidates, and refining pharmacokinetic and biophysical profiles. In this review, we highlight recent advances at the interface of AI and antibody drug discovery, discuss key methodological developments, and examine the challenges that remain in translating AI-driven strat…",
-    "body": "Artificial intelligence (AI) is reshaping drug discovery by bridging the gap between traditional computer-aided drug design (CADD) and next-generation, data-driven methodologies. Unlike conventional CADD, which relies on physical modelling of molecular interactions, AI integrates machine learning (ML) and deep learning (DL) to leverage rapidly expanding datasets in biology and chemistry. These approaches enable efficient prediction of molecular structures, binding affinities, and pharmacological properties, thereby reducing both time and cost in drug development. The impact is particularly profound in the design of protein therapeutics, such as antibodies, which require accurate modelling of complex structures and interactions. Emerging AI frameworks, including generative adversarial networks (GANs), reinforcement learning (RL), and multi-omics integration, are accelerating target identification, optimizing lead candidates, and refining pharmacokinetic and biophysical profiles. In this review, we highlight recent advances at the interface of AI and antibody drug discovery, discuss key methodological developments, and examine the challenges that remain in translating AI-driven strat…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "machine learning",
-        "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Wang Y",
-      "Saba A",
-      "Ran Y",
-      "Shehzadi K",
-      "Zhang Q",
-      "Liang J",
-      "Yu M."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42377676/",
-    "doi": "10.1007/s41061-026-00554-y",
-    "pmid": "42377676"
-  },
-  {
-    "id": "ai-computer-science-8f7a620d87",
-    "title": "Deep learning and machine learning in image-based hepatocellular carcinoma detection: a systematic review and meta-analysis.",
-    "originalTitle": "Deep learning and machine learning in image-based hepatocellular carcinoma detection: a systematic review and meta-analysis.",
-    "category": "AI & Computer Science",
-    "date": "2026-06-30",
-    "dateISO": "2026-06-30",
-    "displayDate": "Jun 30, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/AI.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Background Early detection and management are essential in hepatocellular carcinoma (HCC) care.",
-    "excerpt": "Background Early detection and management are essential in hepatocellular carcinoma (HCC) care.",
-    "summary": "This recent study explores deep learning and machine learning in image-based hepatocellular carcinoma detection: a systematic review and meta-analysis.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Background Early detection and management are essential in hepatocellular carcinoma (HCC) care. Artificial intelligence (AI) is enhancing the precision and efficiency of diagnostic imaging for liver tumor assessment. Objective This study aimed to characterize the diagnostic performance of AI algorithms for detecting HCC via systematic review and meta-analysis. Methods A systematic literature search was conducted in PubMed, Embase, Cochrane, Web of Science, and IEEE Xplore Digital Library in November 2024 to identify studies evaluating AI algorithms for detecting HCC. Diagnostic performance data from the included studies were pooled via meta-analysis and compared against human clinicians (11 studies). Subgroup analyses were conducted based on classification task (binary classification tasks (BCTs) vs. multi-class classification tasks (MCCTs)), validation type, algorithmic approach (deep learning (DL) vs. machine learning (ML)), and imaging modality (ultrasound (US), computed tomography (CT), or magnetic resonance imaging (MRI)). Results Forty-one studies evaluating AI-based diagnostic models were included. The pooled sensitivity (SEN), specificity (SPC), and area under the curve (AU…",
-    "body": "Background Early detection and management are essential in hepatocellular carcinoma (HCC) care. Artificial intelligence (AI) is enhancing the precision and efficiency of diagnostic imaging for liver tumor assessment. Objective This study aimed to characterize the diagnostic performance of AI algorithms for detecting HCC via systematic review and meta-analysis. Methods A systematic literature search was conducted in PubMed, Embase, Cochrane, Web of Science, and IEEE Xplore Digital Library in November 2024 to identify studies evaluating AI algorithms for detecting HCC. Diagnostic performance data from the included studies were pooled via meta-analysis and compared against human clinicians (11 studies). Subgroup analyses were conducted based on classification task (binary classification tasks (BCTs) vs. multi-class classification tasks (MCCTs)), validation type, algorithmic approach (deep learning (DL) vs. machine learning (ML)), and imaging modality (ultrasound (US), computed tomography (CT), or magnetic resonance imaging (MRI)). Results Forty-one studies evaluating AI-based diagnostic models were included. The pooled sensitivity (SEN), specificity (SPC), and area under the curve (AU…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "machine learning",
-        "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Wang J",
-      "Bai J",
-      "Wang Y",
-      "Wang C",
-      "Deng H."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42377542/",
-    "doi": "10.1007/s00261-026-05627-6",
-    "pmid": "42377542"
-  },
-  {
-    "id": "neuroscience-872b42ff56",
-    "title": "Olfactory Perception and Neural Rhythms: A Simulation-Based EEG Analysis Using Power Spectral Density FeaturesOlfactory perception and neural rhythms: a simulation-based eeg analysis using power spectral density features.",
-    "originalTitle": "Olfactory Perception and Neural Rhythms: A Simulation-Based EEG Analysis Using Power Spectral Density FeaturesOlfactory perception and neural rhythms: a simulation-based eeg analysis using power spectral density features.",
+    "id": "neuroscience-c9881afe79",
+    "title": "Variations of global brain asymmetry are associated with aging and related diseases.",
+    "originalTitle": "Variations of global brain asymmetry are associated with aging and related diseases.",
     "category": "Neuroscience",
-    "date": "2026-06-30",
-    "dateISO": "2026-06-30",
-    "displayDate": "Jun 30, 2026",
+    "date": "2026-07-01",
+    "dateISO": "2026-07-01",
+    "displayDate": "Jul 1, 2026",
     "readTime": 3,
     "difficulty": "Intermediate",
     "image": "RUimages/neuro.jpg",
     "imageSearchQuery": "",
     "imageAltText": "",
     "imageCaption": "",
-    "blurb": "The human ability to smell functions as a critical cognitive function because it enables people to detect their surroundings while experiencing feelings and recalling memories and making choices.",
-    "excerpt": "The human ability to smell functions as a critical cognitive function because it enables people to detect their surroundings while experiencing feelings and recalling memories and making choices.",
-    "summary": "This recent study explores olfactory perception and neural rhythms: a simulation-based eeg analysis using power spectral density featuresolfactory perception and neural rhythms: a simulation-based eeg analysis using power spectral density features.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "The human ability to smell functions as a critical cognitive function because it enables people to detect their surroundings while experiencing feelings and recalling memories and making choices. Researchers face difficulties when they use electroencephalography (EEG) to study how the brain responds to smells because olfactory brain signals produce low signal-to-noise ratios and different people show different response patterns and researchers lack established olfactory EEG databases for their studies. The study proposes a simulation-based framework which enables researchers to study olfactory EEG signals through power spectral density (PSD) analysis. The research team created a simulated olfactory EEG dataset which simulated the responses of fifty virtual participants who experienced two distinct odor categories of pleasant rose and unpleasant rotten at three different concentration levels of low medium and high to create six separate olfactory conditions. The simulated EEG signals included 45 channels which recorded data at a 256 Hz sampling rate. Welch's method estimated PSD features for five canonical EEG frequency bands which included delta theta alpha beta and gamma after the…",
-    "body": "The human ability to smell functions as a critical cognitive function because it enables people to detect their surroundings while experiencing feelings and recalling memories and making choices. Researchers face difficulties when they use electroencephalography (EEG) to study how the brain responds to smells because olfactory brain signals produce low signal-to-noise ratios and different people show different response patterns and researchers lack established olfactory EEG databases for their studies. The study proposes a simulation-based framework which enables researchers to study olfactory EEG signals through power spectral density (PSD) analysis. The research team created a simulated olfactory EEG dataset which simulated the responses of fifty virtual participants who experienced two distinct odor categories of pleasant rose and unpleasant rotten at three different concentration levels of low medium and high to create six separate olfactory conditions. The simulated EEG signals included 45 channels which recorded data at a 256 Hz sampling rate. Welch's method estimated PSD features for five canonical EEG frequency bands which included delta theta alpha beta and gamma after the…",
+    "blurb": "Lateralization is a hallmark of brain organization, yet the structural basis underlying this phenomenon remains a critical, unresolved question in cognitive and systems neuroscience.",
+    "excerpt": "Lateralization is a hallmark of brain organization, yet the structural basis underlying this phenomenon remains a critical, unresolved question in cognitive and systems neuroscience.",
+    "summary": "This recent study explores variations of global brain asymmetry are associated with aging and related diseases.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Lateralization is a hallmark of brain organization, yet the structural basis underlying this phenomenon remains a critical, unresolved question in cognitive and systems neuroscience. In this study, we applied multivariate machine learning techniques to investigate variations of global brain asymmetry and their associations with cognitive functions, aging, and aging-related diseases, using large-scale datasets. Our findings revealed substantial and previously unknown structural differences between the hemispheres, and established key associations between structural asymmetries and lateralized functions. At the population level, we identified unique aging trajectories of hemispheric differences and uncovered diagnosis-specific variations in patients with Alzheimer's and Parkinson's disease, and in APOE ε4 carriers at genetic risk. Notably, we identified a \"left hemi-aging\" pattern that challenges the conventional \"right hemi-aging\" model. Together, these results advance our understanding of functional lateralization in the human brain and highlight the potential of global brain asymmetry as a biomarker for brain aging and related diseases.",
+    "body": "Lateralization is a hallmark of brain organization, yet the structural basis underlying this phenomenon remains a critical, unresolved question in cognitive and systems neuroscience. In this study, we applied multivariate machine learning techniques to investigate variations of global brain asymmetry and their associations with cognitive functions, aging, and aging-related diseases, using large-scale datasets. Our findings revealed substantial and previously unknown structural differences between the hemispheres, and established key associations between structural asymmetries and lateralized functions. At the population level, we identified unique aging trajectories of hemispheric differences and uncovered diagnosis-specific variations in patients with Alzheimer's and Parkinson's disease, and in APOE ε4 carriers at genetic risk. Notably, we identified a \"left hemi-aging\" pattern that challenges the conventional \"right hemi-aging\" model. Together, these results advance our understanding of functional lateralization in the human brain and highlight the potential of global brain asymmetry as a biomarker for brain aging and related diseases.",
     "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
     "keyTakeaways": [
       "The study addresses a recent question in science or medicine.",
@@ -988,8 +989,64 @@
     "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
     "scientificTerms": [
       {
-        "term": "neural",
-        "explanation": "Related to nerves, neurons, or the brain’s communication system."
+        "term": "biomarker",
+        "explanation": "A measurable signal in the body that can help indicate a disease, risk, or treatment response."
+      },
+      {
+        "term": "machine learning",
+        "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Hu H",
+      "Guo D",
+      "Pu Y",
+      "Abuduaini Y",
+      "Wang X",
+      "Francks C",
+      "Thompson PM",
+      "Kong XZ."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42384796/",
+    "doi": "10.1126/sciadv.adu9309",
+    "pmid": "42384796"
+  },
+  {
+    "id": "environment-614900333d",
+    "title": "Skin health and climate change in Africa: an overlooked intersection and call for action.",
+    "originalTitle": "Skin health and climate change in Africa: an overlooked intersection and call for action.",
+    "category": "Environment",
+    "date": "2026-07-01",
+    "dateISO": "2026-07-01",
+    "displayDate": "Jul 1, 2026",
+    "readTime": 3,
+    "difficulty": "Beginner",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Climate and environmental change are increasingly affecting skin health across Africa, but this remains under-recognised in global health discussions.",
+    "excerpt": "Climate and environmental change are increasingly affecting skin health across Africa, but this remains under-recognised in global health discussions.",
+    "summary": "This recent study explores skin health and climate change in africa: an overlooked intersection and call for action.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Climate and environmental change are increasingly affecting skin health across Africa, but this remains under-recognised in global health discussions. Rising temperatures, ultraviolet radiation, pollution, flooding, deforestation, and droughts are reshaping the epidemiology of many cutaneous infections, inflammatory conditions, and malignancies. Unregulated cosmetic and antiseptic skincare products further compound both cutaneous and environmental harm. Addressing these emerging challenges is essential for health equity and resilience across the continent's rapidly evolving landscape. The recent World Health Assembly resolution on skin diseases as a global public health priority affirms this need to include dermatology and skin health in climate and environmental health policies.",
+    "body": "Climate and environmental change are increasingly affecting skin health across Africa, but this remains under-recognised in global health discussions. Rising temperatures, ultraviolet radiation, pollution, flooding, deforestation, and droughts are reshaping the epidemiology of many cutaneous infections, inflammatory conditions, and malignancies. Unregulated cosmetic and antiseptic skincare products further compound both cutaneous and environmental harm. Addressing these emerging challenges is essential for health equity and resilience across the continent's rapidly evolving landscape. The recent World Health Assembly resolution on skin diseases as a global public health priority affirms this need to include dermatology and skin health in climate and environmental health policies.",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
       },
       {
         "term": "peer review",
@@ -1003,11 +1060,15 @@
     "sourceName": "PubMed",
     "journal": "",
     "authors": [
-      "S V A."
+      "Cole-Adeife OM",
+      "Akinkugbe AO",
+      "Ayanlowo OO",
+      "Akingbola A",
+      "Onunu AN."
     ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42389048/",
-    "doi": "10.1007/s11571-026-10478-4",
-    "pmid": "42389048"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41408949/",
+    "doi": "10.1093/inthealth/ihaf147",
+    "pmid": "41408949"
   },
   {
     "id": "public-health-d8ad437327",
@@ -1064,6 +1125,163 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42380961/",
     "doi": "10.1186/s12916-026-05041-1",
     "pmid": "42380961"
+  },
+  {
+    "id": "ai-computer-science-a7c48dae90",
+    "title": "AI-Driven Design Platforms of Next-Generation Antibody Therapeutics.",
+    "originalTitle": "AI-Driven Design Platforms of Next-Generation Antibody Therapeutics.",
+    "category": "AI & Computer Science",
+    "date": "2026-06-30",
+    "dateISO": "2026-06-30",
+    "displayDate": "Jun 30, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/AI.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Artificial intelligence (AI) is reshaping drug discovery by bridging the gap between traditional computer-aided drug design (CADD) and next-generation, data-driven methodologies.",
+    "excerpt": "Artificial intelligence (AI) is reshaping drug discovery by bridging the gap between traditional computer-aided drug design (CADD) and next-generation, data-driven methodologies.",
+    "summary": "This recent study explores ai-driven design platforms of next-generation antibody therapeutics.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Artificial intelligence (AI) is reshaping drug discovery by bridging the gap between traditional computer-aided drug design (CADD) and next-generation, data-driven methodologies. Unlike conventional CADD, which relies on physical modelling of molecular interactions, AI integrates machine learning (ML) and deep learning (DL) to leverage rapidly expanding datasets in biology and chemistry. These approaches enable efficient prediction of molecular structures, binding affinities, and pharmacological properties, thereby reducing both time and cost in drug development. The impact is particularly profound in the design of protein therapeutics, such as antibodies, which require accurate modelling of complex structures and interactions. Emerging AI frameworks, including generative adversarial networks (GANs), reinforcement learning (RL), and multi-omics integration, are accelerating target identification, optimizing lead candidates, and refining pharmacokinetic and biophysical profiles. In this review, we highlight recent advances at the interface of AI and antibody drug discovery, discuss key methodological developments, and examine the challenges that remain in translating AI-driven strat…",
+    "body": "Artificial intelligence (AI) is reshaping drug discovery by bridging the gap between traditional computer-aided drug design (CADD) and next-generation, data-driven methodologies. Unlike conventional CADD, which relies on physical modelling of molecular interactions, AI integrates machine learning (ML) and deep learning (DL) to leverage rapidly expanding datasets in biology and chemistry. These approaches enable efficient prediction of molecular structures, binding affinities, and pharmacological properties, thereby reducing both time and cost in drug development. The impact is particularly profound in the design of protein therapeutics, such as antibodies, which require accurate modelling of complex structures and interactions. Emerging AI frameworks, including generative adversarial networks (GANs), reinforcement learning (RL), and multi-omics integration, are accelerating target identification, optimizing lead candidates, and refining pharmacokinetic and biophysical profiles. In this review, we highlight recent advances at the interface of AI and antibody drug discovery, discuss key methodological developments, and examine the challenges that remain in translating AI-driven strat…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "machine learning",
+        "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Wang Y",
+      "Saba A",
+      "Ran Y",
+      "Shehzadi K",
+      "Zhang Q",
+      "Liang J",
+      "Yu M."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42377676/",
+    "doi": "10.1007/s41061-026-00554-y",
+    "pmid": "42377676"
+  },
+  {
+    "id": "neuroscience-872b42ff56",
+    "title": "Olfactory Perception and Neural Rhythms: A Simulation-Based EEG Analysis Using Power Spectral Density FeaturesOlfactory perception and neural rhythms: a simulation-based eeg analysis using power spectral density features.",
+    "originalTitle": "Olfactory Perception and Neural Rhythms: A Simulation-Based EEG Analysis Using Power Spectral Density FeaturesOlfactory perception and neural rhythms: a simulation-based eeg analysis using power spectral density features.",
+    "category": "Neuroscience",
+    "date": "2026-06-30",
+    "dateISO": "2026-06-30",
+    "displayDate": "Jun 30, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/neuro.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "The human ability to smell functions as a critical cognitive function because it enables people to detect their surroundings while experiencing feelings and recalling memories and making choices.",
+    "excerpt": "The human ability to smell functions as a critical cognitive function because it enables people to detect their surroundings while experiencing feelings and recalling memories and making choices.",
+    "summary": "This recent study explores olfactory perception and neural rhythms: a simulation-based eeg analysis using power spectral density featuresolfactory perception and neural rhythms: a simulation-based eeg analysis using power spectral density features.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "The human ability to smell functions as a critical cognitive function because it enables people to detect their surroundings while experiencing feelings and recalling memories and making choices. Researchers face difficulties when they use electroencephalography (EEG) to study how the brain responds to smells because olfactory brain signals produce low signal-to-noise ratios and different people show different response patterns and researchers lack established olfactory EEG databases for their studies. The study proposes a simulation-based framework which enables researchers to study olfactory EEG signals through power spectral density (PSD) analysis. The research team created a simulated olfactory EEG dataset which simulated the responses of fifty virtual participants who experienced two distinct odor categories of pleasant rose and unpleasant rotten at three different concentration levels of low medium and high to create six separate olfactory conditions. The simulated EEG signals included 45 channels which recorded data at a 256 Hz sampling rate. Welch's method estimated PSD features for five canonical EEG frequency bands which included delta theta alpha beta and gamma after the…",
+    "body": "The human ability to smell functions as a critical cognitive function because it enables people to detect their surroundings while experiencing feelings and recalling memories and making choices. Researchers face difficulties when they use electroencephalography (EEG) to study how the brain responds to smells because olfactory brain signals produce low signal-to-noise ratios and different people show different response patterns and researchers lack established olfactory EEG databases for their studies. The study proposes a simulation-based framework which enables researchers to study olfactory EEG signals through power spectral density (PSD) analysis. The research team created a simulated olfactory EEG dataset which simulated the responses of fifty virtual participants who experienced two distinct odor categories of pleasant rose and unpleasant rotten at three different concentration levels of low medium and high to create six separate olfactory conditions. The simulated EEG signals included 45 channels which recorded data at a 256 Hz sampling rate. Welch's method estimated PSD features for five canonical EEG frequency bands which included delta theta alpha beta and gamma after the…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "neural",
+        "explanation": "Related to nerves, neurons, or the brain’s communication system."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "S V A."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42389048/",
+    "doi": "10.1007/s11571-026-10478-4",
+    "pmid": "42389048"
+  },
+  {
+    "id": "ai-computer-science-8f7a620d87",
+    "title": "Deep learning and machine learning in image-based hepatocellular carcinoma detection: a systematic review and meta-analysis.",
+    "originalTitle": "Deep learning and machine learning in image-based hepatocellular carcinoma detection: a systematic review and meta-analysis.",
+    "category": "AI & Computer Science",
+    "date": "2026-06-30",
+    "dateISO": "2026-06-30",
+    "displayDate": "Jun 30, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/AI.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Background Early detection and management are essential in hepatocellular carcinoma (HCC) care.",
+    "excerpt": "Background Early detection and management are essential in hepatocellular carcinoma (HCC) care.",
+    "summary": "This recent study explores deep learning and machine learning in image-based hepatocellular carcinoma detection: a systematic review and meta-analysis.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Background Early detection and management are essential in hepatocellular carcinoma (HCC) care. Artificial intelligence (AI) is enhancing the precision and efficiency of diagnostic imaging for liver tumor assessment. Objective This study aimed to characterize the diagnostic performance of AI algorithms for detecting HCC via systematic review and meta-analysis. Methods A systematic literature search was conducted in PubMed, Embase, Cochrane, Web of Science, and IEEE Xplore Digital Library in November 2024 to identify studies evaluating AI algorithms for detecting HCC. Diagnostic performance data from the included studies were pooled via meta-analysis and compared against human clinicians (11 studies). Subgroup analyses were conducted based on classification task (binary classification tasks (BCTs) vs. multi-class classification tasks (MCCTs)), validation type, algorithmic approach (deep learning (DL) vs. machine learning (ML)), and imaging modality (ultrasound (US), computed tomography (CT), or magnetic resonance imaging (MRI)). Results Forty-one studies evaluating AI-based diagnostic models were included. The pooled sensitivity (SEN), specificity (SPC), and area under the curve (AU…",
+    "body": "Background Early detection and management are essential in hepatocellular carcinoma (HCC) care. Artificial intelligence (AI) is enhancing the precision and efficiency of diagnostic imaging for liver tumor assessment. Objective This study aimed to characterize the diagnostic performance of AI algorithms for detecting HCC via systematic review and meta-analysis. Methods A systematic literature search was conducted in PubMed, Embase, Cochrane, Web of Science, and IEEE Xplore Digital Library in November 2024 to identify studies evaluating AI algorithms for detecting HCC. Diagnostic performance data from the included studies were pooled via meta-analysis and compared against human clinicians (11 studies). Subgroup analyses were conducted based on classification task (binary classification tasks (BCTs) vs. multi-class classification tasks (MCCTs)), validation type, algorithmic approach (deep learning (DL) vs. machine learning (ML)), and imaging modality (ultrasound (US), computed tomography (CT), or magnetic resonance imaging (MRI)). Results Forty-one studies evaluating AI-based diagnostic models were included. The pooled sensitivity (SEN), specificity (SPC), and area under the curve (AU…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "machine learning",
+        "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Wang J",
+      "Bai J",
+      "Wang Y",
+      "Wang C",
+      "Deng H."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42377542/",
+    "doi": "10.1007/s00261-026-05627-6",
+    "pmid": "42377542"
   },
   {
     "id": "biomedical-engineering-34013cacd6",
@@ -1499,6 +1717,56 @@
     "pmid": "42347558"
   },
   {
+    "id": "biomedical-engineering-174e4edc80",
+    "title": "Hydrogels in medicine and biotechnology.",
+    "originalTitle": "Hydrogels in medicine and biotechnology.",
+    "category": "Biomedical Engineering",
+    "date": "2026-06-25",
+    "dateISO": "2026-06-25",
+    "displayDate": "Jun 25, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/prosthetic.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Hydrogels are crosslinked polymer networks with a large amount of water; hydrogels can be found naturally, such as collagen and gelatin, or can be made synthetically.",
+    "excerpt": "Hydrogels are crosslinked polymer networks with a large amount of water; hydrogels can be found naturally, such as collagen and gelatin, or can be made synthetically.",
+    "summary": "This recent study explores hydrogels in medicine and biotechnology.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Hydrogels are crosslinked polymer networks with a large amount of water; hydrogels can be found naturally, such as collagen and gelatin, or can be made synthetically. The latter are nowadays more in demand due to their higher water absorption capacity and long service life; their tunable properties and versatile fabrication methods have been exploited in a variety of engineering applications, including sensing technologies and drug screening. Because of their similar characteristics to soft biological tissues, hydrogels have also been the focus of research in the biomaterials community and have been studied for their use in biomedical applications such as tissue engineering and regenerative medicine. This Collection on hydrogels highlights some exciting hydrogel developments and applications.",
+    "body": "Hydrogels are crosslinked polymer networks with a large amount of water; hydrogels can be found naturally, such as collagen and gelatin, or can be made synthetically. The latter are nowadays more in demand due to their higher water absorption capacity and long service life; their tunable properties and versatile fabrication methods have been exploited in a variety of engineering applications, including sensing technologies and drug screening. Because of their similar characteristics to soft biological tissues, hydrogels have also been the focus of research in the biomaterials community and have been studied for their use in biomedical applications such as tissue engineering and regenerative medicine. This Collection on hydrogels highlights some exciting hydrogel developments and applications.",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Zustiak SP",
+      "Bates J."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42342752/",
+    "doi": "10.1038/s41598-026-56527-0",
+    "pmid": "42342752"
+  },
+  {
     "id": "neuroscience-2b6e097552",
     "title": "Advances in the Application of Brain-Computer Interface-Based Neurofeedback Training in the Rehabilitation of Patients with Major Depressive Disorder.",
     "originalTitle": "Advances in the Application of Brain-Computer Interface-Based Neurofeedback Training in the Rehabilitation of Patients with Major Depressive Disorder.",
@@ -1550,56 +1818,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42381831/",
     "doi": "10.2147/ndt.s609788",
     "pmid": "42381831"
-  },
-  {
-    "id": "biomedical-engineering-174e4edc80",
-    "title": "Hydrogels in medicine and biotechnology.",
-    "originalTitle": "Hydrogels in medicine and biotechnology.",
-    "category": "Biomedical Engineering",
-    "date": "2026-06-25",
-    "dateISO": "2026-06-25",
-    "displayDate": "Jun 25, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/prosthetic.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Hydrogels are crosslinked polymer networks with a large amount of water; hydrogels can be found naturally, such as collagen and gelatin, or can be made synthetically.",
-    "excerpt": "Hydrogels are crosslinked polymer networks with a large amount of water; hydrogels can be found naturally, such as collagen and gelatin, or can be made synthetically.",
-    "summary": "This recent study explores hydrogels in medicine and biotechnology.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Hydrogels are crosslinked polymer networks with a large amount of water; hydrogels can be found naturally, such as collagen and gelatin, or can be made synthetically. The latter are nowadays more in demand due to their higher water absorption capacity and long service life; their tunable properties and versatile fabrication methods have been exploited in a variety of engineering applications, including sensing technologies and drug screening. Because of their similar characteristics to soft biological tissues, hydrogels have also been the focus of research in the biomaterials community and have been studied for their use in biomedical applications such as tissue engineering and regenerative medicine. This Collection on hydrogels highlights some exciting hydrogel developments and applications.",
-    "body": "Hydrogels are crosslinked polymer networks with a large amount of water; hydrogels can be found naturally, such as collagen and gelatin, or can be made synthetically. The latter are nowadays more in demand due to their higher water absorption capacity and long service life; their tunable properties and versatile fabrication methods have been exploited in a variety of engineering applications, including sensing technologies and drug screening. Because of their similar characteristics to soft biological tissues, hydrogels have also been the focus of research in the biomaterials community and have been studied for their use in biomedical applications such as tissue engineering and regenerative medicine. This Collection on hydrogels highlights some exciting hydrogel developments and applications.",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Zustiak SP",
-      "Bates J."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42342752/",
-    "doi": "10.1038/s41598-026-56527-0",
-    "pmid": "42342752"
   },
   {
     "id": "genetics-463fc4317f",
@@ -1712,57 +1930,6 @@
     "pmid": "42341907"
   },
   {
-    "id": "ai-computer-science-fdd3fa6163",
-    "title": "Enhanced Prediction of Gut Microbiome–Related Diseases Using Hybrid Machine Learning Models",
-    "originalTitle": "Enhanced Prediction of Gut Microbiome–Related Diseases Using Hybrid Machine Learning Models",
-    "category": "AI & Computer Science",
-    "date": "2026-06-24",
-    "dateISO": "2026-06-24",
-    "displayDate": "Jun 24, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/AI.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "The human gut, containing 100 trillion microbes, is also considered the “second brain,” having control over the different functions of the physiological system.",
-    "excerpt": "The human gut, containing 100 trillion microbes, is also considered the “second brain,” having control over the different functions of the physiological system.",
-    "summary": "This recent study explores enhanced prediction of gut microbiome–related diseases using hybrid machine learning models. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "The human gut, containing 100 trillion microbes, is also considered the “second brain,” having control over the different functions of the physiological system. With advancements in bioinformatics and the development of sequencing technologies, researchers are able to explore the diversity and functional implications of gut microbiota (GM), which have become strongly associated with a variety of diseases. Microbial imbalance, or dysbiosis, acts as a biomarker for early detection and prognosis of a disease. Artificial Intelligence and Machine Learning (AI/ML) methods, although extensively used in predicting GM associated diseases, are seldom translated to having practical real-world outcomes, necessitating the design of robust AI/ML models applicable in real-world scenario. We have therefore come up with designing stacking-based ensemble architectures (EM1 and EM2), developed by integrating multiple ML-based learning algorithms for improving disease prediction accuracy. The GM datasets, after split into training and test sets, were eventually fed into the proposed two-layer ensemble models, which combines the output from standardized base learners via a meta-classifier, strengthenin…",
-    "body": "The human gut, containing 100 trillion microbes, is also considered the “second brain,” having control over the different functions of the physiological system. With advancements in bioinformatics and the development of sequencing technologies, researchers are able to explore the diversity and functional implications of gut microbiota (GM), which have become strongly associated with a variety of diseases. Microbial imbalance, or dysbiosis, acts as a biomarker for early detection and prognosis of a disease. Artificial Intelligence and Machine Learning (AI/ML) methods, although extensively used in predicting GM associated diseases, are seldom translated to having practical real-world outcomes, necessitating the design of robust AI/ML models applicable in real-world scenario. We have therefore come up with designing stacking-based ensemble architectures (EM1 and EM2), developed by integrating multiple ML-based learning algorithms for improving disease prediction accuracy. The GM datasets, after split into training and test sets, were eventually fed into the proposed two-layer ensemble models, which combines the output from standardized base learners via a meta-classifier, strengthenin…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "biomarker",
-        "explanation": "A measurable signal in the body that can help indicate a disease, risk, or treatment response."
-      },
-      {
-        "term": "machine learning",
-        "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
-      },
-      {
-        "term": "microbiome",
-        "explanation": "The community of bacteria and other microbes living in or on the body or environment."
-      }
-    ],
-    "sourceName": "DOI",
-    "journal": "{'publisher': 'bioRxiv', 'yearOfPublication': 2026}",
-    "authors": [
-      "Marisetti SA",
-      "Chatterjee P",
-      "Priyakumar UD."
-    ],
-    "sourceUrl": "https://doi.org/10.64898/2026.06.24.734177",
-    "doi": "10.64898/2026.06.24.734177",
-    "pmid": ""
-  },
-  {
     "id": "medicine-6f9c49d41a",
     "title": "Artificial intelligence-guided analysis of the tumor microenvironment predicts response to pembrolizumab in rare tumors.",
     "originalTitle": "Artificial intelligence-guided analysis of the tumor microenvironment predicts response to pembrolizumab in rare tumors.",
@@ -1872,108 +2039,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42334792/",
     "doi": "10.1007/s13668-026-00778-w",
     "pmid": "42334792"
-  },
-  {
-    "id": "neuroscience-2d7514f3e9",
-    "title": "Consent in flux: when brain‑computer interface embodiment undermines informed consent.",
-    "originalTitle": "Consent in flux: when brain‑computer interface embodiment undermines informed consent.",
-    "category": "Neuroscience",
-    "date": "2026-06-23",
-    "dateISO": "2026-06-23",
-    "displayDate": "Jun 23, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/neuro.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Background In March 2026, China approved the first invasive brain‑computer interface (BCI) for clinical use globally.",
-    "excerpt": "Background In March 2026, China approved the first invasive brain‑computer interface (BCI) for clinical use globally.",
-    "summary": "This recent study explores consent in flux: when brain‑computer interface embodiment undermines informed consent.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Background In March 2026, China approved the first invasive brain‑computer interface (BCI) for clinical use globally. While this milestone accelerates neurotechnology translation, it exposes a neglected ethical problem: in some long-term invasive BCI cases, participants who initially consent to later device explantation may subsequently develop functional dependence on, and phenomenological incorporation of, the device. This paper examines whether such post-implantation integration can weaken the continuing moral authority of initial consent to explantation. Methods This paper provides a normative analysis grounded in established bioethics concepts. We draw on theories of extended cognition and transformative experience, integrate findings from qualitative empirical studies of BCI user phenomenology, and engage with the neurorights discourse and Chinese regulatory developments. The analysis focuses on the moral authority of initial consent where long-term device integration may alter the participant's embodied agency, with particular attention to the implications for interpreting the right to withdraw from research. Results Transformative experience alone is not sufficient to disti…",
-    "body": "Background In March 2026, China approved the first invasive brain‑computer interface (BCI) for clinical use globally. While this milestone accelerates neurotechnology translation, it exposes a neglected ethical problem: in some long-term invasive BCI cases, participants who initially consent to later device explantation may subsequently develop functional dependence on, and phenomenological incorporation of, the device. This paper examines whether such post-implantation integration can weaken the continuing moral authority of initial consent to explantation. Methods This paper provides a normative analysis grounded in established bioethics concepts. We draw on theories of extended cognition and transformative experience, integrate findings from qualitative empirical studies of BCI user phenomenology, and engage with the neurorights discourse and Chinese regulatory developments. The analysis focuses on the moral authority of initial consent where long-term device integration may alter the participant's embodied agency, with particular attention to the implications for interpreting the right to withdraw from research. Results Transformative experience alone is not sufficient to disti…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Zhao Y",
-      "Lin Y."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42337555/",
-    "doi": "10.1186/s12910-026-01540-1",
-    "pmid": "42337555"
-  },
-  {
-    "id": "ai-computer-science-85cbc36a01",
-    "title": "Swarm Intelligence in Drug Discovery Applications: Unlocking Deeper Insights on the Identification and Optimization of Potential Drug Candidates.",
-    "originalTitle": "Swarm Intelligence in Drug Discovery Applications: Unlocking Deeper Insights on the Identification and Optimization of Potential Drug Candidates.",
-    "category": "AI & Computer Science",
-    "date": "2026-06-23",
-    "dateISO": "2026-06-23",
-    "displayDate": "Jun 23, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/AI.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Swarm-based analysis technology represents a class of computational approaches inspired by biological systems, such as bees or ants, to solve complex and high-dimensional problems through the collective behavior of inter…",
-    "excerpt": "Swarm-based analysis technology represents a class of computational approaches inspired by biological systems, such as bees or ants, to solve complex and high-dimensional problems through the collective behavior of inter…",
-    "summary": "This recent study explores swarm intelligence in drug discovery applications: unlocking deeper insights on the identification and optimization of potential drug candidates.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Swarm-based analysis technology represents a class of computational approaches inspired by biological systems, such as bees or ants, to solve complex and high-dimensional problems through the collective behavior of interacting agents. This review provides an overview of swarm intelligence methods in drug discovery, covering foundational concepts, major algorithms, and representative applications in molecular docking, drug screening, de novo molecular design, and combinatorial chemical space exploration. We summarize classical swarm-based approaches and discuss recent hybrid frameworks integrating swarm intelligence with machine learning, deep learning, and large language model (LLM)-based multi-agent systems. In addition to highlighting their potential for adaptive search and multi-objective optimization, we critically examine current limitations, including scalability, convergence reliability, parameter sensitivity, and computational cost in high-dimensional biomedical settings. We further emphasize that many emerging frameworks, particularly LLM-enhanced and multi-agent swarm systems, remain at an early stage and have not yet been extensively validated in real-world drug discover…",
-    "body": "Swarm-based analysis technology represents a class of computational approaches inspired by biological systems, such as bees or ants, to solve complex and high-dimensional problems through the collective behavior of interacting agents. This review provides an overview of swarm intelligence methods in drug discovery, covering foundational concepts, major algorithms, and representative applications in molecular docking, drug screening, de novo molecular design, and combinatorial chemical space exploration. We summarize classical swarm-based approaches and discuss recent hybrid frameworks integrating swarm intelligence with machine learning, deep learning, and large language model (LLM)-based multi-agent systems. In addition to highlighting their potential for adaptive search and multi-objective optimization, we critically examine current limitations, including scalability, convergence reliability, parameter sensitivity, and computational cost in high-dimensional biomedical settings. We further emphasize that many emerging frameworks, particularly LLM-enhanced and multi-agent swarm systems, remain at an early stage and have not yet been extensively validated in real-world drug discover…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "machine learning",
-        "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Gao Z",
-      "Ding P",
-      "Oguztuzun C",
-      "Xu R."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42369365/",
-    "doi": "10.2147/dddt.s561251",
-    "pmid": "42369365"
   },
   {
     "id": "women-s-health-60fb597d4d",
@@ -2294,62 +2359,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42321912/",
     "doi": "10.1186/s12986-026-01145-w",
     "pmid": "42321912"
-  },
-  {
-    "id": "neuroscience-f86141d8b8",
-    "title": "Male-Biased Social Deficits in Chd8&lt;sup&gt;+/R2219*&lt;/sup&gt; Mouse Model of Autism Linked to Hippocampal Abnormalities.",
-    "originalTitle": "Male-Biased Social Deficits in Chd8&lt;sup&gt;+/R2219*&lt;/sup&gt; Mouse Model of Autism Linked to Hippocampal Abnormalities.",
-    "category": "Neuroscience",
-    "date": "2026-06-19",
-    "dateISO": "2026-06-19",
-    "displayDate": "Jun 19, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/neuro.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Autism spectrum disorder (ASD) is a neurodevelopmental condition with a 4:1 male bias, yet the biological basis for this sex difference remains poorly understood.",
-    "excerpt": "Autism spectrum disorder (ASD) is a neurodevelopmental condition with a 4:1 male bias, yet the biological basis for this sex difference remains poorly understood.",
-    "summary": "This recent study explores male-biased social deficits in chd8&lt;sup&gt;+/r2219*&lt;/sup&gt; mouse model of autism linked to hippocampal abnormalities.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Autism spectrum disorder (ASD) is a neurodevelopmental condition with a 4:1 male bias, yet the biological basis for this sex difference remains poorly understood. Heterozygous mutations in the chromatin remodeler CHD8 confer high risk for ASD, with phenotypes influenced by sex and genetic background. Here, we generated Chd8 +/R2219* mice carrying a CRISPR-Cas9-generated mutation orthologous to a human variant. These mice recapitulated core ASD features, including macrocephaly and autistic-like behaviors. Notably, social deficits showed a male preponderance, directly mirroring the human sex bias. Structural magnetic resonance imaging (MRI) confirmed whole-brain enlargement in mutants, with voxel-based morphometry identifying bilateral hippocampal expansion. Crucially, hippocampal volume correlated with social deficit severity exclusively in male mutants. Functional connectivity analyses revealed disrupted hippocampal networks, and connectivity patterns within socially relevant circuits predicted behavioral outcomes. Together, our findings establish this model as exhibiting pronounced sexual dimorphism and implicate aberrant hippocampal structure and connectivity as key neural correl…",
-    "body": "Autism spectrum disorder (ASD) is a neurodevelopmental condition with a 4:1 male bias, yet the biological basis for this sex difference remains poorly understood. Heterozygous mutations in the chromatin remodeler CHD8 confer high risk for ASD, with phenotypes influenced by sex and genetic background. Here, we generated Chd8 +/R2219* mice carrying a CRISPR-Cas9-generated mutation orthologous to a human variant. These mice recapitulated core ASD features, including macrocephaly and autistic-like behaviors. Notably, social deficits showed a male preponderance, directly mirroring the human sex bias. Structural magnetic resonance imaging (MRI) confirmed whole-brain enlargement in mutants, with voxel-based morphometry identifying bilateral hippocampal expansion. Crucially, hippocampal volume correlated with social deficit severity exclusively in male mutants. Functional connectivity analyses revealed disrupted hippocampal networks, and connectivity patterns within socially relevant circuits predicted behavioral outcomes. Together, our findings establish this model as exhibiting pronounced sexual dimorphism and implicate aberrant hippocampal structure and connectivity as key neural correl…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "neural",
-        "explanation": "Related to nerves, neurons, or the brain’s communication system."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Zhang Q",
-      "Qiao Y",
-      "Li H",
-      "Zeng J",
-      "Chen J",
-      "Zhou H",
-      "Hu Y",
-      "Luo J."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42319573/",
-    "doi": "10.1007/s12264-026-01653-y",
-    "pmid": "42319573"
   },
   {
     "id": "nutrition-80eb9e9150",
