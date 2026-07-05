@@ -1,5 +1,168 @@
 [
   {
+    "id": "medicine-237eb6afc4",
+    "title": "Tumor-induced immune escape mechanisms and translational immunotherapeutic strategies.",
+    "originalTitle": "Tumor-induced immune escape mechanisms and translational immunotherapeutic strategies.",
+    "category": "Medicine",
+    "date": "2026-07-04",
+    "dateISO": "2026-07-04",
+    "displayDate": "Jul 4, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/prosthetic.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Tumor-induced immune evasion is a critical mechanism that promotes resistance to anticancer therapies and facilitates cancer progression.",
+    "excerpt": "Tumor-induced immune evasion is a critical mechanism that promotes resistance to anticancer therapies and facilitates cancer progression.",
+    "summary": "This recent study explores tumor-induced immune escape mechanisms and translational immunotherapeutic strategies.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Tumor-induced immune evasion is a critical mechanism that promotes resistance to anticancer therapies and facilitates cancer progression. Notwithstanding the emergence of immunotherapies, especially immune checkpoint inhibitors (ICIs) and adoptive cell therapies, several cancers show resistance against such therapeutic interventions by adopting various methods of immune evasion. These include alterations to the tumor microenvironment (TME), infiltration of immunosuppressive cells, overexpression of inhibitory checkpoint molecules, and modified antigen presentation. This study provides a comprehensive assessment of the cellular and molecular principles behind immune evasion, as well as novel and established strategies for its prevention. The mechanisms, clinical implications, and limitations of significant therapeutic modalities, including checkpoint blockade, CAR-T cell therapy, cancer vaccines, and oncolytic virotherapy, are addressed. Particular emphasis is placed on combinatorial approaches, TME reprogramming, and next-generation targets like LAG-3, TIM-3, and TIGIT. The research examines the potential of predictive biomarkers, including PD-L1, Tumor Mutational Burden (TMB), Mic…",
+    "body": "Tumor-induced immune evasion is a critical mechanism that promotes resistance to anticancer therapies and facilitates cancer progression. Notwithstanding the emergence of immunotherapies, especially immune checkpoint inhibitors (ICIs) and adoptive cell therapies, several cancers show resistance against such therapeutic interventions by adopting various methods of immune evasion. These include alterations to the tumor microenvironment (TME), infiltration of immunosuppressive cells, overexpression of inhibitory checkpoint molecules, and modified antigen presentation. This study provides a comprehensive assessment of the cellular and molecular principles behind immune evasion, as well as novel and established strategies for its prevention. The mechanisms, clinical implications, and limitations of significant therapeutic modalities, including checkpoint blockade, CAR-T cell therapy, cancer vaccines, and oncolytic virotherapy, are addressed. Particular emphasis is placed on combinatorial approaches, TME reprogramming, and next-generation targets like LAG-3, TIM-3, and TIGIT. The research examines the potential of predictive biomarkers, including PD-L1, Tumor Mutational Burden (TMB), Mic…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "biomarker",
+        "explanation": "A measurable signal in the body that can help indicate a disease, risk, or treatment response."
+      },
+      {
+        "term": "clinical trial",
+        "explanation": "A carefully designed study that tests a medical treatment or intervention in people."
+      },
+      {
+        "term": "microbiome",
+        "explanation": "The community of bacteria and other microbes living in or on the body or environment."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Yousefi M",
+      "Farahpour MR",
+      "Alizadeh N",
+      "Abedian A",
+      "Baradaran B."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42400696/",
+    "doi": "10.1007/s12672-026-05518-8",
+    "pmid": "42400696"
+  },
+  {
+    "id": "ai-computer-science-4ac01cad92",
+    "title": "Evaluation and Comparison of Latent Health Risk Prediction Models for Clinical Triage: Protocol for a Mixed Methods Study.",
+    "originalTitle": "Evaluation and Comparison of Latent Health Risk Prediction Models for Clinical Triage: Protocol for a Mixed Methods Study.",
+    "category": "AI & Computer Science",
+    "date": "2026-07-03",
+    "dateISO": "2026-07-03",
+    "displayDate": "Jul 3, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/AI.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Background Clinical triage requires integrating multiple information sources to identify patients at risk of deterioration.",
+    "excerpt": "Background Clinical triage requires integrating multiple information sources to identify patients at risk of deterioration.",
+    "summary": "This recent study explores evaluation and comparison of latent health risk prediction models for clinical triage: protocol for a mixed methods study.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Background Clinical triage requires integrating multiple information sources to identify patients at risk of deterioration. Tools capturing global health assessments beyond disease-specific scores are being developed using either bottom-up aggregation of simple indicators or top-down machine learning from large datasets. Their alignment with expert clinical judgment remains poorly characterized. Objective This study evaluates 2 latent health measurement approaches: Frailty Index-laboratory, a transparent bottom-up tool aggregating laboratory abnormalities via deficit accumulation theory, and ETHOS-ARES (Enhanced Transformer for Health Outcome Simulation-Adaptive Risk Estimation System), a transformer-based foundation model generating multidimensional patient representations from electronic health records. We assess whether each tool's severity rankings align with clinical consensus and whether they offer utility in triage decisions. Methods In this 3-phase mixed methods study, at least 30 clinicians across hospital specialties reviewed 20 emergency department presentations derived from Medical Information Mart for Intensive Care IV-Emergency Department. Phase 1 compared unaided cli…",
+    "body": "Background Clinical triage requires integrating multiple information sources to identify patients at risk of deterioration. Tools capturing global health assessments beyond disease-specific scores are being developed using either bottom-up aggregation of simple indicators or top-down machine learning from large datasets. Their alignment with expert clinical judgment remains poorly characterized. Objective This study evaluates 2 latent health measurement approaches: Frailty Index-laboratory, a transparent bottom-up tool aggregating laboratory abnormalities via deficit accumulation theory, and ETHOS-ARES (Enhanced Transformer for Health Outcome Simulation-Adaptive Risk Estimation System), a transformer-based foundation model generating multidimensional patient representations from electronic health records. We assess whether each tool's severity rankings align with clinical consensus and whether they offer utility in triage decisions. Methods In this 3-phase mixed methods study, at least 30 clinicians across hospital specialties reviewed 20 emergency department presentations derived from Medical Information Mart for Intensive Care IV-Emergency Department. Phase 1 compared unaided cli…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "machine learning",
+        "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Roberts M",
+      "Pelkonen O",
+      "Shamsutdinova D",
+      "Sanderson SC",
+      "Renc P",
+      "Logan Ellis H."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42398056/",
+    "doi": "10.2196/85437",
+    "pmid": "42398056"
+  },
+  {
+    "id": "genetics-59306c01c3",
+    "title": "Transposable element disruption of a second thyroglobulin-like gene confers Vip3Aa resistance in Helicoverpa armigera.",
+    "originalTitle": "Transposable element disruption of a second thyroglobulin-like gene confers Vip3Aa resistance in Helicoverpa armigera.",
+    "category": "Genetics",
+    "date": "2026-07-03",
+    "dateISO": "2026-07-03",
+    "displayDate": "Jul 3, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Background The cotton bollworm Helicoverpa armigera is a major global pest controlled by genetically engineered crops expressing Bacillus thuringiensis (Bt) toxins, including Vip3Aa.",
+    "excerpt": "Background The cotton bollworm Helicoverpa armigera is a major global pest controlled by genetically engineered crops expressing Bacillus thuringiensis (Bt) toxins, including Vip3Aa.",
+    "summary": "This recent study explores transposable element disruption of a second thyroglobulin-like gene confers vip3aa resistance in helicoverpa armigera.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Background The cotton bollworm Helicoverpa armigera is a major global pest controlled by genetically engineered crops expressing Bacillus thuringiensis (Bt) toxins, including Vip3Aa. While Vip3Aa is widely deployed, the genetic basis of resistance remains poorly understood. Previous work identified disruption of a thyroglobulin-like gene (HaVipR1) as one mechanism of resistance, suggesting additional loci may be involved. Results Using linkage analysis, transcriptomics, long-read sequencing, and CRISPR-Cas9 gene editing, we identify a second thyroglobulin-like gene, HaVipR2, as a novel mediator of Vip3Aa resistance. Resistance in a field-derived H. armigera line was shown to be monogenic, recessive, and autosomal, mapping to chromosome 29. Long-read sequencing revealed a ~ 16 kb transposable element insertion disrupting HaVipR2, which was undetectable using standard short-read approaches. CRISPR-Cas9 knockout of HaVipR2 conferred > 900-fold resistance, confirming its causal role. Comparative analyses show that HaVipR1 and HaVipR2 share conserved domain architecture, indicating that thyroglobulin-domain proteins represent a recurrent target of resistance evolution. Conclusions Our f…",
+    "body": "Background The cotton bollworm Helicoverpa armigera is a major global pest controlled by genetically engineered crops expressing Bacillus thuringiensis (Bt) toxins, including Vip3Aa. While Vip3Aa is widely deployed, the genetic basis of resistance remains poorly understood. Previous work identified disruption of a thyroglobulin-like gene (HaVipR1) as one mechanism of resistance, suggesting additional loci may be involved. Results Using linkage analysis, transcriptomics, long-read sequencing, and CRISPR-Cas9 gene editing, we identify a second thyroglobulin-like gene, HaVipR2, as a novel mediator of Vip3Aa resistance. Resistance in a field-derived H. armigera line was shown to be monogenic, recessive, and autosomal, mapping to chromosome 29. Long-read sequencing revealed a ~ 16 kb transposable element insertion disrupting HaVipR2, which was undetectable using standard short-read approaches. CRISPR-Cas9 knockout of HaVipR2 conferred > 900-fold resistance, confirming its causal role. Comparative analyses show that HaVipR1 and HaVipR2 share conserved domain architecture, indicating that thyroglobulin-domain proteins represent a recurrent target of resistance evolution. Conclusions Our f…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "transcriptomic",
+        "explanation": "Related to which genes are being actively read and turned into RNA inside cells."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Bachler A",
+      "Walsh TK",
+      "Andrews D",
+      "Williams M",
+      "Tay WT",
+      "Gordon K",
+      "James B",
+      "Fang C"
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42399777/",
+    "doi": "10.1186/s12864-026-13139-2",
+    "pmid": "42399777"
+  },
+  {
     "id": "public-health-87102900f5",
     "title": "BCAA metabolism promotes lung cancer tumorigenesis by enhancing cholesterol biosynthesis.",
     "originalTitle": "BCAA metabolism promotes lung cancer tumorigenesis by enhancing cholesterol biosynthesis.",
@@ -16,8 +179,8 @@
     "blurb": "Metabolic dysregulation has been established as a key driver in tumorigenesis, but its underlying mechanisms in lung cancer remain poorly characterized.",
     "excerpt": "Metabolic dysregulation has been established as a key driver in tumorigenesis, but its underlying mechanisms in lung cancer remain poorly characterized.",
     "summary": "This recent study explores bcaa metabolism promotes lung cancer tumorigenesis by enhancing cholesterol biosynthesis.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Metabolic dysregulation has been established as a key driver in tumorigenesis, but its underlying mechanisms in lung cancer remain poorly characterized. In this study, we performed nested case-control analyses in two prospective cohorts (208 and 144 matched pairs) to examine associations between plasma metabolites and lung cancer risk. Untargeted metabolomics identified circulating metabolites of the branched-chain amino acid (BCAA) pathway as significantly associated with lung cancer risk. An animal study demonstrated that a high-BCAA diet accelerated lung cancer progression in the KrasG12D/+ mice model. Among the three BCAAs, leucine contributed much more to promoting lung cancer growth. Mechanistically, AUH-mediated acetyl-CoA production from leucine metabolism fuels cholesterol synthesis, promoting lipid raft formation and EGFR redistribution and activation, thereby driving lung tumorigenesis. Moreover, atorvastatin blocked leucine-induced tumor progression in mice. Overall, our findings provide experimental evidence that leucine-driven BCAA metabolic reprogramming promotes lung tumorigenesis via cholesterol metabolism, revealing a potential therapeutic target.",
-    "body": "Metabolic dysregulation has been established as a key driver in tumorigenesis, but its underlying mechanisms in lung cancer remain poorly characterized. In this study, we performed nested case-control analyses in two prospective cohorts (208 and 144 matched pairs) to examine associations between plasma metabolites and lung cancer risk. Untargeted metabolomics identified circulating metabolites of the branched-chain amino acid (BCAA) pathway as significantly associated with lung cancer risk. An animal study demonstrated that a high-BCAA diet accelerated lung cancer progression in the KrasG12D/+ mice model. Among the three BCAAs, leucine contributed much more to promoting lung cancer growth. Mechanistically, AUH-mediated acetyl-CoA production from leucine metabolism fuels cholesterol synthesis, promoting lipid raft formation and EGFR redistribution and activation, thereby driving lung tumorigenesis. Moreover, atorvastatin blocked leucine-induced tumor progression in mice. Overall, our findings provide experimental evidence that leucine-driven BCAA metabolic reprogramming promotes lung tumorigenesis via cholesterol metabolism, revealing a potential therapeutic target.",
+    "deepDive": "Metabolic dysregulation has been established as a key driver in tumorigenesis, but its underlying mechanisms in lung cancer remain poorly characterized. In this study, we performed nested case-control analyses in two prospective cohorts (208 and 144 matched pairs) to examine associations between plasma metabolites and lung cancer risk. Untargeted metabolomics identified circulating metabolites of the branched-chain amino acid (BCAA) pathway as significantly associated with lung cancer risk. An animal study demonstrated that a high-BCAA diet accelerated lung cancer progression in the Kras G12D/+ mice model. Among the three BCAAs, leucine contributed much more to promoting lung cancer growth. Mechanistically, AUH-mediated acetyl-CoA production from leucine metabolism fuels cholesterol synthesis, promoting lipid raft formation and EGFR redistribution and activation, thereby driving lung tumorigenesis. Moreover, atorvastatin blocked leucine-induced tumor progression in mice. Overall, our findings provide experimental evidence that leucine-driven BCAA metabolic reprogramming promotes lung tumorigenesis via cholesterol metabolism, revealing a potential therapeutic target.",
+    "body": "Metabolic dysregulation has been established as a key driver in tumorigenesis, but its underlying mechanisms in lung cancer remain poorly characterized. In this study, we performed nested case-control analyses in two prospective cohorts (208 and 144 matched pairs) to examine associations between plasma metabolites and lung cancer risk. Untargeted metabolomics identified circulating metabolites of the branched-chain amino acid (BCAA) pathway as significantly associated with lung cancer risk. An animal study demonstrated that a high-BCAA diet accelerated lung cancer progression in the Kras G12D/+ mice model. Among the three BCAAs, leucine contributed much more to promoting lung cancer growth. Mechanistically, AUH-mediated acetyl-CoA production from leucine metabolism fuels cholesterol synthesis, promoting lipid raft formation and EGFR redistribution and activation, thereby driving lung tumorigenesis. Moreover, atorvastatin blocked leucine-induced tumor progression in mice. Overall, our findings provide experimental evidence that leucine-driven BCAA metabolic reprogramming promotes lung tumorigenesis via cholesterol metabolism, revealing a potential therapeutic target.",
     "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
     "keyTakeaways": [
       "The study addresses a recent question in science or medicine.",
@@ -108,6 +271,59 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42391551/",
     "doi": "10.1097/jcn.0000000000001336",
     "pmid": "42391551"
+  },
+  {
+    "id": "neuroscience-21ca4a8bae",
+    "title": "Overcoming brain non-stationarity: Adaptive RLS classification for stable BCIs based on auditory evoked potentials.",
+    "originalTitle": "Overcoming brain non-stationarity: Adaptive RLS classification for stable BCIs based on auditory evoked potentials.",
+    "category": "Neuroscience",
+    "date": "2026-07-03",
+    "dateISO": "2026-07-03",
+    "displayDate": "Jul 3, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/neuro.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Objective Brain-computer interfaces (BCIs) based on selective auditory attention aim to restore communication by decoding selective attention from auditory evoked potentials.",
+    "excerpt": "Objective Brain-computer interfaces (BCIs) based on selective auditory attention aim to restore communication by decoding selective attention from auditory evoked potentials.",
+    "summary": "This recent study explores overcoming brain non-stationarity: adaptive rls classification for stable bcis based on auditory evoked potentials.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Objective Brain-computer interfaces (BCIs) based on selective auditory attention aim to restore communication by decoding selective attention from auditory evoked potentials. Clinical translation of such BCIs requires maintaining sufficient decoding performance despite brain-state non-stationarity.&#xD;&#xD;Approach: We compared classifiers across four evaluation settings: offline baseline classifiers using shuffled 5-fold cross-validation; a causal classifier using a chronological 20%/80% calibration/test split; simulated real-time deployment with a static classifier calibrated on 20 trials; and simulated real-time deployment with an adaptive recursive least squares (RLS) classifier, evaluated within-subject and in a leave-one-subject-out (LOSO) setting. The analysis used 62-channel electroencephalography recorded from 25 healthy adults (18 retained after artifact rejection).&#xD;&#xD;Main results: The best offline baseline classifier, logistic regression with point-to-point features, achieved a mean ROC AUC of 0.75 and an estimated information transfer rate (ITR) of 2.46 bits/min, derived from ROC AUC via a conservative heuristic. Under causal application, performance decreased t…",
+    "body": "Objective Brain-computer interfaces (BCIs) based on selective auditory attention aim to restore communication by decoding selective attention from auditory evoked potentials. Clinical translation of such BCIs requires maintaining sufficient decoding performance despite brain-state non-stationarity.&#xD;&#xD;Approach: We compared classifiers across four evaluation settings: offline baseline classifiers using shuffled 5-fold cross-validation; a causal classifier using a chronological 20%/80% calibration/test split; simulated real-time deployment with a static classifier calibrated on 20 trials; and simulated real-time deployment with an adaptive recursive least squares (RLS) classifier, evaluated within-subject and in a leave-one-subject-out (LOSO) setting. The analysis used 62-channel electroencephalography recorded from 25 healthy adults (18 retained after artifact rejection).&#xD;&#xD;Main results: The best offline baseline classifier, logistic regression with point-to-point features, achieved a mean ROC AUC of 0.75 and an estimated information transfer rate (ITR) of 2.46 bits/min, derived from ROC AUC via a conservative heuristic. Under causal application, performance decreased t…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Kurmanavičiūtė D",
+      "Makkonen M",
+      "Zubarev I",
+      "Kahilakoski OP",
+      "Parkkonen L."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42398529/",
+    "doi": "10.1088/1741-2552/ae863e",
+    "pmid": "42398529"
   },
   {
     "id": "ai-computer-science-08d174f73a",
@@ -695,24 +911,24 @@
     "pmid": "42333747"
   },
   {
-    "id": "environment-9c52e07b9b",
-    "title": "Bayesian Analysis of Postoperative Complication Risk Associated With Preoperative Exposure to Fine Particulate Matter: A Single-Center Cohort Study.",
-    "originalTitle": "Bayesian Analysis of Postoperative Complication Risk Associated With Preoperative Exposure to Fine Particulate Matter: A Single-Center Cohort Study.",
-    "category": "Environment",
+    "id": "ai-computer-science-8197082146",
+    "title": "A Narrative Review of Artificial Intelligence for Drug Repurposing: Lessons From COVID-19 and Oncology (2020-2025).",
+    "originalTitle": "A Narrative Review of Artificial Intelligence for Drug Repurposing: Lessons From COVID-19 and Oncology (2020-2025).",
+    "category": "AI & Computer Science",
     "date": "2026-07-01",
     "dateISO": "2026-07-01",
     "displayDate": "Jul 1, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/genetics.jpg",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/AI.jpg",
     "imageSearchQuery": "",
     "imageAltText": "",
     "imageCaption": "",
-    "blurb": "Background Air pollution, especially particle pollution, is increasingly recognized as a potential perioperative risk factor, yet modeling environmental exposures in surgical cohorts remains methodologically underdevelop…",
-    "excerpt": "Background Air pollution, especially particle pollution, is increasingly recognized as a potential perioperative risk factor, yet modeling environmental exposures in surgical cohorts remains methodologically underdevelop…",
-    "summary": "This recent study explores bayesian analysis of postoperative complication risk associated with preoperative exposure to fine particulate matter: a single-center cohort study.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Background Air pollution, especially particle pollution, is increasingly recognized as a potential perioperative risk factor, yet modeling environmental exposures in surgical cohorts remains methodologically underdeveloped. We demonstrate a Bayesian hierarchical framework to quantify probabilistic associations between preoperative fine particulate matter (PM 2.5 ) exposure and postoperative complications, highlighting its interpretability and flexibility for clinical environmental epidemiology. Methods We conducted a single center, retrospective cohort study using data from 49,615 surgical patients in Utah who underwent elective surgical procedures from 2016 to 2018. Patients' addresses were geocoded and linked to daily Census-tract level PM 2.5 estimates. The exposure variable was defined as the maximum PM 2.5 concentrations in the 7 days prior to surgery. The binary outcome was a composite of postoperative complications: pneumonia, surgical site infection, urinary tract infection, sepsis, stroke, myocardial infarction, or thromboembolic event. A hierarchical Bayesians regression model with weakly informative priors was used adjusting for age, sex, season, neighborhood disadvantag…",
-    "body": "Background Air pollution, especially particle pollution, is increasingly recognized as a potential perioperative risk factor, yet modeling environmental exposures in surgical cohorts remains methodologically underdeveloped. We demonstrate a Bayesian hierarchical framework to quantify probabilistic associations between preoperative fine particulate matter (PM 2.5 ) exposure and postoperative complications, highlighting its interpretability and flexibility for clinical environmental epidemiology. Methods We conducted a single center, retrospective cohort study using data from 49,615 surgical patients in Utah who underwent elective surgical procedures from 2016 to 2018. Patients' addresses were geocoded and linked to daily Census-tract level PM 2.5 estimates. The exposure variable was defined as the maximum PM 2.5 concentrations in the 7 days prior to surgery. The binary outcome was a composite of postoperative complications: pneumonia, surgical site infection, urinary tract infection, sepsis, stroke, myocardial infarction, or thromboembolic event. A hierarchical Bayesians regression model with weakly informative priors was used adjusting for age, sex, season, neighborhood disadvantag…",
+    "blurb": "Drug repurposing presents a cost-effective and time-efficient strategy to identify new therapeutic applications for existing drugs.",
+    "excerpt": "Drug repurposing presents a cost-effective and time-efficient strategy to identify new therapeutic applications for existing drugs.",
+    "summary": "This recent study explores a narrative review of artificial intelligence for drug repurposing: lessons from covid-19 and oncology (2020-2025).. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Drug repurposing presents a cost-effective and time-efficient strategy to identify new therapeutic applications for existing drugs. Recent advances in artificial intelligence, including machine learning, deep learning, knowledge graphs, and natural language processing, have revolutionized this field by enabling automated discovery of drug-disease associations. This review examines the role of artificial intelligence in drug repurposing, drawing insights from two critical case areas: Coronavirus disease 2019 and oncology. We explore current trends, methodological frameworks, and technological innovations in artificial intelligence-driven drug repurposing, as well as challenges and emerging future directions. The findings of this paper underscore the transformative potential of artificial intelligence in biomedical research and justify its continued integration in pharmaceutical pipelines.",
+    "body": "Drug repurposing presents a cost-effective and time-efficient strategy to identify new therapeutic applications for existing drugs. Recent advances in artificial intelligence, including machine learning, deep learning, knowledge graphs, and natural language processing, have revolutionized this field by enabling automated discovery of drug-disease associations. This review examines the role of artificial intelligence in drug repurposing, drawing insights from two critical case areas: Coronavirus disease 2019 and oncology. We explore current trends, methodological frameworks, and technological innovations in artificial intelligence-driven drug repurposing, as well as challenges and emerging future directions. The findings of this paper underscore the transformative potential of artificial intelligence in biomedical research and justify its continued integration in pharmaceutical pipelines.",
     "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
     "keyTakeaways": [
       "The study addresses a recent question in science or medicine.",
@@ -722,8 +938,8 @@
     "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
     "scientificTerms": [
       {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+        "term": "machine learning",
+        "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
       },
       {
         "term": "peer review",
@@ -737,18 +953,12 @@
     "sourceName": "PubMed",
     "journal": "",
     "authors": [
-      "Pearson JF",
-      "Jacobson CK",
-      "Riss CS",
-      "Strickland MJ",
-      "Lee L",
-      "Wan N",
-      "Benney TM",
-      "Pace NL"
+      "Ogungbite AB",
+      "Sibiya M."
     ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42036603/",
-    "doi": "10.1111/aas.70235",
-    "pmid": "42036603"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42370758/",
+    "doi": "10.1002/psp4.70272",
+    "pmid": "42370758"
   },
   {
     "id": "public-health-b091f9c23c",
@@ -805,24 +1015,24 @@
     "pmid": "42387968"
   },
   {
-    "id": "public-health-0fa7a9984f",
-    "title": "Sitting still while the world gets sicker: Rethinking physical inactivity as a public health emergency.",
-    "originalTitle": "Sitting still while the world gets sicker: Rethinking physical inactivity as a public health emergency.",
-    "category": "Public Health",
+    "id": "environment-9c52e07b9b",
+    "title": "Bayesian Analysis of Postoperative Complication Risk Associated With Preoperative Exposure to Fine Particulate Matter: A Single-Center Cohort Study.",
+    "originalTitle": "Bayesian Analysis of Postoperative Complication Risk Associated With Preoperative Exposure to Fine Particulate Matter: A Single-Center Cohort Study.",
+    "category": "Environment",
     "date": "2026-07-01",
     "dateISO": "2026-07-01",
     "displayDate": "Jul 1, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
+    "readTime": 4,
+    "difficulty": "Advanced",
     "image": "RUimages/genetics.jpg",
     "imageSearchQuery": "",
     "imageAltText": "",
     "imageCaption": "",
-    "blurb": "Physical inactivity (PI) has emerged as a \"forgotten pandemic\" in global health.",
-    "excerpt": "Physical inactivity (PI) has emerged as a \"forgotten pandemic\" in global health.",
-    "summary": "This recent study explores sitting still while the world gets sicker: rethinking physical inactivity as a public health emergency.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Physical inactivity (PI) has emerged as a \"forgotten pandemic\" in global health. Over a quarter of adults worldwide fail to meet recommended physical activity (PA) levels, a proportion that has remained largely unchanged since 2001. This inactivity drives a rising non-communicable disease burden, deepens health inequities, and generates substantial economic costs. Yet preventive action and dedicated funding remain insufficient. Despite international frameworks and national PA plans, with nearly 75% of countries reporting relevant policies, implementation remains inconsistent and population-wide impact elusive. Global efforts are constrained by systemic policy blind spots. Health in All Policies, a governance approach that integrates health considerations into policy decisions across sectors such as urban planning and education, remains widely endorsed but rarely enacted, foreclosing opportunities for action. Viewed through an equity lens, existing strategies disproportionately benefit more advantaged populations, leaving underserved groups behind. These shortcomings are compounded by short political cycles and chronic underinvestment in prevention, which prioritize short-term polit…",
-    "body": "Physical inactivity (PI) has emerged as a \"forgotten pandemic\" in global health. Over a quarter of adults worldwide fail to meet recommended physical activity (PA) levels, a proportion that has remained largely unchanged since 2001. This inactivity drives a rising non-communicable disease burden, deepens health inequities, and generates substantial economic costs. Yet preventive action and dedicated funding remain insufficient. Despite international frameworks and national PA plans, with nearly 75% of countries reporting relevant policies, implementation remains inconsistent and population-wide impact elusive. Global efforts are constrained by systemic policy blind spots. Health in All Policies, a governance approach that integrates health considerations into policy decisions across sectors such as urban planning and education, remains widely endorsed but rarely enacted, foreclosing opportunities for action. Viewed through an equity lens, existing strategies disproportionately benefit more advantaged populations, leaving underserved groups behind. These shortcomings are compounded by short political cycles and chronic underinvestment in prevention, which prioritize short-term polit…",
+    "blurb": "Background Air pollution, especially particle pollution, is increasingly recognized as a potential perioperative risk factor, yet modeling environmental exposures in surgical cohorts remains methodologically underdevelop…",
+    "excerpt": "Background Air pollution, especially particle pollution, is increasingly recognized as a potential perioperative risk factor, yet modeling environmental exposures in surgical cohorts remains methodologically underdevelop…",
+    "summary": "This recent study explores bayesian analysis of postoperative complication risk associated with preoperative exposure to fine particulate matter: a single-center cohort study.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Background Air pollution, especially particle pollution, is increasingly recognized as a potential perioperative risk factor, yet modeling environmental exposures in surgical cohorts remains methodologically underdeveloped. We demonstrate a Bayesian hierarchical framework to quantify probabilistic associations between preoperative fine particulate matter (PM 2.5 ) exposure and postoperative complications, highlighting its interpretability and flexibility for clinical environmental epidemiology. Methods We conducted a single center, retrospective cohort study using data from 49,615 surgical patients in Utah who underwent elective surgical procedures from 2016 to 2018. Patients' addresses were geocoded and linked to daily Census-tract level PM 2.5 estimates. The exposure variable was defined as the maximum PM 2.5 concentrations in the 7 days prior to surgery. The binary outcome was a composite of postoperative complications: pneumonia, surgical site infection, urinary tract infection, sepsis, stroke, myocardial infarction, or thromboembolic event. A hierarchical Bayesians regression model with weakly informative priors was used adjusting for age, sex, season, neighborhood disadvantag…",
+    "body": "Background Air pollution, especially particle pollution, is increasingly recognized as a potential perioperative risk factor, yet modeling environmental exposures in surgical cohorts remains methodologically underdeveloped. We demonstrate a Bayesian hierarchical framework to quantify probabilistic associations between preoperative fine particulate matter (PM 2.5 ) exposure and postoperative complications, highlighting its interpretability and flexibility for clinical environmental epidemiology. Methods We conducted a single center, retrospective cohort study using data from 49,615 surgical patients in Utah who underwent elective surgical procedures from 2016 to 2018. Patients' addresses were geocoded and linked to daily Census-tract level PM 2.5 estimates. The exposure variable was defined as the maximum PM 2.5 concentrations in the 7 days prior to surgery. The binary outcome was a composite of postoperative complications: pneumonia, surgical site infection, urinary tract infection, sepsis, stroke, myocardial infarction, or thromboembolic event. A hierarchical Bayesians regression model with weakly informative priors was used adjusting for age, sex, season, neighborhood disadvantag…",
     "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
     "keyTakeaways": [
       "The study addresses a recent question in science or medicine.",
@@ -847,119 +1057,18 @@
     "sourceName": "PubMed",
     "journal": "",
     "authors": [
-      "Daniels K",
-      "Quadflieg K",
-      "Bergs J",
-      "Spooren A",
-      "Hansen D",
-      "Bonnechère B."
+      "Pearson JF",
+      "Jacobson CK",
+      "Riss CS",
+      "Strickland MJ",
+      "Lee L",
+      "Wan N",
+      "Benney TM",
+      "Pace NL"
     ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42381035/",
-    "doi": "10.1186/s44263-026-00295-6",
-    "pmid": "42381035"
-  },
-  {
-    "id": "ai-computer-science-8197082146",
-    "title": "A Narrative Review of Artificial Intelligence for Drug Repurposing: Lessons From COVID-19 and Oncology (2020-2025).",
-    "originalTitle": "A Narrative Review of Artificial Intelligence for Drug Repurposing: Lessons From COVID-19 and Oncology (2020-2025).",
-    "category": "AI & Computer Science",
-    "date": "2026-07-01",
-    "dateISO": "2026-07-01",
-    "displayDate": "Jul 1, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/AI.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Drug repurposing presents a cost-effective and time-efficient strategy to identify new therapeutic applications for existing drugs.",
-    "excerpt": "Drug repurposing presents a cost-effective and time-efficient strategy to identify new therapeutic applications for existing drugs.",
-    "summary": "This recent study explores a narrative review of artificial intelligence for drug repurposing: lessons from covid-19 and oncology (2020-2025).. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Drug repurposing presents a cost-effective and time-efficient strategy to identify new therapeutic applications for existing drugs. Recent advances in artificial intelligence, including machine learning, deep learning, knowledge graphs, and natural language processing, have revolutionized this field by enabling automated discovery of drug-disease associations. This review examines the role of artificial intelligence in drug repurposing, drawing insights from two critical case areas: Coronavirus disease 2019 and oncology. We explore current trends, methodological frameworks, and technological innovations in artificial intelligence-driven drug repurposing, as well as challenges and emerging future directions. The findings of this paper underscore the transformative potential of artificial intelligence in biomedical research and justify its continued integration in pharmaceutical pipelines.",
-    "body": "Drug repurposing presents a cost-effective and time-efficient strategy to identify new therapeutic applications for existing drugs. Recent advances in artificial intelligence, including machine learning, deep learning, knowledge graphs, and natural language processing, have revolutionized this field by enabling automated discovery of drug-disease associations. This review examines the role of artificial intelligence in drug repurposing, drawing insights from two critical case areas: Coronavirus disease 2019 and oncology. We explore current trends, methodological frameworks, and technological innovations in artificial intelligence-driven drug repurposing, as well as challenges and emerging future directions. The findings of this paper underscore the transformative potential of artificial intelligence in biomedical research and justify its continued integration in pharmaceutical pipelines.",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "machine learning",
-        "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Ogungbite AB",
-      "Sibiya M."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42370758/",
-    "doi": "10.1002/psp4.70272",
-    "pmid": "42370758"
-  },
-  {
-    "id": "environment-b364f2be20",
-    "title": "Towards a Sustainable Future: Embedding Planetary Health in Allied Health Professional Education Through the Lens of Indigenous Knowledges.",
-    "originalTitle": "Towards a Sustainable Future: Embedding Planetary Health in Allied Health Professional Education Through the Lens of Indigenous Knowledges.",
-    "category": "Environment",
-    "date": "2026-07-01",
-    "dateISO": "2026-07-01",
-    "displayDate": "Jul 1, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Planetary health is increasingly recognised as an essential aspect of health professional education, yet its integration within allied health curricula in Australia remains fragmented.",
-    "excerpt": "Planetary health is increasingly recognised as an essential aspect of health professional education, yet its integration within allied health curricula in Australia remains fragmented.",
-    "summary": "This recent study explores towards a sustainable future: embedding planetary health in allied health professional education through the lens of indigenous knowledges.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Planetary health is increasingly recognised as an essential aspect of health professional education, yet its integration within allied health curricula in Australia remains fragmented. This commentary argues that meaningful and sustainable embedding of planetary health requires explicit engagement with Indigenous knowledges. Expanding curricula beyond Western views to include Indigenous eco-centric worldviews enables a deeper understanding of the interconnections between environmental health, human wellbeing and spiritual identity. We reflect on the influential role of accreditation standards in shaping educational priorities, highlighting the leadership demonstrated by medical and nursing professions and the relative absence of coordinated action across allied health in the context of planetary health. We propose the Aboriginal and Torres Strait Islander Health Curriculum Framework as a culturally grounded lens through which planetary health education can be advanced within allied health education. Aligning planetary health capabilities with the Framework's five interconnected cultural capabilities offers a practical and transformative pathway to develop culturally capable graduat…",
-    "body": "Planetary health is increasingly recognised as an essential aspect of health professional education, yet its integration within allied health curricula in Australia remains fragmented. This commentary argues that meaningful and sustainable embedding of planetary health requires explicit engagement with Indigenous knowledges. Expanding curricula beyond Western views to include Indigenous eco-centric worldviews enables a deeper understanding of the interconnections between environmental health, human wellbeing and spiritual identity. We reflect on the influential role of accreditation standards in shaping educational priorities, highlighting the leadership demonstrated by medical and nursing professions and the relative absence of coordinated action across allied health in the context of planetary health. We propose the Aboriginal and Torres Strait Islander Health Curriculum Framework as a culturally grounded lens through which planetary health education can be advanced within allied health education. Aligning planetary health capabilities with the Framework's five interconnected cultural capabilities offers a practical and transformative pathway to develop culturally capable graduat…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "pathway",
-        "explanation": "A chain of molecular events inside cells that produces a biological effect."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "McPherson K",
-      "Barradell S",
-      "Li K",
-      "Watkins M",
-      "Phillips A."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42082163/",
-    "doi": "10.1002/hpja.70195",
-    "pmid": "42082163"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42036603/",
+    "doi": "10.1111/aas.70235",
+    "pmid": "42036603"
   },
   {
     "id": "neuroscience-c9881afe79",
@@ -1018,6 +1127,113 @@
     "pmid": "42384796"
   },
   {
+    "id": "public-health-0fa7a9984f",
+    "title": "Sitting still while the world gets sicker: Rethinking physical inactivity as a public health emergency.",
+    "originalTitle": "Sitting still while the world gets sicker: Rethinking physical inactivity as a public health emergency.",
+    "category": "Public Health",
+    "date": "2026-07-01",
+    "dateISO": "2026-07-01",
+    "displayDate": "Jul 1, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Physical inactivity (PI) has emerged as a \"forgotten pandemic\" in global health.",
+    "excerpt": "Physical inactivity (PI) has emerged as a \"forgotten pandemic\" in global health.",
+    "summary": "This recent study explores sitting still while the world gets sicker: rethinking physical inactivity as a public health emergency.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Physical inactivity (PI) has emerged as a \"forgotten pandemic\" in global health. Over a quarter of adults worldwide fail to meet recommended physical activity (PA) levels, a proportion that has remained largely unchanged since 2001. This inactivity drives a rising non-communicable disease burden, deepens health inequities, and generates substantial economic costs. Yet preventive action and dedicated funding remain insufficient. Despite international frameworks and national PA plans, with nearly 75% of countries reporting relevant policies, implementation remains inconsistent and population-wide impact elusive. Global efforts are constrained by systemic policy blind spots. Health in All Policies, a governance approach that integrates health considerations into policy decisions across sectors such as urban planning and education, remains widely endorsed but rarely enacted, foreclosing opportunities for action. Viewed through an equity lens, existing strategies disproportionately benefit more advantaged populations, leaving underserved groups behind. These shortcomings are compounded by short political cycles and chronic underinvestment in prevention, which prioritize short-term polit…",
+    "body": "Physical inactivity (PI) has emerged as a \"forgotten pandemic\" in global health. Over a quarter of adults worldwide fail to meet recommended physical activity (PA) levels, a proportion that has remained largely unchanged since 2001. This inactivity drives a rising non-communicable disease burden, deepens health inequities, and generates substantial economic costs. Yet preventive action and dedicated funding remain insufficient. Despite international frameworks and national PA plans, with nearly 75% of countries reporting relevant policies, implementation remains inconsistent and population-wide impact elusive. Global efforts are constrained by systemic policy blind spots. Health in All Policies, a governance approach that integrates health considerations into policy decisions across sectors such as urban planning and education, remains widely endorsed but rarely enacted, foreclosing opportunities for action. Viewed through an equity lens, existing strategies disproportionately benefit more advantaged populations, leaving underserved groups behind. These shortcomings are compounded by short political cycles and chronic underinvestment in prevention, which prioritize short-term polit…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Daniels K",
+      "Quadflieg K",
+      "Bergs J",
+      "Spooren A",
+      "Hansen D",
+      "Bonnechère B."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42381035/",
+    "doi": "10.1186/s44263-026-00295-6",
+    "pmid": "42381035"
+  },
+  {
+    "id": "environment-b364f2be20",
+    "title": "Towards a Sustainable Future: Embedding Planetary Health in Allied Health Professional Education Through the Lens of Indigenous Knowledges.",
+    "originalTitle": "Towards a Sustainable Future: Embedding Planetary Health in Allied Health Professional Education Through the Lens of Indigenous Knowledges.",
+    "category": "Environment",
+    "date": "2026-07-01",
+    "dateISO": "2026-07-01",
+    "displayDate": "Jul 1, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Planetary health is increasingly recognised as an essential aspect of health professional education, yet its integration within allied health curricula in Australia remains fragmented.",
+    "excerpt": "Planetary health is increasingly recognised as an essential aspect of health professional education, yet its integration within allied health curricula in Australia remains fragmented.",
+    "summary": "This recent study explores towards a sustainable future: embedding planetary health in allied health professional education through the lens of indigenous knowledges.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Planetary health is increasingly recognised as an essential aspect of health professional education, yet its integration within allied health curricula in Australia remains fragmented. This commentary argues that meaningful and sustainable embedding of planetary health requires explicit engagement with Indigenous knowledges. Expanding curricula beyond Western views to include Indigenous eco-centric worldviews enables a deeper understanding of the interconnections between environmental health, human wellbeing and spiritual identity. We reflect on the influential role of accreditation standards in shaping educational priorities, highlighting the leadership demonstrated by medical and nursing professions and the relative absence of coordinated action across allied health in the context of planetary health. We propose the Aboriginal and Torres Strait Islander Health Curriculum Framework as a culturally grounded lens through which planetary health education can be advanced within allied health education. Aligning planetary health capabilities with the Framework's five interconnected cultural capabilities offers a practical and transformative pathway to develop culturally capable graduat…",
+    "body": "Planetary health is increasingly recognised as an essential aspect of health professional education, yet its integration within allied health curricula in Australia remains fragmented. This commentary argues that meaningful and sustainable embedding of planetary health requires explicit engagement with Indigenous knowledges. Expanding curricula beyond Western views to include Indigenous eco-centric worldviews enables a deeper understanding of the interconnections between environmental health, human wellbeing and spiritual identity. We reflect on the influential role of accreditation standards in shaping educational priorities, highlighting the leadership demonstrated by medical and nursing professions and the relative absence of coordinated action across allied health in the context of planetary health. We propose the Aboriginal and Torres Strait Islander Health Curriculum Framework as a culturally grounded lens through which planetary health education can be advanced within allied health education. Aligning planetary health capabilities with the Framework's five interconnected cultural capabilities offers a practical and transformative pathway to develop culturally capable graduat…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "pathway",
+        "explanation": "A chain of molecular events inside cells that produces a biological effect."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "McPherson K",
+      "Barradell S",
+      "Li K",
+      "Watkins M",
+      "Phillips A."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42082163/",
+    "doi": "10.1002/hpja.70195",
+    "pmid": "42082163"
+  },
+  {
     "id": "environment-614900333d",
     "title": "Skin health and climate change in Africa: an overlooked intersection and call for action.",
     "originalTitle": "Skin health and climate change in Africa: an overlooked intersection and call for action.",
@@ -1069,62 +1285,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41408949/",
     "doi": "10.1093/inthealth/ihaf147",
     "pmid": "41408949"
-  },
-  {
-    "id": "public-health-d8ad437327",
-    "title": "The impact of public health and social measures on social contact patterns and transmission of COVID-19 in Hong Kong.",
-    "originalTitle": "The impact of public health and social measures on social contact patterns and transmission of COVID-19 in Hong Kong.",
-    "category": "Public Health",
-    "date": "2026-06-30",
-    "dateISO": "2026-06-30",
-    "displayDate": "Jun 30, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Background Public health and social measures (PHSMs) are key interventions during pandemics.",
-    "excerpt": "Background Public health and social measures (PHSMs) are key interventions during pandemics.",
-    "summary": "This recent study explores the impact of public health and social measures on social contact patterns and transmission of covid-19 in hong kong.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Background Public health and social measures (PHSMs) are key interventions during pandemics. This study quantifies temporal changes in daily interpersonal contacts associated with PHSM implementation and their potential impact on disease transmission across different phases of the COVID-19 pandemic in Hong Kong from 2021 to 2023. Methods We recruited 7,053 individuals from the general population and 3,462 participants from selected high-contact groups between September 2021 and December 2023. The study period spanned the infection-naïve phase before 2022 through the city's fifth wave of COVID-19 (January-April 2022) driven by the Omicron BA.2 variant. Reported cumulative incidence was Results Among the general population, the average number of daily contacts dropped significantly from 6.2 (mean; 95% confidence interval [CI]: 5.9-6.5) during pre-fifth wave to 5.1 (5.0-5.3) during the fifth wave. After the fifth wave, the average number of contacts remained low at 5.1 (5.0-5.3) when some PHSMs such as mask-wearing policies were still in place. Once all PHSMs were lifted after March 2023, the average number of contacts increased to 8.4 (8.3-8.5). Compared to the general population, pa…",
-    "body": "Background Public health and social measures (PHSMs) are key interventions during pandemics. This study quantifies temporal changes in daily interpersonal contacts associated with PHSM implementation and their potential impact on disease transmission across different phases of the COVID-19 pandemic in Hong Kong from 2021 to 2023. Methods We recruited 7,053 individuals from the general population and 3,462 participants from selected high-contact groups between September 2021 and December 2023. The study period spanned the infection-naïve phase before 2022 through the city's fifth wave of COVID-19 (January-April 2022) driven by the Omicron BA.2 variant. Reported cumulative incidence was Results Among the general population, the average number of daily contacts dropped significantly from 6.2 (mean; 95% confidence interval [CI]: 5.9-6.5) during pre-fifth wave to 5.1 (5.0-5.3) during the fifth wave. After the fifth wave, the average number of contacts remained low at 5.1 (5.0-5.3) when some PHSMs such as mask-wearing policies were still in place. Once all PHSMs were lifted after March 2023, the average number of contacts increased to 8.4 (8.3-8.5). Compared to the general population, pa…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Choi H",
-      "Prem K",
-      "Kwok S",
-      "Lau E",
-      "Leung GM",
-      "Jit M",
-      "Leung K",
-      "Wu JT."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42380961/",
-    "doi": "10.1186/s12916-026-05041-1",
-    "pmid": "42380961"
   },
   {
     "id": "ai-computer-science-a7c48dae90",
@@ -1284,24 +1444,24 @@
     "pmid": "42377542"
   },
   {
-    "id": "biomedical-engineering-34013cacd6",
-    "title": "Generic optimization procedure for high-resolution printing by stereolithography of 3D scaffolds compatible for cell culture applied to a small intestinal architecture.",
-    "originalTitle": "Generic optimization procedure for high-resolution printing by stereolithography of 3D scaffolds compatible for cell culture applied to a small intestinal architecture.",
-    "category": "Biomedical Engineering",
-    "date": "2026-06-29",
-    "dateISO": "2026-06-29",
-    "displayDate": "Jun 29, 2026",
+    "id": "public-health-d8ad437327",
+    "title": "The impact of public health and social measures on social contact patterns and transmission of COVID-19 in Hong Kong.",
+    "originalTitle": "The impact of public health and social measures on social contact patterns and transmission of COVID-19 in Hong Kong.",
+    "category": "Public Health",
+    "date": "2026-06-30",
+    "dateISO": "2026-06-30",
+    "displayDate": "Jun 30, 2026",
     "readTime": 3,
     "difficulty": "Intermediate",
-    "image": "RUimages/prosthetic.jpg",
+    "image": "RUimages/genetics.jpg",
     "imageSearchQuery": "",
     "imageAltText": "",
     "imageCaption": "",
-    "blurb": "Stereolithography is now widely used in tissue engineering since it allows fine-tuning of geometry and mechanical properties to mimic the topography of tissues.",
-    "excerpt": "Stereolithography is now widely used in tissue engineering since it allows fine-tuning of geometry and mechanical properties to mimic the topography of tissues.",
-    "summary": "This recent study explores generic optimization procedure for high-resolution printing by stereolithography of 3d scaffolds compatible for cell culture applied to a small intestinal architecture.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Stereolithography is now widely used in tissue engineering since it allows fine-tuning of geometry and mechanical properties to mimic the topography of tissues. However, most published studies do not detail the optimization protocols that have been used to obtain these structures. Here, we developed a generic process to print photosensitive biomaterial formulations by stereolithography to obtain a specific topography. Using the small intestine architecture as a model combining filled villi and hollow crypts, we identify key parameters that govern both printing resolution and cellular behavior. Moreover, we highlight the impact of absence of oxygen inhibition and light penetration depth in cavities, causing partially crosslinked material within crypts. This issue was resolved by adding tartrazine, a biocompatible photoabsorber that restricts crosslinking depth. Our stereolithography process allows the fabrication of intestinal models with a high precision level and the reproduction of crypt and villi structures with physiologic dimensions and high structural integrity. We show that Caco-2 cells adhere, colonize, polarize and differentiate on the printed scaffolds over 20 d of cultur…",
-    "body": "Stereolithography is now widely used in tissue engineering since it allows fine-tuning of geometry and mechanical properties to mimic the topography of tissues. However, most published studies do not detail the optimization protocols that have been used to obtain these structures. Here, we developed a generic process to print photosensitive biomaterial formulations by stereolithography to obtain a specific topography. Using the small intestine architecture as a model combining filled villi and hollow crypts, we identify key parameters that govern both printing resolution and cellular behavior. Moreover, we highlight the impact of absence of oxygen inhibition and light penetration depth in cavities, causing partially crosslinked material within crypts. This issue was resolved by adding tartrazine, a biocompatible photoabsorber that restricts crosslinking depth. Our stereolithography process allows the fabrication of intestinal models with a high precision level and the reproduction of crypt and villi structures with physiologic dimensions and high structural integrity. We show that Caco-2 cells adhere, colonize, polarize and differentiate on the printed scaffolds over 20 d of cultur…",
+    "blurb": "Background Public health and social measures (PHSMs) are key interventions during pandemics.",
+    "excerpt": "Background Public health and social measures (PHSMs) are key interventions during pandemics.",
+    "summary": "This recent study explores the impact of public health and social measures on social contact patterns and transmission of covid-19 in hong kong.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Background Public health and social measures (PHSMs) are key interventions during pandemics. This study quantifies temporal changes in daily interpersonal contacts associated with PHSM implementation and their potential impact on disease transmission across different phases of the COVID-19 pandemic in Hong Kong from 2021 to 2023. Methods We recruited 7,053 individuals from the general population and 3,462 participants from selected high-contact groups between September 2021 and December 2023. The study period spanned the infection-naïve phase before 2022 through the city's fifth wave of COVID-19 (January-April 2022) driven by the Omicron BA.2 variant. Reported cumulative incidence was Results Among the general population, the average number of daily contacts dropped significantly from 6.2 (mean; 95% confidence interval [CI]: 5.9-6.5) during pre-fifth wave to 5.1 (5.0-5.3) during the fifth wave. After the fifth wave, the average number of contacts remained low at 5.1 (5.0-5.3) when some PHSMs such as mask-wearing policies were still in place. Once all PHSMs were lifted after March 2023, the average number of contacts increased to 8.4 (8.3-8.5). Compared to the general population, pa…",
+    "body": "Background Public health and social measures (PHSMs) are key interventions during pandemics. This study quantifies temporal changes in daily interpersonal contacts associated with PHSM implementation and their potential impact on disease transmission across different phases of the COVID-19 pandemic in Hong Kong from 2021 to 2023. Methods We recruited 7,053 individuals from the general population and 3,462 participants from selected high-contact groups between September 2021 and December 2023. The study period spanned the infection-naïve phase before 2022 through the city's fifth wave of COVID-19 (January-April 2022) driven by the Omicron BA.2 variant. Reported cumulative incidence was Results Among the general population, the average number of daily contacts dropped significantly from 6.2 (mean; 95% confidence interval [CI]: 5.9-6.5) during pre-fifth wave to 5.1 (5.0-5.3) during the fifth wave. After the fifth wave, the average number of contacts remained low at 5.1 (5.0-5.3) when some PHSMs such as mask-wearing policies were still in place. Once all PHSMs were lifted after March 2023, the average number of contacts increased to 8.4 (8.3-8.5). Compared to the general population, pa…",
     "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
     "keyTakeaways": [
       "The study addresses a recent question in science or medicine.",
@@ -1326,17 +1486,18 @@
     "sourceName": "PubMed",
     "journal": "",
     "authors": [
-      "Ponthier E",
-      "Guth L",
-      "Pérez-Domínguez S",
-      "Foncy J",
-      "Ferri-Angulo D",
-      "Besson A",
-      "Malaquin L."
+      "Choi H",
+      "Prem K",
+      "Kwok S",
+      "Lau E",
+      "Leung GM",
+      "Jit M",
+      "Leung K",
+      "Wu JT."
     ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42276113/",
-    "doi": "10.1088/1758-5090/ae7c36",
-    "pmid": "42276113"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42380961/",
+    "doi": "10.1186/s12916-026-05041-1",
+    "pmid": "42380961"
   },
   {
     "id": "medicine-c332683580",
@@ -1390,6 +1551,61 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42366864/",
     "doi": "10.1080/1750743x.2026.2692829",
     "pmid": "42366864"
+  },
+  {
+    "id": "biomedical-engineering-34013cacd6",
+    "title": "Generic optimization procedure for high-resolution printing by stereolithography of 3D scaffolds compatible for cell culture applied to a small intestinal architecture.",
+    "originalTitle": "Generic optimization procedure for high-resolution printing by stereolithography of 3D scaffolds compatible for cell culture applied to a small intestinal architecture.",
+    "category": "Biomedical Engineering",
+    "date": "2026-06-29",
+    "dateISO": "2026-06-29",
+    "displayDate": "Jun 29, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/prosthetic.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Stereolithography is now widely used in tissue engineering since it allows fine-tuning of geometry and mechanical properties to mimic the topography of tissues.",
+    "excerpt": "Stereolithography is now widely used in tissue engineering since it allows fine-tuning of geometry and mechanical properties to mimic the topography of tissues.",
+    "summary": "This recent study explores generic optimization procedure for high-resolution printing by stereolithography of 3d scaffolds compatible for cell culture applied to a small intestinal architecture.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Stereolithography is now widely used in tissue engineering since it allows fine-tuning of geometry and mechanical properties to mimic the topography of tissues. However, most published studies do not detail the optimization protocols that have been used to obtain these structures. Here, we developed a generic process to print photosensitive biomaterial formulations by stereolithography to obtain a specific topography. Using the small intestine architecture as a model combining filled villi and hollow crypts, we identify key parameters that govern both printing resolution and cellular behavior. Moreover, we highlight the impact of absence of oxygen inhibition and light penetration depth in cavities, causing partially crosslinked material within crypts. This issue was resolved by adding tartrazine, a biocompatible photoabsorber that restricts crosslinking depth. Our stereolithography process allows the fabrication of intestinal models with a high precision level and the reproduction of crypt and villi structures with physiologic dimensions and high structural integrity. We show that Caco-2 cells adhere, colonize, polarize and differentiate on the printed scaffolds over 20 d of cultur…",
+    "body": "Stereolithography is now widely used in tissue engineering since it allows fine-tuning of geometry and mechanical properties to mimic the topography of tissues. However, most published studies do not detail the optimization protocols that have been used to obtain these structures. Here, we developed a generic process to print photosensitive biomaterial formulations by stereolithography to obtain a specific topography. Using the small intestine architecture as a model combining filled villi and hollow crypts, we identify key parameters that govern both printing resolution and cellular behavior. Moreover, we highlight the impact of absence of oxygen inhibition and light penetration depth in cavities, causing partially crosslinked material within crypts. This issue was resolved by adding tartrazine, a biocompatible photoabsorber that restricts crosslinking depth. Our stereolithography process allows the fabrication of intestinal models with a high precision level and the reproduction of crypt and villi structures with physiologic dimensions and high structural integrity. We show that Caco-2 cells adhere, colonize, polarize and differentiate on the printed scaffolds over 20 d of cultur…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Ponthier E",
+      "Guth L",
+      "Pérez-Domínguez S",
+      "Foncy J",
+      "Ferri-Angulo D",
+      "Besson A",
+      "Malaquin L."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42276113/",
+    "doi": "10.1088/1758-5090/ae7c36",
+    "pmid": "42276113"
   },
   {
     "id": "biomedical-engineering-3a6a5e3cbe",
@@ -1554,61 +1770,6 @@
     "pmid": "42364494"
   },
   {
-    "id": "environment-e937fb5315",
-    "title": "Revealing DNA damage levels in rat testicular germ cells in vivo using an adapted version of the alkaline comet assay.",
-    "originalTitle": "Revealing DNA damage levels in rat testicular germ cells in vivo using an adapted version of the alkaline comet assay.",
-    "category": "Environment",
-    "date": "2026-06-27",
-    "dateISO": "2026-06-27",
-    "displayDate": "Jun 27, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Heritable mutations in male germ cells pose a critical risk to human health and future generations, however standardized methods for assessing germ cell genotoxicity remain limited.",
-    "excerpt": "Heritable mutations in male germ cells pose a critical risk to human health and future generations, however standardized methods for assessing germ cell genotoxicity remain limited.",
-    "summary": "This recent study explores revealing dna damage levels in rat testicular germ cells in vivo using an adapted version of the alkaline comet assay.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Heritable mutations in male germ cells pose a critical risk to human health and future generations, however standardized methods for assessing germ cell genotoxicity remain limited. We refined the in vivo alkaline comet assay (proof-of-concept (Dirven et al. 2023); protocol (Olsen et al. 2024)) to detect DNA damage in testicular germ cells, with selective addressment of haploid spermatids and primary spermatocytes. Measurements of DNA damage (% Tail DNA) and DNA content (total fluorescence intensity) in individual comets were combined with visual comet identification to distinguish testicular comet populations based on differences in DNA content and appearance. To verify the method's functionality and reliability, DNA damage was assessed in rats exposed to the direct-acting, well-characterized genotoxicants X-rays and ethyl methanesulfonate across distinct testicular cell populations, alongside liver and blood. To minimize experimental variation, the protocol included stringent standardization of animal handling, tissue processing, and comet assay procedures. Both X-rays and EMS induced significant DNA damage in testicular germ cells, with comparable responses across testicular cel…",
-    "body": "Heritable mutations in male germ cells pose a critical risk to human health and future generations, however standardized methods for assessing germ cell genotoxicity remain limited. We refined the in vivo alkaline comet assay (proof-of-concept (Dirven et al. 2023); protocol (Olsen et al. 2024)) to detect DNA damage in testicular germ cells, with selective addressment of haploid spermatids and primary spermatocytes. Measurements of DNA damage (% Tail DNA) and DNA content (total fluorescence intensity) in individual comets were combined with visual comet identification to distinguish testicular comet populations based on differences in DNA content and appearance. To verify the method's functionality and reliability, DNA damage was assessed in rats exposed to the direct-acting, well-characterized genotoxicants X-rays and ethyl methanesulfonate across distinct testicular cell populations, alongside liver and blood. To minimize experimental variation, the protocol included stringent standardization of animal handling, tissue processing, and comet assay procedures. Both X-rays and EMS induced significant DNA damage in testicular germ cells, with comparable responses across testicular cel…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Olsen AH",
-      "Ma X",
-      "Zheng C",
-      "Dirven Y",
-      "Eide DM",
-      "Brunborg G",
-      "Sharma AK."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42362744/",
-    "doi": "10.1007/s00204-026-04479-9",
-    "pmid": "42362744"
-  },
-  {
     "id": "medicine-dfb8ac5ab1",
     "title": "T-cell receptor-engineered T-cell therapy using a glypican-3-specific TCR derived from a hepatoblastoma vaccine responder for HLA-A2-positive glypican-3-expressing cancers.",
     "originalTitle": "T-cell receptor-engineered T-cell therapy using a glypican-3-specific TCR derived from a hepatoblastoma vaccine responder for HLA-A2-positive glypican-3-expressing cancers.",
@@ -1717,56 +1878,6 @@
     "pmid": "42347558"
   },
   {
-    "id": "biomedical-engineering-174e4edc80",
-    "title": "Hydrogels in medicine and biotechnology.",
-    "originalTitle": "Hydrogels in medicine and biotechnology.",
-    "category": "Biomedical Engineering",
-    "date": "2026-06-25",
-    "dateISO": "2026-06-25",
-    "displayDate": "Jun 25, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/prosthetic.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Hydrogels are crosslinked polymer networks with a large amount of water; hydrogels can be found naturally, such as collagen and gelatin, or can be made synthetically.",
-    "excerpt": "Hydrogels are crosslinked polymer networks with a large amount of water; hydrogels can be found naturally, such as collagen and gelatin, or can be made synthetically.",
-    "summary": "This recent study explores hydrogels in medicine and biotechnology.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Hydrogels are crosslinked polymer networks with a large amount of water; hydrogels can be found naturally, such as collagen and gelatin, or can be made synthetically. The latter are nowadays more in demand due to their higher water absorption capacity and long service life; their tunable properties and versatile fabrication methods have been exploited in a variety of engineering applications, including sensing technologies and drug screening. Because of their similar characteristics to soft biological tissues, hydrogels have also been the focus of research in the biomaterials community and have been studied for their use in biomedical applications such as tissue engineering and regenerative medicine. This Collection on hydrogels highlights some exciting hydrogel developments and applications.",
-    "body": "Hydrogels are crosslinked polymer networks with a large amount of water; hydrogels can be found naturally, such as collagen and gelatin, or can be made synthetically. The latter are nowadays more in demand due to their higher water absorption capacity and long service life; their tunable properties and versatile fabrication methods have been exploited in a variety of engineering applications, including sensing technologies and drug screening. Because of their similar characteristics to soft biological tissues, hydrogels have also been the focus of research in the biomaterials community and have been studied for their use in biomedical applications such as tissue engineering and regenerative medicine. This Collection on hydrogels highlights some exciting hydrogel developments and applications.",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Zustiak SP",
-      "Bates J."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42342752/",
-    "doi": "10.1038/s41598-026-56527-0",
-    "pmid": "42342752"
-  },
-  {
     "id": "neuroscience-2b6e097552",
     "title": "Advances in the Application of Brain-Computer Interface-Based Neurofeedback Training in the Rehabilitation of Patients with Major Depressive Disorder.",
     "originalTitle": "Advances in the Application of Brain-Computer Interface-Based Neurofeedback Training in the Rehabilitation of Patients with Major Depressive Disorder.",
@@ -1818,6 +1929,56 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42381831/",
     "doi": "10.2147/ndt.s609788",
     "pmid": "42381831"
+  },
+  {
+    "id": "biomedical-engineering-174e4edc80",
+    "title": "Hydrogels in medicine and biotechnology.",
+    "originalTitle": "Hydrogels in medicine and biotechnology.",
+    "category": "Biomedical Engineering",
+    "date": "2026-06-25",
+    "dateISO": "2026-06-25",
+    "displayDate": "Jun 25, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/prosthetic.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Hydrogels are crosslinked polymer networks with a large amount of water; hydrogels can be found naturally, such as collagen and gelatin, or can be made synthetically.",
+    "excerpt": "Hydrogels are crosslinked polymer networks with a large amount of water; hydrogels can be found naturally, such as collagen and gelatin, or can be made synthetically.",
+    "summary": "This recent study explores hydrogels in medicine and biotechnology.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Hydrogels are crosslinked polymer networks with a large amount of water; hydrogels can be found naturally, such as collagen and gelatin, or can be made synthetically. The latter are nowadays more in demand due to their higher water absorption capacity and long service life; their tunable properties and versatile fabrication methods have been exploited in a variety of engineering applications, including sensing technologies and drug screening. Because of their similar characteristics to soft biological tissues, hydrogels have also been the focus of research in the biomaterials community and have been studied for their use in biomedical applications such as tissue engineering and regenerative medicine. This Collection on hydrogels highlights some exciting hydrogel developments and applications.",
+    "body": "Hydrogels are crosslinked polymer networks with a large amount of water; hydrogels can be found naturally, such as collagen and gelatin, or can be made synthetically. The latter are nowadays more in demand due to their higher water absorption capacity and long service life; their tunable properties and versatile fabrication methods have been exploited in a variety of engineering applications, including sensing technologies and drug screening. Because of their similar characteristics to soft biological tissues, hydrogels have also been the focus of research in the biomaterials community and have been studied for their use in biomedical applications such as tissue engineering and regenerative medicine. This Collection on hydrogels highlights some exciting hydrogel developments and applications.",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Zustiak SP",
+      "Bates J."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42342752/",
+    "doi": "10.1038/s41598-026-56527-0",
+    "pmid": "42342752"
   },
   {
     "id": "genetics-463fc4317f",
@@ -1874,62 +2035,6 @@
     "pmid": "42340977"
   },
   {
-    "id": "public-health-cbe12d4849",
-    "title": "Enhancing data collection on socio-behavioural exposure pathways for emerging tickborne disease through engagement with surviving cases and their household members.",
-    "originalTitle": "Enhancing data collection on socio-behavioural exposure pathways for emerging tickborne disease through engagement with surviving cases and their household members.",
-    "category": "Public Health",
-    "date": "2026-06-24",
-    "dateISO": "2026-06-24",
-    "displayDate": "Jun 24, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Background Severe fever with thrombocytopaenia syndrome (SFTS) is an epidemiologically complex tickborne zoonosis emerging across Asia.",
-    "excerpt": "Background Severe fever with thrombocytopaenia syndrome (SFTS) is an epidemiologically complex tickborne zoonosis emerging across Asia.",
-    "summary": "This recent study explores enhancing data collection on socio-behavioural exposure pathways for emerging tickborne disease through engagement with surviving cases and their household members.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Background Severe fever with thrombocytopaenia syndrome (SFTS) is an epidemiologically complex tickborne zoonosis emerging across Asia. More comprehensive, contextually relevant data is needed for this low incidence, high-severity disease. Methods A mixed-methods formative research study was undertaken in Nagasaki, Japan between August-October 2025, to pilot a newly developed questionnaire on SFTS exposure pathways with 22 surviving cases and their household members. Participants completed the questionnaire twice, one month apart, to evaluate questionnaire reliability in a study population advanced in age and affected by post-SFTS sequelae. Twenty semi-structured interviews were conducted. Results Participants reliably answered closed-ended questions about potential SFTS virus exposure events, with a median 88.5% intra-participant consistency. Follow-up questions about timing or duration of exposures had lower completeness and consistency. During feedback interviews, participants reported lived experience with multi-step infection pathways that validated inclusion of questionnaire sections on vector-, animal-, environment-, and human- mediated pathways. Participants also revealed c…",
-    "body": "Background Severe fever with thrombocytopaenia syndrome (SFTS) is an epidemiologically complex tickborne zoonosis emerging across Asia. More comprehensive, contextually relevant data is needed for this low incidence, high-severity disease. Methods A mixed-methods formative research study was undertaken in Nagasaki, Japan between August-October 2025, to pilot a newly developed questionnaire on SFTS exposure pathways with 22 surviving cases and their household members. Participants completed the questionnaire twice, one month apart, to evaluate questionnaire reliability in a study population advanced in age and affected by post-SFTS sequelae. Twenty semi-structured interviews were conducted. Results Participants reliably answered closed-ended questions about potential SFTS virus exposure events, with a median 88.5% intra-participant consistency. Follow-up questions about timing or duration of exposures had lower completeness and consistency. During feedback interviews, participants reported lived experience with multi-step infection pathways that validated inclusion of questionnaire sections on vector-, animal-, environment-, and human- mediated pathways. Participants also revealed c…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "pathway",
-        "explanation": "A chain of molecular events inside cells that produces a biological effect."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Hattori C",
-      "Kurihara J",
-      "Shimada S",
-      "Yamaguchi N",
-      "Kobayashi C",
-      "Aono H",
-      "Takamatsu Y",
-      "Tanaka T"
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42341907/",
-    "doi": "10.1016/j.ijid.2026.108914",
-    "pmid": "42341907"
-  },
-  {
     "id": "medicine-6f9c49d41a",
     "title": "Artificial intelligence-guided analysis of the tumor microenvironment predicts response to pembrolizumab in rare tumors.",
     "originalTitle": "Artificial intelligence-guided analysis of the tumor microenvironment predicts response to pembrolizumab in rare tumors.",
@@ -1984,6 +2089,62 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42342409/",
     "doi": "10.1136/jitc-2025-014768",
     "pmid": "42342409"
+  },
+  {
+    "id": "public-health-cbe12d4849",
+    "title": "Enhancing data collection on socio-behavioural exposure pathways for emerging tickborne disease through engagement with surviving cases and their household members.",
+    "originalTitle": "Enhancing data collection on socio-behavioural exposure pathways for emerging tickborne disease through engagement with surviving cases and their household members.",
+    "category": "Public Health",
+    "date": "2026-06-24",
+    "dateISO": "2026-06-24",
+    "displayDate": "Jun 24, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Background Severe fever with thrombocytopaenia syndrome (SFTS) is an epidemiologically complex tickborne zoonosis emerging across Asia.",
+    "excerpt": "Background Severe fever with thrombocytopaenia syndrome (SFTS) is an epidemiologically complex tickborne zoonosis emerging across Asia.",
+    "summary": "This recent study explores enhancing data collection on socio-behavioural exposure pathways for emerging tickborne disease through engagement with surviving cases and their household members.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Background Severe fever with thrombocytopaenia syndrome (SFTS) is an epidemiologically complex tickborne zoonosis emerging across Asia. More comprehensive, contextually relevant data is needed for this low incidence, high-severity disease. Methods A mixed-methods formative research study was undertaken in Nagasaki, Japan between August-October 2025, to pilot a newly developed questionnaire on SFTS exposure pathways with 22 surviving cases and their household members. Participants completed the questionnaire twice, one month apart, to evaluate questionnaire reliability in a study population advanced in age and affected by post-SFTS sequelae. Twenty semi-structured interviews were conducted. Results Participants reliably answered closed-ended questions about potential SFTS virus exposure events, with a median 88.5% intra-participant consistency. Follow-up questions about timing or duration of exposures had lower completeness and consistency. During feedback interviews, participants reported lived experience with multi-step infection pathways that validated inclusion of questionnaire sections on vector-, animal-, environment-, and human- mediated pathways. Participants also revealed c…",
+    "body": "Background Severe fever with thrombocytopaenia syndrome (SFTS) is an epidemiologically complex tickborne zoonosis emerging across Asia. More comprehensive, contextually relevant data is needed for this low incidence, high-severity disease. Methods A mixed-methods formative research study was undertaken in Nagasaki, Japan between August-October 2025, to pilot a newly developed questionnaire on SFTS exposure pathways with 22 surviving cases and their household members. Participants completed the questionnaire twice, one month apart, to evaluate questionnaire reliability in a study population advanced in age and affected by post-SFTS sequelae. Twenty semi-structured interviews were conducted. Results Participants reliably answered closed-ended questions about potential SFTS virus exposure events, with a median 88.5% intra-participant consistency. Follow-up questions about timing or duration of exposures had lower completeness and consistency. During feedback interviews, participants reported lived experience with multi-step infection pathways that validated inclusion of questionnaire sections on vector-, animal-, environment-, and human- mediated pathways. Participants also revealed c…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "pathway",
+        "explanation": "A chain of molecular events inside cells that produces a biological effect."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Hattori C",
+      "Kurihara J",
+      "Shimada S",
+      "Yamaguchi N",
+      "Kobayashi C",
+      "Aono H",
+      "Takamatsu Y",
+      "Tanaka T"
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42341907/",
+    "doi": "10.1016/j.ijid.2026.108914",
+    "pmid": "42341907"
   },
   {
     "id": "nutrition-068f59c0fd",
@@ -2141,118 +2302,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42319373/",
     "doi": "10.1097/moh.0000000000000940",
     "pmid": "42319373"
-  },
-  {
-    "id": "public-health-c5abed23e1",
-    "title": "Intersectional inequalities in self-rated health in Germany across sex/gender, migration, education and income: a cross-sectional study.",
-    "originalTitle": "Intersectional inequalities in self-rated health in Germany across sex/gender, migration, education and income: a cross-sectional study.",
-    "category": "Public Health",
-    "date": "2026-06-22",
-    "dateISO": "2026-06-22",
-    "displayDate": "Jun 22, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Background Health inequalities by sex/gender, migration, education and income persist across Europe, yet intersectionality-informed research on how these social positions jointly shape self-rated health (SRH) remains lim…",
-    "excerpt": "Background Health inequalities by sex/gender, migration, education and income persist across Europe, yet intersectionality-informed research on how these social positions jointly shape self-rated health (SRH) remains lim…",
-    "summary": "This recent study explores intersectional inequalities in self-rated health in germany across sex/gender, migration, education and income: a cross-sectional study.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Background Health inequalities by sex/gender, migration, education and income persist across Europe, yet intersectionality-informed research on how these social positions jointly shape self-rated health (SRH) remains limited. Methods We conducted a cross-sectional analysis of the German National Cohort (NAKO; n=179 861). Sex/gender, education and income were combined with three migration characteristics (any migration, Turkish and ethnic German resettler backgrounds) into three 16-strata exposure variables. We used Poisson regression with robust SEs to estimate adjusted frequencies and relative risks of poor SRH, adjusting for age, household size and study site. Departures from additivity were assessed using two-, three-, four-way and total relative excess risk due to interaction (RERI). Results Poor SRH followed a social gradient. Adjusted frequency of poor SRH generally increased with each additional marginalised social position, from 6.3% (95% CI 5.5% to 7.2%) among high education and income migrant men to 22.6% (95% CI 21.3% to 23.8%) among low education and income migrant women. Adjusted frequencies were highest among participants with Turkish background. Joint exposure to fem…",
-    "body": "Background Health inequalities by sex/gender, migration, education and income persist across Europe, yet intersectionality-informed research on how these social positions jointly shape self-rated health (SRH) remains limited. Methods We conducted a cross-sectional analysis of the German National Cohort (NAKO; n=179 861). Sex/gender, education and income were combined with three migration characteristics (any migration, Turkish and ethnic German resettler backgrounds) into three 16-strata exposure variables. We used Poisson regression with robust SEs to estimate adjusted frequencies and relative risks of poor SRH, adjusting for age, household size and study site. Departures from additivity were assessed using two-, three-, four-way and total relative excess risk due to interaction (RERI). Results Poor SRH followed a social gradient. Adjusted frequency of poor SRH generally increased with each additional marginalised social position, from 6.3% (95% CI 5.5% to 7.2%) among high education and income migrant men to 22.6% (95% CI 21.3% to 23.8%) among low education and income migrant women. Adjusted frequencies were highest among participants with Turkish background. Joint exposure to fem…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Slesinski SC",
-      "Bilal U",
-      "Heisig JP",
-      "Telkmann K",
-      "Callies CM",
-      "Emmer C",
-      "Becher H",
-      "Brand T"
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42331609/",
-    "doi": "10.1136/jech-2026-225920",
-    "pmid": "42331609"
-  },
-  {
-    "id": "biomedical-engineering-0b37426753",
-    "title": "3D bone printing via ultrasound-mediated osteogenic differentiation of stem cells (3DBonUS).",
-    "originalTitle": "3D bone printing via ultrasound-mediated osteogenic differentiation of stem cells (3DBonUS).",
-    "category": "Biomedical Engineering",
-    "date": "2026-06-22",
-    "dateISO": "2026-06-22",
-    "displayDate": "Jun 22, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/prosthetic.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Bone disorders and skeletal defects represent a significant clinical challenge, often requiring transplantation techniques limited by donor site morbidity and insufficient regenerative potential.",
-    "excerpt": "Bone disorders and skeletal defects represent a significant clinical challenge, often requiring transplantation techniques limited by donor site morbidity and insufficient regenerative potential.",
-    "summary": "This recent study explores 3d bone printing via ultrasound-mediated osteogenic differentiation of stem cells (3dbonus).. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Bone disorders and skeletal defects represent a significant clinical challenge, often requiring transplantation techniques limited by donor site morbidity and insufficient regenerative potential. Tissue engineering and regenerative medicine (TERM) strategies using 3D bioprinting have emerged as promising alternatives, but their efficacy is limited by the difficulty of directing stem cell differentiation in a controlled and reproducible manner. To address this limitation, we are proposing 3D bone printing via ultrasound-mediated osteogenic differentiation of stem cells (referred to here as '3DBonUS'). This biofabrication approach integrates low-intensity pulsed ultrasound (LIPUS) with a microfluidic-assisted 3D bioprinting system. This unprecedented approach enables biophysical stimulation of human bone marrow stromal cells (HBMSCs) during the fabrication of scaffolds, promoting osteogenic differentiation without the need for extensive post-fabrication treatments. In addition, the incorporation of microbubbles (MBs) enhanced the effects of LIPUS by amplifying mechanical signals at the cellular level. Our results revealed that the 3DBonUS system significantly upregulated key osteogen…",
-    "body": "Bone disorders and skeletal defects represent a significant clinical challenge, often requiring transplantation techniques limited by donor site morbidity and insufficient regenerative potential. Tissue engineering and regenerative medicine (TERM) strategies using 3D bioprinting have emerged as promising alternatives, but their efficacy is limited by the difficulty of directing stem cell differentiation in a controlled and reproducible manner. To address this limitation, we are proposing 3D bone printing via ultrasound-mediated osteogenic differentiation of stem cells (referred to here as '3DBonUS'). This biofabrication approach integrates low-intensity pulsed ultrasound (LIPUS) with a microfluidic-assisted 3D bioprinting system. This unprecedented approach enables biophysical stimulation of human bone marrow stromal cells (HBMSCs) during the fabrication of scaffolds, promoting osteogenic differentiation without the need for extensive post-fabrication treatments. In addition, the incorporation of microbubbles (MBs) enhanced the effects of LIPUS by amplifying mechanical signals at the cellular level. Our results revealed that the 3DBonUS system significantly upregulated key osteogen…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Marcotulli M",
-      "Patuto C",
-      "Scognamiglio C",
-      "Serpe F",
-      "Iafrate L",
-      "Senturk E",
-      "Keller S",
-      "De Grandi D"
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42330984/",
-    "doi": "10.1088/1758-5090/ae8061",
-    "pmid": "42330984"
   },
   {
     "id": "genetics-4017756b0d",
@@ -2579,62 +2628,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42310064/",
     "doi": "10.1038/s41598-026-57836-0",
     "pmid": "42310064"
-  },
-  {
-    "id": "public-health-1d0edc0795",
-    "title": "WHO estimates of the global, regional, and national burden of 14 foodborne diarrhoeal enteric hazards, 2000-21: an updated data synthesis.",
-    "originalTitle": "WHO estimates of the global, regional, and national burden of 14 foodborne diarrhoeal enteric hazards, 2000-21: an updated data synthesis.",
-    "category": "Public Health",
-    "date": "2026-06-15",
-    "dateISO": "2026-06-15",
-    "displayDate": "Jun 15, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Background Foodborne diseases cause significant illness and death globally.",
-    "excerpt": "Background Foodborne diseases cause significant illness and death globally.",
-    "summary": "This recent study explores who estimates of the global, regional, and national burden of 14 foodborne diarrhoeal enteric hazards, 2000-21: an updated data synthesis.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Background Foodborne diseases cause significant illness and death globally. We updated WHO estimates of the burden caused by diarrhoeal hazards commonly transmitted by food: Campylobacter jejuni, Campylobacter coli, and other thermotolerant Campylobacter species; Cryptosporidium spp; Cyclospora cayetanensis; Entamoeba histolytica; enteroaggregative Escherichia coli; enteropathogenic E coli; enterotoxigenic E coli; Giardia duodenalis; norovirus; rotavirus; non-typhoidal Salmonella enterica; Shiga toxin-producing E coli; Shigella spp; and Vibrio cholerae. Methods We estimated illnesses, deaths, and disability-adjusted life-years (DALYs) for 194 countries for the period 2000-21 using data from systematic reviews; the Global Burden of Diseases, Injuries, and Risk Factors Study 2021; a structured expert judgement study; and country consultations. We used disease-specific computational models, and a hierarchical meta-regression model with geographical clustering, a global linear time trend, and uncertainty propagation. Findings In 2021, the 14 diarrhoeal hazards caused 666 million (95% UI 483-884) illnesses, 265 000 deaths (196 000-351 000), and 15·2 million (11·6-19·1) DALYs from foodbo…",
-    "body": "Background Foodborne diseases cause significant illness and death globally. We updated WHO estimates of the burden caused by diarrhoeal hazards commonly transmitted by food: Campylobacter jejuni, Campylobacter coli, and other thermotolerant Campylobacter species; Cryptosporidium spp; Cyclospora cayetanensis; Entamoeba histolytica; enteroaggregative Escherichia coli; enteropathogenic E coli; enterotoxigenic E coli; Giardia duodenalis; norovirus; rotavirus; non-typhoidal Salmonella enterica; Shiga toxin-producing E coli; Shigella spp; and Vibrio cholerae. Methods We estimated illnesses, deaths, and disability-adjusted life-years (DALYs) for 194 countries for the period 2000-21 using data from systematic reviews; the Global Burden of Diseases, Injuries, and Risk Factors Study 2021; a structured expert judgement study; and country consultations. We used disease-specific computational models, and a hierarchical meta-regression model with geographical clustering, a global linear time trend, and uncertainty propagation. Findings In 2021, the 14 diarrhoeal hazards caused 666 million (95% UI 483-884) illnesses, 265 000 deaths (196 000-351 000), and 15·2 million (11·6-19·1) DALYs from foodbo…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Majowicz SE",
-      "Colston JM",
-      "Kirk MD",
-      "Pires SM",
-      "Minato Y",
-      "Founou LL",
-      "Devleesschauwer B",
-      "di Bari C"
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42296981/",
-    "doi": "10.1016/j.langlo.2026.103997",
-    "pmid": "42296981"
   },
   {
     "id": "women-s-health-9f96d98664",
