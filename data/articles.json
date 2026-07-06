@@ -326,6 +326,58 @@
     "pmid": "42398529"
   },
   {
+    "id": "neuroscience-3965084f1c",
+    "title": "Spatial frequency channels implement a mental ruler in spatial vision.",
+    "originalTitle": "Spatial frequency channels implement a mental ruler in spatial vision.",
+    "category": "Neuroscience",
+    "date": "2026-07-03",
+    "dateISO": "2026-07-03",
+    "displayDate": "Jul 3, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/neuro.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Perception of basic spatial properties (e.g., size, separation) varies with visual context, indicating a rescaling process in spatial vision.",
+    "excerpt": "Perception of basic spatial properties (e.g., size, separation) varies with visual context, indicating a rescaling process in spatial vision.",
+    "summary": "This recent study explores spatial frequency channels implement a mental ruler in spatial vision.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Perception of basic spatial properties (e.g., size, separation) varies with visual context, indicating a rescaling process in spatial vision. Previous findings have suggested that this rescaling is supported by an adjustable \"mental ruler\", an internal metric that can be flexibly changed by context. However, the neural implementation of this putative mental ruler remains unknown. We hypothesized that this mental ruler is represented by multiple spatial frequency (SF) channels with different tunings. In this account, the relative weighting of different SF channels sets the unit length of the mental ruler. Up-weighting of high-SF channels drives the concentration of neuronal receptive fields in early visual cortex, leading to a shorter unit length (a finer division) and perceptual inflation. Conversely, up-weighting of low-SF channels produces a longer unit length (a coarser division) and perceptual compression. Consistent with this account, we found that modulating the relative contribution of the high- and low-SF channels is coupled with a systematic distortion in perceived separation, a fundamental spatial property, and a global displacement of population receptive fields (pRFs) i…",
+    "body": "Perception of basic spatial properties (e.g., size, separation) varies with visual context, indicating a rescaling process in spatial vision. Previous findings have suggested that this rescaling is supported by an adjustable \"mental ruler\", an internal metric that can be flexibly changed by context. However, the neural implementation of this putative mental ruler remains unknown. We hypothesized that this mental ruler is represented by multiple spatial frequency (SF) channels with different tunings. In this account, the relative weighting of different SF channels sets the unit length of the mental ruler. Up-weighting of high-SF channels drives the concentration of neuronal receptive fields in early visual cortex, leading to a shorter unit length (a finer division) and perceptual inflation. Conversely, up-weighting of low-SF channels produces a longer unit length (a coarser division) and perceptual compression. Consistent with this account, we found that modulating the relative contribution of the high- and low-SF channels is coupled with a systematic distortion in perceived separation, a fundamental spatial property, and a global displacement of population receptive fields (pRFs) i…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "neural",
+        "explanation": "Related to nerves, neurons, or the brain’s communication system."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Zhang S",
+      "Mo L",
+      "Fang F",
+      "Mo C."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42392342/",
+    "doi": "10.1016/j.neuroimage.2026.122105",
+    "pmid": "42392342"
+  },
+  {
     "id": "ai-computer-science-08d174f73a",
     "title": "The role of artificial intelligence in the diagnosis, risk stratification, and treatment of heart failure: A narrative review.",
     "originalTitle": "The role of artificial intelligence in the diagnosis, risk stratification, and treatment of heart failure: A narrative review.",
@@ -700,6 +752,62 @@
     "pmid": "42389927"
   },
   {
+    "id": "environment-32a8017805",
+    "title": "Planetary Boundary for Novel Entities: Time for a Reboot.",
+    "originalTitle": "Planetary Boundary for Novel Entities: Time for a Reboot.",
+    "category": "Environment",
+    "date": "2026-07-02",
+    "dateISO": "2026-07-02",
+    "displayDate": "Jul 2, 2026",
+    "readTime": 3,
+    "difficulty": "Beginner",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Novel entities are diverse and complex; hence, defining their Planetary Boundary through control variables, indicators, and acceptable limits is challenging.",
+    "excerpt": "Novel entities are diverse and complex; hence, defining their Planetary Boundary through control variables, indicators, and acceptable limits is challenging.",
+    "summary": "This recent study explores planetary boundary for novel entities: time for a reboot.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Novel entities are diverse and complex; hence, defining their Planetary Boundary through control variables, indicators, and acceptable limits is challenging. Here, we highlight shortcomings of the current quantitative boundary, which applies a purely precautionary interpretation of safety that defines the safe operating space as zero novel entities that are not fully characterized. In practice, the zero limit is unattainable and undesirable for human societies that rely on services provided by novel entities. Furthermore, it is not operational within the framework of other boundaries, which have risk-based thresholds. We therefore propose a reboot of the Planetary Boundary for Novel Entities and recommend governance and monitoring strategies based on: (a) clarification of the \"safe operating space\" for novel entities, distinguishing pure precaution (\"safe from the unknown\") from operational precaution that tolerates a workable, non-zero level of uncertainty; (b) complementary, multilayer control variables spanning pressures, states, and impacts; (c) extensions to existing monitoring systems to provide quantitative indicators of distribution, accumulation, exposure, and impacts for…",
+    "body": "Novel entities are diverse and complex; hence, defining their Planetary Boundary through control variables, indicators, and acceptable limits is challenging. Here, we highlight shortcomings of the current quantitative boundary, which applies a purely precautionary interpretation of safety that defines the safe operating space as zero novel entities that are not fully characterized. In practice, the zero limit is unattainable and undesirable for human societies that rely on services provided by novel entities. Furthermore, it is not operational within the framework of other boundaries, which have risk-based thresholds. We therefore propose a reboot of the Planetary Boundary for Novel Entities and recommend governance and monitoring strategies based on: (a) clarification of the \"safe operating space\" for novel entities, distinguishing pure precaution (\"safe from the unknown\") from operational precaution that tolerates a workable, non-zero level of uncertainty; (b) complementary, multilayer control variables spanning pressures, states, and impacts; (c) extensions to existing monitoring systems to provide quantitative indicators of distribution, accumulation, exposure, and impacts for…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Jahnke A",
+      "Bai Y",
+      "Brack W",
+      "Carney Almroth B",
+      "Diamond ML",
+      "Dragsdahl ALST",
+      "Escher BI",
+      "Fantke P"
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42390831/",
+    "doi": "10.1021/acs.est.6c03044",
+    "pmid": "42390831"
+  },
+  {
     "id": "medicine-607120e4a2",
     "title": "Lenvatinib Combined with PD-1 Blockade Therapy Benefits Gastric Cancers through Immunosuppressive Macrophage Modulation.",
     "originalTitle": "Lenvatinib Combined with PD-1 Blockade Therapy Benefits Gastric Cancers through Immunosuppressive Macrophage Modulation.",
@@ -808,57 +916,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42300953/",
     "doi": "10.1039/d6tb00346j",
     "pmid": "42300953"
-  },
-  {
-    "id": "neuroscience-e181dc8a88",
-    "title": "Neural Basis of Action Simulation in Architectural Perception: A Multi-voxel Pattern Analysis Study.",
-    "originalTitle": "Neural Basis of Action Simulation in Architectural Perception: A Multi-voxel Pattern Analysis Study.",
-    "category": "Neuroscience",
-    "date": "2026-07-01",
-    "dateISO": "2026-07-01",
-    "displayDate": "Jul 1, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/neuro.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs.",
-    "excerpt": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs.",
-    "summary": "This recent study explores neural basis of action simulation in architectural perception: a multi-voxel pattern analysis study.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs. Although previous research on navigation has demonstrated how the spatial configuration of corridors and doorways guide locomotion, it remains unclear whether architectural elements (e.g., doors, windows, stairs) that require direct interaction evoke distinct, action-specific representations in the brain. Thus, the aim of this study is to investigate whether the passive perception of such elements (viewed without any intention to act) spontaneously recruits motor-related brain networks and whether these activations are specific to the actions implied by each element. fMRI data were collected from 31 participants during passive viewing of each architectural element followed by imagery of four actions: one reflecting the element's primary function, one representing manipulation, and two corresponding to peripheral actions. Using multi-voxel pattern analysis, we created classification ratio maps to identify action-architectural element associations. Our analyses revealed tha…",
-    "body": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs. Although previous research on navigation has demonstrated how the spatial configuration of corridors and doorways guide locomotion, it remains unclear whether architectural elements (e.g., doors, windows, stairs) that require direct interaction evoke distinct, action-specific representations in the brain. Thus, the aim of this study is to investigate whether the passive perception of such elements (viewed without any intention to act) spontaneously recruits motor-related brain networks and whether these activations are specific to the actions implied by each element. fMRI data were collected from 31 participants during passive viewing of each architectural element followed by imagery of four actions: one reflecting the element's primary function, one representing manipulation, and two corresponding to peripheral actions. Using multi-voxel pattern analysis, we created classification ratio maps to identify action-architectural element associations. Our analyses revealed tha…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "neural",
-        "explanation": "Related to nerves, neurons, or the brain’s communication system."
-      },
-      {
-        "term": "pathway",
-        "explanation": "A chain of molecular events inside cells that produces a biological effect."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Shin W",
-      "Song Y",
-      "Jeong J."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41707234/",
-    "doi": "10.1162/jocn.a.2486",
-    "pmid": "41707234"
   },
   {
     "id": "biomedical-engineering-995f0fd09b",
@@ -1015,6 +1072,111 @@
     "pmid": "42387968"
   },
   {
+    "id": "neuroscience-e181dc8a88",
+    "title": "Neural Basis of Action Simulation in Architectural Perception: A Multi-voxel Pattern Analysis Study.",
+    "originalTitle": "Neural Basis of Action Simulation in Architectural Perception: A Multi-voxel Pattern Analysis Study.",
+    "category": "Neuroscience",
+    "date": "2026-07-01",
+    "dateISO": "2026-07-01",
+    "displayDate": "Jul 1, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/neuro.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs.",
+    "excerpt": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs.",
+    "summary": "This recent study explores neural basis of action simulation in architectural perception: a multi-voxel pattern analysis study.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs. Although previous research on navigation has demonstrated how the spatial configuration of corridors and doorways guide locomotion, it remains unclear whether architectural elements (e.g., doors, windows, stairs) that require direct interaction evoke distinct, action-specific representations in the brain. Thus, the aim of this study is to investigate whether the passive perception of such elements (viewed without any intention to act) spontaneously recruits motor-related brain networks and whether these activations are specific to the actions implied by each element. fMRI data were collected from 31 participants during passive viewing of each architectural element followed by imagery of four actions: one reflecting the element's primary function, one representing manipulation, and two corresponding to peripheral actions. Using multi-voxel pattern analysis, we created classification ratio maps to identify action-architectural element associations. Our analyses revealed tha…",
+    "body": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs. Although previous research on navigation has demonstrated how the spatial configuration of corridors and doorways guide locomotion, it remains unclear whether architectural elements (e.g., doors, windows, stairs) that require direct interaction evoke distinct, action-specific representations in the brain. Thus, the aim of this study is to investigate whether the passive perception of such elements (viewed without any intention to act) spontaneously recruits motor-related brain networks and whether these activations are specific to the actions implied by each element. fMRI data were collected from 31 participants during passive viewing of each architectural element followed by imagery of four actions: one reflecting the element's primary function, one representing manipulation, and two corresponding to peripheral actions. Using multi-voxel pattern analysis, we created classification ratio maps to identify action-architectural element associations. Our analyses revealed tha…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "neural",
+        "explanation": "Related to nerves, neurons, or the brain’s communication system."
+      },
+      {
+        "term": "pathway",
+        "explanation": "A chain of molecular events inside cells that produces a biological effect."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Shin W",
+      "Song Y",
+      "Jeong J."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41707234/",
+    "doi": "10.1162/jocn.a.2486",
+    "pmid": "41707234"
+  },
+  {
+    "id": "public-health-0fa7a9984f",
+    "title": "Sitting still while the world gets sicker: Rethinking physical inactivity as a public health emergency.",
+    "originalTitle": "Sitting still while the world gets sicker: Rethinking physical inactivity as a public health emergency.",
+    "category": "Public Health",
+    "date": "2026-07-01",
+    "dateISO": "2026-07-01",
+    "displayDate": "Jul 1, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Physical inactivity (PI) has emerged as a \"forgotten pandemic\" in global health.",
+    "excerpt": "Physical inactivity (PI) has emerged as a \"forgotten pandemic\" in global health.",
+    "summary": "This recent study explores sitting still while the world gets sicker: rethinking physical inactivity as a public health emergency.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Physical inactivity (PI) has emerged as a \"forgotten pandemic\" in global health. Over a quarter of adults worldwide fail to meet recommended physical activity (PA) levels, a proportion that has remained largely unchanged since 2001. This inactivity drives a rising non-communicable disease burden, deepens health inequities, and generates substantial economic costs. Yet preventive action and dedicated funding remain insufficient. Despite international frameworks and national PA plans, with nearly 75% of countries reporting relevant policies, implementation remains inconsistent and population-wide impact elusive. Global efforts are constrained by systemic policy blind spots. Health in All Policies, a governance approach that integrates health considerations into policy decisions across sectors such as urban planning and education, remains widely endorsed but rarely enacted, foreclosing opportunities for action. Viewed through an equity lens, existing strategies disproportionately benefit more advantaged populations, leaving underserved groups behind. These shortcomings are compounded by short political cycles and chronic underinvestment in prevention, which prioritize short-term polit…",
+    "body": "Physical inactivity (PI) has emerged as a \"forgotten pandemic\" in global health. Over a quarter of adults worldwide fail to meet recommended physical activity (PA) levels, a proportion that has remained largely unchanged since 2001. This inactivity drives a rising non-communicable disease burden, deepens health inequities, and generates substantial economic costs. Yet preventive action and dedicated funding remain insufficient. Despite international frameworks and national PA plans, with nearly 75% of countries reporting relevant policies, implementation remains inconsistent and population-wide impact elusive. Global efforts are constrained by systemic policy blind spots. Health in All Policies, a governance approach that integrates health considerations into policy decisions across sectors such as urban planning and education, remains widely endorsed but rarely enacted, foreclosing opportunities for action. Viewed through an equity lens, existing strategies disproportionately benefit more advantaged populations, leaving underserved groups behind. These shortcomings are compounded by short political cycles and chronic underinvestment in prevention, which prioritize short-term polit…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Daniels K",
+      "Quadflieg K",
+      "Bergs J",
+      "Spooren A",
+      "Hansen D",
+      "Bonnechère B."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42381035/",
+    "doi": "10.1186/s44263-026-00295-6",
+    "pmid": "42381035"
+  },
+  {
     "id": "environment-9c52e07b9b",
     "title": "Bayesian Analysis of Postoperative Complication Risk Associated With Preoperative Exposure to Fine Particulate Matter: A Single-Center Cohort Study.",
     "originalTitle": "Bayesian Analysis of Postoperative Complication Risk Associated With Preoperative Exposure to Fine Particulate Matter: A Single-Center Cohort Study.",
@@ -1127,60 +1289,6 @@
     "pmid": "42384796"
   },
   {
-    "id": "public-health-0fa7a9984f",
-    "title": "Sitting still while the world gets sicker: Rethinking physical inactivity as a public health emergency.",
-    "originalTitle": "Sitting still while the world gets sicker: Rethinking physical inactivity as a public health emergency.",
-    "category": "Public Health",
-    "date": "2026-07-01",
-    "dateISO": "2026-07-01",
-    "displayDate": "Jul 1, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Physical inactivity (PI) has emerged as a \"forgotten pandemic\" in global health.",
-    "excerpt": "Physical inactivity (PI) has emerged as a \"forgotten pandemic\" in global health.",
-    "summary": "This recent study explores sitting still while the world gets sicker: rethinking physical inactivity as a public health emergency.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Physical inactivity (PI) has emerged as a \"forgotten pandemic\" in global health. Over a quarter of adults worldwide fail to meet recommended physical activity (PA) levels, a proportion that has remained largely unchanged since 2001. This inactivity drives a rising non-communicable disease burden, deepens health inequities, and generates substantial economic costs. Yet preventive action and dedicated funding remain insufficient. Despite international frameworks and national PA plans, with nearly 75% of countries reporting relevant policies, implementation remains inconsistent and population-wide impact elusive. Global efforts are constrained by systemic policy blind spots. Health in All Policies, a governance approach that integrates health considerations into policy decisions across sectors such as urban planning and education, remains widely endorsed but rarely enacted, foreclosing opportunities for action. Viewed through an equity lens, existing strategies disproportionately benefit more advantaged populations, leaving underserved groups behind. These shortcomings are compounded by short political cycles and chronic underinvestment in prevention, which prioritize short-term polit…",
-    "body": "Physical inactivity (PI) has emerged as a \"forgotten pandemic\" in global health. Over a quarter of adults worldwide fail to meet recommended physical activity (PA) levels, a proportion that has remained largely unchanged since 2001. This inactivity drives a rising non-communicable disease burden, deepens health inequities, and generates substantial economic costs. Yet preventive action and dedicated funding remain insufficient. Despite international frameworks and national PA plans, with nearly 75% of countries reporting relevant policies, implementation remains inconsistent and population-wide impact elusive. Global efforts are constrained by systemic policy blind spots. Health in All Policies, a governance approach that integrates health considerations into policy decisions across sectors such as urban planning and education, remains widely endorsed but rarely enacted, foreclosing opportunities for action. Viewed through an equity lens, existing strategies disproportionately benefit more advantaged populations, leaving underserved groups behind. These shortcomings are compounded by short political cycles and chronic underinvestment in prevention, which prioritize short-term polit…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Daniels K",
-      "Quadflieg K",
-      "Bergs J",
-      "Spooren A",
-      "Hansen D",
-      "Bonnechère B."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42381035/",
-    "doi": "10.1186/s44263-026-00295-6",
-    "pmid": "42381035"
-  },
-  {
     "id": "environment-b364f2be20",
     "title": "Towards a Sustainable Future: Embedding Planetary Health in Allied Health Professional Education Through the Lens of Indigenous Knowledges.",
     "originalTitle": "Towards a Sustainable Future: Embedding Planetary Health in Allied Health Professional Education Through the Lens of Indigenous Knowledges.",
@@ -1232,59 +1340,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42082163/",
     "doi": "10.1002/hpja.70195",
     "pmid": "42082163"
-  },
-  {
-    "id": "environment-614900333d",
-    "title": "Skin health and climate change in Africa: an overlooked intersection and call for action.",
-    "originalTitle": "Skin health and climate change in Africa: an overlooked intersection and call for action.",
-    "category": "Environment",
-    "date": "2026-07-01",
-    "dateISO": "2026-07-01",
-    "displayDate": "Jul 1, 2026",
-    "readTime": 3,
-    "difficulty": "Beginner",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Climate and environmental change are increasingly affecting skin health across Africa, but this remains under-recognised in global health discussions.",
-    "excerpt": "Climate and environmental change are increasingly affecting skin health across Africa, but this remains under-recognised in global health discussions.",
-    "summary": "This recent study explores skin health and climate change in africa: an overlooked intersection and call for action.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Climate and environmental change are increasingly affecting skin health across Africa, but this remains under-recognised in global health discussions. Rising temperatures, ultraviolet radiation, pollution, flooding, deforestation, and droughts are reshaping the epidemiology of many cutaneous infections, inflammatory conditions, and malignancies. Unregulated cosmetic and antiseptic skincare products further compound both cutaneous and environmental harm. Addressing these emerging challenges is essential for health equity and resilience across the continent's rapidly evolving landscape. The recent World Health Assembly resolution on skin diseases as a global public health priority affirms this need to include dermatology and skin health in climate and environmental health policies.",
-    "body": "Climate and environmental change are increasingly affecting skin health across Africa, but this remains under-recognised in global health discussions. Rising temperatures, ultraviolet radiation, pollution, flooding, deforestation, and droughts are reshaping the epidemiology of many cutaneous infections, inflammatory conditions, and malignancies. Unregulated cosmetic and antiseptic skincare products further compound both cutaneous and environmental harm. Addressing these emerging challenges is essential for health equity and resilience across the continent's rapidly evolving landscape. The recent World Health Assembly resolution on skin diseases as a global public health priority affirms this need to include dermatology and skin health in climate and environmental health policies.",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Cole-Adeife OM",
-      "Akinkugbe AO",
-      "Ayanlowo OO",
-      "Akingbola A",
-      "Onunu AN."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41408949/",
-    "doi": "10.1093/inthealth/ihaf147",
-    "pmid": "41408949"
   },
   {
     "id": "ai-computer-science-a7c48dae90",
@@ -1340,55 +1395,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42377676/",
     "doi": "10.1007/s41061-026-00554-y",
     "pmid": "42377676"
-  },
-  {
-    "id": "neuroscience-872b42ff56",
-    "title": "Olfactory Perception and Neural Rhythms: A Simulation-Based EEG Analysis Using Power Spectral Density FeaturesOlfactory perception and neural rhythms: a simulation-based eeg analysis using power spectral density features.",
-    "originalTitle": "Olfactory Perception and Neural Rhythms: A Simulation-Based EEG Analysis Using Power Spectral Density FeaturesOlfactory perception and neural rhythms: a simulation-based eeg analysis using power spectral density features.",
-    "category": "Neuroscience",
-    "date": "2026-06-30",
-    "dateISO": "2026-06-30",
-    "displayDate": "Jun 30, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/neuro.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "The human ability to smell functions as a critical cognitive function because it enables people to detect their surroundings while experiencing feelings and recalling memories and making choices.",
-    "excerpt": "The human ability to smell functions as a critical cognitive function because it enables people to detect their surroundings while experiencing feelings and recalling memories and making choices.",
-    "summary": "This recent study explores olfactory perception and neural rhythms: a simulation-based eeg analysis using power spectral density featuresolfactory perception and neural rhythms: a simulation-based eeg analysis using power spectral density features.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "The human ability to smell functions as a critical cognitive function because it enables people to detect their surroundings while experiencing feelings and recalling memories and making choices. Researchers face difficulties when they use electroencephalography (EEG) to study how the brain responds to smells because olfactory brain signals produce low signal-to-noise ratios and different people show different response patterns and researchers lack established olfactory EEG databases for their studies. The study proposes a simulation-based framework which enables researchers to study olfactory EEG signals through power spectral density (PSD) analysis. The research team created a simulated olfactory EEG dataset which simulated the responses of fifty virtual participants who experienced two distinct odor categories of pleasant rose and unpleasant rotten at three different concentration levels of low medium and high to create six separate olfactory conditions. The simulated EEG signals included 45 channels which recorded data at a 256 Hz sampling rate. Welch's method estimated PSD features for five canonical EEG frequency bands which included delta theta alpha beta and gamma after the…",
-    "body": "The human ability to smell functions as a critical cognitive function because it enables people to detect their surroundings while experiencing feelings and recalling memories and making choices. Researchers face difficulties when they use electroencephalography (EEG) to study how the brain responds to smells because olfactory brain signals produce low signal-to-noise ratios and different people show different response patterns and researchers lack established olfactory EEG databases for their studies. The study proposes a simulation-based framework which enables researchers to study olfactory EEG signals through power spectral density (PSD) analysis. The research team created a simulated olfactory EEG dataset which simulated the responses of fifty virtual participants who experienced two distinct odor categories of pleasant rose and unpleasant rotten at three different concentration levels of low medium and high to create six separate olfactory conditions. The simulated EEG signals included 45 channels which recorded data at a 256 Hz sampling rate. Welch's method estimated PSD features for five canonical EEG frequency bands which included delta theta alpha beta and gamma after the…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "neural",
-        "explanation": "Related to nerves, neurons, or the brain’s communication system."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "S V A."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42389048/",
-    "doi": "10.1007/s11571-026-10478-4",
-    "pmid": "42389048"
   },
   {
     "id": "ai-computer-science-8f7a620d87",
@@ -1498,6 +1504,55 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42380961/",
     "doi": "10.1186/s12916-026-05041-1",
     "pmid": "42380961"
+  },
+  {
+    "id": "neuroscience-872b42ff56",
+    "title": "Olfactory Perception and Neural Rhythms: A Simulation-Based EEG Analysis Using Power Spectral Density FeaturesOlfactory perception and neural rhythms: a simulation-based eeg analysis using power spectral density features.",
+    "originalTitle": "Olfactory Perception and Neural Rhythms: A Simulation-Based EEG Analysis Using Power Spectral Density FeaturesOlfactory perception and neural rhythms: a simulation-based eeg analysis using power spectral density features.",
+    "category": "Neuroscience",
+    "date": "2026-06-30",
+    "dateISO": "2026-06-30",
+    "displayDate": "Jun 30, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/neuro.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "The human ability to smell functions as a critical cognitive function because it enables people to detect their surroundings while experiencing feelings and recalling memories and making choices.",
+    "excerpt": "The human ability to smell functions as a critical cognitive function because it enables people to detect their surroundings while experiencing feelings and recalling memories and making choices.",
+    "summary": "This recent study explores olfactory perception and neural rhythms: a simulation-based eeg analysis using power spectral density featuresolfactory perception and neural rhythms: a simulation-based eeg analysis using power spectral density features.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "The human ability to smell functions as a critical cognitive function because it enables people to detect their surroundings while experiencing feelings and recalling memories and making choices. Researchers face difficulties when they use electroencephalography (EEG) to study how the brain responds to smells because olfactory brain signals produce low signal-to-noise ratios and different people show different response patterns and researchers lack established olfactory EEG databases for their studies. The study proposes a simulation-based framework which enables researchers to study olfactory EEG signals through power spectral density (PSD) analysis. The research team created a simulated olfactory EEG dataset which simulated the responses of fifty virtual participants who experienced two distinct odor categories of pleasant rose and unpleasant rotten at three different concentration levels of low medium and high to create six separate olfactory conditions. The simulated EEG signals included 45 channels which recorded data at a 256 Hz sampling rate. Welch's method estimated PSD features for five canonical EEG frequency bands which included delta theta alpha beta and gamma after the…",
+    "body": "The human ability to smell functions as a critical cognitive function because it enables people to detect their surroundings while experiencing feelings and recalling memories and making choices. Researchers face difficulties when they use electroencephalography (EEG) to study how the brain responds to smells because olfactory brain signals produce low signal-to-noise ratios and different people show different response patterns and researchers lack established olfactory EEG databases for their studies. The study proposes a simulation-based framework which enables researchers to study olfactory EEG signals through power spectral density (PSD) analysis. The research team created a simulated olfactory EEG dataset which simulated the responses of fifty virtual participants who experienced two distinct odor categories of pleasant rose and unpleasant rotten at three different concentration levels of low medium and high to create six separate olfactory conditions. The simulated EEG signals included 45 channels which recorded data at a 256 Hz sampling rate. Welch's method estimated PSD features for five canonical EEG frequency bands which included delta theta alpha beta and gamma after the…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "neural",
+        "explanation": "Related to nerves, neurons, or the brain’s communication system."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "S V A."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42389048/",
+    "doi": "10.1007/s11571-026-10478-4",
+    "pmid": "42389048"
   },
   {
     "id": "medicine-c332683580",
@@ -1876,59 +1931,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42347558/",
     "doi": "10.1111/1471-0528.70292",
     "pmid": "42347558"
-  },
-  {
-    "id": "neuroscience-2b6e097552",
-    "title": "Advances in the Application of Brain-Computer Interface-Based Neurofeedback Training in the Rehabilitation of Patients with Major Depressive Disorder.",
-    "originalTitle": "Advances in the Application of Brain-Computer Interface-Based Neurofeedback Training in the Rehabilitation of Patients with Major Depressive Disorder.",
-    "category": "Neuroscience",
-    "date": "2026-06-25",
-    "dateISO": "2026-06-25",
-    "displayDate": "Jun 25, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/neuro.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Major depressive disorder is a highly prevalent affective disorder worldwide, and existing pharmacological and psychological treatments continue to demonstrate notable limitations in terms of therapeutic stability, adver…",
-    "excerpt": "Major depressive disorder is a highly prevalent affective disorder worldwide, and existing pharmacological and psychological treatments continue to demonstrate notable limitations in terms of therapeutic stability, adver…",
-    "summary": "This recent study explores advances in the application of brain-computer interface-based neurofeedback training in the rehabilitation of patients with major depressive disorder.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Major depressive disorder is a highly prevalent affective disorder worldwide, and existing pharmacological and psychological treatments continue to demonstrate notable limitations in terms of therapeutic stability, adverse effects, and relapse prevention. Brain-computer interface-based neurofeedback training (BCI‑NFT) guides patients to actively regulate abnormal neural functional states through real‑time feedback of brain activity signals, thereby providing a precise interventional pathway that acts directly at the level of neural function. This narrative review examines the theoretical foundations, neural mechanisms, and clinical application modalities of BCI‑NFT in depression rehabilitation, encompassing advances in both non‑invasive and invasive neurofeedback technologies, diverse combined intervention paradigms, and the application prospects of a concurrent intervention approach integrating wearable BCI technology with aerobic exercise at the interdisciplinary intersection of sports neuroscience and psychiatric rehabilitation medicine. Preliminary evidence suggests that BCI‑NFT may facilitate neural functional recovery in patients with major depressive disorder through three p…",
-    "body": "Major depressive disorder is a highly prevalent affective disorder worldwide, and existing pharmacological and psychological treatments continue to demonstrate notable limitations in terms of therapeutic stability, adverse effects, and relapse prevention. Brain-computer interface-based neurofeedback training (BCI‑NFT) guides patients to actively regulate abnormal neural functional states through real‑time feedback of brain activity signals, thereby providing a precise interventional pathway that acts directly at the level of neural function. This narrative review examines the theoretical foundations, neural mechanisms, and clinical application modalities of BCI‑NFT in depression rehabilitation, encompassing advances in both non‑invasive and invasive neurofeedback technologies, diverse combined intervention paradigms, and the application prospects of a concurrent intervention approach integrating wearable BCI technology with aerobic exercise at the interdisciplinary intersection of sports neuroscience and psychiatric rehabilitation medicine. Preliminary evidence suggests that BCI‑NFT may facilitate neural functional recovery in patients with major depressive disorder through three p…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "neural",
-        "explanation": "Related to nerves, neurons, or the brain’s communication system."
-      },
-      {
-        "term": "randomized",
-        "explanation": "A study design where participants are assigned by chance to different groups to reduce bias."
-      },
-      {
-        "term": "pathway",
-        "explanation": "A chain of molecular events inside cells that produces a biological effect."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Liu J",
-      "Liu L",
-      "Chen H",
-      "Xuan S",
-      "Leng X."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42381831/",
-    "doi": "10.2147/ndt.s609788",
-    "pmid": "42381831"
   },
   {
     "id": "biomedical-engineering-174e4edc80",
@@ -2354,6 +2356,59 @@
     "pmid": "42324782"
   },
   {
+    "id": "women-s-health-2e271590dc",
+    "title": "Comparative analysis of natural versus ovarian stimulation cycles in intrauterine insemination by diverse infertility indications.",
+    "originalTitle": "Comparative analysis of natural versus ovarian stimulation cycles in intrauterine insemination by diverse infertility indications.",
+    "category": "Women’s Health",
+    "date": "2026-06-19",
+    "dateISO": "2026-06-19",
+    "displayDate": "Jun 19, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/prosthetic.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Objective To describe clinical intrauterine insemination (IUI) outcomes among infertile patients with different infertility indications, and further compare reproductive outcomes between natural cycle (NC) and ovarian st…",
+    "excerpt": "Objective To describe clinical intrauterine insemination (IUI) outcomes among infertile patients with different infertility indications, and further compare reproductive outcomes between natural cycle (NC) and ovarian st…",
+    "summary": "This recent study explores comparative analysis of natural versus ovarian stimulation cycles in intrauterine insemination by diverse infertility indications.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Objective To describe clinical intrauterine insemination (IUI) outcomes among infertile patients with different infertility indications, and further compare reproductive outcomes between natural cycle (NC) and ovarian stimulation cycle (OSC) IUI. Materials and methods A total of 1451 infertile couples that underwent their first IUI cycle with husband sperm were included in this retrospective cohort study. The clinical pregnancy rates and live birth rates were compared between NC and OSC by diverse infertility indications. Results A total of 833 NC-IUI and 618 OSC-IUI cycles were available for analysis. Logistic regression showed patients with ovulatory disorder had significantly higher clinical pregnancy (21.99% vs 14.15%; AOR 1.992, 95% CI 1.207-3.288) and live birth rates (18.67% vs 11.51%; AOR 2.326, 95% CI 1.312-4.124), along with a higher preterm birth rate ( p = 0.032) when compared to the normal ovulation group. Among normal ovulatory patients, NC-IUI achieved higher clinical pregnancy rate than OSC-IUI in endometriosis (12.70% vs 8.00%), tubal infertility (16.67% vs 7.14%), and male factor group (15.92% vs 9.40%, p = 0.047), with similar live birth trends. For unexplained i…",
+    "body": "Objective To describe clinical intrauterine insemination (IUI) outcomes among infertile patients with different infertility indications, and further compare reproductive outcomes between natural cycle (NC) and ovarian stimulation cycle (OSC) IUI. Materials and methods A total of 1451 infertile couples that underwent their first IUI cycle with husband sperm were included in this retrospective cohort study. The clinical pregnancy rates and live birth rates were compared between NC and OSC by diverse infertility indications. Results A total of 833 NC-IUI and 618 OSC-IUI cycles were available for analysis. Logistic regression showed patients with ovulatory disorder had significantly higher clinical pregnancy (21.99% vs 14.15%; AOR 1.992, 95% CI 1.207-3.288) and live birth rates (18.67% vs 11.51%; AOR 2.326, 95% CI 1.312-4.124), along with a higher preterm birth rate ( p = 0.032) when compared to the normal ovulation group. Among normal ovulatory patients, NC-IUI achieved higher clinical pregnancy rate than OSC-IUI in endometriosis (12.70% vs 8.00%), tubal infertility (16.67% vs 7.14%), and male factor group (15.92% vs 9.40%, p = 0.047), with similar live birth trends. For unexplained i…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Fan J",
+      "Li L",
+      "Xu H",
+      "Shu J",
+      "Zhang K."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42319031/",
+    "doi": "10.1080/07853890.2026.2688370",
+    "pmid": "42319031"
+  },
+  {
     "id": "nutrition-dd5e05f47a",
     "title": "Dietary index for gut microbiota, plasma metabolome, and risks of metabolic dysfunction-associated steatotic liver disease and other chronic liver diseases.",
     "originalTitle": "Dietary index for gut microbiota, plasma metabolome, and risks of metabolic dysfunction-associated steatotic liver disease and other chronic liver diseases.",
@@ -2522,6 +2577,58 @@
     "pmid": "42388730"
   },
   {
+    "id": "genetics-508fb4c103",
+    "title": "Simulation of CRISPR/Cas9-mediated gene editing for the Vitellogenin gene in Apis mellifera.",
+    "originalTitle": "Simulation of CRISPR/Cas9-mediated gene editing for the Vitellogenin gene in Apis mellifera.",
+    "category": "Genetics",
+    "date": "2026-06-17",
+    "dateISO": "2026-06-17",
+    "displayDate": "Jun 17, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "CRISPR/Cas9 genome editing provides a powerful framework for interrogating gene function in Apis mellifera.",
+    "excerpt": "CRISPR/Cas9 genome editing provides a powerful framework for interrogating gene function in Apis mellifera.",
+    "summary": "This recent study explores simulation of crispr/cas9-mediated gene editing for the vitellogenin gene in apis mellifera.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "CRISPR/Cas9 genome editing provides a powerful framework for interrogating gene function in Apis mellifera. Yet, empirical application remains challenging due to biological constraints, including haplodiploid genetics, narrow embryonic injection window, and the social rearing requirements that complicate functional validation. These constraints necessitate in silico pre-screening to maximize editing success before resource-intensive wet-lab implementation. Within the omnigenic framework, which distinguishes core regulatory genes from peripheral loci buffered by network effects, vitellogenin (Vg) represents an optimal target which is ancestrally dedicated to yolk provisioning; it has been co-opted to orchestrate diverse non-reproductive functions including longevity, stress resistance, immunity, and social behavior. We developed a computational pipeline to design a list of 57 and 56 candidate guide RNAs (gRNA) for targeted Vg knockout, evaluating candidate sites in both functional exons 2 and 3 based on structural accessibility and frameshift efficiency. Comparative analysis revealed complementary strengths in two top-best candidates from initial target pool of predicted gRNAs. The…",
+    "body": "CRISPR/Cas9 genome editing provides a powerful framework for interrogating gene function in Apis mellifera. Yet, empirical application remains challenging due to biological constraints, including haplodiploid genetics, narrow embryonic injection window, and the social rearing requirements that complicate functional validation. These constraints necessitate in silico pre-screening to maximize editing success before resource-intensive wet-lab implementation. Within the omnigenic framework, which distinguishes core regulatory genes from peripheral loci buffered by network effects, vitellogenin (Vg) represents an optimal target which is ancestrally dedicated to yolk provisioning; it has been co-opted to orchestrate diverse non-reproductive functions including longevity, stress resistance, immunity, and social behavior. We developed a computational pipeline to design a list of 57 and 56 candidate guide RNAs (gRNA) for targeted Vg knockout, evaluating candidate sites in both functional exons 2 and 3 based on structural accessibility and frameshift efficiency. Comparative analysis revealed complementary strengths in two top-best candidates from initial target pool of predicted gRNAs. The…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "genomic",
+        "explanation": "Related to the full set of DNA instructions inside cells."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Davoodi P",
+      "Atapour M",
+      "Shahsavari A",
+      "Kiani R."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42310064/",
+    "doi": "10.1038/s41598-026-57836-0",
+    "pmid": "42310064"
+  },
+  {
     "id": "women-s-health-41810e5058",
     "title": "The long road after breast cancer: survivorship issues and long-term treatment effects in young women.",
     "originalTitle": "The long road after breast cancer: survivorship issues and long-term treatment effects in young women.",
@@ -2576,109 +2683,5 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42388620/",
     "doi": "10.3389/fonc.2026.1840152",
     "pmid": "42388620"
-  },
-  {
-    "id": "genetics-508fb4c103",
-    "title": "Simulation of CRISPR/Cas9-mediated gene editing for the Vitellogenin gene in Apis mellifera.",
-    "originalTitle": "Simulation of CRISPR/Cas9-mediated gene editing for the Vitellogenin gene in Apis mellifera.",
-    "category": "Genetics",
-    "date": "2026-06-17",
-    "dateISO": "2026-06-17",
-    "displayDate": "Jun 17, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "CRISPR/Cas9 genome editing provides a powerful framework for interrogating gene function in Apis mellifera.",
-    "excerpt": "CRISPR/Cas9 genome editing provides a powerful framework for interrogating gene function in Apis mellifera.",
-    "summary": "This recent study explores simulation of crispr/cas9-mediated gene editing for the vitellogenin gene in apis mellifera.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "CRISPR/Cas9 genome editing provides a powerful framework for interrogating gene function in Apis mellifera. Yet, empirical application remains challenging due to biological constraints, including haplodiploid genetics, narrow embryonic injection window, and the social rearing requirements that complicate functional validation. These constraints necessitate in silico pre-screening to maximize editing success before resource-intensive wet-lab implementation. Within the omnigenic framework, which distinguishes core regulatory genes from peripheral loci buffered by network effects, vitellogenin (Vg) represents an optimal target which is ancestrally dedicated to yolk provisioning; it has been co-opted to orchestrate diverse non-reproductive functions including longevity, stress resistance, immunity, and social behavior. We developed a computational pipeline to design a list of 57 and 56 candidate guide RNAs (gRNA) for targeted Vg knockout, evaluating candidate sites in both functional exons 2 and 3 based on structural accessibility and frameshift efficiency. Comparative analysis revealed complementary strengths in two top-best candidates from initial target pool of predicted gRNAs. The…",
-    "body": "CRISPR/Cas9 genome editing provides a powerful framework for interrogating gene function in Apis mellifera. Yet, empirical application remains challenging due to biological constraints, including haplodiploid genetics, narrow embryonic injection window, and the social rearing requirements that complicate functional validation. These constraints necessitate in silico pre-screening to maximize editing success before resource-intensive wet-lab implementation. Within the omnigenic framework, which distinguishes core regulatory genes from peripheral loci buffered by network effects, vitellogenin (Vg) represents an optimal target which is ancestrally dedicated to yolk provisioning; it has been co-opted to orchestrate diverse non-reproductive functions including longevity, stress resistance, immunity, and social behavior. We developed a computational pipeline to design a list of 57 and 56 candidate guide RNAs (gRNA) for targeted Vg knockout, evaluating candidate sites in both functional exons 2 and 3 based on structural accessibility and frameshift efficiency. Comparative analysis revealed complementary strengths in two top-best candidates from initial target pool of predicted gRNAs. The…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "genomic",
-        "explanation": "Related to the full set of DNA instructions inside cells."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Davoodi P",
-      "Atapour M",
-      "Shahsavari A",
-      "Kiani R."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42310064/",
-    "doi": "10.1038/s41598-026-57836-0",
-    "pmid": "42310064"
-  },
-  {
-    "id": "women-s-health-9f96d98664",
-    "title": "The role of IL-33/ST2 signaling in female reproductive diseases.",
-    "originalTitle": "The role of IL-33/ST2 signaling in female reproductive diseases.",
-    "category": "Women’s Health",
-    "date": "2026-06-12",
-    "dateISO": "2026-06-12",
-    "displayDate": "Jun 12, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/prosthetic.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Female reproductive tissues repeatedly undergo controlled inflammation, immune adaptation, and tissue repair.",
-    "excerpt": "Female reproductive tissues repeatedly undergo controlled inflammation, immune adaptation, and tissue repair.",
-    "summary": "This recent study explores the role of il-33/st2 signaling in female reproductive diseases.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Female reproductive tissues repeatedly undergo controlled inflammation, immune adaptation, and tissue repair. Interleukin-33 (IL-33) and its receptor suppression of tumorigenicity 2 (ST2) sit at the center of these processes, but their roles in reproductive disease have often appeared contradictory. In this review, we integrate current evidence and propose that IL-33/ST2 signaling is not simply pro-inflammatory or anti-inflammatory. Instead, it functions as a context- and stage-dependent regulatory axis shaped by hormonal status, tissue niche, cellular targets, and disease microenvironment. Under physiological conditions, properly timed and locally restricted IL-33/ST2 activity supports ovarian tissue clearance, decidualization, embryo implantation, pregnancy maintenance, and repair. When this regulation is disrupted, the same pathway may contribute to chronic inflammation, fibrosis, immune imbalance, and reproductive dysfunction. Evidence is strongest in endometriosis and recurrent miscarriage, where experimental and mechanistic studies link IL-33/ST2 to lesion inflammation, fibrosis, ILC2 and macrophage responses, uterine receptivity, and maternal-fetal immune tolerance. In contr…",
-    "body": "Female reproductive tissues repeatedly undergo controlled inflammation, immune adaptation, and tissue repair. Interleukin-33 (IL-33) and its receptor suppression of tumorigenicity 2 (ST2) sit at the center of these processes, but their roles in reproductive disease have often appeared contradictory. In this review, we integrate current evidence and propose that IL-33/ST2 signaling is not simply pro-inflammatory or anti-inflammatory. Instead, it functions as a context- and stage-dependent regulatory axis shaped by hormonal status, tissue niche, cellular targets, and disease microenvironment. Under physiological conditions, properly timed and locally restricted IL-33/ST2 activity supports ovarian tissue clearance, decidualization, embryo implantation, pregnancy maintenance, and repair. When this regulation is disrupted, the same pathway may contribute to chronic inflammation, fibrosis, immune imbalance, and reproductive dysfunction. Evidence is strongest in endometriosis and recurrent miscarriage, where experimental and mechanistic studies link IL-33/ST2 to lesion inflammation, fibrosis, ILC2 and macrophage responses, uterine receptivity, and maternal-fetal immune tolerance. In contr…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "biomarker",
-        "explanation": "A measurable signal in the body that can help indicate a disease, risk, or treatment response."
-      },
-      {
-        "term": "inflammation",
-        "explanation": "The immune system’s response to injury, infection, or stress, which can help healing but also cause harm if uncontrolled."
-      },
-      {
-        "term": "pathway",
-        "explanation": "A chain of molecular events inside cells that produces a biological effect."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Zhang N",
-      "Tang M",
-      "Chen M",
-      "Shi Y."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42368446/",
-    "doi": "10.3389/fcell.2026.1808099",
-    "pmid": "42368446"
   }
 ]
