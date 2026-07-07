@@ -107,62 +107,6 @@
     "pmid": "42398056"
   },
   {
-    "id": "genetics-59306c01c3",
-    "title": "Transposable element disruption of a second thyroglobulin-like gene confers Vip3Aa resistance in Helicoverpa armigera.",
-    "originalTitle": "Transposable element disruption of a second thyroglobulin-like gene confers Vip3Aa resistance in Helicoverpa armigera.",
-    "category": "Genetics",
-    "date": "2026-07-03",
-    "dateISO": "2026-07-03",
-    "displayDate": "Jul 3, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Background The cotton bollworm Helicoverpa armigera is a major global pest controlled by genetically engineered crops expressing Bacillus thuringiensis (Bt) toxins, including Vip3Aa.",
-    "excerpt": "Background The cotton bollworm Helicoverpa armigera is a major global pest controlled by genetically engineered crops expressing Bacillus thuringiensis (Bt) toxins, including Vip3Aa.",
-    "summary": "This recent study explores transposable element disruption of a second thyroglobulin-like gene confers vip3aa resistance in helicoverpa armigera.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Background The cotton bollworm Helicoverpa armigera is a major global pest controlled by genetically engineered crops expressing Bacillus thuringiensis (Bt) toxins, including Vip3Aa. While Vip3Aa is widely deployed, the genetic basis of resistance remains poorly understood. Previous work identified disruption of a thyroglobulin-like gene (HaVipR1) as one mechanism of resistance, suggesting additional loci may be involved. Results Using linkage analysis, transcriptomics, long-read sequencing, and CRISPR-Cas9 gene editing, we identify a second thyroglobulin-like gene, HaVipR2, as a novel mediator of Vip3Aa resistance. Resistance in a field-derived H. armigera line was shown to be monogenic, recessive, and autosomal, mapping to chromosome 29. Long-read sequencing revealed a ~ 16 kb transposable element insertion disrupting HaVipR2, which was undetectable using standard short-read approaches. CRISPR-Cas9 knockout of HaVipR2 conferred > 900-fold resistance, confirming its causal role. Comparative analyses show that HaVipR1 and HaVipR2 share conserved domain architecture, indicating that thyroglobulin-domain proteins represent a recurrent target of resistance evolution. Conclusions Our f…",
-    "body": "Background The cotton bollworm Helicoverpa armigera is a major global pest controlled by genetically engineered crops expressing Bacillus thuringiensis (Bt) toxins, including Vip3Aa. While Vip3Aa is widely deployed, the genetic basis of resistance remains poorly understood. Previous work identified disruption of a thyroglobulin-like gene (HaVipR1) as one mechanism of resistance, suggesting additional loci may be involved. Results Using linkage analysis, transcriptomics, long-read sequencing, and CRISPR-Cas9 gene editing, we identify a second thyroglobulin-like gene, HaVipR2, as a novel mediator of Vip3Aa resistance. Resistance in a field-derived H. armigera line was shown to be monogenic, recessive, and autosomal, mapping to chromosome 29. Long-read sequencing revealed a ~ 16 kb transposable element insertion disrupting HaVipR2, which was undetectable using standard short-read approaches. CRISPR-Cas9 knockout of HaVipR2 conferred > 900-fold resistance, confirming its causal role. Comparative analyses show that HaVipR1 and HaVipR2 share conserved domain architecture, indicating that thyroglobulin-domain proteins represent a recurrent target of resistance evolution. Conclusions Our f…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "transcriptomic",
-        "explanation": "Related to which genes are being actively read and turned into RNA inside cells."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Bachler A",
-      "Walsh TK",
-      "Andrews D",
-      "Williams M",
-      "Tay WT",
-      "Gordon K",
-      "James B",
-      "Fang C"
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42399777/",
-    "doi": "10.1186/s12864-026-13139-2",
-    "pmid": "42399777"
-  },
-  {
     "id": "public-health-87102900f5",
     "title": "BCAA metabolism promotes lung cancer tumorigenesis by enhancing cholesterol biosynthesis.",
     "originalTitle": "BCAA metabolism promotes lung cancer tumorigenesis by enhancing cholesterol biosynthesis.",
@@ -481,6 +425,62 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42399230/",
     "doi": "10.1038/s41378-026-01357-3",
     "pmid": "42399230"
+  },
+  {
+    "id": "neuroscience-758223d879",
+    "title": "Longitudinal effects of comorbidities on brain structure and cognition in older breast cancer survivors.",
+    "originalTitle": "Longitudinal effects of comorbidities on brain structure and cognition in older breast cancer survivors.",
+    "category": "Neuroscience",
+    "date": "2026-07-03",
+    "dateISO": "2026-07-03",
+    "displayDate": "Jul 3, 2026",
+    "readTime": 3,
+    "difficulty": "Beginner",
+    "image": "RUimages/neuro.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Background Neural substrates of cancer-related cognitive impairment (CRCI) remain poorly understood, especially in older adults facing aging-related cognitive decline and comorbid chronic conditions.",
+    "excerpt": "Background Neural substrates of cancer-related cognitive impairment (CRCI) remain poorly understood, especially in older adults facing aging-related cognitive decline and comorbid chronic conditions.",
+    "summary": "This recent study explores longitudinal effects of comorbidities on brain structure and cognition in older breast cancer survivors.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Background Neural substrates of cancer-related cognitive impairment (CRCI) remain poorly understood, especially in older adults facing aging-related cognitive decline and comorbid chronic conditions. Methods Breast cancer survivors aged ≥60 years (n = 64) and non-cancer controls (n = 62) completed structural MRI and neuropsychological testing and self-reported cognition and health information at pretreatment baseline and 12- and 24-month follow-ups. Regional gray matter volume and brain age were evaluated using FreeSurfer and brainageR. Longitudinal linear mixed models tested effects of group, time, and group-by-time interactions on volume. Secondary analyses examined relationships between group, comorbidities, age, gray matter volume, and cognition. Results Survivors exhibited frontal (p = 0.025, q = 0.058), thalamic (p = 0.008, q = 0.052), and limbic (p = 0.015, q = 0.052) gray matter decline relative to controls over 24 months, with smaller effects in parietal (p = 0.055, q = 0.097) and temporal (p = 0.091, q = 0.127) regions. Survivors showed average yearly frontal and thalamic volume loss at twice the rate of controls (p Conclusions Older breast cancer survivors tended to demo…",
+    "body": "Background Neural substrates of cancer-related cognitive impairment (CRCI) remain poorly understood, especially in older adults facing aging-related cognitive decline and comorbid chronic conditions. Methods Breast cancer survivors aged ≥60 years (n = 64) and non-cancer controls (n = 62) completed structural MRI and neuropsychological testing and self-reported cognition and health information at pretreatment baseline and 12- and 24-month follow-ups. Regional gray matter volume and brain age were evaluated using FreeSurfer and brainageR. Longitudinal linear mixed models tested effects of group, time, and group-by-time interactions on volume. Secondary analyses examined relationships between group, comorbidities, age, gray matter volume, and cognition. Results Survivors exhibited frontal (p = 0.025, q = 0.058), thalamic (p = 0.008, q = 0.052), and limbic (p = 0.015, q = 0.052) gray matter decline relative to controls over 24 months, with smaller effects in parietal (p = 0.055, q = 0.097) and temporal (p = 0.091, q = 0.127) regions. Survivors showed average yearly frontal and thalamic volume loss at twice the rate of controls (p Conclusions Older breast cancer survivors tended to demo…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "neural",
+        "explanation": "Related to nerves, neurons, or the brain’s communication system."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Casagrande CC",
+      "Deardorff RL",
+      "Zhai W",
+      "Small BJ",
+      "Bailey JN",
+      "Van Dyk K",
+      "Root JC",
+      "Ahles TA"
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42402209/",
+    "doi": "10.1093/jnci/djag219",
+    "pmid": "42402209"
   },
   {
     "id": "medicine-2e83adfc36",
@@ -808,6 +808,62 @@
     "pmid": "42390831"
   },
   {
+    "id": "genetics-244f3b303c",
+    "title": "Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)-Cas genome editing transforming crop stress tolerance for global food security.",
+    "originalTitle": "Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)-Cas genome editing transforming crop stress tolerance for global food security.",
+    "category": "Genetics",
+    "date": "2026-07-01",
+    "dateISO": "2026-07-01",
+    "displayDate": "Jul 1, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Climate change increasingly threatens global crop productivity by intensifying drought, salinity, temperature extremes, and biotic stresses.",
+    "excerpt": "Climate change increasingly threatens global crop productivity by intensifying drought, salinity, temperature extremes, and biotic stresses.",
+    "summary": "This recent study explores clustered regularly interspaced short palindromic repeats (crispr)-cas genome editing transforming crop stress tolerance for global food security.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Climate change increasingly threatens global crop productivity by intensifying drought, salinity, temperature extremes, and biotic stresses. Developing climate-resilient cultivars has therefore become a central objective in modern crop breeding programs. Conventional breeding approaches are often limited by complex trait inheritance and long selection cycles, particularly for polygenic stress-adaptive traits. Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)-associated protein (Cas) genome editing genome editing provides a precise and efficient platform for targeted manipulation of genes controlling stress tolerance, yield stability, and adaptive performance. This review synthesizes recent advances in CRISPR mediated improvement of resilience to major abiotic stresses (drought, salinity, heat, and cold) and biotic stresses (fungi, bacteria, viruses, and insects) across important cereal, legume, and horticultural crops. Emphasis is placed on the editing of transcription factors, signaling regulators, susceptibility genes, and redox-associated pathways that enhance physiological and molecular stress adaptation. Furthermore, the integration of CRISPR with genomics, tr…",
+    "body": "Climate change increasingly threatens global crop productivity by intensifying drought, salinity, temperature extremes, and biotic stresses. Developing climate-resilient cultivars has therefore become a central objective in modern crop breeding programs. Conventional breeding approaches are often limited by complex trait inheritance and long selection cycles, particularly for polygenic stress-adaptive traits. Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)-associated protein (Cas) genome editing genome editing provides a precise and efficient platform for targeted manipulation of genes controlling stress tolerance, yield stability, and adaptive performance. This review synthesizes recent advances in CRISPR mediated improvement of resilience to major abiotic stresses (drought, salinity, heat, and cold) and biotic stresses (fungi, bacteria, viruses, and insects) across important cereal, legume, and horticultural crops. Emphasis is placed on the editing of transcription factors, signaling regulators, susceptibility genes, and redox-associated pathways that enhance physiological and molecular stress adaptation. Furthermore, the integration of CRISPR with genomics, tr…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "genomic",
+        "explanation": "Related to the full set of DNA instructions inside cells."
+      },
+      {
+        "term": "transcriptomic",
+        "explanation": "Related to which genes are being actively read and turned into RNA inside cells."
+      },
+      {
+        "term": "pathway",
+        "explanation": "A chain of molecular events inside cells that produces a biological effect."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "XiuJuan W",
+      "Faisal M",
+      "Muhammad S",
+      "Aslam A",
+      "Razzaq MK",
+      "Masroor A",
+      "Yefang S",
+      "Quronfulah AS"
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42405245/",
+    "doi": "10.7717/peerj.21450",
+    "pmid": "42405245"
+  },
+  {
     "id": "medicine-607120e4a2",
     "title": "Lenvatinib Combined with PD-1 Blockade Therapy Benefits Gastric Cancers through Immunosuppressive Macrophage Modulation.",
     "originalTitle": "Lenvatinib Combined with PD-1 Blockade Therapy Benefits Gastric Cancers through Immunosuppressive Macrophage Modulation.",
@@ -1072,57 +1128,6 @@
     "pmid": "42387968"
   },
   {
-    "id": "neuroscience-e181dc8a88",
-    "title": "Neural Basis of Action Simulation in Architectural Perception: A Multi-voxel Pattern Analysis Study.",
-    "originalTitle": "Neural Basis of Action Simulation in Architectural Perception: A Multi-voxel Pattern Analysis Study.",
-    "category": "Neuroscience",
-    "date": "2026-07-01",
-    "dateISO": "2026-07-01",
-    "displayDate": "Jul 1, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/neuro.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs.",
-    "excerpt": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs.",
-    "summary": "This recent study explores neural basis of action simulation in architectural perception: a multi-voxel pattern analysis study.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs. Although previous research on navigation has demonstrated how the spatial configuration of corridors and doorways guide locomotion, it remains unclear whether architectural elements (e.g., doors, windows, stairs) that require direct interaction evoke distinct, action-specific representations in the brain. Thus, the aim of this study is to investigate whether the passive perception of such elements (viewed without any intention to act) spontaneously recruits motor-related brain networks and whether these activations are specific to the actions implied by each element. fMRI data were collected from 31 participants during passive viewing of each architectural element followed by imagery of four actions: one reflecting the element's primary function, one representing manipulation, and two corresponding to peripheral actions. Using multi-voxel pattern analysis, we created classification ratio maps to identify action-architectural element associations. Our analyses revealed tha…",
-    "body": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs. Although previous research on navigation has demonstrated how the spatial configuration of corridors and doorways guide locomotion, it remains unclear whether architectural elements (e.g., doors, windows, stairs) that require direct interaction evoke distinct, action-specific representations in the brain. Thus, the aim of this study is to investigate whether the passive perception of such elements (viewed without any intention to act) spontaneously recruits motor-related brain networks and whether these activations are specific to the actions implied by each element. fMRI data were collected from 31 participants during passive viewing of each architectural element followed by imagery of four actions: one reflecting the element's primary function, one representing manipulation, and two corresponding to peripheral actions. Using multi-voxel pattern analysis, we created classification ratio maps to identify action-architectural element associations. Our analyses revealed tha…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "neural",
-        "explanation": "Related to nerves, neurons, or the brain’s communication system."
-      },
-      {
-        "term": "pathway",
-        "explanation": "A chain of molecular events inside cells that produces a biological effect."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Shin W",
-      "Song Y",
-      "Jeong J."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41707234/",
-    "doi": "10.1162/jocn.a.2486",
-    "pmid": "41707234"
-  },
-  {
     "id": "public-health-0fa7a9984f",
     "title": "Sitting still while the world gets sicker: Rethinking physical inactivity as a public health emergency.",
     "originalTitle": "Sitting still while the world gets sicker: Rethinking physical inactivity as a public health emergency.",
@@ -1233,6 +1238,107 @@
     "pmid": "42036603"
   },
   {
+    "id": "neuroscience-e181dc8a88",
+    "title": "Neural Basis of Action Simulation in Architectural Perception: A Multi-voxel Pattern Analysis Study.",
+    "originalTitle": "Neural Basis of Action Simulation in Architectural Perception: A Multi-voxel Pattern Analysis Study.",
+    "category": "Neuroscience",
+    "date": "2026-07-01",
+    "dateISO": "2026-07-01",
+    "displayDate": "Jul 1, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/neuro.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs.",
+    "excerpt": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs.",
+    "summary": "This recent study explores neural basis of action simulation in architectural perception: a multi-voxel pattern analysis study.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs. Although previous research on navigation has demonstrated how the spatial configuration of corridors and doorways guide locomotion, it remains unclear whether architectural elements (e.g., doors, windows, stairs) that require direct interaction evoke distinct, action-specific representations in the brain. Thus, the aim of this study is to investigate whether the passive perception of such elements (viewed without any intention to act) spontaneously recruits motor-related brain networks and whether these activations are specific to the actions implied by each element. fMRI data were collected from 31 participants during passive viewing of each architectural element followed by imagery of four actions: one reflecting the element's primary function, one representing manipulation, and two corresponding to peripheral actions. Using multi-voxel pattern analysis, we created classification ratio maps to identify action-architectural element associations. Our analyses revealed tha…",
+    "body": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs. Although previous research on navigation has demonstrated how the spatial configuration of corridors and doorways guide locomotion, it remains unclear whether architectural elements (e.g., doors, windows, stairs) that require direct interaction evoke distinct, action-specific representations in the brain. Thus, the aim of this study is to investigate whether the passive perception of such elements (viewed without any intention to act) spontaneously recruits motor-related brain networks and whether these activations are specific to the actions implied by each element. fMRI data were collected from 31 participants during passive viewing of each architectural element followed by imagery of four actions: one reflecting the element's primary function, one representing manipulation, and two corresponding to peripheral actions. Using multi-voxel pattern analysis, we created classification ratio maps to identify action-architectural element associations. Our analyses revealed tha…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "neural",
+        "explanation": "Related to nerves, neurons, or the brain’s communication system."
+      },
+      {
+        "term": "pathway",
+        "explanation": "A chain of molecular events inside cells that produces a biological effect."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Shin W",
+      "Song Y",
+      "Jeong J."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41707234/",
+    "doi": "10.1162/jocn.a.2486",
+    "pmid": "41707234"
+  },
+  {
+    "id": "environment-ecf4dcc3c3",
+    "title": "Microfibers in life cycle assessment: comparing the physical effects of cellulosic and synthetic fibers via characterization factors development.",
+    "originalTitle": "Microfibers in life cycle assessment: comparing the physical effects of cellulosic and synthetic fibers via characterization factors development.",
+    "category": "Environment",
+    "date": "2026-07-01",
+    "dateISO": "2026-07-01",
+    "displayDate": "Jul 1, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Textile clothing is a significant contributor to microfiber pollution in aquatic ecosystems.",
+    "excerpt": "Textile clothing is a significant contributor to microfiber pollution in aquatic ecosystems.",
+    "summary": "This recent study explores microfibers in life cycle assessment: comparing the physical effects of cellulosic and synthetic fibers via characterization factors development.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Textile clothing is a significant contributor to microfiber pollution in aquatic ecosystems. A large portion of these emissions are cellulosic-based, either natural (e.g., cotton, linen) or semisynthetic (e.g., viscose, lyocell), which can be ingested by aquatic organisms, posing harmful effects even at environmentally relevant concentrations. Studies comparing the effects of cellulosic and synthetic fibers report conflicting results: some suggest synthetic fibers are more harmful, others the opposite. However, despite their high environmental abundance, the lack of a species sensitivity distribution (SSD) for cellulosic microfibers (CMFs) has prevented comparison of their effects with synthetic microfibers (SMFs). Further, although SMFs have been integrated into life cycle assessment (LCA) through characterization factors (CFs), equivalent CFs for CMFs are missing due to a lack of an exposure and effect factor (EEF) specific to these fibers. We derived CFs for six CMFs (cotton, linen, viscose, lyocell, rayon, and modal) by combining modeled fate factors in marine water and sediments with an EEF calculated from a hazardous concentration for 20% of species (HC20), using an SSD of EC…",
+    "body": "Textile clothing is a significant contributor to microfiber pollution in aquatic ecosystems. A large portion of these emissions are cellulosic-based, either natural (e.g., cotton, linen) or semisynthetic (e.g., viscose, lyocell), which can be ingested by aquatic organisms, posing harmful effects even at environmentally relevant concentrations. Studies comparing the effects of cellulosic and synthetic fibers report conflicting results: some suggest synthetic fibers are more harmful, others the opposite. However, despite their high environmental abundance, the lack of a species sensitivity distribution (SSD) for cellulosic microfibers (CMFs) has prevented comparison of their effects with synthetic microfibers (SMFs). Further, although SMFs have been integrated into life cycle assessment (LCA) through characterization factors (CFs), equivalent CFs for CMFs are missing due to a lack of an exposure and effect factor (EEF) specific to these fibers. We derived CFs for six CMFs (cotton, linen, viscose, lyocell, rayon, and modal) by combining modeled fate factors in marine water and sediments with an EEF calculated from a hazardous concentration for 20% of species (HC20), using an SSD of EC…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Saadi N",
+      "Boulay AM."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41520154/",
+    "doi": "10.1093/inteam/vjag007",
+    "pmid": "41520154"
+  },
+  {
     "id": "neuroscience-c9881afe79",
     "title": "Variations of global brain asymmetry are associated with aging and related diseases.",
     "originalTitle": "Variations of global brain asymmetry are associated with aging and related diseases.",
@@ -1287,59 +1393,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42384796/",
     "doi": "10.1126/sciadv.adu9309",
     "pmid": "42384796"
-  },
-  {
-    "id": "environment-b364f2be20",
-    "title": "Towards a Sustainable Future: Embedding Planetary Health in Allied Health Professional Education Through the Lens of Indigenous Knowledges.",
-    "originalTitle": "Towards a Sustainable Future: Embedding Planetary Health in Allied Health Professional Education Through the Lens of Indigenous Knowledges.",
-    "category": "Environment",
-    "date": "2026-07-01",
-    "dateISO": "2026-07-01",
-    "displayDate": "Jul 1, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Planetary health is increasingly recognised as an essential aspect of health professional education, yet its integration within allied health curricula in Australia remains fragmented.",
-    "excerpt": "Planetary health is increasingly recognised as an essential aspect of health professional education, yet its integration within allied health curricula in Australia remains fragmented.",
-    "summary": "This recent study explores towards a sustainable future: embedding planetary health in allied health professional education through the lens of indigenous knowledges.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Planetary health is increasingly recognised as an essential aspect of health professional education, yet its integration within allied health curricula in Australia remains fragmented. This commentary argues that meaningful and sustainable embedding of planetary health requires explicit engagement with Indigenous knowledges. Expanding curricula beyond Western views to include Indigenous eco-centric worldviews enables a deeper understanding of the interconnections between environmental health, human wellbeing and spiritual identity. We reflect on the influential role of accreditation standards in shaping educational priorities, highlighting the leadership demonstrated by medical and nursing professions and the relative absence of coordinated action across allied health in the context of planetary health. We propose the Aboriginal and Torres Strait Islander Health Curriculum Framework as a culturally grounded lens through which planetary health education can be advanced within allied health education. Aligning planetary health capabilities with the Framework's five interconnected cultural capabilities offers a practical and transformative pathway to develop culturally capable graduat…",
-    "body": "Planetary health is increasingly recognised as an essential aspect of health professional education, yet its integration within allied health curricula in Australia remains fragmented. This commentary argues that meaningful and sustainable embedding of planetary health requires explicit engagement with Indigenous knowledges. Expanding curricula beyond Western views to include Indigenous eco-centric worldviews enables a deeper understanding of the interconnections between environmental health, human wellbeing and spiritual identity. We reflect on the influential role of accreditation standards in shaping educational priorities, highlighting the leadership demonstrated by medical and nursing professions and the relative absence of coordinated action across allied health in the context of planetary health. We propose the Aboriginal and Torres Strait Islander Health Curriculum Framework as a culturally grounded lens through which planetary health education can be advanced within allied health education. Aligning planetary health capabilities with the Framework's five interconnected cultural capabilities offers a practical and transformative pathway to develop culturally capable graduat…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "pathway",
-        "explanation": "A chain of molecular events inside cells that produces a biological effect."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "McPherson K",
-      "Barradell S",
-      "Li K",
-      "Watkins M",
-      "Phillips A."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42082163/",
-    "doi": "10.1002/hpja.70195",
-    "pmid": "42082163"
   },
   {
     "id": "ai-computer-science-a7c48dae90",
@@ -1504,55 +1557,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42380961/",
     "doi": "10.1186/s12916-026-05041-1",
     "pmid": "42380961"
-  },
-  {
-    "id": "neuroscience-872b42ff56",
-    "title": "Olfactory Perception and Neural Rhythms: A Simulation-Based EEG Analysis Using Power Spectral Density FeaturesOlfactory perception and neural rhythms: a simulation-based eeg analysis using power spectral density features.",
-    "originalTitle": "Olfactory Perception and Neural Rhythms: A Simulation-Based EEG Analysis Using Power Spectral Density FeaturesOlfactory perception and neural rhythms: a simulation-based eeg analysis using power spectral density features.",
-    "category": "Neuroscience",
-    "date": "2026-06-30",
-    "dateISO": "2026-06-30",
-    "displayDate": "Jun 30, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/neuro.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "The human ability to smell functions as a critical cognitive function because it enables people to detect their surroundings while experiencing feelings and recalling memories and making choices.",
-    "excerpt": "The human ability to smell functions as a critical cognitive function because it enables people to detect their surroundings while experiencing feelings and recalling memories and making choices.",
-    "summary": "This recent study explores olfactory perception and neural rhythms: a simulation-based eeg analysis using power spectral density featuresolfactory perception and neural rhythms: a simulation-based eeg analysis using power spectral density features.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "The human ability to smell functions as a critical cognitive function because it enables people to detect their surroundings while experiencing feelings and recalling memories and making choices. Researchers face difficulties when they use electroencephalography (EEG) to study how the brain responds to smells because olfactory brain signals produce low signal-to-noise ratios and different people show different response patterns and researchers lack established olfactory EEG databases for their studies. The study proposes a simulation-based framework which enables researchers to study olfactory EEG signals through power spectral density (PSD) analysis. The research team created a simulated olfactory EEG dataset which simulated the responses of fifty virtual participants who experienced two distinct odor categories of pleasant rose and unpleasant rotten at three different concentration levels of low medium and high to create six separate olfactory conditions. The simulated EEG signals included 45 channels which recorded data at a 256 Hz sampling rate. Welch's method estimated PSD features for five canonical EEG frequency bands which included delta theta alpha beta and gamma after the…",
-    "body": "The human ability to smell functions as a critical cognitive function because it enables people to detect their surroundings while experiencing feelings and recalling memories and making choices. Researchers face difficulties when they use electroencephalography (EEG) to study how the brain responds to smells because olfactory brain signals produce low signal-to-noise ratios and different people show different response patterns and researchers lack established olfactory EEG databases for their studies. The study proposes a simulation-based framework which enables researchers to study olfactory EEG signals through power spectral density (PSD) analysis. The research team created a simulated olfactory EEG dataset which simulated the responses of fifty virtual participants who experienced two distinct odor categories of pleasant rose and unpleasant rotten at three different concentration levels of low medium and high to create six separate olfactory conditions. The simulated EEG signals included 45 channels which recorded data at a 256 Hz sampling rate. Welch's method estimated PSD features for five canonical EEG frequency bands which included delta theta alpha beta and gamma after the…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "neural",
-        "explanation": "Related to nerves, neurons, or the brain’s communication system."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "S V A."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42389048/",
-    "doi": "10.1007/s11571-026-10478-4",
-    "pmid": "42389048"
   },
   {
     "id": "medicine-c332683580",
@@ -2093,62 +2097,6 @@
     "pmid": "42342409"
   },
   {
-    "id": "public-health-cbe12d4849",
-    "title": "Enhancing data collection on socio-behavioural exposure pathways for emerging tickborne disease through engagement with surviving cases and their household members.",
-    "originalTitle": "Enhancing data collection on socio-behavioural exposure pathways for emerging tickborne disease through engagement with surviving cases and their household members.",
-    "category": "Public Health",
-    "date": "2026-06-24",
-    "dateISO": "2026-06-24",
-    "displayDate": "Jun 24, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Background Severe fever with thrombocytopaenia syndrome (SFTS) is an epidemiologically complex tickborne zoonosis emerging across Asia.",
-    "excerpt": "Background Severe fever with thrombocytopaenia syndrome (SFTS) is an epidemiologically complex tickborne zoonosis emerging across Asia.",
-    "summary": "This recent study explores enhancing data collection on socio-behavioural exposure pathways for emerging tickborne disease through engagement with surviving cases and their household members.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Background Severe fever with thrombocytopaenia syndrome (SFTS) is an epidemiologically complex tickborne zoonosis emerging across Asia. More comprehensive, contextually relevant data is needed for this low incidence, high-severity disease. Methods A mixed-methods formative research study was undertaken in Nagasaki, Japan between August-October 2025, to pilot a newly developed questionnaire on SFTS exposure pathways with 22 surviving cases and their household members. Participants completed the questionnaire twice, one month apart, to evaluate questionnaire reliability in a study population advanced in age and affected by post-SFTS sequelae. Twenty semi-structured interviews were conducted. Results Participants reliably answered closed-ended questions about potential SFTS virus exposure events, with a median 88.5% intra-participant consistency. Follow-up questions about timing or duration of exposures had lower completeness and consistency. During feedback interviews, participants reported lived experience with multi-step infection pathways that validated inclusion of questionnaire sections on vector-, animal-, environment-, and human- mediated pathways. Participants also revealed c…",
-    "body": "Background Severe fever with thrombocytopaenia syndrome (SFTS) is an epidemiologically complex tickborne zoonosis emerging across Asia. More comprehensive, contextually relevant data is needed for this low incidence, high-severity disease. Methods A mixed-methods formative research study was undertaken in Nagasaki, Japan between August-October 2025, to pilot a newly developed questionnaire on SFTS exposure pathways with 22 surviving cases and their household members. Participants completed the questionnaire twice, one month apart, to evaluate questionnaire reliability in a study population advanced in age and affected by post-SFTS sequelae. Twenty semi-structured interviews were conducted. Results Participants reliably answered closed-ended questions about potential SFTS virus exposure events, with a median 88.5% intra-participant consistency. Follow-up questions about timing or duration of exposures had lower completeness and consistency. During feedback interviews, participants reported lived experience with multi-step infection pathways that validated inclusion of questionnaire sections on vector-, animal-, environment-, and human- mediated pathways. Participants also revealed c…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "pathway",
-        "explanation": "A chain of molecular events inside cells that produces a biological effect."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Hattori C",
-      "Kurihara J",
-      "Shimada S",
-      "Yamaguchi N",
-      "Kobayashi C",
-      "Aono H",
-      "Takamatsu Y",
-      "Tanaka T"
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42341907/",
-    "doi": "10.1016/j.ijid.2026.108914",
-    "pmid": "42341907"
-  },
-  {
     "id": "nutrition-068f59c0fd",
     "title": "Dietary Interventions Targeting Maternal Obesity: Intergenerational Effects, Mechanisms, and Translational Insights.",
     "originalTitle": "Dietary Interventions Targeting Maternal Obesity: Intergenerational Effects, Mechanisms, and Translational Insights.",
@@ -2304,6 +2252,62 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42319373/",
     "doi": "10.1097/moh.0000000000000940",
     "pmid": "42319373"
+  },
+  {
+    "id": "public-health-c5abed23e1",
+    "title": "Intersectional inequalities in self-rated health in Germany across sex/gender, migration, education and income: a cross-sectional study.",
+    "originalTitle": "Intersectional inequalities in self-rated health in Germany across sex/gender, migration, education and income: a cross-sectional study.",
+    "category": "Public Health",
+    "date": "2026-06-22",
+    "dateISO": "2026-06-22",
+    "displayDate": "Jun 22, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Background Health inequalities by sex/gender, migration, education and income persist across Europe, yet intersectionality-informed research on how these social positions jointly shape self-rated health (SRH) remains lim…",
+    "excerpt": "Background Health inequalities by sex/gender, migration, education and income persist across Europe, yet intersectionality-informed research on how these social positions jointly shape self-rated health (SRH) remains lim…",
+    "summary": "This recent study explores intersectional inequalities in self-rated health in germany across sex/gender, migration, education and income: a cross-sectional study.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Background Health inequalities by sex/gender, migration, education and income persist across Europe, yet intersectionality-informed research on how these social positions jointly shape self-rated health (SRH) remains limited. Methods We conducted a cross-sectional analysis of the German National Cohort (NAKO; n=179 861). Sex/gender, education and income were combined with three migration characteristics (any migration, Turkish and ethnic German resettler backgrounds) into three 16-strata exposure variables. We used Poisson regression with robust SEs to estimate adjusted frequencies and relative risks of poor SRH, adjusting for age, household size and study site. Departures from additivity were assessed using two-, three-, four-way and total relative excess risk due to interaction (RERI). Results Poor SRH followed a social gradient. Adjusted frequency of poor SRH generally increased with each additional marginalised social position, from 6.3% (95% CI 5.5% to 7.2%) among high education and income migrant men to 22.6% (95% CI 21.3% to 23.8%) among low education and income migrant women. Adjusted frequencies were highest among participants with Turkish background. Joint exposure to fem…",
+    "body": "Background Health inequalities by sex/gender, migration, education and income persist across Europe, yet intersectionality-informed research on how these social positions jointly shape self-rated health (SRH) remains limited. Methods We conducted a cross-sectional analysis of the German National Cohort (NAKO; n=179 861). Sex/gender, education and income were combined with three migration characteristics (any migration, Turkish and ethnic German resettler backgrounds) into three 16-strata exposure variables. We used Poisson regression with robust SEs to estimate adjusted frequencies and relative risks of poor SRH, adjusting for age, household size and study site. Departures from additivity were assessed using two-, three-, four-way and total relative excess risk due to interaction (RERI). Results Poor SRH followed a social gradient. Adjusted frequency of poor SRH generally increased with each additional marginalised social position, from 6.3% (95% CI 5.5% to 7.2%) among high education and income migrant men to 22.6% (95% CI 21.3% to 23.8%) among low education and income migrant women. Adjusted frequencies were highest among participants with Turkish background. Joint exposure to fem…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Slesinski SC",
+      "Bilal U",
+      "Heisig JP",
+      "Telkmann K",
+      "Callies CM",
+      "Emmer C",
+      "Becher H",
+      "Brand T"
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42331609/",
+    "doi": "10.1136/jech-2026-225920",
+    "pmid": "42331609"
   },
   {
     "id": "genetics-4017756b0d",
