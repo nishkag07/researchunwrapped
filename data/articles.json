@@ -1,5 +1,55 @@
 [
   {
+    "id": "environment-9bbbe9500b",
+    "title": "Integrating sustainability thinking into microbiology education: a conceptual framework for the next generation of environmental scientists.",
+    "originalTitle": "Integrating sustainability thinking into microbiology education: a conceptual framework for the next generation of environmental scientists.",
+    "category": "Environment",
+    "date": "2026-07-10",
+    "dateISO": "2026-07-10",
+    "displayDate": "Jul 10, 2026",
+    "readTime": 3,
+    "difficulty": "Beginner",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Although microbiology is essential to the global sustainability agenda, its educational focus is still mostly limited to industrial and medical applications.",
+    "excerpt": "Although microbiology is essential to the global sustainability agenda, its educational focus is still mostly limited to industrial and medical applications.",
+    "summary": "This recent study explores integrating sustainability thinking into microbiology education: a conceptual framework for the next generation of environmental scientists.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Although microbiology is essential to the global sustainability agenda, its educational focus is still mostly limited to industrial and medical applications. In order to bring microbiological education into line with the tenets of Education for Sustainable Development, this conceptual paper presents a sustainability-focused paradigm. The framework, which is founded on constructivist learning theory and systems thinking, highlights three interconnected educational pillars: interdisciplinary cooperation, ecological literacy, and problem-based learning. These pillars are intended to give students the skills, values, and information they need to relate microbial processes to global issues, including pollution, biodiversity loss, and climate change. The paper describes strategies for encouraging environmental awareness and social responsibility in aspiring microbiologists by combining knowledge from sustainability education and microbiology teaching. In order to prepare graduates to contribute to a resilient and regenerative future, it emphasizes that integrating sustainability thinking into microbiology education is crucial. It ends with strategic recommendations for curriculum reform,…",
+    "body": "Although microbiology is essential to the global sustainability agenda, its educational focus is still mostly limited to industrial and medical applications. In order to bring microbiological education into line with the tenets of Education for Sustainable Development, this conceptual paper presents a sustainability-focused paradigm. The framework, which is founded on constructivist learning theory and systems thinking, highlights three interconnected educational pillars: interdisciplinary cooperation, ecological literacy, and problem-based learning. These pillars are intended to give students the skills, values, and information they need to relate microbial processes to global issues, including pollution, biodiversity loss, and climate change. The paper describes strategies for encouraging environmental awareness and social responsibility in aspiring microbiologists by combining knowledge from sustainability education and microbiology teaching. In order to prepare graduates to contribute to a resilient and regenerative future, it emphasizes that integrating sustainability thinking into microbiology education is crucial. It ends with strategic recommendations for curriculum reform,…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Kari A",
+      "Disegha GC."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42429682/",
+    "doi": "10.1128/jmbe.00289-25",
+    "pmid": "42429682"
+  },
+  {
     "id": "medicine-0a83619e0e",
     "title": "Consolidative Thoracic Radiotherapy With Atezolizumab Maintenance in Extensive-Stage Small Cell Lung Cancer: The Phase 2 TREASURE Randomized Clinical Trial (AIO-TRK-0320).",
     "originalTitle": "Consolidative Thoracic Radiotherapy With Atezolizumab Maintenance in Extensive-Stage Small Cell Lung Cancer: The Phase 2 TREASURE Randomized Clinical Trial (AIO-TRK-0320).",
@@ -109,6 +159,174 @@
     "pmid": "42423619"
   },
   {
+    "id": "public-health-c2aeb8af43",
+    "title": "Mapping the use of interactive voice response (IVR) in healthcare in Africa: a scoping review protocol.",
+    "originalTitle": "Mapping the use of interactive voice response (IVR) in healthcare in Africa: a scoping review protocol.",
+    "category": "Public Health",
+    "date": "2026-07-09",
+    "dateISO": "2026-07-09",
+    "displayDate": "Jul 9, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Africa faces a substantial health burden characterised by a dual burden of communicable and non-communicable diseases compounded by persistent health system and infrastructure constraints.",
+    "excerpt": "Africa faces a substantial health burden characterised by a dual burden of communicable and non-communicable diseases compounded by persistent health system and infrastructure constraints.",
+    "summary": "This recent study explores mapping the use of interactive voice response (ivr) in healthcare in africa: a scoping review protocol.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Africa faces a substantial health burden characterised by a dual burden of communicable and non-communicable diseases compounded by persistent health system and infrastructure constraints. Digital health interventions offer scalable opportunities to strengthen healthcare delivery. Interactive voice response (IVR), an automated telephone-based technology, shows promise across African health settings; however, existing evidence is dispersed across isolated studies and demonstrates variability in outcomes and implementation approaches. This scoping review maps existing evidence on the use of IVR in healthcare in Africa, focusing on applications, outcomes and implementation experiences. Eligible studies will include all designs that evaluate IVR-based health interventions in African healthcare settings, while non-voice digital interventions and non-empirical publications will be excluded. We will conduct a scoping review guided by the Arksey and O'Malley framework and the Joanna Briggs Institute and report findings using Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR) guidelines. We will systematically search bibliographic d…",
+    "body": "Africa faces a substantial health burden characterised by a dual burden of communicable and non-communicable diseases compounded by persistent health system and infrastructure constraints. Digital health interventions offer scalable opportunities to strengthen healthcare delivery. Interactive voice response (IVR), an automated telephone-based technology, shows promise across African health settings; however, existing evidence is dispersed across isolated studies and demonstrates variability in outcomes and implementation approaches. This scoping review maps existing evidence on the use of IVR in healthcare in Africa, focusing on applications, outcomes and implementation experiences. Eligible studies will include all designs that evaluate IVR-based health interventions in African healthcare settings, while non-voice digital interventions and non-empirical publications will be excluded. We will conduct a scoping review guided by the Arksey and O'Malley framework and the Joanna Briggs Institute and report findings using Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR) guidelines. We will systematically search bibliographic d…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Kihumuro RB",
+      "Ochen E",
+      "Atimango L",
+      "Kizito S",
+      "Haberer J",
+      "Maling S",
+      "Lydston M",
+      "Sundararajan R"
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42425572/",
+    "doi": "10.1136/bmjopen-2026-118406",
+    "pmid": "42425572"
+  },
+  {
+    "id": "biomedical-engineering-60d0bedeab",
+    "title": "Biofabrication of Hierarchical Medium-Sized Branched Blood Vessel Scaffolds Utilising Negative Embodied Sacrificial Template 3D and Human-Induced Pluripotent Stem Cells.",
+    "originalTitle": "Biofabrication of Hierarchical Medium-Sized Branched Blood Vessel Scaffolds Utilising Negative Embodied Sacrificial Template 3D and Human-Induced Pluripotent Stem Cells.",
+    "category": "Biomedical Engineering",
+    "date": "2026-07-09",
+    "dateISO": "2026-07-09",
+    "displayDate": "Jul 9, 2026",
+    "readTime": 3,
+    "difficulty": "Beginner",
+    "image": "RUimages/prosthetic.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "This study develops 3D-printed hollow structures for tissue engineering purposes, with particular focus on the development of branched hierarchical medium-sized blood vessels in the 1-2 mm diameter range.",
+    "excerpt": "This study develops 3D-printed hollow structures for tissue engineering purposes, with particular focus on the development of branched hierarchical medium-sized blood vessels in the 1-2 mm diameter range.",
+    "summary": "This recent study explores biofabrication of hierarchical medium-sized branched blood vessel scaffolds utilising negative embodied sacrificial template 3d and human-induced pluripotent stem cells.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "This study develops 3D-printed hollow structures for tissue engineering purposes, with particular focus on the development of branched hierarchical medium-sized blood vessels in the 1-2 mm diameter range. Hierarchical medium-sized branched blood vessels that link an incorporated capillary network within engineered tissues to the larger vessels of the systemic circulation, providing an immediate blood supply to thick tissues, underlie the development of large tissue-engineered organs, but are currently unavailable in tissue engineering. Using a modified version of the injection molding technique, Negative Embodied Sacrificial Template 3D (NEST3D), we demonstrate the biofabrication of 3D structures that are both branched and hollow. The technique is scalable; hollow structures with outer diameters of 0.5 to 20 mm and 20 to 150 mm in length can be created. The technique is compatible with various biomaterials, namely, gelatin, poly-caprolactone, and silicone PDMS. Human-induced pluripotent stem cells differentiated into vascular cell types are a valuable cell source for personalized medicine. This study demonstrates that NEST3D-generated medium-sized (0.88-1.3 mm inner diameter) branc…",
+    "body": "This study develops 3D-printed hollow structures for tissue engineering purposes, with particular focus on the development of branched hierarchical medium-sized blood vessels in the 1-2 mm diameter range. Hierarchical medium-sized branched blood vessels that link an incorporated capillary network within engineered tissues to the larger vessels of the systemic circulation, providing an immediate blood supply to thick tissues, underlie the development of large tissue-engineered organs, but are currently unavailable in tissue engineering. Using a modified version of the injection molding technique, Negative Embodied Sacrificial Template 3D (NEST3D), we demonstrate the biofabrication of 3D structures that are both branched and hollow. The technique is scalable; hollow structures with outer diameters of 0.5 to 20 mm and 20 to 150 mm in length can be created. The technique is compatible with various biomaterials, namely, gelatin, poly-caprolactone, and silicone PDMS. Human-induced pluripotent stem cells differentiated into vascular cell types are a valuable cell source for personalized medicine. This study demonstrates that NEST3D-generated medium-sized (0.88-1.3 mm inner diameter) branc…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Firipis K",
+      "Kong AM",
+      "Doyle S",
+      "Grinsell DG",
+      "Lim SY",
+      "Pébay A",
+      "Morrison WA",
+      "Mitchell GM"
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42424510/",
+    "doi": "10.1021/acsbiomaterials.6c00197",
+    "pmid": "42424510"
+  },
+  {
+    "id": "environment-ffcfa84c4a",
+    "title": "Aligning climate and air quality goals demands early VOC control for China's ozone pollution.",
+    "originalTitle": "Aligning climate and air quality goals demands early VOC control for China's ozone pollution.",
+    "category": "Environment",
+    "date": "2026-07-09",
+    "dateISO": "2026-07-09",
+    "displayDate": "Jul 9, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Global surface ozone (O3), intensified by climate change, poses increasing health and ecosystem threats.",
+    "excerpt": "Global surface ozone (O3), intensified by climate change, poses increasing health and ecosystem threats.",
+    "summary": "This recent study explores aligning climate and air quality goals demands early voc control for china's ozone pollution.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Global surface ozone (O3), intensified by climate change, poses increasing health and ecosystem threats. Despite stringent air policies, China's persistent O3 pollution exemplifies a global challenge intertwined with climate actions reshaping emission pathways. Optimal mitigation remains contentious, primarily due to inconsistent conclusions regarding the sensitivity of summer regional O3 formation. Here we show the path dependency in O3 mitigation strategies for synergistic clean air and climate action goal achievement over multidecade scales. This path dependence is validated by observed concurrent plateaus (2020-2023) in deweathered O3 concentrations and sensitivity trends across Chinese megacity clusters. Leveraging this understanding of path dependency, we quantitatively reveal that the optimal future strategy involves prioritizing early volatile organic compound reductions, as their high effectiveness for regional O3 mitigation gradually diminishes towards 2050. This challenges prevailing nitrogen oxides priority paradigms. Our work reframes O3 control, providing a paradigm for resilient air quality-climate governance.",
+    "body": "Global surface ozone (O3), intensified by climate change, poses increasing health and ecosystem threats. Despite stringent air policies, China's persistent O3 pollution exemplifies a global challenge intertwined with climate actions reshaping emission pathways. Optimal mitigation remains contentious, primarily due to inconsistent conclusions regarding the sensitivity of summer regional O3 formation. Here we show the path dependency in O3 mitigation strategies for synergistic clean air and climate action goal achievement over multidecade scales. This path dependence is validated by observed concurrent plateaus (2020-2023) in deweathered O3 concentrations and sensitivity trends across Chinese megacity clusters. Leveraging this understanding of path dependency, we quantitatively reveal that the optimal future strategy involves prioritizing early volatile organic compound reductions, as their high effectiveness for regional O3 mitigation gradually diminishes towards 2050. This challenges prevailing nitrogen oxides priority paradigms. Our work reframes O3 control, providing a paradigm for resilient air quality-climate governance.",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "pathway",
+        "explanation": "A chain of molecular events inside cells that produces a biological effect."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Zhang Y",
+      "Gao J",
+      "Gao R",
+      "Du X",
+      "Yu C",
+      "Zhang X",
+      "Zhang Y",
+      "Liu Y"
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42425992/",
+    "doi": "10.1038/s41467-026-75387-w",
+    "pmid": "42425992"
+  },
+  {
     "id": "neuroscience-3157c71ac6",
     "title": "Online decoding of rat self-paced locomotion speed from EEG using recurrent neural networks.",
     "originalTitle": "Online decoding of rat self-paced locomotion speed from EEG using recurrent neural networks.",
@@ -212,6 +430,56 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42412303/",
     "doi": "10.1007/s12015-026-11188-4",
     "pmid": "42412303"
+  },
+  {
+    "id": "biomedical-engineering-3a02709693",
+    "title": "Engineering programmable tumor microenvironment interactions through single-cell bioprinting of spatially defined cell microarrays.",
+    "originalTitle": "Engineering programmable tumor microenvironment interactions through single-cell bioprinting of spatially defined cell microarrays.",
+    "category": "Biomedical Engineering",
+    "date": "2026-07-07",
+    "dateISO": "2026-07-07",
+    "displayDate": "Jul 7, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/prosthetic.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Cancer evolution is increasingly understood as a byproduct of dynamic interactions between malignant cells and the surrounding tumor microenvironment, with local cellular neighborhoods serving as key regulators of diseas…",
+    "excerpt": "Cancer evolution is increasingly understood as a byproduct of dynamic interactions between malignant cells and the surrounding tumor microenvironment, with local cellular neighborhoods serving as key regulators of diseas…",
+    "summary": "This recent study explores engineering programmable tumor microenvironment interactions through single-cell bioprinting of spatially defined cell microarrays.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Cancer evolution is increasingly understood as a byproduct of dynamic interactions between malignant cells and the surrounding tumor microenvironment, with local cellular neighborhoods serving as key regulators of disease-relevant behavior. While spatial biology studies of healthy and malignant tissues have revealed spatial features correlating with clinical outcomes, the mechanisms by which individual cell interactions propagate to shape cancer evolution remain difficult to resolve in native tissues. Here, we use single-cell bioprinting to engineer tumor microenvironment interactions through spatially defined cell microarrays in which individual cells can be positioned with micrometer-scale precision and high reproducibility, enabling systematic control of cell composition, spacing, density, and spatial arrangement. As a proof of concept, we combined breast cancer cells with patient-derived myoepithelial cells to construct reductionist microenvironments and independently test how local cancer cell density and spatial organization influence tumor-relevant behavior. We show that increasing local cancer cell density suppresses myoepithelial migration while promoting greater cancer ce…",
+    "body": "Cancer evolution is increasingly understood as a byproduct of dynamic interactions between malignant cells and the surrounding tumor microenvironment, with local cellular neighborhoods serving as key regulators of disease-relevant behavior. While spatial biology studies of healthy and malignant tissues have revealed spatial features correlating with clinical outcomes, the mechanisms by which individual cell interactions propagate to shape cancer evolution remain difficult to resolve in native tissues. Here, we use single-cell bioprinting to engineer tumor microenvironment interactions through spatially defined cell microarrays in which individual cells can be positioned with micrometer-scale precision and high reproducibility, enabling systematic control of cell composition, spacing, density, and spatial arrangement. As a proof of concept, we combined breast cancer cells with patient-derived myoepithelial cells to construct reductionist microenvironments and independently test how local cancer cell density and spatial organization influence tumor-relevant behavior. We show that increasing local cancer cell density suppresses myoepithelial migration while promoting greater cancer ce…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Helms HR",
+      "Bertassoni LE."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42411456/",
+    "doi": "10.1088/1758-5090/ae7bc6",
+    "pmid": "42411456"
   },
   {
     "id": "nutrition-da4ad4e309",
@@ -373,6 +641,62 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42412122/",
     "doi": "10.1152/jn.00563.2025",
     "pmid": "42412122"
+  },
+  {
+    "id": "genetics-7f133cf24c",
+    "title": "Faster, Smarter, Precise: Integrating Speed Breeding and CRISPR-Based New Genomic Techniques into the Conventional Cereal Breeding Pipeline",
+    "originalTitle": "Faster, Smarter, Precise: Integrating Speed Breeding and CRISPR-Based New Genomic Techniques into the Conventional Cereal Breeding Pipeline",
+    "category": "Genetics",
+    "date": "2026-07-07",
+    "dateISO": "2026-07-07",
+    "displayDate": "Jul 7, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Generation time is the principal bottleneck constraining genetic gain in plant breeding.",
+    "excerpt": "Generation time is the principal bottleneck constraining genetic gain in plant breeding.",
+    "summary": "This recent study explores faster, smarter, precise: integrating speed breeding and crispr-based new genomic techniques into the conventional cereal breeding pipeline. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Generation time is the principal bottleneck constraining genetic gain in plant breeding. Speed breeding (SB) addresses this by simultaneously managing photoperiod, light spectrum and intensity, temperature, CO2 concentration, mineral nutrition, growing substrate volume, and post-harvest seed dormancy, enabling four to seven generations per year in long-day cereals and legumes, and four to five generations in optimised short-day systems. This review sets the conventional pedigree framework as the benchmark against which SB is evaluated; synthesises validated environmental parameters and crop-specific protocols; and examines principal SB applications in hybridisation, genomic selection, disease-resistance screening, and allele introgression. A structured comparison of major review and protocol papers identifies broad consensus on core parameters alongside genuine divergence on far-red light supplementation. Critical evaluation addresses genotype-by-environment interaction, incomplete trait coverage, infrastructure costs, and unresolved questions on biological integrity of rapidly advanced generations. The review further discusses new genomic techniques (NGTs), particularly CRISPR/Cas…",
+    "body": "Generation time is the principal bottleneck constraining genetic gain in plant breeding. Speed breeding (SB) addresses this by simultaneously managing photoperiod, light spectrum and intensity, temperature, CO2 concentration, mineral nutrition, growing substrate volume, and post-harvest seed dormancy, enabling four to seven generations per year in long-day cereals and legumes, and four to five generations in optimised short-day systems. This review sets the conventional pedigree framework as the benchmark against which SB is evaluated; synthesises validated environmental parameters and crop-specific protocols; and examines principal SB applications in hybridisation, genomic selection, disease-resistance screening, and allele introgression. A structured comparison of major review and protocol papers identifies broad consensus on core parameters alongside genuine divergence on far-red light supplementation. Critical evaluation addresses genotype-by-environment interaction, incomplete trait coverage, infrastructure costs, and unresolved questions on biological integrity of rapidly advanced generations. The review further discusses new genomic techniques (NGTs), particularly CRISPR/Cas…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "genomic",
+        "explanation": "Related to the full set of DNA instructions inside cells."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "DOI",
+    "journal": "{'publisher': 'Preprints.org', 'yearOfPublication': 2026}",
+    "authors": [
+      "Mladenov V",
+      "Šućur R",
+      "Banjac B",
+      "Čurčić M",
+      "Feher Kričković T",
+      "Musić J",
+      "Petrović S",
+      "Drašković B"
+    ],
+    "sourceUrl": "https://doi.org/10.20944/preprints202607.0402.v1",
+    "doi": "10.20944/preprints202607.0402.v1",
+    "pmid": ""
   },
   {
     "id": "environment-27a2b620aa",
@@ -575,6 +899,60 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42400696/",
     "doi": "10.1007/s12672-026-05518-8",
     "pmid": "42400696"
+  },
+  {
+    "id": "ai-computer-science-4ac01cad92",
+    "title": "Evaluation and Comparison of Latent Health Risk Prediction Models for Clinical Triage: Protocol for a Mixed Methods Study.",
+    "originalTitle": "Evaluation and Comparison of Latent Health Risk Prediction Models for Clinical Triage: Protocol for a Mixed Methods Study.",
+    "category": "AI & Computer Science",
+    "date": "2026-07-03",
+    "dateISO": "2026-07-03",
+    "displayDate": "Jul 3, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/AI.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Background Clinical triage requires integrating multiple information sources to identify patients at risk of deterioration.",
+    "excerpt": "Background Clinical triage requires integrating multiple information sources to identify patients at risk of deterioration.",
+    "summary": "This recent study explores evaluation and comparison of latent health risk prediction models for clinical triage: protocol for a mixed methods study.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Background Clinical triage requires integrating multiple information sources to identify patients at risk of deterioration. Tools capturing global health assessments beyond disease-specific scores are being developed using either bottom-up aggregation of simple indicators or top-down machine learning from large datasets. Their alignment with expert clinical judgment remains poorly characterized. Objective This study evaluates 2 latent health measurement approaches: Frailty Index-laboratory, a transparent bottom-up tool aggregating laboratory abnormalities via deficit accumulation theory, and ETHOS-ARES (Enhanced Transformer for Health Outcome Simulation-Adaptive Risk Estimation System), a transformer-based foundation model generating multidimensional patient representations from electronic health records. We assess whether each tool's severity rankings align with clinical consensus and whether they offer utility in triage decisions. Methods In this 3-phase mixed methods study, at least 30 clinicians across hospital specialties reviewed 20 emergency department presentations derived from Medical Information Mart for Intensive Care IV-Emergency Department. Phase 1 compared unaided cli…",
+    "body": "Background Clinical triage requires integrating multiple information sources to identify patients at risk of deterioration. Tools capturing global health assessments beyond disease-specific scores are being developed using either bottom-up aggregation of simple indicators or top-down machine learning from large datasets. Their alignment with expert clinical judgment remains poorly characterized. Objective This study evaluates 2 latent health measurement approaches: Frailty Index-laboratory, a transparent bottom-up tool aggregating laboratory abnormalities via deficit accumulation theory, and ETHOS-ARES (Enhanced Transformer for Health Outcome Simulation-Adaptive Risk Estimation System), a transformer-based foundation model generating multidimensional patient representations from electronic health records. We assess whether each tool's severity rankings align with clinical consensus and whether they offer utility in triage decisions. Methods In this 3-phase mixed methods study, at least 30 clinicians across hospital specialties reviewed 20 emergency department presentations derived from Medical Information Mart for Intensive Care IV-Emergency Department. Phase 1 compared unaided cli…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "machine learning",
+        "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Roberts M",
+      "Pelkonen O",
+      "Shamsutdinova D",
+      "Sanderson SC",
+      "Renc P",
+      "Logan Ellis H."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42398056/",
+    "doi": "10.2196/85437",
+    "pmid": "42398056"
   },
   {
     "id": "genetics-59306c01c3",
@@ -903,9 +1281,9 @@
     "pmid": "42402209"
   },
   {
-    "id": "medicine-5195661623",
-    "title": "Predictive biomarkers of response in metastatic prostate cancer: paving the way for a new era of precision medicine.",
-    "originalTitle": "Predictive biomarkers of response in metastatic prostate cancer: paving the way for a new era of precision medicine.",
+    "id": "medicine-2e83adfc36",
+    "title": "Differential T cell clonal dynamics underlie outcomes to frontline chemoimmunotherapy in advanced gastric cancer.",
+    "originalTitle": "Differential T cell clonal dynamics underlie outcomes to frontline chemoimmunotherapy in advanced gastric cancer.",
     "category": "Medicine",
     "date": "2026-07-02",
     "dateISO": "2026-07-02",
@@ -916,11 +1294,11 @@
     "imageSearchQuery": "",
     "imageAltText": "",
     "imageCaption": "",
-    "blurb": "Introduction The therapeutic landscape for metastatic prostate cancer has expanded substantially over the last decade, yet treatment selection remains predominantly driven by clinical parameters rather than validated mol…",
-    "excerpt": "Introduction The therapeutic landscape for metastatic prostate cancer has expanded substantially over the last decade, yet treatment selection remains predominantly driven by clinical parameters rather than validated mol…",
-    "summary": "This recent study explores predictive biomarkers of response in metastatic prostate cancer: paving the way for a new era of precision medicine.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Introduction The therapeutic landscape for metastatic prostate cancer has expanded substantially over the last decade, yet treatment selection remains predominantly driven by clinical parameters rather than validated molecular predictors. This review addresses the urgent need to refine patient stratification by critically examining emerging and established predictive biomarkers that may enable a precision medicine approach in advanced disease. Areas covered This review provides a comprehensive overview of predictive biomarkers in metastatic prostate cancer, including androgen receptor aberrations, mismatch repair deficiency, SPOP mutations, TMPRSS2/ERG fusions, PTEN/PI3K/AKT pathway alterations, and novel therapeutic targets such as STEAP1, DLL3, TROP-2, and Nectin-4. We discuss their biological underpinnings, mechanistic relevance, and clinical evidence supporting their potential predictive role across treatment settings. A structured literature search was conducted using PubMed/MEDLINE and major international oncology congress databases, focusing on peer-reviewed publications and clinical trial reports published up to February 2026, with particular emphasis on prospective and bio…",
-    "body": "Introduction The therapeutic landscape for metastatic prostate cancer has expanded substantially over the last decade, yet treatment selection remains predominantly driven by clinical parameters rather than validated molecular predictors. This review addresses the urgent need to refine patient stratification by critically examining emerging and established predictive biomarkers that may enable a precision medicine approach in advanced disease. Areas covered This review provides a comprehensive overview of predictive biomarkers in metastatic prostate cancer, including androgen receptor aberrations, mismatch repair deficiency, SPOP mutations, TMPRSS2/ERG fusions, PTEN/PI3K/AKT pathway alterations, and novel therapeutic targets such as STEAP1, DLL3, TROP-2, and Nectin-4. We discuss their biological underpinnings, mechanistic relevance, and clinical evidence supporting their potential predictive role across treatment settings. A structured literature search was conducted using PubMed/MEDLINE and major international oncology congress databases, focusing on peer-reviewed publications and clinical trial reports published up to February 2026, with particular emphasis on prospective and bio…",
+    "blurb": "The addition of anti-programmed cell death protein 1 (aPD-1) to 5-fluorouracil (5-FU)/platinum in advanced gastric cancer (GC) yields variable responses.",
+    "excerpt": "The addition of anti-programmed cell death protein 1 (aPD-1) to 5-fluorouracil (5-FU)/platinum in advanced gastric cancer (GC) yields variable responses.",
+    "summary": "This recent study explores differential t cell clonal dynamics underlie outcomes to frontline chemoimmunotherapy in advanced gastric cancer.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "The addition of anti-programmed cell death protein 1 (aPD-1) to 5-fluorouracil (5-FU)/platinum in advanced gastric cancer (GC) yields variable responses. To understand chemotherapy-immunotherapy cooperativity, we previously reported a phase II trial sequentially adding pembrolizumab to 5-FU/platinum. In this study, we use single-cell RNA sequencing and T cell receptor (TCR) sequencing to analyze 66,813 T cells from primary tumor biopsies pre-treatment, post-chemotherapy, and post-immunotherapy in 33 patients. We observe greater abundance, persistence, and recruitment of T cells with transcriptionally predicted tumor-reactivity in patients with prolonged progression-free survival (slow progressors). Increased B cell abundance and predicted B cell to T cell interactions support T cell memory and co-stimulation, providing a mechanism for increased abundance and persistence of progenitor-exhausted and tumor-reactive T cells in slow progressors. T cell clones emerging in the tumor after immunotherapy are present in the blood before treatment only in slow progressors. We thus highlight mechanisms that may drive durable responses to chemoimmunotherapy in GC.",
+    "body": "The addition of anti-programmed cell death protein 1 (aPD-1) to 5-fluorouracil (5-FU)/platinum in advanced gastric cancer (GC) yields variable responses. To understand chemotherapy-immunotherapy cooperativity, we previously reported a phase II trial sequentially adding pembrolizumab to 5-FU/platinum. In this study, we use single-cell RNA sequencing and T cell receptor (TCR) sequencing to analyze 66,813 T cells from primary tumor biopsies pre-treatment, post-chemotherapy, and post-immunotherapy in 33 patients. We observe greater abundance, persistence, and recruitment of T cells with transcriptionally predicted tumor-reactivity in patients with prolonged progression-free survival (slow progressors). Increased B cell abundance and predicted B cell to T cell interactions support T cell memory and co-stimulation, providing a mechanism for increased abundance and persistence of progenitor-exhausted and tumor-reactive T cells in slow progressors. T cell clones emerging in the tumor after immunotherapy are present in the blood before treatment only in slow progressors. We thus highlight mechanisms that may drive durable responses to chemoimmunotherapy in GC.",
     "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
     "keyTakeaways": [
       "The study addresses a recent question in science or medicine.",
@@ -930,33 +1308,86 @@
     "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
     "scientificTerms": [
       {
-        "term": "biomarker",
-        "explanation": "A measurable signal in the body that can help indicate a disease, risk, or treatment response."
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
       },
       {
-        "term": "clinical trial",
-        "explanation": "A carefully designed study that tests a medical treatment or intervention in people."
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
       },
       {
-        "term": "pathway",
-        "explanation": "A chain of molecular events inside cells that produces a biological effect."
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
       }
     ],
     "sourceName": "PubMed",
     "journal": "",
     "authors": [
-      "Mercinelli C",
-      "Di Costanzo F",
-      "Oing C",
-      "Guandalini G",
-      "Maiorano BA",
-      "Sammarco E",
-      "Salfi A",
-      "Serafin D"
+      "Wright SJ",
+      "Kang S",
+      "An M",
+      "Heo YJ",
+      "Parikh M",
+      "Bi L",
+      "Lee H",
+      "Moorhead G"
     ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42376796/",
-    "doi": "10.1080/14737140.2026.2695214",
-    "pmid": "42376796"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42392078/",
+    "doi": "10.1016/j.xcrm.2026.102910",
+    "pmid": "42392078"
+  },
+  {
+    "id": "public-health-c0fc760c05",
+    "title": "Approximating vaccine delivery costs to reach zero-dose children: a Bayesian meta-regression analysis.",
+    "originalTitle": "Approximating vaccine delivery costs to reach zero-dose children: a Bayesian meta-regression analysis.",
+    "category": "Public Health",
+    "date": "2026-07-02",
+    "dateISO": "2026-07-02",
+    "displayDate": "Jul 2, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "The Immunization Agenda 2030 calls for reaching all people with immunization services, including 'zero-dose' children-children who have not received any routine vaccines.",
+    "excerpt": "The Immunization Agenda 2030 calls for reaching all people with immunization services, including 'zero-dose' children-children who have not received any routine vaccines.",
+    "summary": "This recent study explores approximating vaccine delivery costs to reach zero-dose children: a bayesian meta-regression analysis.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "The Immunization Agenda 2030 calls for reaching all people with immunization services, including 'zero-dose' children-children who have not received any routine vaccines. To plan and finance efforts to fully vaccinate these children and improve coverage and equity, decision-makers need reliable cost estimates. However, primary data on the costs of reaching zero-dose children, typically part of disadvantaged and hard-to-reach populations, are scarce. This study approximates these costs using standardized, country-level estimates of vaccine delivery unit costs for outreach delivery in low- and middle-income countries (LMICs). We extracted outreach delivery cost-per-dose estimates for childhood immunization services from the 2024 update of the Immunization Delivery Cost Catalogue. Using these data, we developed a meta-regression model to estimate standardized outreach vaccine delivery unit costs. The generalized linear model assumed a Gamma-distributed outcome with a log link and included both country-level and study-level predictors: study year, economic or financial cost basis, routine or campaign delivery, and full or incremental costing approach. The fitted model was used to estim…",
+    "body": "The Immunization Agenda 2030 calls for reaching all people with immunization services, including 'zero-dose' children-children who have not received any routine vaccines. To plan and finance efforts to fully vaccinate these children and improve coverage and equity, decision-makers need reliable cost estimates. However, primary data on the costs of reaching zero-dose children, typically part of disadvantaged and hard-to-reach populations, are scarce. This study approximates these costs using standardized, country-level estimates of vaccine delivery unit costs for outreach delivery in low- and middle-income countries (LMICs). We extracted outreach delivery cost-per-dose estimates for childhood immunization services from the 2024 update of the Immunization Delivery Cost Catalogue. Using these data, we developed a meta-regression model to estimate standardized outreach vaccine delivery unit costs. The generalized linear model assumed a Gamma-distributed outcome with a log link and included both country-level and study-level predictors: study year, economic or financial cost basis, routine or campaign delivery, and full or incremental costing approach. The fitted model was used to estim…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Portnoy A",
+      "Clarke-Deelder E",
+      "Holroyd TA",
+      "Hogan DR",
+      "Mengistu T."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42389927/",
+    "doi": "10.1093/heapol/czag085",
+    "pmid": "42389927"
   },
   {
     "id": "biomedical-engineering-d8d7f87f57",
@@ -1013,6 +1444,62 @@
     "pmid": "42387540"
   },
   {
+    "id": "medicine-5195661623",
+    "title": "Predictive biomarkers of response in metastatic prostate cancer: paving the way for a new era of precision medicine.",
+    "originalTitle": "Predictive biomarkers of response in metastatic prostate cancer: paving the way for a new era of precision medicine.",
+    "category": "Medicine",
+    "date": "2026-07-02",
+    "dateISO": "2026-07-02",
+    "displayDate": "Jul 2, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/prosthetic.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Introduction The therapeutic landscape for metastatic prostate cancer has expanded substantially over the last decade, yet treatment selection remains predominantly driven by clinical parameters rather than validated mol…",
+    "excerpt": "Introduction The therapeutic landscape for metastatic prostate cancer has expanded substantially over the last decade, yet treatment selection remains predominantly driven by clinical parameters rather than validated mol…",
+    "summary": "This recent study explores predictive biomarkers of response in metastatic prostate cancer: paving the way for a new era of precision medicine.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Introduction The therapeutic landscape for metastatic prostate cancer has expanded substantially over the last decade, yet treatment selection remains predominantly driven by clinical parameters rather than validated molecular predictors. This review addresses the urgent need to refine patient stratification by critically examining emerging and established predictive biomarkers that may enable a precision medicine approach in advanced disease. Areas covered This review provides a comprehensive overview of predictive biomarkers in metastatic prostate cancer, including androgen receptor aberrations, mismatch repair deficiency, SPOP mutations, TMPRSS2/ERG fusions, PTEN/PI3K/AKT pathway alterations, and novel therapeutic targets such as STEAP1, DLL3, TROP-2, and Nectin-4. We discuss their biological underpinnings, mechanistic relevance, and clinical evidence supporting their potential predictive role across treatment settings. A structured literature search was conducted using PubMed/MEDLINE and major international oncology congress databases, focusing on peer-reviewed publications and clinical trial reports published up to February 2026, with particular emphasis on prospective and bio…",
+    "body": "Introduction The therapeutic landscape for metastatic prostate cancer has expanded substantially over the last decade, yet treatment selection remains predominantly driven by clinical parameters rather than validated molecular predictors. This review addresses the urgent need to refine patient stratification by critically examining emerging and established predictive biomarkers that may enable a precision medicine approach in advanced disease. Areas covered This review provides a comprehensive overview of predictive biomarkers in metastatic prostate cancer, including androgen receptor aberrations, mismatch repair deficiency, SPOP mutations, TMPRSS2/ERG fusions, PTEN/PI3K/AKT pathway alterations, and novel therapeutic targets such as STEAP1, DLL3, TROP-2, and Nectin-4. We discuss their biological underpinnings, mechanistic relevance, and clinical evidence supporting their potential predictive role across treatment settings. A structured literature search was conducted using PubMed/MEDLINE and major international oncology congress databases, focusing on peer-reviewed publications and clinical trial reports published up to February 2026, with particular emphasis on prospective and bio…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "biomarker",
+        "explanation": "A measurable signal in the body that can help indicate a disease, risk, or treatment response."
+      },
+      {
+        "term": "clinical trial",
+        "explanation": "A carefully designed study that tests a medical treatment or intervention in people."
+      },
+      {
+        "term": "pathway",
+        "explanation": "A chain of molecular events inside cells that produces a biological effect."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Mercinelli C",
+      "Di Costanzo F",
+      "Oing C",
+      "Guandalini G",
+      "Maiorano BA",
+      "Sammarco E",
+      "Salfi A",
+      "Serafin D"
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42376796/",
+    "doi": "10.1080/14737140.2026.2695214",
+    "pmid": "42376796"
+  },
+  {
     "id": "biomedical-engineering-97e8721cc4",
     "title": "Inorganic biomaterials-reinforced printable hydrogel modulating regenerative microenvironments for tissue repair.",
     "originalTitle": "Inorganic biomaterials-reinforced printable hydrogel modulating regenerative microenvironments for tissue repair.",
@@ -1061,59 +1548,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42392153/",
     "doi": "10.1088/1758-5090/ae8580",
     "pmid": "42392153"
-  },
-  {
-    "id": "public-health-c0fc760c05",
-    "title": "Approximating vaccine delivery costs to reach zero-dose children: a Bayesian meta-regression analysis.",
-    "originalTitle": "Approximating vaccine delivery costs to reach zero-dose children: a Bayesian meta-regression analysis.",
-    "category": "Public Health",
-    "date": "2026-07-02",
-    "dateISO": "2026-07-02",
-    "displayDate": "Jul 2, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "The Immunization Agenda 2030 calls for reaching all people with immunization services, including 'zero-dose' children-children who have not received any routine vaccines.",
-    "excerpt": "The Immunization Agenda 2030 calls for reaching all people with immunization services, including 'zero-dose' children-children who have not received any routine vaccines.",
-    "summary": "This recent study explores approximating vaccine delivery costs to reach zero-dose children: a bayesian meta-regression analysis.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "The Immunization Agenda 2030 calls for reaching all people with immunization services, including 'zero-dose' children-children who have not received any routine vaccines. To plan and finance efforts to fully vaccinate these children and improve coverage and equity, decision-makers need reliable cost estimates. However, primary data on the costs of reaching zero-dose children, typically part of disadvantaged and hard-to-reach populations, are scarce. This study approximates these costs using standardized, country-level estimates of vaccine delivery unit costs for outreach delivery in low- and middle-income countries (LMICs). We extracted outreach delivery cost-per-dose estimates for childhood immunization services from the 2024 update of the Immunization Delivery Cost Catalogue. Using these data, we developed a meta-regression model to estimate standardized outreach vaccine delivery unit costs. The generalized linear model assumed a Gamma-distributed outcome with a log link and included both country-level and study-level predictors: study year, economic or financial cost basis, routine or campaign delivery, and full or incremental costing approach. The fitted model was used to estim…",
-    "body": "The Immunization Agenda 2030 calls for reaching all people with immunization services, including 'zero-dose' children-children who have not received any routine vaccines. To plan and finance efforts to fully vaccinate these children and improve coverage and equity, decision-makers need reliable cost estimates. However, primary data on the costs of reaching zero-dose children, typically part of disadvantaged and hard-to-reach populations, are scarce. This study approximates these costs using standardized, country-level estimates of vaccine delivery unit costs for outreach delivery in low- and middle-income countries (LMICs). We extracted outreach delivery cost-per-dose estimates for childhood immunization services from the 2024 update of the Immunization Delivery Cost Catalogue. Using these data, we developed a meta-regression model to estimate standardized outreach vaccine delivery unit costs. The generalized linear model assumed a Gamma-distributed outcome with a log link and included both country-level and study-level predictors: study year, economic or financial cost basis, routine or campaign delivery, and full or incremental costing approach. The fitted model was used to estim…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Portnoy A",
-      "Clarke-Deelder E",
-      "Holroyd TA",
-      "Hogan DR",
-      "Mengistu T."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42389927/",
-    "doi": "10.1093/heapol/czag085",
-    "pmid": "42389927"
   },
   {
     "id": "environment-32a8017805",
@@ -1172,62 +1606,6 @@
     "pmid": "42390831"
   },
   {
-    "id": "medicine-607120e4a2",
-    "title": "Lenvatinib Combined with PD-1 Blockade Therapy Benefits Gastric Cancers through Immunosuppressive Macrophage Modulation.",
-    "originalTitle": "Lenvatinib Combined with PD-1 Blockade Therapy Benefits Gastric Cancers through Immunosuppressive Macrophage Modulation.",
-    "category": "Medicine",
-    "date": "2026-07-01",
-    "dateISO": "2026-07-01",
-    "displayDate": "Jul 1, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/prosthetic.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "The combination of multikinase inhibitors with PD-1 blockade therapy has emerged as a promising strategy to overcome resistance to PD-1 blockade monotherapy across multiple cancer types, including gastric cancer.",
-    "excerpt": "The combination of multikinase inhibitors with PD-1 blockade therapy has emerged as a promising strategy to overcome resistance to PD-1 blockade monotherapy across multiple cancer types, including gastric cancer.",
-    "summary": "This recent study explores lenvatinib combined with pd-1 blockade therapy benefits gastric cancers through immunosuppressive macrophage modulation.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "The combination of multikinase inhibitors with PD-1 blockade therapy has emerged as a promising strategy to overcome resistance to PD-1 blockade monotherapy across multiple cancer types, including gastric cancer. In this study, we report that the multikinase inhibitor lenvatinib selectively reduced the number of CD206+CD163+ immunosuppressive macrophages in the tumor microenvironment (TME) and increased antitumor immunity. Longitudinal immunoprofiling was conducted with paired (pre- and posttreatment) tumor samples from patients with advanced gastric cancer who received first- or second-line combination therapy with lenvatinib and pembrolizumab in the EPOC1706 clinical trial. Patients with abundant CD206+CD163+ immunosuppressive macrophage infiltration exhibited favorable responses to combination therapy, accompanied by a significant posttreatment reduction in these cells. Although this immunosuppressive macrophage infiltration was associated with resistance to PD-1 blockade monotherapy, it predicted a response to combination treatment: 8 of the 9 patients with >440 CD206+CD163+ immunosuppressive macrophages/mm2 responded, whereas none of the 8 patients who received monotherapy res…",
-    "body": "The combination of multikinase inhibitors with PD-1 blockade therapy has emerged as a promising strategy to overcome resistance to PD-1 blockade monotherapy across multiple cancer types, including gastric cancer. In this study, we report that the multikinase inhibitor lenvatinib selectively reduced the number of CD206+CD163+ immunosuppressive macrophages in the tumor microenvironment (TME) and increased antitumor immunity. Longitudinal immunoprofiling was conducted with paired (pre- and posttreatment) tumor samples from patients with advanced gastric cancer who received first- or second-line combination therapy with lenvatinib and pembrolizumab in the EPOC1706 clinical trial. Patients with abundant CD206+CD163+ immunosuppressive macrophage infiltration exhibited favorable responses to combination therapy, accompanied by a significant posttreatment reduction in these cells. Although this immunosuppressive macrophage infiltration was associated with resistance to PD-1 blockade monotherapy, it predicted a response to combination treatment: 8 of the 9 patients with >440 CD206+CD163+ immunosuppressive macrophages/mm2 responded, whereas none of the 8 patients who received monotherapy res…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "biomarker",
-        "explanation": "A measurable signal in the body that can help indicate a disease, risk, or treatment response."
-      },
-      {
-        "term": "clinical trial",
-        "explanation": "A carefully designed study that tests a medical treatment or intervention in people."
-      },
-      {
-        "term": "pathway",
-        "explanation": "A chain of molecular events inside cells that produces a biological effect."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Lin NY",
-      "Machiyama H",
-      "Kawazoe A",
-      "Sai A",
-      "Irie T",
-      "Habu T",
-      "Fukuoka S",
-      "Kumanogoh A"
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42044259/",
-    "doi": "10.1158/2326-6066.cir-25-0982",
-    "pmid": "42044259"
-  },
-  {
     "id": "genetics-244f3b303c",
     "title": "Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)-Cas genome editing transforming crop stress tolerance for global food security.",
     "originalTitle": "Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)-Cas genome editing transforming crop stress tolerance for global food security.",
@@ -1284,170 +1662,6 @@
     "pmid": "42405245"
   },
   {
-    "id": "biomedical-engineering-bda317c422",
-    "title": "Design and characterization of bioinstructive gold nanocomposite hydrogels for 3D bioprinting.",
-    "originalTitle": "Design and characterization of bioinstructive gold nanocomposite hydrogels for 3D bioprinting.",
-    "category": "Biomedical Engineering",
-    "date": "2026-07-01",
-    "dateISO": "2026-07-01",
-    "displayDate": "Jul 1, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/prosthetic.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "The rational design of hybrid nanocomposites that bridge nanoscale functionality and macroscale processability is central to advancing multifunctional materials for biofabrication and regenerative medicine.",
-    "excerpt": "The rational design of hybrid nanocomposites that bridge nanoscale functionality and macroscale processability is central to advancing multifunctional materials for biofabrication and regenerative medicine.",
-    "summary": "This recent study explores design and characterization of bioinstructive gold nanocomposite hydrogels for 3d bioprinting.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "The rational design of hybrid nanocomposites that bridge nanoscale functionality and macroscale processability is central to advancing multifunctional materials for biofabrication and regenerative medicine. Craniofacial bone regeneration demands materials that provide mechanical stability while instructing stem-cell behavior toward functional tissue formation. Here, we present a rationally designed nanocomposite hydrogel integrating gold nanoparticles (AuNPs) functionalized with polyethylene glycol (PEG) and glutathione (GSH) into a gelatin methacrylate (GelMA) matrix to couple rheological tunability with biological activity. AuNPs were synthesized via chemical reduction, PEGylated for colloidal and thermal stability, and conjugated with GSH to introduce bioactive thiol and carboxyl groups that promote osteogenic signaling. Comprehensive physicochemical analyses confirmed successful functionalization, uniform dispersion, and stability across physiological conditions. Incorporation of PEG-GSH-AuNPs at optimized concentrations enhanced the complex viscosity, yield stress, and print fidelity of GelMA while preserving its shear-thinning behavior essential for extrusion-based bioprintin…",
-    "body": "The rational design of hybrid nanocomposites that bridge nanoscale functionality and macroscale processability is central to advancing multifunctional materials for biofabrication and regenerative medicine. Craniofacial bone regeneration demands materials that provide mechanical stability while instructing stem-cell behavior toward functional tissue formation. Here, we present a rationally designed nanocomposite hydrogel integrating gold nanoparticles (AuNPs) functionalized with polyethylene glycol (PEG) and glutathione (GSH) into a gelatin methacrylate (GelMA) matrix to couple rheological tunability with biological activity. AuNPs were synthesized via chemical reduction, PEGylated for colloidal and thermal stability, and conjugated with GSH to introduce bioactive thiol and carboxyl groups that promote osteogenic signaling. Comprehensive physicochemical analyses confirmed successful functionalization, uniform dispersion, and stability across physiological conditions. Incorporation of PEG-GSH-AuNPs at optimized concentrations enhanced the complex viscosity, yield stress, and print fidelity of GelMA while preserving its shear-thinning behavior essential for extrusion-based bioprintin…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Jain P",
-      "Badhe R",
-      "Lowe T",
-      "Mathew MT",
-      "Sriram G",
-      "Dubey N."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42300953/",
-    "doi": "10.1039/d6tb00346j",
-    "pmid": "42300953"
-  },
-  {
-    "id": "ai-computer-science-a36e77ea33",
-    "title": "ProMeta: a meta-learning framework for robust disease diagnosis and prediction from plasma proteomics.",
-    "originalTitle": "ProMeta: a meta-learning framework for robust disease diagnosis and prediction from plasma proteomics.",
-    "category": "AI & Computer Science",
-    "date": "2026-07-01",
-    "dateISO": "2026-07-01",
-    "displayDate": "Jul 1, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/AI.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Motivation The plasma proteome offers a dynamic window of human health, capturing the real-time intersections between genetics and physiology.",
-    "excerpt": "Motivation The plasma proteome offers a dynamic window of human health, capturing the real-time intersections between genetics and physiology.",
-    "summary": "This recent study explores prometa: a meta-learning framework for robust disease diagnosis and prediction from plasma proteomics.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Motivation The plasma proteome offers a dynamic window of human health, capturing the real-time intersections between genetics and physiology. However, the application of deep learning to proteomics is currently hindered by a reliance on large-scale labeled datasets, rendering standard models ineffective for rare or novel diseases where patient samples are inherently scarce. Results Here, we present ProMeta, a meta-learning framework designed to enable robust disease modeling under extreme data restrictions. By integrating knowledge-guided pathway encoding with bi-level meta-optimization, ProMeta projects unstructured proteomic profiles into biologically interpretable functional tokens. This architecture allows the model to learn a global initialization containing transferable biological priors from biobank-scale data, facilitating rapid adaptation to novel tasks. Through comprehensive benchmark experiments, ProMeta consistently outperformed transfer learning and traditional machine learning baselines in both disease diagnosis and prediction tasks. In the most challenging 4-shot scenarios (utilizing only 2 cases and 2 controls), the model achieved robust generalization with an aver…",
-    "body": "Motivation The plasma proteome offers a dynamic window of human health, capturing the real-time intersections between genetics and physiology. However, the application of deep learning to proteomics is currently hindered by a reliance on large-scale labeled datasets, rendering standard models ineffective for rare or novel diseases where patient samples are inherently scarce. Results Here, we present ProMeta, a meta-learning framework designed to enable robust disease modeling under extreme data restrictions. By integrating knowledge-guided pathway encoding with bi-level meta-optimization, ProMeta projects unstructured proteomic profiles into biologically interpretable functional tokens. This architecture allows the model to learn a global initialization containing transferable biological priors from biobank-scale data, facilitating rapid adaptation to novel tasks. Through comprehensive benchmark experiments, ProMeta consistently outperformed transfer learning and traditional machine learning baselines in both disease diagnosis and prediction tasks. In the most challenging 4-shot scenarios (utilizing only 2 cases and 2 controls), the model achieved robust generalization with an aver…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "biomarker",
-        "explanation": "A measurable signal in the body that can help indicate a disease, risk, or treatment response."
-      },
-      {
-        "term": "machine learning",
-        "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
-      },
-      {
-        "term": "pathway",
-        "explanation": "A chain of molecular events inside cells that produces a biological effect."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Li H",
-      "Gu H",
-      "Hu L",
-      "Zhang Z",
-      "Lv Y",
-      "Gao P",
-      "Cooper-Knock J",
-      "Min Y"
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42412846/",
-    "doi": "10.1093/bioinformatics/btag267",
-    "pmid": "42412846"
-  },
-  {
-    "id": "medicine-b0428f4394",
-    "title": "Driving progress in recurrent and metastatic head and neck cancer: the NRG Oncology perspective.",
-    "originalTitle": "Driving progress in recurrent and metastatic head and neck cancer: the NRG Oncology perspective.",
-    "category": "Medicine",
-    "date": "2026-07-01",
-    "dateISO": "2026-07-01",
-    "displayDate": "Jul 1, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/prosthetic.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Head and neck cancers represent a diverse group of malignancies with substantial heterogeneity in biology and prognosis for which management of advanced-stage disease remains a formidable challenge.",
-    "excerpt": "Head and neck cancers represent a diverse group of malignancies with substantial heterogeneity in biology and prognosis for which management of advanced-stage disease remains a formidable challenge.",
-    "summary": "This recent study explores driving progress in recurrent and metastatic head and neck cancer: the nrg oncology perspective.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Head and neck cancers represent a diverse group of malignancies with substantial heterogeneity in biology and prognosis for which management of advanced-stage disease remains a formidable challenge. Although the incorporation of immune checkpoint inhibitors has led the way to a new era of treatment possibilities, the current state of the science calls for further innovation and a nuanced approach to clinical trial design to address several unmet needs. This article from the NRG Oncology Recurrent/Metastatic Head and Neck Working Group aimed to critically identify gaps in clinical practice and the scientific literature and to propose actionable recommendations for future research in the framework of recurrent or metastatic squamous cell carcinoma of the head and neck.",
-    "body": "Head and neck cancers represent a diverse group of malignancies with substantial heterogeneity in biology and prognosis for which management of advanced-stage disease remains a formidable challenge. Although the incorporation of immune checkpoint inhibitors has led the way to a new era of treatment possibilities, the current state of the science calls for further innovation and a nuanced approach to clinical trial design to address several unmet needs. This article from the NRG Oncology Recurrent/Metastatic Head and Neck Working Group aimed to critically identify gaps in clinical practice and the scientific literature and to propose actionable recommendations for future research in the framework of recurrent or metastatic squamous cell carcinoma of the head and neck.",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "clinical trial",
-        "explanation": "A carefully designed study that tests a medical treatment or intervention in people."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Herrera M",
-      "Ward M",
-      "Hanna GJ",
-      "Yom SS",
-      "Heron D",
-      "Spreafico A."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41627880/",
-    "doi": "10.1093/jnci/djag026",
-    "pmid": "41627880"
-  },
-  {
     "id": "public-health-b091f9c23c",
     "title": "Oral Health and the SDGs: Unlocking Missed Potential for Global Health Gains.",
     "originalTitle": "Oral Health and the SDGs: Unlocking Missed Potential for Global Health Gains.",
@@ -1500,112 +1714,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42387968/",
     "doi": "10.1177/23800844261455290",
     "pmid": "42387968"
-  },
-  {
-    "id": "environment-9c52e07b9b",
-    "title": "Bayesian Analysis of Postoperative Complication Risk Associated With Preoperative Exposure to Fine Particulate Matter: A Single-Center Cohort Study.",
-    "originalTitle": "Bayesian Analysis of Postoperative Complication Risk Associated With Preoperative Exposure to Fine Particulate Matter: A Single-Center Cohort Study.",
-    "category": "Environment",
-    "date": "2026-07-01",
-    "dateISO": "2026-07-01",
-    "displayDate": "Jul 1, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Background Air pollution, especially particle pollution, is increasingly recognized as a potential perioperative risk factor, yet modeling environmental exposures in surgical cohorts remains methodologically underdevelop…",
-    "excerpt": "Background Air pollution, especially particle pollution, is increasingly recognized as a potential perioperative risk factor, yet modeling environmental exposures in surgical cohorts remains methodologically underdevelop…",
-    "summary": "This recent study explores bayesian analysis of postoperative complication risk associated with preoperative exposure to fine particulate matter: a single-center cohort study.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Background Air pollution, especially particle pollution, is increasingly recognized as a potential perioperative risk factor, yet modeling environmental exposures in surgical cohorts remains methodologically underdeveloped. We demonstrate a Bayesian hierarchical framework to quantify probabilistic associations between preoperative fine particulate matter (PM 2.5 ) exposure and postoperative complications, highlighting its interpretability and flexibility for clinical environmental epidemiology. Methods We conducted a single center, retrospective cohort study using data from 49,615 surgical patients in Utah who underwent elective surgical procedures from 2016 to 2018. Patients' addresses were geocoded and linked to daily Census-tract level PM 2.5 estimates. The exposure variable was defined as the maximum PM 2.5 concentrations in the 7 days prior to surgery. The binary outcome was a composite of postoperative complications: pneumonia, surgical site infection, urinary tract infection, sepsis, stroke, myocardial infarction, or thromboembolic event. A hierarchical Bayesians regression model with weakly informative priors was used adjusting for age, sex, season, neighborhood disadvantag…",
-    "body": "Background Air pollution, especially particle pollution, is increasingly recognized as a potential perioperative risk factor, yet modeling environmental exposures in surgical cohorts remains methodologically underdeveloped. We demonstrate a Bayesian hierarchical framework to quantify probabilistic associations between preoperative fine particulate matter (PM 2.5 ) exposure and postoperative complications, highlighting its interpretability and flexibility for clinical environmental epidemiology. Methods We conducted a single center, retrospective cohort study using data from 49,615 surgical patients in Utah who underwent elective surgical procedures from 2016 to 2018. Patients' addresses were geocoded and linked to daily Census-tract level PM 2.5 estimates. The exposure variable was defined as the maximum PM 2.5 concentrations in the 7 days prior to surgery. The binary outcome was a composite of postoperative complications: pneumonia, surgical site infection, urinary tract infection, sepsis, stroke, myocardial infarction, or thromboembolic event. A hierarchical Bayesians regression model with weakly informative priors was used adjusting for age, sex, season, neighborhood disadvantag…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Pearson JF",
-      "Jacobson CK",
-      "Riss CS",
-      "Strickland MJ",
-      "Lee L",
-      "Wan N",
-      "Benney TM",
-      "Pace NL"
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42036603/",
-    "doi": "10.1111/aas.70235",
-    "pmid": "42036603"
-  },
-  {
-    "id": "biomedical-engineering-995f0fd09b",
-    "title": "Biomaterial-Focused Strategies Targeting Dendritic Cells for Autoimmune Disease Treatment.",
-    "originalTitle": "Biomaterial-Focused Strategies Targeting Dendritic Cells for Autoimmune Disease Treatment.",
-    "category": "Biomedical Engineering",
-    "date": "2026-07-01",
-    "dateISO": "2026-07-01",
-    "displayDate": "Jul 1, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/prosthetic.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Autoimmune diseases encompass over 100 distinct diseases where the immune cells betray our body by attacking the tissues they are meant to protect.",
-    "excerpt": "Autoimmune diseases encompass over 100 distinct diseases where the immune cells betray our body by attacking the tissues they are meant to protect.",
-    "summary": "This recent study explores biomaterial-focused strategies targeting dendritic cells for autoimmune disease treatment.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Autoimmune diseases encompass over 100 distinct diseases where the immune cells betray our body by attacking the tissues they are meant to protect. Even though rare, 15 million Americans are collectively affected by autoimmune diseases, a number that continues to rise every year. Current treatment modalities primarily focus on alleviating symptoms rather than providing prevention or a cure. Tolerogenic dendritic cells (tolDCs) have gained popularity for autoimmune disease treatment as an alternative to traditional systemic immunosuppressive therapies due to their ability to restore immune homeostasis. However, clinical translation of tolDC therapies faces significant hurdles once injected into the body due to suboptimal delivery routes, systemic distribution throughout the body, faster clearance rate, phenotypic instability, and inefficient homing. So, the big question here is: How can we retrain dendritic cells to restore the immune balance while overcoming these challenges? Engineered biomaterials such as nanoparticles, microparticles, hydrogels, and polymer scaffolds offer innovative solutions by enabling targeted delivery of ex vivo-generated tolDCs or in situ reprogramming of…",
-    "body": "Autoimmune diseases encompass over 100 distinct diseases where the immune cells betray our body by attacking the tissues they are meant to protect. Even though rare, 15 million Americans are collectively affected by autoimmune diseases, a number that continues to rise every year. Current treatment modalities primarily focus on alleviating symptoms rather than providing prevention or a cure. Tolerogenic dendritic cells (tolDCs) have gained popularity for autoimmune disease treatment as an alternative to traditional systemic immunosuppressive therapies due to their ability to restore immune homeostasis. However, clinical translation of tolDC therapies faces significant hurdles once injected into the body due to suboptimal delivery routes, systemic distribution throughout the body, faster clearance rate, phenotypic instability, and inefficient homing. So, the big question here is: How can we retrain dendritic cells to restore the immune balance while overcoming these challenges? Engineered biomaterials such as nanoparticles, microparticles, hydrogels, and polymer scaffolds offer innovative solutions by enabling targeted delivery of ex vivo-generated tolDCs or in situ reprogramming of…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Venkata Suresh Kumar A",
-      "Babensee J."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42333747/",
-    "doi": "10.1002/jbm.a.70107",
-    "pmid": "42333747"
   },
   {
     "id": "ai-computer-science-5a145ad727",
@@ -1663,24 +1771,24 @@
     "pmid": "42422973"
   },
   {
-    "id": "medicine-2386042587",
-    "title": "Salvage of locoregionally recurrent head and neck cancer: an NRG oncology working group review.",
-    "originalTitle": "Salvage of locoregionally recurrent head and neck cancer: an NRG oncology working group review.",
+    "id": "medicine-607120e4a2",
+    "title": "Lenvatinib Combined with PD-1 Blockade Therapy Benefits Gastric Cancers through Immunosuppressive Macrophage Modulation.",
+    "originalTitle": "Lenvatinib Combined with PD-1 Blockade Therapy Benefits Gastric Cancers through Immunosuppressive Macrophage Modulation.",
     "category": "Medicine",
     "date": "2026-07-01",
     "dateISO": "2026-07-01",
     "displayDate": "Jul 1, 2026",
-    "readTime": 3,
-    "difficulty": "Beginner",
+    "readTime": 4,
+    "difficulty": "Advanced",
     "image": "RUimages/prosthetic.jpg",
     "imageSearchQuery": "",
     "imageAltText": "",
     "imageCaption": "",
-    "blurb": "Despite decades of progress in the treatment of head and neck cancer, recurrence and second primary cancers continue to occur.",
-    "excerpt": "Despite decades of progress in the treatment of head and neck cancer, recurrence and second primary cancers continue to occur.",
-    "summary": "This recent study explores salvage of locoregionally recurrent head and neck cancer: an nrg oncology working group review.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Despite decades of progress in the treatment of head and neck cancer, recurrence and second primary cancers continue to occur. The management of nonmetastatic, locoregionally recurrent or second primary cancers is a complex multidisciplinary challenge that often occurs without guidance from robust clinical trials. In 2023, the NRG Oncology cooperative group created the Recurrent and Metastatic Working Group with the express directive to investigate how resources could optimally address the key questions for the recurrent and metastatic populations. Here, we present our view of the state of the science and present considerations for future investigations.",
-    "body": "Despite decades of progress in the treatment of head and neck cancer, recurrence and second primary cancers continue to occur. The management of nonmetastatic, locoregionally recurrent or second primary cancers is a complex multidisciplinary challenge that often occurs without guidance from robust clinical trials. In 2023, the NRG Oncology cooperative group created the Recurrent and Metastatic Working Group with the express directive to investigate how resources could optimally address the key questions for the recurrent and metastatic populations. Here, we present our view of the state of the science and present considerations for future investigations.",
+    "blurb": "The combination of multikinase inhibitors with PD-1 blockade therapy has emerged as a promising strategy to overcome resistance to PD-1 blockade monotherapy across multiple cancer types, including gastric cancer.",
+    "excerpt": "The combination of multikinase inhibitors with PD-1 blockade therapy has emerged as a promising strategy to overcome resistance to PD-1 blockade monotherapy across multiple cancer types, including gastric cancer.",
+    "summary": "This recent study explores lenvatinib combined with pd-1 blockade therapy benefits gastric cancers through immunosuppressive macrophage modulation.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "The combination of multikinase inhibitors with PD-1 blockade therapy has emerged as a promising strategy to overcome resistance to PD-1 blockade monotherapy across multiple cancer types, including gastric cancer. In this study, we report that the multikinase inhibitor lenvatinib selectively reduced the number of CD206+CD163+ immunosuppressive macrophages in the tumor microenvironment (TME) and increased antitumor immunity. Longitudinal immunoprofiling was conducted with paired (pre- and posttreatment) tumor samples from patients with advanced gastric cancer who received first- or second-line combination therapy with lenvatinib and pembrolizumab in the EPOC1706 clinical trial. Patients with abundant CD206+CD163+ immunosuppressive macrophage infiltration exhibited favorable responses to combination therapy, accompanied by a significant posttreatment reduction in these cells. Although this immunosuppressive macrophage infiltration was associated with resistance to PD-1 blockade monotherapy, it predicted a response to combination treatment: 8 of the 9 patients with >440 CD206+CD163+ immunosuppressive macrophages/mm2 responded, whereas none of the 8 patients who received monotherapy res…",
+    "body": "The combination of multikinase inhibitors with PD-1 blockade therapy has emerged as a promising strategy to overcome resistance to PD-1 blockade monotherapy across multiple cancer types, including gastric cancer. In this study, we report that the multikinase inhibitor lenvatinib selectively reduced the number of CD206+CD163+ immunosuppressive macrophages in the tumor microenvironment (TME) and increased antitumor immunity. Longitudinal immunoprofiling was conducted with paired (pre- and posttreatment) tumor samples from patients with advanced gastric cancer who received first- or second-line combination therapy with lenvatinib and pembrolizumab in the EPOC1706 clinical trial. Patients with abundant CD206+CD163+ immunosuppressive macrophage infiltration exhibited favorable responses to combination therapy, accompanied by a significant posttreatment reduction in these cells. Although this immunosuppressive macrophage infiltration was associated with resistance to PD-1 blockade monotherapy, it predicted a response to combination treatment: 8 of the 9 patients with >440 CD206+CD163+ immunosuppressive macrophages/mm2 responded, whereas none of the 8 patients who received monotherapy res…",
     "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
     "keyTakeaways": [
       "The study addresses a recent question in science or medicine.",
@@ -1690,33 +1798,33 @@
     "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
     "scientificTerms": [
       {
+        "term": "biomarker",
+        "explanation": "A measurable signal in the body that can help indicate a disease, risk, or treatment response."
+      },
+      {
         "term": "clinical trial",
         "explanation": "A carefully designed study that tests a medical treatment or intervention in people."
       },
       {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
+        "term": "pathway",
+        "explanation": "A chain of molecular events inside cells that produces a biological effect."
       }
     ],
     "sourceName": "PubMed",
     "journal": "",
     "authors": [
-      "Ward MC",
-      "Kang JJ",
-      "Saba NF",
-      "Campbell SR",
-      "Akhave NS",
-      "Chang SS",
-      "Spencer SA",
-      "Spreafico A"
+      "Lin NY",
+      "Machiyama H",
+      "Kawazoe A",
+      "Sai A",
+      "Irie T",
+      "Habu T",
+      "Fukuoka S",
+      "Kumanogoh A"
     ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41629764/",
-    "doi": "10.1093/jnci/djag025",
-    "pmid": "41629764"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42044259/",
+    "doi": "10.1158/2326-6066.cir-25-0982",
+    "pmid": "42044259"
   },
   {
     "id": "public-health-0fa7a9984f",
@@ -1773,24 +1881,24 @@
     "pmid": "42381035"
   },
   {
-    "id": "environment-ecf4dcc3c3",
-    "title": "Microfibers in life cycle assessment: comparing the physical effects of cellulosic and synthetic fibers via characterization factors development.",
-    "originalTitle": "Microfibers in life cycle assessment: comparing the physical effects of cellulosic and synthetic fibers via characterization factors development.",
-    "category": "Environment",
+    "id": "biomedical-engineering-bda317c422",
+    "title": "Design and characterization of bioinstructive gold nanocomposite hydrogels for 3D bioprinting.",
+    "originalTitle": "Design and characterization of bioinstructive gold nanocomposite hydrogels for 3D bioprinting.",
+    "category": "Biomedical Engineering",
     "date": "2026-07-01",
     "dateISO": "2026-07-01",
     "displayDate": "Jul 1, 2026",
     "readTime": 4,
     "difficulty": "Advanced",
-    "image": "RUimages/genetics.jpg",
+    "image": "RUimages/prosthetic.jpg",
     "imageSearchQuery": "",
     "imageAltText": "",
     "imageCaption": "",
-    "blurb": "Textile clothing is a significant contributor to microfiber pollution in aquatic ecosystems.",
-    "excerpt": "Textile clothing is a significant contributor to microfiber pollution in aquatic ecosystems.",
-    "summary": "This recent study explores microfibers in life cycle assessment: comparing the physical effects of cellulosic and synthetic fibers via characterization factors development.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Textile clothing is a significant contributor to microfiber pollution in aquatic ecosystems. A large portion of these emissions are cellulosic-based, either natural (e.g., cotton, linen) or semisynthetic (e.g., viscose, lyocell), which can be ingested by aquatic organisms, posing harmful effects even at environmentally relevant concentrations. Studies comparing the effects of cellulosic and synthetic fibers report conflicting results: some suggest synthetic fibers are more harmful, others the opposite. However, despite their high environmental abundance, the lack of a species sensitivity distribution (SSD) for cellulosic microfibers (CMFs) has prevented comparison of their effects with synthetic microfibers (SMFs). Further, although SMFs have been integrated into life cycle assessment (LCA) through characterization factors (CFs), equivalent CFs for CMFs are missing due to a lack of an exposure and effect factor (EEF) specific to these fibers. We derived CFs for six CMFs (cotton, linen, viscose, lyocell, rayon, and modal) by combining modeled fate factors in marine water and sediments with an EEF calculated from a hazardous concentration for 20% of species (HC20), using an SSD of EC…",
-    "body": "Textile clothing is a significant contributor to microfiber pollution in aquatic ecosystems. A large portion of these emissions are cellulosic-based, either natural (e.g., cotton, linen) or semisynthetic (e.g., viscose, lyocell), which can be ingested by aquatic organisms, posing harmful effects even at environmentally relevant concentrations. Studies comparing the effects of cellulosic and synthetic fibers report conflicting results: some suggest synthetic fibers are more harmful, others the opposite. However, despite their high environmental abundance, the lack of a species sensitivity distribution (SSD) for cellulosic microfibers (CMFs) has prevented comparison of their effects with synthetic microfibers (SMFs). Further, although SMFs have been integrated into life cycle assessment (LCA) through characterization factors (CFs), equivalent CFs for CMFs are missing due to a lack of an exposure and effect factor (EEF) specific to these fibers. We derived CFs for six CMFs (cotton, linen, viscose, lyocell, rayon, and modal) by combining modeled fate factors in marine water and sediments with an EEF calculated from a hazardous concentration for 20% of species (HC20), using an SSD of EC…",
+    "blurb": "The rational design of hybrid nanocomposites that bridge nanoscale functionality and macroscale processability is central to advancing multifunctional materials for biofabrication and regenerative medicine.",
+    "excerpt": "The rational design of hybrid nanocomposites that bridge nanoscale functionality and macroscale processability is central to advancing multifunctional materials for biofabrication and regenerative medicine.",
+    "summary": "This recent study explores design and characterization of bioinstructive gold nanocomposite hydrogels for 3d bioprinting.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "The rational design of hybrid nanocomposites that bridge nanoscale functionality and macroscale processability is central to advancing multifunctional materials for biofabrication and regenerative medicine. Craniofacial bone regeneration demands materials that provide mechanical stability while instructing stem-cell behavior toward functional tissue formation. Here, we present a rationally designed nanocomposite hydrogel integrating gold nanoparticles (AuNPs) functionalized with polyethylene glycol (PEG) and glutathione (GSH) into a gelatin methacrylate (GelMA) matrix to couple rheological tunability with biological activity. AuNPs were synthesized via chemical reduction, PEGylated for colloidal and thermal stability, and conjugated with GSH to introduce bioactive thiol and carboxyl groups that promote osteogenic signaling. Comprehensive physicochemical analyses confirmed successful functionalization, uniform dispersion, and stability across physiological conditions. Incorporation of PEG-GSH-AuNPs at optimized concentrations enhanced the complex viscosity, yield stress, and print fidelity of GelMA while preserving its shear-thinning behavior essential for extrusion-based bioprintin…",
+    "body": "The rational design of hybrid nanocomposites that bridge nanoscale functionality and macroscale processability is central to advancing multifunctional materials for biofabrication and regenerative medicine. Craniofacial bone regeneration demands materials that provide mechanical stability while instructing stem-cell behavior toward functional tissue formation. Here, we present a rationally designed nanocomposite hydrogel integrating gold nanoparticles (AuNPs) functionalized with polyethylene glycol (PEG) and glutathione (GSH) into a gelatin methacrylate (GelMA) matrix to couple rheological tunability with biological activity. AuNPs were synthesized via chemical reduction, PEGylated for colloidal and thermal stability, and conjugated with GSH to introduce bioactive thiol and carboxyl groups that promote osteogenic signaling. Comprehensive physicochemical analyses confirmed successful functionalization, uniform dispersion, and stability across physiological conditions. Incorporation of PEG-GSH-AuNPs at optimized concentrations enhanced the complex viscosity, yield stress, and print fidelity of GelMA while preserving its shear-thinning behavior essential for extrusion-based bioprintin…",
     "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
     "keyTakeaways": [
       "The study addresses a recent question in science or medicine.",
@@ -1815,63 +1923,16 @@
     "sourceName": "PubMed",
     "journal": "",
     "authors": [
-      "Saadi N",
-      "Boulay AM."
+      "Jain P",
+      "Badhe R",
+      "Lowe T",
+      "Mathew MT",
+      "Sriram G",
+      "Dubey N."
     ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41520154/",
-    "doi": "10.1093/inteam/vjag007",
-    "pmid": "41520154"
-  },
-  {
-    "id": "neuroscience-e181dc8a88",
-    "title": "Neural Basis of Action Simulation in Architectural Perception: A Multi-voxel Pattern Analysis Study.",
-    "originalTitle": "Neural Basis of Action Simulation in Architectural Perception: A Multi-voxel Pattern Analysis Study.",
-    "category": "Neuroscience",
-    "date": "2026-07-01",
-    "dateISO": "2026-07-01",
-    "displayDate": "Jul 1, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/neuro.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs.",
-    "excerpt": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs.",
-    "summary": "This recent study explores neural basis of action simulation in architectural perception: a multi-voxel pattern analysis study.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs. Although previous research on navigation has demonstrated how the spatial configuration of corridors and doorways guide locomotion, it remains unclear whether architectural elements (e.g., doors, windows, stairs) that require direct interaction evoke distinct, action-specific representations in the brain. Thus, the aim of this study is to investigate whether the passive perception of such elements (viewed without any intention to act) spontaneously recruits motor-related brain networks and whether these activations are specific to the actions implied by each element. fMRI data were collected from 31 participants during passive viewing of each architectural element followed by imagery of four actions: one reflecting the element's primary function, one representing manipulation, and two corresponding to peripheral actions. Using multi-voxel pattern analysis, we created classification ratio maps to identify action-architectural element associations. Our analyses revealed tha…",
-    "body": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs. Although previous research on navigation has demonstrated how the spatial configuration of corridors and doorways guide locomotion, it remains unclear whether architectural elements (e.g., doors, windows, stairs) that require direct interaction evoke distinct, action-specific representations in the brain. Thus, the aim of this study is to investigate whether the passive perception of such elements (viewed without any intention to act) spontaneously recruits motor-related brain networks and whether these activations are specific to the actions implied by each element. fMRI data were collected from 31 participants during passive viewing of each architectural element followed by imagery of four actions: one reflecting the element's primary function, one representing manipulation, and two corresponding to peripheral actions. Using multi-voxel pattern analysis, we created classification ratio maps to identify action-architectural element associations. Our analyses revealed tha…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "neural",
-        "explanation": "Related to nerves, neurons, or the brain’s communication system."
-      },
-      {
-        "term": "pathway",
-        "explanation": "A chain of molecular events inside cells that produces a biological effect."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Shin W",
-      "Song Y",
-      "Jeong J."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41707234/",
-    "doi": "10.1162/jocn.a.2486",
-    "pmid": "41707234"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42300953/",
+    "doi": "10.1039/d6tb00346j",
+    "pmid": "42300953"
   },
   {
     "id": "ai-computer-science-8197082146",
@@ -1924,79 +1985,24 @@
     "pmid": "42370758"
   },
   {
-    "id": "biomedical-engineering-34013cacd6",
-    "title": "Generic optimization procedure for high-resolution printing by stereolithography of 3D scaffolds compatible for cell culture applied to a small intestinal architecture.",
-    "originalTitle": "Generic optimization procedure for high-resolution printing by stereolithography of 3D scaffolds compatible for cell culture applied to a small intestinal architecture.",
-    "category": "Biomedical Engineering",
-    "date": "2026-06-29",
-    "dateISO": "2026-06-29",
-    "displayDate": "Jun 29, 2026",
+    "id": "medicine-b0428f4394",
+    "title": "Driving progress in recurrent and metastatic head and neck cancer: the NRG Oncology perspective.",
+    "originalTitle": "Driving progress in recurrent and metastatic head and neck cancer: the NRG Oncology perspective.",
+    "category": "Medicine",
+    "date": "2026-07-01",
+    "dateISO": "2026-07-01",
+    "displayDate": "Jul 1, 2026",
     "readTime": 3,
     "difficulty": "Intermediate",
     "image": "RUimages/prosthetic.jpg",
     "imageSearchQuery": "",
     "imageAltText": "",
     "imageCaption": "",
-    "blurb": "Stereolithography is now widely used in tissue engineering since it allows fine-tuning of geometry and mechanical properties to mimic the topography of tissues.",
-    "excerpt": "Stereolithography is now widely used in tissue engineering since it allows fine-tuning of geometry and mechanical properties to mimic the topography of tissues.",
-    "summary": "This recent study explores generic optimization procedure for high-resolution printing by stereolithography of 3d scaffolds compatible for cell culture applied to a small intestinal architecture.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Stereolithography is now widely used in tissue engineering since it allows fine-tuning of geometry and mechanical properties to mimic the topography of tissues. However, most published studies do not detail the optimization protocols that have been used to obtain these structures. Here, we developed a generic process to print photosensitive biomaterial formulations by stereolithography to obtain a specific topography. Using the small intestine architecture as a model combining filled villi and hollow crypts, we identify key parameters that govern both printing resolution and cellular behavior. Moreover, we highlight the impact of absence of oxygen inhibition and light penetration depth in cavities, causing partially crosslinked material within crypts. This issue was resolved by adding tartrazine, a biocompatible photoabsorber that restricts crosslinking depth. Our stereolithography process allows the fabrication of intestinal models with a high precision level and the reproduction of crypt and villi structures with physiologic dimensions and high structural integrity. We show that Caco-2 cells adhere, colonize, polarize and differentiate on the printed scaffolds over 20 d of cultur…",
-    "body": "Stereolithography is now widely used in tissue engineering since it allows fine-tuning of geometry and mechanical properties to mimic the topography of tissues. However, most published studies do not detail the optimization protocols that have been used to obtain these structures. Here, we developed a generic process to print photosensitive biomaterial formulations by stereolithography to obtain a specific topography. Using the small intestine architecture as a model combining filled villi and hollow crypts, we identify key parameters that govern both printing resolution and cellular behavior. Moreover, we highlight the impact of absence of oxygen inhibition and light penetration depth in cavities, causing partially crosslinked material within crypts. This issue was resolved by adding tartrazine, a biocompatible photoabsorber that restricts crosslinking depth. Our stereolithography process allows the fabrication of intestinal models with a high precision level and the reproduction of crypt and villi structures with physiologic dimensions and high structural integrity. We show that Caco-2 cells adhere, colonize, polarize and differentiate on the printed scaffolds over 20 d of cultur…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Ponthier E",
-      "Guth L",
-      "Pérez-Domínguez S",
-      "Foncy J",
-      "Ferri-Angulo D",
-      "Besson A",
-      "Malaquin L."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42276113/",
-    "doi": "10.1088/1758-5090/ae7c36",
-    "pmid": "42276113"
-  },
-  {
-    "id": "medicine-dfb8ac5ab1",
-    "title": "T-cell receptor-engineered T-cell therapy using a glypican-3-specific TCR derived from a hepatoblastoma vaccine responder for HLA-A2-positive glypican-3-expressing cancers.",
-    "originalTitle": "T-cell receptor-engineered T-cell therapy using a glypican-3-specific TCR derived from a hepatoblastoma vaccine responder for HLA-A2-positive glypican-3-expressing cancers.",
-    "category": "Medicine",
-    "date": "2026-06-26",
-    "dateISO": "2026-06-26",
-    "displayDate": "Jun 26, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/prosthetic.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Glypican-3 (GPC3) is highly expressed in most hepatocellular carcinomas (HCCs) and hepatoblastoma, shows minimal expression in non-tumor adult tissues, and is also detected in several other malignancies, making it an ide…",
-    "excerpt": "Glypican-3 (GPC3) is highly expressed in most hepatocellular carcinomas (HCCs) and hepatoblastoma, shows minimal expression in non-tumor adult tissues, and is also detected in several other malignancies, making it an ide…",
-    "summary": "This recent study explores t-cell receptor-engineered t-cell therapy using a glypican-3-specific tcr derived from a hepatoblastoma vaccine responder for hla-a2-positive glypican-3-expressing cancers.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Glypican-3 (GPC3) is highly expressed in most hepatocellular carcinomas (HCCs) and hepatoblastoma, shows minimal expression in non-tumor adult tissues, and is also detected in several other malignancies, making it an ideal target for anticancer immunotherapy. We previously demonstrated in clinical trials that GPC3 peptide vaccination can induce durable antitumor immunity in patients with HCC and pediatric hepatoblastoma and established human leukocyte antigen (HLA)-A∗02:01-restricted GPC3-specific cytotoxic T lymphocyte (CTL) clones. In this study, we isolated high-avidity T-cell receptors (TCRs) from CTL clones established from a pediatric hepatoblastoma patient who achieved long-term recurrence-free survival for more than 10 years after surgical resection of pulmonary metastases followed by GPC3 peptide vaccination. Using a retroviral vector incorporating endogenous TCR suppression, these TCR genes were introduced into primary human T cells to generate GPC3-specific TCR-engineered T cells (TCR-T cells). These TCR-T cells exhibited GPC3-specific recognition and significant cytotoxicity against GPC3-positive tumor cells in vitro, while showing minimal activity against GPC3-negative…",
-    "body": "Glypican-3 (GPC3) is highly expressed in most hepatocellular carcinomas (HCCs) and hepatoblastoma, shows minimal expression in non-tumor adult tissues, and is also detected in several other malignancies, making it an ideal target for anticancer immunotherapy. We previously demonstrated in clinical trials that GPC3 peptide vaccination can induce durable antitumor immunity in patients with HCC and pediatric hepatoblastoma and established human leukocyte antigen (HLA)-A∗02:01-restricted GPC3-specific cytotoxic T lymphocyte (CTL) clones. In this study, we isolated high-avidity T-cell receptors (TCRs) from CTL clones established from a pediatric hepatoblastoma patient who achieved long-term recurrence-free survival for more than 10 years after surgical resection of pulmonary metastases followed by GPC3 peptide vaccination. Using a retroviral vector incorporating endogenous TCR suppression, these TCR genes were introduced into primary human T cells to generate GPC3-specific TCR-engineered T cells (TCR-T cells). These TCR-T cells exhibited GPC3-specific recognition and significant cytotoxicity against GPC3-positive tumor cells in vitro, while showing minimal activity against GPC3-negative…",
+    "blurb": "Head and neck cancers represent a diverse group of malignancies with substantial heterogeneity in biology and prognosis for which management of advanced-stage disease remains a formidable challenge.",
+    "excerpt": "Head and neck cancers represent a diverse group of malignancies with substantial heterogeneity in biology and prognosis for which management of advanced-stage disease remains a formidable challenge.",
+    "summary": "This recent study explores driving progress in recurrent and metastatic head and neck cancer: the nrg oncology perspective.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Head and neck cancers represent a diverse group of malignancies with substantial heterogeneity in biology and prognosis for which management of advanced-stage disease remains a formidable challenge. Although the incorporation of immune checkpoint inhibitors has led the way to a new era of treatment possibilities, the current state of the science calls for further innovation and a nuanced approach to clinical trial design to address several unmet needs. This article from the NRG Oncology Recurrent/Metastatic Head and Neck Working Group aimed to critically identify gaps in clinical practice and the scientific literature and to propose actionable recommendations for future research in the framework of recurrent or metastatic squamous cell carcinoma of the head and neck.",
+    "body": "Head and neck cancers represent a diverse group of malignancies with substantial heterogeneity in biology and prognosis for which management of advanced-stage disease remains a formidable challenge. Although the incorporation of immune checkpoint inhibitors has led the way to a new era of treatment possibilities, the current state of the science calls for further innovation and a nuanced approach to clinical trial design to address several unmet needs. This article from the NRG Oncology Recurrent/Metastatic Head and Neck Working Group aimed to critically identify gaps in clinical practice and the scientific literature and to propose actionable recommendations for future research in the framework of recurrent or metastatic squamous cell carcinoma of the head and neck.",
     "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
     "keyTakeaways": [
       "The study addresses a recent question in science or medicine.",
@@ -2021,18 +2027,16 @@
     "sourceName": "PubMed",
     "journal": "",
     "authors": [
-      "Terada T",
-      "Suzuki T",
-      "Ohnuki K",
-      "Yoshikawa T",
-      "Shimomura M",
-      "Shoda K",
-      "Amaishi Y",
-      "Takeichi K"
+      "Herrera M",
+      "Ward M",
+      "Hanna GJ",
+      "Yom SS",
+      "Heron D",
+      "Spreafico A."
     ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42362103/",
-    "doi": "10.1016/j.canlet.2026.218695",
-    "pmid": "42362103"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41627880/",
+    "doi": "10.1093/jnci/djag026",
+    "pmid": "41627880"
   },
   {
     "id": "women-s-health-ba263c9385",
@@ -2085,62 +2089,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42347558/",
     "doi": "10.1111/1471-0528.70292",
     "pmid": "42347558"
-  },
-  {
-    "id": "public-health-b720a6d7b7",
-    "title": "Accuracy of administrative data in ascertaining health conditions: a systematic review.",
-    "originalTitle": "Accuracy of administrative data in ascertaining health conditions: a systematic review.",
-    "category": "Public Health",
-    "date": "2026-06-25",
-    "dateISO": "2026-06-25",
-    "displayDate": "Jun 25, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Objectives To conduct a systematic review of studies assessing the accuracy of International Classification of Diseases (ICD) and Diagnostic and Statistical Manual of Mental Disorders (DSM) codes in administrative data f…",
-    "excerpt": "Objectives To conduct a systematic review of studies assessing the accuracy of International Classification of Diseases (ICD) and Diagnostic and Statistical Manual of Mental Disorders (DSM) codes in administrative data f…",
-    "summary": "This recent study explores accuracy of administrative data in ascertaining health conditions: a systematic review.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Objectives To conduct a systematic review of studies assessing the accuracy of International Classification of Diseases (ICD) and Diagnostic and Statistical Manual of Mental Disorders (DSM) codes in administrative data for ascertaining health conditions when compared to a reference standard. Materials and methods We searched MEDLINE, Embase, and PsycINFO, and reported study characteristics and accuracy measures, including sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV). We synthesized information about primary and validation sources of administrative data used in this literature and visually described accuracy measures by ICD chapter. Results Our review included 280 studies; only two were conducted in low or middle-income countries. The majority of studies used hospital records as the primary administrative data source (52.1%; n = 146) and medical chart reviews as the data source for validation (53.6%; n = 150). The IQRs of accuracy measures across studies and ICD chapters were 44.0-91.4, 90.0-99.6, 59.4-91.1, and 90.0-99.5 for sensitivity, specificity, PPV, and NPV, respectively. Discussion The assessed literature is heavily skewed to…",
-    "body": "Objectives To conduct a systematic review of studies assessing the accuracy of International Classification of Diseases (ICD) and Diagnostic and Statistical Manual of Mental Disorders (DSM) codes in administrative data for ascertaining health conditions when compared to a reference standard. Materials and methods We searched MEDLINE, Embase, and PsycINFO, and reported study characteristics and accuracy measures, including sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV). We synthesized information about primary and validation sources of administrative data used in this literature and visually described accuracy measures by ICD chapter. Results Our review included 280 studies; only two were conducted in low or middle-income countries. The majority of studies used hospital records as the primary administrative data source (52.1%; n = 146) and medical chart reviews as the data source for validation (53.6%; n = 150). The IQRs of accuracy measures across studies and ICD chapters were 44.0-91.4, 90.0-99.6, 59.4-91.1, and 90.0-99.5 for sensitivity, specificity, PPV, and NPV, respectively. Discussion The assessed literature is heavily skewed to…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Campbell AC",
-      "Tyler J",
-      "Shuttleworth RR",
-      "Pearce LA",
-      "Heerde JA",
-      "Borschmann R",
-      "Sawyer SM",
-      "Preen DB"
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42369823/",
-    "doi": "10.1093/jamiaopen/ooag109",
-    "pmid": "42369823"
   },
   {
     "id": "genetics-463fc4317f",
@@ -2352,6 +2300,62 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42319373/",
     "doi": "10.1097/moh.0000000000000940",
     "pmid": "42319373"
+  },
+  {
+    "id": "public-health-c5abed23e1",
+    "title": "Intersectional inequalities in self-rated health in Germany across sex/gender, migration, education and income: a cross-sectional study.",
+    "originalTitle": "Intersectional inequalities in self-rated health in Germany across sex/gender, migration, education and income: a cross-sectional study.",
+    "category": "Public Health",
+    "date": "2026-06-22",
+    "dateISO": "2026-06-22",
+    "displayDate": "Jun 22, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Background Health inequalities by sex/gender, migration, education and income persist across Europe, yet intersectionality-informed research on how these social positions jointly shape self-rated health (SRH) remains lim…",
+    "excerpt": "Background Health inequalities by sex/gender, migration, education and income persist across Europe, yet intersectionality-informed research on how these social positions jointly shape self-rated health (SRH) remains lim…",
+    "summary": "This recent study explores intersectional inequalities in self-rated health in germany across sex/gender, migration, education and income: a cross-sectional study.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Background Health inequalities by sex/gender, migration, education and income persist across Europe, yet intersectionality-informed research on how these social positions jointly shape self-rated health (SRH) remains limited. Methods We conducted a cross-sectional analysis of the German National Cohort (NAKO; n=179 861). Sex/gender, education and income were combined with three migration characteristics (any migration, Turkish and ethnic German resettler backgrounds) into three 16-strata exposure variables. We used Poisson regression with robust SEs to estimate adjusted frequencies and relative risks of poor SRH, adjusting for age, household size and study site. Departures from additivity were assessed using two-, three-, four-way and total relative excess risk due to interaction (RERI). Results Poor SRH followed a social gradient. Adjusted frequency of poor SRH generally increased with each additional marginalised social position, from 6.3% (95% CI 5.5% to 7.2%) among high education and income migrant men to 22.6% (95% CI 21.3% to 23.8%) among low education and income migrant women. Adjusted frequencies were highest among participants with Turkish background. Joint exposure to fem…",
+    "body": "Background Health inequalities by sex/gender, migration, education and income persist across Europe, yet intersectionality-informed research on how these social positions jointly shape self-rated health (SRH) remains limited. Methods We conducted a cross-sectional analysis of the German National Cohort (NAKO; n=179 861). Sex/gender, education and income were combined with three migration characteristics (any migration, Turkish and ethnic German resettler backgrounds) into three 16-strata exposure variables. We used Poisson regression with robust SEs to estimate adjusted frequencies and relative risks of poor SRH, adjusting for age, household size and study site. Departures from additivity were assessed using two-, three-, four-way and total relative excess risk due to interaction (RERI). Results Poor SRH followed a social gradient. Adjusted frequency of poor SRH generally increased with each additional marginalised social position, from 6.3% (95% CI 5.5% to 7.2%) among high education and income migrant men to 22.6% (95% CI 21.3% to 23.8%) among low education and income migrant women. Adjusted frequencies were highest among participants with Turkish background. Joint exposure to fem…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Slesinski SC",
+      "Bilal U",
+      "Heisig JP",
+      "Telkmann K",
+      "Callies CM",
+      "Emmer C",
+      "Becher H",
+      "Brand T"
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42331609/",
+    "doi": "10.1136/jech-2026-225920",
+    "pmid": "42331609"
   },
   {
     "id": "genetics-4017756b0d",
