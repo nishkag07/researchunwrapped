@@ -111,7 +111,9 @@ ARTICLE_SCHEMA: Dict[str, Any] = {
     "required": [
         "simpleTitle",
         "blurb",
+        "curiosityHook",
         "summary",
+        "whatTheyFound",
         "deepDive",
         "whyItMatters",
         "keyTakeaways",
@@ -132,9 +134,17 @@ ARTICLE_SCHEMA: Dict[str, Any] = {
             "type": "string",
             "description": "Two short sentences maximum for the card. Plain English. Explain what the study found."
         },
+        "curiosityHook": {
+            "type": "string",
+            "description": "One engaging opening sentence that explains why a normal reader should care."
+        },
         "summary": {
             "type": "string",
             "description": "A friendly 3-4 sentence summary for students and general readers."
+        },
+        "whatTheyFound": {
+            "type": "string",
+            "description": "The main finding in plain English. Mention if it was a human, animal, cell, data, review, or framework study when clear."
         },
         "deepDive": {
             "type": "string",
@@ -194,6 +204,182 @@ ARTICLE_SCHEMA: Dict[str, Any] = {
         }
     }
 }
+
+
+SYSTEM_PROMPT = """
+You are the editorial engine for Research Unwrapped, a science-literacy platform for high school and college students, curious non-experts, and everyday readers.
+
+Your job is NOT to rewrite papers in academic language.
+Your job is to translate credible research into clear, engaging, accurate explanations that make people want to learn more.
+
+Core editorial philosophy:
+- Lead with the discovery, surprise, or real-world implication.
+- Do not lead with the paper's academic framing.
+- Make the card title understandable to a smart teenager.
+- Preserve scientific accuracy.
+- Never exaggerate beyond the evidence.
+- Never imply human clinical impact if the study was only in cells, animals, simulations, data, or a small early trial.
+- Keep the original scientific title separately for citation and transparency.
+
+Audience:
+- Smart high school students
+- College applicants interested in STEM
+- Curious non-scientists
+- Patients and families who want plain-English research explanations
+- Students looking for inspiration for independent research
+
+Tone:
+- Clear
+- Curious
+- Conversational
+- Accessible
+- Slightly exciting, but never clickbait
+- Never childish
+- Never overly technical on the card
+"""
+
+USER_PROMPT_TEMPLATE = """
+Convert the following research article metadata into a Research Unwrapped article card and full-read explanation.
+
+ARTICLE METADATA:
+Original title: {title}
+Abstract: {abstract}
+Journal: {journal}
+Publication date: {date}
+Authors: {authors}
+DOI: {doi}
+PMID: {pmid}
+Source URL: {source_url}
+Suggested category: {category}
+
+Return a valid JSON object that follows the required schema.
+
+WRITING RULES:
+
+1. simpleTitle:
+Create a simple, engaging headline for a non-expert reader.
+Do NOT copy the original paper title unless it is already simple.
+Do NOT use academic title phrases such as:
+- "A conceptual framework"
+- "A systematic review"
+- "An investigation of"
+- "Associations between"
+- "Characterization of"
+- "Mechanisms underlying"
+- "Integrating X into Y"
+- "Evaluation of"
+- "Assessment of"
+- "Protocol"
+- "Scoping review protocol"
+
+Instead, translate the title into the real-world finding, question, or implication.
+
+Bad:
+"Integrating sustainability thinking into microbiology education: a conceptual framework for the next generation of environmental scientists"
+
+Good:
+"Microbiology Classes Could Help Train Future Climate Scientists"
+
+Bad:
+"Tau protein regulates hippocampal memory consolidation in murine models"
+
+Good:
+"Alzheimer's Tau Protein May Have a Surprising Role in Memory"
+
+Bad:
+"Associations between sleep duration and cardiometabolic outcomes in adolescents"
+
+Good:
+"Too Little Sleep May Affect Teen Heart and Metabolic Health"
+
+The title should:
+- be under 14 words when possible
+- use everyday words
+- hint at why the discovery matters
+- avoid hype words like "miracle," "breakthrough," or "cure"
+- avoid unsupported claims
+- use "may," "could," or "might" when the evidence is early or indirect
+
+2. blurb:
+Write 1-2 sentences for the article card.
+It should explain the finding in simple language.
+No jargon unless immediately understandable.
+Keep it under 45 words.
+Make it interesting enough that someone wants to click.
+Do not begin every blurb with "Researchers found."
+
+3. curiosityHook:
+Write one opening sentence for the full article.
+Start with why the reader should care.
+Use a question, contrast, everyday scenario, or surprising implication.
+Do not start with "This study explores..."
+
+4. summary:
+Write 3-4 sentences that tell the reader the story of the study in simple language:
+- What problem is being studied?
+- What did the scientists do or argue?
+- What did they find or propose?
+- Why is it interesting?
+
+5. whatTheyFound:
+Explain the main finding in plain English.
+Use 2-4 short paragraphs.
+Mention whether the study was in humans, animals, cells, data, AI models, a clinical trial, a review, or a framework paper.
+Be clear about what was actually shown.
+
+6. whyItMatters:
+Explain the real-world implication.
+Connect to health, learning, technology, environment, society, or future research.
+Do not overclaim.
+
+7. deepDive:
+Explain the science behind the finding in accessible language.
+This is where harder science can appear, but explain it as you go.
+Use analogies when helpful.
+Assume the reader is smart but new to the field.
+Keep paragraphs short.
+Do not make it sound like a textbook.
+
+8. scientificTerms:
+Pick 3-6 important scientific terms from the article.
+For each term, explain it in simple language.
+Definitions should be one sentence.
+Use terms that help the reader understand the article, not random vocabulary.
+Avoid generic terms like "abstract," "peer review," or "correlation" unless directly needed for this article.
+
+9. keyTakeaways:
+Write 3 short takeaways.
+Each should be useful.
+At least one should mention a limitation or uncertainty when appropriate.
+
+10. limitations:
+Explain what this study does NOT prove.
+Mention sample size, model type, early-stage status, correlation vs causation, review/protocol status, preprint status, or need for further research when relevant.
+This must be honest and specific.
+
+11. difficulty:
+Choose one:
+- "Beginner" if most high school students can understand it easily
+- "Intermediate" if it requires some biology/medicine/AI background
+- "Advanced" if the topic is technical but still worth explaining
+
+12. Accuracy rules:
+- If it is an animal study, do not imply it is proven in humans.
+- If it is observational, do not imply causation.
+- If it is a review, commentary, protocol, or framework paper, do not describe it as a new experiment.
+- If it is a preprint, mention that it has not been peer reviewed.
+- Do not invent statistics, claims, authors, institutions, or applications.
+- If the abstract does not provide enough detail, say so in limitations.
+
+13. Image guidance:
+- Choose an image concept that directly matches the research.
+- Do not use generic lab photos unless the article is broadly about lab research.
+- If the article is about the brain, use brain/neuron imagery.
+- If it is about cancer, use cells, tumors, immune cells, or treatment imagery.
+- If it is about genetics, use DNA, gene editing, sequencing, or chromosomes.
+- If it is about AI, use data, models, code, or AI-assisted science visuals.
+- If it is about environment, use the specific ecosystem, pollutant, organism, or climate issue.
+"""
 
 def log(message: str) -> None:
     print(f"[ResearchUnwrapped] {message}", flush=True)
@@ -318,17 +504,47 @@ def fallback_terms(title: str, abstract: str) -> List[Dict[str, str]]:
     return candidates[:6]
 
 
+
+def make_simple_fallback_title(title: str) -> str:
+    """Light cleanup for no-OpenAI mode. The real simplification happens in the AI prompt."""
+    cleaned = clean_text(title)
+    cleaned = re.sub(r"^(A|An|The)\s+", "", cleaned, flags=re.I)
+    cleaned = re.sub(r":.*$", "", cleaned).strip()
+    academic_phrases = [
+        "a conceptual framework for",
+        "a systematic review of",
+        "an investigation of",
+        "associations between",
+        "characterization of",
+        "evaluation of",
+        "assessment of",
+        "protocol",
+    ]
+    lower = cleaned.lower()
+    for phrase in academic_phrases:
+        if lower.startswith(phrase):
+            cleaned = cleaned[len(phrase):].strip(" :-")
+            break
+    words = cleaned.split()
+    if len(words) > 14:
+        cleaned = " ".join(words[:14]).rstrip(",.;:") + "..."
+    return cleaned or title
+
 def fallback_summary(raw: Dict[str, Any]) -> Dict[str, Any]:
     title = raw["title"]
     abstract = raw["abstract"]
     score = raw.get("difficultyScore", 0)
     difficulty = "Advanced" if score >= 3 else "Intermediate" if score >= 1 else "Beginner"
     sentence = re.split(r"(?<=[.!?])\s+", abstract)[0] if abstract else "This article reports a recent research finding."
+    simple_title = make_simple_fallback_title(title)
     return {
+        "simpleTitle": simple_title,
         "blurb": sentence[:220].rstrip() + ("…" if len(sentence) > 220 else ""),
-        "summary": f"This recent study explores {title.lower()}. The automated summary should be reviewed against the original article before publication.",
+        "curiosityHook": "Here is why this research is worth a closer look.",
+        "summary": f"This recent study looks at {simple_title.lower()}. The automated summary should be reviewed against the original article before publication.",
+        "whatTheyFound": sentence[:600].rstrip() + ("…" if len(sentence) > 600 else ""),
         "deepDive": abstract[:1200].rstrip() + ("…" if len(abstract) > 1200 else ""),
-        "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+        "whyItMatters": "This article connects to an active research area and can help readers understand how scientists investigate real-world problems.",
         "keyTakeaways": [
             "The study addresses a recent question in science or medicine.",
             "The original abstract gives the most precise technical details.",
@@ -338,6 +554,9 @@ def fallback_summary(raw: Dict[str, Any]) -> Dict[str, Any]:
         "scientificTerms": fallback_terms(title, abstract),
         "difficulty": difficulty,
         "readTime": 4 if difficulty == "Advanced" else 3,
+        "imageSearchQuery": "",
+        "imageAltText": "",
+        "imageCaption": "",
     }
 
 
@@ -346,65 +565,23 @@ def summarize_with_openai(raw: Dict[str, Any]) -> Dict[str, Any]:
         return fallback_summary(raw)
 
     client = OpenAI(api_key=OPENAI_API_KEY)
-    prompt = f"""
-You are creating science article cards for Research Unwrapped, a public research website.
-
-Audience:
-- Curious high school students
-- College students
-- Parents
-- Non-scientists
-- Readers who want research explained clearly without losing the real science
-
-Your job:
-Make serious research feel understandable, interesting, and useful without making it childish or inaccurate.
-
-Very important rules:
-- Use ONLY the article metadata and abstract below.
-- Do NOT exaggerate.
-- Do NOT imply medical advice.
-- Do NOT call something a cure, breakthrough, or proven unless the article clearly proves that.
-- Do NOT copy the original scientific title if it is too technical.
-- Create a short, clear simpleTitle under 10 words.
-- The simpleTitle should sound like science news, not like a journal article.
-- The blurb should be easy to read on a website card.
-- The whyItMatters field should explain the general implication in everyday language.
-- The deepDive should teach the actual science, but in short readable paragraphs.
-- Explain 3-6 scientific terms that appear in or are directly relevant to the article.
-- Be honest about limitations.
-- If the article is difficult, mark it Advanced, but still explain it clearly.
-
-Image guidance:
-- Choose an image concept that directly matches the research.
-- Do not use generic lab photos unless the article is broadly about lab research.
-- If the article is about the brain, use brain/neuron imagery.
-- If it is about cancer, use cells, tumors, immune cells, or treatment imagery.
-- If it is about genetics, use DNA, gene editing, sequencing, or chromosomes.
-- If it is about AI, use data, models, code, or AI-assisted science visuals.
-- If it is about environment, use the specific ecosystem, pollutant, organism, or climate issue.
-- imageSearchQuery should be specific enough to find a relevant image.
-- imageAltText should help screen readers understand the image.
-- imageCaption should explain why the image belongs with the article.
-
-Article metadata:
-Original title: {raw['title']}
-Category: {raw['category']}
-Journal: {raw.get('journal', '')}
-Authors: {', '.join(raw.get('authors', [])[:6])}
-Date: {raw.get('dateISO', '')}
-DOI: {raw.get('doi', '')}
-PMID: {raw.get('pmid', '')}
-Source URL: {raw.get('sourceUrl', '')}
-
-Abstract:
-{raw['abstract'][:4500]}
-""".strip()
+    prompt = USER_PROMPT_TEMPLATE.format(
+        title=raw["title"],
+        abstract=raw["abstract"][:4500],
+        journal=raw.get("journal", ""),
+        date=raw.get("dateISO", ""),
+        authors=", ".join(raw.get("authors", [])[:6]),
+        doi=raw.get("doi", ""),
+        pmid=raw.get("pmid", ""),
+        source_url=raw.get("sourceUrl", ""),
+        category=raw["category"],
+    )
 
     try:
         response = client.responses.create(
             model=OPENAI_MODEL,
             input=[
-                {"role": "system", "content": "Return valid JSON that follows the schema exactly."},
+                {"role": "system", "content": SYSTEM_PROMPT + "\n\nReturn valid JSON that follows the schema exactly."},
                 {"role": "user", "content": prompt},
             ],
             text={
@@ -552,7 +729,9 @@ def assemble_article(raw: Dict[str, Any], summary: Dict[str, Any]) -> Dict[str, 
         "imageCaption": clean_text(summary.get("imageCaption")),
         "blurb": clean_text(summary.get("blurb")),
         "excerpt": clean_text(summary.get("blurb")),
+        "curiosityHook": clean_text(summary.get("curiosityHook")),
         "summary": clean_text(summary.get("summary")),
+        "whatTheyFound": clean_text(summary.get("whatTheyFound")),
         "deepDive": clean_text(summary.get("deepDive")),
         "body": clean_text(summary.get("deepDive")),
         "whyItMatters": clean_text(summary.get("whyItMatters")),
