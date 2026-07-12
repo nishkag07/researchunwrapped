@@ -749,6 +749,62 @@
     "pmid": "42412225"
   },
   {
+    "id": "public-health-8d466196ea",
+    "title": "Heat exhaustion, domestic heat exposure and socioeconomic disparities among older adults: a cross-sectional mediation analysis from Germany.",
+    "originalTitle": "Heat exhaustion, domestic heat exposure and socioeconomic disparities among older adults: a cross-sectional mediation analysis from Germany.",
+    "category": "Public Health",
+    "date": "2026-07-07",
+    "dateISO": "2026-07-07",
+    "displayDate": "Jul 7, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Background Older adults are particularly vulnerable to the effects of heatwaves and extreme heat due to physiological changes often exacerbated by chronic diseases and decreased mobility.",
+    "excerpt": "Background Older adults are particularly vulnerable to the effects of heatwaves and extreme heat due to physiological changes often exacerbated by chronic diseases and decreased mobility.",
+    "summary": "This recent study explores heat exhaustion, domestic heat exposure and socioeconomic disparities among older adults: a cross-sectional mediation analysis from germany.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Background Older adults are particularly vulnerable to the effects of heatwaves and extreme heat due to physiological changes often exacerbated by chronic diseases and decreased mobility. Although cool indoor temperatures can moderate the health consequences of extreme outdoor heat to some extent, it is important to recognize that access to cool indoor temperatures is distributed unequally across population groups. This study aimed to assess the mediating effect of (indoor) domestic heat exposure on the relationship between socioeconomic position and heat exhaustion in older adults. Methods In August 2024, 10,000 participants from the DigiHero cohort were invited to take part in an online survey. Of the 5,026 respondents, persons aged 65 or older were included in the analysis (n = 1,457). Domestic heat exposure was assessed through self-reported indoor temperatures during the day and at night, as well as the availability of cooler rooms at night. Heat exhaustion was measured using self-reported symptoms. Income and education were used as indicators for socioeconomic position. We applied structural equation modelling to assess the total impact of socioeconomic position (education/in…",
+    "body": "Background Older adults are particularly vulnerable to the effects of heatwaves and extreme heat due to physiological changes often exacerbated by chronic diseases and decreased mobility. Although cool indoor temperatures can moderate the health consequences of extreme outdoor heat to some extent, it is important to recognize that access to cool indoor temperatures is distributed unequally across population groups. This study aimed to assess the mediating effect of (indoor) domestic heat exposure on the relationship between socioeconomic position and heat exhaustion in older adults. Methods In August 2024, 10,000 participants from the DigiHero cohort were invited to take part in an online survey. Of the 5,026 respondents, persons aged 65 or older were included in the analysis (n = 1,457). Domestic heat exposure was assessed through self-reported indoor temperatures during the day and at night, as well as the availability of cooler rooms at night. Heat exhaustion was measured using self-reported symptoms. Income and education were used as indicators for socioeconomic position. We applied structural equation modelling to assess the total impact of socioeconomic position (education/in…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Heinken C",
+      "Muellmann S",
+      "Brand T",
+      "Behrens T",
+      "Casjens S",
+      "Spallek J",
+      "Frost J",
+      "Glaser N"
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42415109/",
+    "doi": "10.1186/s12939-026-02934-8",
+    "pmid": "42415109"
+  },
+  {
     "id": "ai-computer-science-89f3fff562",
     "title": "The Technological Advances in Artificial Intelligence-assisted Diagnosis of Dysphagia: A Mini Review.",
     "originalTitle": "The Technological Advances in Artificial Intelligence-assisted Diagnosis of Dysphagia: A Mini Review.",
@@ -899,60 +955,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42400696/",
     "doi": "10.1007/s12672-026-05518-8",
     "pmid": "42400696"
-  },
-  {
-    "id": "ai-computer-science-4ac01cad92",
-    "title": "Evaluation and Comparison of Latent Health Risk Prediction Models for Clinical Triage: Protocol for a Mixed Methods Study.",
-    "originalTitle": "Evaluation and Comparison of Latent Health Risk Prediction Models for Clinical Triage: Protocol for a Mixed Methods Study.",
-    "category": "AI & Computer Science",
-    "date": "2026-07-03",
-    "dateISO": "2026-07-03",
-    "displayDate": "Jul 3, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/AI.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Background Clinical triage requires integrating multiple information sources to identify patients at risk of deterioration.",
-    "excerpt": "Background Clinical triage requires integrating multiple information sources to identify patients at risk of deterioration.",
-    "summary": "This recent study explores evaluation and comparison of latent health risk prediction models for clinical triage: protocol for a mixed methods study.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Background Clinical triage requires integrating multiple information sources to identify patients at risk of deterioration. Tools capturing global health assessments beyond disease-specific scores are being developed using either bottom-up aggregation of simple indicators or top-down machine learning from large datasets. Their alignment with expert clinical judgment remains poorly characterized. Objective This study evaluates 2 latent health measurement approaches: Frailty Index-laboratory, a transparent bottom-up tool aggregating laboratory abnormalities via deficit accumulation theory, and ETHOS-ARES (Enhanced Transformer for Health Outcome Simulation-Adaptive Risk Estimation System), a transformer-based foundation model generating multidimensional patient representations from electronic health records. We assess whether each tool's severity rankings align with clinical consensus and whether they offer utility in triage decisions. Methods In this 3-phase mixed methods study, at least 30 clinicians across hospital specialties reviewed 20 emergency department presentations derived from Medical Information Mart for Intensive Care IV-Emergency Department. Phase 1 compared unaided cli…",
-    "body": "Background Clinical triage requires integrating multiple information sources to identify patients at risk of deterioration. Tools capturing global health assessments beyond disease-specific scores are being developed using either bottom-up aggregation of simple indicators or top-down machine learning from large datasets. Their alignment with expert clinical judgment remains poorly characterized. Objective This study evaluates 2 latent health measurement approaches: Frailty Index-laboratory, a transparent bottom-up tool aggregating laboratory abnormalities via deficit accumulation theory, and ETHOS-ARES (Enhanced Transformer for Health Outcome Simulation-Adaptive Risk Estimation System), a transformer-based foundation model generating multidimensional patient representations from electronic health records. We assess whether each tool's severity rankings align with clinical consensus and whether they offer utility in triage decisions. Methods In this 3-phase mixed methods study, at least 30 clinicians across hospital specialties reviewed 20 emergency department presentations derived from Medical Information Mart for Intensive Care IV-Emergency Department. Phase 1 compared unaided cli…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "machine learning",
-        "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Roberts M",
-      "Pelkonen O",
-      "Shamsutdinova D",
-      "Sanderson SC",
-      "Renc P",
-      "Logan Ellis H."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42398056/",
-    "doi": "10.2196/85437",
-    "pmid": "42398056"
   },
   {
     "id": "genetics-59306c01c3",
@@ -1120,56 +1122,6 @@
     "pmid": "42398529"
   },
   {
-    "id": "ai-computer-science-08d174f73a",
-    "title": "The role of artificial intelligence in the diagnosis, risk stratification, and treatment of heart failure: A narrative review.",
-    "originalTitle": "The role of artificial intelligence in the diagnosis, risk stratification, and treatment of heart failure: A narrative review.",
-    "category": "AI & Computer Science",
-    "date": "2026-07-03",
-    "dateISO": "2026-07-03",
-    "displayDate": "Jul 3, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/AI.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Heart failure (HF) is a complex, multifactorial, and difficult-to-treat syndrome.",
-    "excerpt": "Heart failure (HF) is a complex, multifactorial, and difficult-to-treat syndrome.",
-    "summary": "This recent study explores the role of artificial intelligence in the diagnosis, risk stratification, and treatment of heart failure: a narrative review.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Heart failure (HF) is a complex, multifactorial, and difficult-to-treat syndrome. Over the past years, a concerning increase in its global prevalence, mortality, costs, and burden on the healthcare system has been observed. The recent development of machine learning (ML), especially unsupervised and deep learning (DL) algorithms, offers a potential way to facilitate diagnosis, enable more precise treatment, and reduce both mortality and costs of HF patients. Especially unsupervised ML and DL present new opportunities for increased efficiency in clinical practice in cardiology. Unsupervised ML, e.g., enables novel phenogrouping of HF patients into high-risk groups and disease outcome prediction. Deep learning algorithms can enhance echocardiographic analysis by improving image quality and ECG interpretation, and by providing assistance and guidance to inexperienced cardiologists. However, substantial challenges related to generalizability, external validation, overfitting, model explainability, and ethical considerations currently severely limit the implementation of AI-based tools in real-world clinical practice. This review critically evaluates current AI models in HF, focusing on…",
-    "body": "Heart failure (HF) is a complex, multifactorial, and difficult-to-treat syndrome. Over the past years, a concerning increase in its global prevalence, mortality, costs, and burden on the healthcare system has been observed. The recent development of machine learning (ML), especially unsupervised and deep learning (DL) algorithms, offers a potential way to facilitate diagnosis, enable more precise treatment, and reduce both mortality and costs of HF patients. Especially unsupervised ML and DL present new opportunities for increased efficiency in clinical practice in cardiology. Unsupervised ML, e.g., enables novel phenogrouping of HF patients into high-risk groups and disease outcome prediction. Deep learning algorithms can enhance echocardiographic analysis by improving image quality and ECG interpretation, and by providing assistance and guidance to inexperienced cardiologists. However, substantial challenges related to generalizability, external validation, overfitting, model explainability, and ethical considerations currently severely limit the implementation of AI-based tools in real-world clinical practice. This review critically evaluates current AI models in HF, focusing on…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "machine learning",
-        "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Resch J",
-      "Lelonek M."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42397100/",
-    "doi": "10.17219/acem/218578",
-    "pmid": "42397100"
-  },
-  {
     "id": "neuroscience-ffae564b41",
     "title": "Active devices and systems for closed-loop neuromodulation.",
     "originalTitle": "Active devices and systems for closed-loop neuromodulation.",
@@ -1223,6 +1175,56 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42399230/",
     "doi": "10.1038/s41378-026-01357-3",
     "pmid": "42399230"
+  },
+  {
+    "id": "ai-computer-science-08d174f73a",
+    "title": "The role of artificial intelligence in the diagnosis, risk stratification, and treatment of heart failure: A narrative review.",
+    "originalTitle": "The role of artificial intelligence in the diagnosis, risk stratification, and treatment of heart failure: A narrative review.",
+    "category": "AI & Computer Science",
+    "date": "2026-07-03",
+    "dateISO": "2026-07-03",
+    "displayDate": "Jul 3, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/AI.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Heart failure (HF) is a complex, multifactorial, and difficult-to-treat syndrome.",
+    "excerpt": "Heart failure (HF) is a complex, multifactorial, and difficult-to-treat syndrome.",
+    "summary": "This recent study explores the role of artificial intelligence in the diagnosis, risk stratification, and treatment of heart failure: a narrative review.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Heart failure (HF) is a complex, multifactorial, and difficult-to-treat syndrome. Over the past years, a concerning increase in its global prevalence, mortality, costs, and burden on the healthcare system has been observed. The recent development of machine learning (ML), especially unsupervised and deep learning (DL) algorithms, offers a potential way to facilitate diagnosis, enable more precise treatment, and reduce both mortality and costs of HF patients. Especially unsupervised ML and DL present new opportunities for increased efficiency in clinical practice in cardiology. Unsupervised ML, e.g., enables novel phenogrouping of HF patients into high-risk groups and disease outcome prediction. Deep learning algorithms can enhance echocardiographic analysis by improving image quality and ECG interpretation, and by providing assistance and guidance to inexperienced cardiologists. However, substantial challenges related to generalizability, external validation, overfitting, model explainability, and ethical considerations currently severely limit the implementation of AI-based tools in real-world clinical practice. This review critically evaluates current AI models in HF, focusing on…",
+    "body": "Heart failure (HF) is a complex, multifactorial, and difficult-to-treat syndrome. Over the past years, a concerning increase in its global prevalence, mortality, costs, and burden on the healthcare system has been observed. The recent development of machine learning (ML), especially unsupervised and deep learning (DL) algorithms, offers a potential way to facilitate diagnosis, enable more precise treatment, and reduce both mortality and costs of HF patients. Especially unsupervised ML and DL present new opportunities for increased efficiency in clinical practice in cardiology. Unsupervised ML, e.g., enables novel phenogrouping of HF patients into high-risk groups and disease outcome prediction. Deep learning algorithms can enhance echocardiographic analysis by improving image quality and ECG interpretation, and by providing assistance and guidance to inexperienced cardiologists. However, substantial challenges related to generalizability, external validation, overfitting, model explainability, and ethical considerations currently severely limit the implementation of AI-based tools in real-world clinical practice. This review critically evaluates current AI models in HF, focusing on…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "machine learning",
+        "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Resch J",
+      "Lelonek M."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42397100/",
+    "doi": "10.17219/acem/218578",
+    "pmid": "42397100"
   },
   {
     "id": "neuroscience-758223d879",
@@ -1337,59 +1339,6 @@
     "pmid": "42392078"
   },
   {
-    "id": "public-health-c0fc760c05",
-    "title": "Approximating vaccine delivery costs to reach zero-dose children: a Bayesian meta-regression analysis.",
-    "originalTitle": "Approximating vaccine delivery costs to reach zero-dose children: a Bayesian meta-regression analysis.",
-    "category": "Public Health",
-    "date": "2026-07-02",
-    "dateISO": "2026-07-02",
-    "displayDate": "Jul 2, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "The Immunization Agenda 2030 calls for reaching all people with immunization services, including 'zero-dose' children-children who have not received any routine vaccines.",
-    "excerpt": "The Immunization Agenda 2030 calls for reaching all people with immunization services, including 'zero-dose' children-children who have not received any routine vaccines.",
-    "summary": "This recent study explores approximating vaccine delivery costs to reach zero-dose children: a bayesian meta-regression analysis.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "The Immunization Agenda 2030 calls for reaching all people with immunization services, including 'zero-dose' children-children who have not received any routine vaccines. To plan and finance efforts to fully vaccinate these children and improve coverage and equity, decision-makers need reliable cost estimates. However, primary data on the costs of reaching zero-dose children, typically part of disadvantaged and hard-to-reach populations, are scarce. This study approximates these costs using standardized, country-level estimates of vaccine delivery unit costs for outreach delivery in low- and middle-income countries (LMICs). We extracted outreach delivery cost-per-dose estimates for childhood immunization services from the 2024 update of the Immunization Delivery Cost Catalogue. Using these data, we developed a meta-regression model to estimate standardized outreach vaccine delivery unit costs. The generalized linear model assumed a Gamma-distributed outcome with a log link and included both country-level and study-level predictors: study year, economic or financial cost basis, routine or campaign delivery, and full or incremental costing approach. The fitted model was used to estim…",
-    "body": "The Immunization Agenda 2030 calls for reaching all people with immunization services, including 'zero-dose' children-children who have not received any routine vaccines. To plan and finance efforts to fully vaccinate these children and improve coverage and equity, decision-makers need reliable cost estimates. However, primary data on the costs of reaching zero-dose children, typically part of disadvantaged and hard-to-reach populations, are scarce. This study approximates these costs using standardized, country-level estimates of vaccine delivery unit costs for outreach delivery in low- and middle-income countries (LMICs). We extracted outreach delivery cost-per-dose estimates for childhood immunization services from the 2024 update of the Immunization Delivery Cost Catalogue. Using these data, we developed a meta-regression model to estimate standardized outreach vaccine delivery unit costs. The generalized linear model assumed a Gamma-distributed outcome with a log link and included both country-level and study-level predictors: study year, economic or financial cost basis, routine or campaign delivery, and full or incremental costing approach. The fitted model was used to estim…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Portnoy A",
-      "Clarke-Deelder E",
-      "Holroyd TA",
-      "Hogan DR",
-      "Mengistu T."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42389927/",
-    "doi": "10.1093/heapol/czag085",
-    "pmid": "42389927"
-  },
-  {
     "id": "biomedical-engineering-d8d7f87f57",
     "title": "Platelet concentrates integrated with tissue engineering scaffolds: a promising approach for wound healing application.",
     "originalTitle": "Platelet concentrates integrated with tissue engineering scaffolds: a promising approach for wound healing application.",
@@ -1498,6 +1447,59 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42376796/",
     "doi": "10.1080/14737140.2026.2695214",
     "pmid": "42376796"
+  },
+  {
+    "id": "public-health-c0fc760c05",
+    "title": "Approximating vaccine delivery costs to reach zero-dose children: a Bayesian meta-regression analysis.",
+    "originalTitle": "Approximating vaccine delivery costs to reach zero-dose children: a Bayesian meta-regression analysis.",
+    "category": "Public Health",
+    "date": "2026-07-02",
+    "dateISO": "2026-07-02",
+    "displayDate": "Jul 2, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "The Immunization Agenda 2030 calls for reaching all people with immunization services, including 'zero-dose' children-children who have not received any routine vaccines.",
+    "excerpt": "The Immunization Agenda 2030 calls for reaching all people with immunization services, including 'zero-dose' children-children who have not received any routine vaccines.",
+    "summary": "This recent study explores approximating vaccine delivery costs to reach zero-dose children: a bayesian meta-regression analysis.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "The Immunization Agenda 2030 calls for reaching all people with immunization services, including 'zero-dose' children-children who have not received any routine vaccines. To plan and finance efforts to fully vaccinate these children and improve coverage and equity, decision-makers need reliable cost estimates. However, primary data on the costs of reaching zero-dose children, typically part of disadvantaged and hard-to-reach populations, are scarce. This study approximates these costs using standardized, country-level estimates of vaccine delivery unit costs for outreach delivery in low- and middle-income countries (LMICs). We extracted outreach delivery cost-per-dose estimates for childhood immunization services from the 2024 update of the Immunization Delivery Cost Catalogue. Using these data, we developed a meta-regression model to estimate standardized outreach vaccine delivery unit costs. The generalized linear model assumed a Gamma-distributed outcome with a log link and included both country-level and study-level predictors: study year, economic or financial cost basis, routine or campaign delivery, and full or incremental costing approach. The fitted model was used to estim…",
+    "body": "The Immunization Agenda 2030 calls for reaching all people with immunization services, including 'zero-dose' children-children who have not received any routine vaccines. To plan and finance efforts to fully vaccinate these children and improve coverage and equity, decision-makers need reliable cost estimates. However, primary data on the costs of reaching zero-dose children, typically part of disadvantaged and hard-to-reach populations, are scarce. This study approximates these costs using standardized, country-level estimates of vaccine delivery unit costs for outreach delivery in low- and middle-income countries (LMICs). We extracted outreach delivery cost-per-dose estimates for childhood immunization services from the 2024 update of the Immunization Delivery Cost Catalogue. Using these data, we developed a meta-regression model to estimate standardized outreach vaccine delivery unit costs. The generalized linear model assumed a Gamma-distributed outcome with a log link and included both country-level and study-level predictors: study year, economic or financial cost basis, routine or campaign delivery, and full or incremental costing approach. The fitted model was used to estim…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Portnoy A",
+      "Clarke-Deelder E",
+      "Holroyd TA",
+      "Hogan DR",
+      "Mengistu T."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42389927/",
+    "doi": "10.1093/heapol/czag085",
+    "pmid": "42389927"
   },
   {
     "id": "biomedical-engineering-97e8721cc4",
@@ -1662,63 +1664,9 @@
     "pmid": "42405245"
   },
   {
-    "id": "public-health-b091f9c23c",
-    "title": "Oral Health and the SDGs: Unlocking Missed Potential for Global Health Gains.",
-    "originalTitle": "Oral Health and the SDGs: Unlocking Missed Potential for Global Health Gains.",
-    "category": "Public Health",
-    "date": "2026-07-01",
-    "dateISO": "2026-07-01",
-    "displayDate": "Jul 1, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Introduction Oral health is a crucial yet neglected aspect of the global health and development agenda.",
-    "excerpt": "Introduction Oral health is a crucial yet neglected aspect of the global health and development agenda.",
-    "summary": "This recent study explores oral health and the sdgs: unlocking missed potential for global health gains.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Introduction Oral health is a crucial yet neglected aspect of the global health and development agenda. Although oral diseases affect almost half of the world's population, they receive little attention and public investment by policymakers, undermining progress toward the Sustainable Development Goals (SDGs). Objective The study aimed to 1) analyse the SDG framework through an oral health lens, identifying links across goals and targets, and 2) quantify the reduction in oral disease burden required by 2030 under a counterfactual status quo projection and 2 policy benchmark scenarios: one-third reduction of noncommunicable disease prevalence aligned with SDG target and 10% reduction based on the World Health Organization Global Oral Health Strategy & Action Plan (GOHAP) target. Methods A systematic content analysis was conducted on the UN resolution \"Transforming Our World: The 2030 Agenda for Sustainable Development.\" Linkages were categorised across 4 dimensions: disease burden, determinants, system integration, and policy alignment. The Global Burden of Disease data were used to model a counterfactual status quo projection using the compound annual growth rate (CAGR) (2015-2019)…",
-    "body": "Introduction Oral health is a crucial yet neglected aspect of the global health and development agenda. Although oral diseases affect almost half of the world's population, they receive little attention and public investment by policymakers, undermining progress toward the Sustainable Development Goals (SDGs). Objective The study aimed to 1) analyse the SDG framework through an oral health lens, identifying links across goals and targets, and 2) quantify the reduction in oral disease burden required by 2030 under a counterfactual status quo projection and 2 policy benchmark scenarios: one-third reduction of noncommunicable disease prevalence aligned with SDG target and 10% reduction based on the World Health Organization Global Oral Health Strategy & Action Plan (GOHAP) target. Methods A systematic content analysis was conducted on the UN resolution \"Transforming Our World: The 2030 Agenda for Sustainable Development.\" Linkages were categorised across 4 dimensions: disease burden, determinants, system integration, and policy alignment. The Global Burden of Disease data were used to model a counterfactual status quo projection using the compound annual growth rate (CAGR) (2015-2019)…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Mathur MR",
-      "Listl S",
-      "Syed SS",
-      "Nagrath D",
-      "Mishra VK",
-      "Benzian H."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42387968/",
-    "doi": "10.1177/23800844261455290",
-    "pmid": "42387968"
-  },
-  {
-    "id": "ai-computer-science-5a145ad727",
-    "title": "Revolutionizing Nutrition Care: The Role of Artificial Intelligence in Personalized Nutrition.",
-    "originalTitle": "Revolutionizing Nutrition Care: The Role of Artificial Intelligence in Personalized Nutrition.",
+    "id": "ai-computer-science-a36e77ea33",
+    "title": "ProMeta: a meta-learning framework for robust disease diagnosis and prediction from plasma proteomics.",
+    "originalTitle": "ProMeta: a meta-learning framework for robust disease diagnosis and prediction from plasma proteomics.",
     "category": "AI & Computer Science",
     "date": "2026-07-01",
     "dateISO": "2026-07-01",
@@ -1729,11 +1677,11 @@
     "imageSearchQuery": "",
     "imageAltText": "",
     "imageCaption": "",
-    "blurb": "Personalized nutrition (PN) has evolved as a novel approach that aims to maintain or enhance health by utilizing genetic, phenotypic, medical, nutritional, and other relevant individual-specific information to deliver ta…",
-    "excerpt": "Personalized nutrition (PN) has evolved as a novel approach that aims to maintain or enhance health by utilizing genetic, phenotypic, medical, nutritional, and other relevant individual-specific information to deliver ta…",
-    "summary": "This recent study explores revolutionizing nutrition care: the role of artificial intelligence in personalized nutrition.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Personalized nutrition (PN) has evolved as a novel approach that aims to maintain or enhance health by utilizing genetic, phenotypic, medical, nutritional, and other relevant individual-specific information to deliver tailored dietary guidance and nutrition-related services. The rapid expansion of high-throughput biological data and digital health technologies has positioned artificial intelligence (AI) as a pivotal tool for delivering PN advice that can reach and benefit large populations. This review highlights the role of AI in enabling data-driven PN interventions. AI methodologies that include machine learning, deep learning, natural language processing, and reinforcement learning are discussed in the context of their ability to integrate and analyze complex multimodal health data derived from omics, wearable devices, and electronic health records. The potential of AI to enhance disease prevention and management, as well as real-time nutrition monitoring, is emphasized. Furthermore, the review highlights major challenges that currently limit the widespread adoption of AI-driven nutritional recommendations. This review presents a comprehensive overview of AI-driven approaches i…",
-    "body": "Personalized nutrition (PN) has evolved as a novel approach that aims to maintain or enhance health by utilizing genetic, phenotypic, medical, nutritional, and other relevant individual-specific information to deliver tailored dietary guidance and nutrition-related services. The rapid expansion of high-throughput biological data and digital health technologies has positioned artificial intelligence (AI) as a pivotal tool for delivering PN advice that can reach and benefit large populations. This review highlights the role of AI in enabling data-driven PN interventions. AI methodologies that include machine learning, deep learning, natural language processing, and reinforcement learning are discussed in the context of their ability to integrate and analyze complex multimodal health data derived from omics, wearable devices, and electronic health records. The potential of AI to enhance disease prevention and management, as well as real-time nutrition monitoring, is emphasized. Furthermore, the review highlights major challenges that currently limit the widespread adoption of AI-driven nutritional recommendations. This review presents a comprehensive overview of AI-driven approaches i…",
+    "blurb": "Motivation The plasma proteome offers a dynamic window of human health, capturing the real-time intersections between genetics and physiology.",
+    "excerpt": "Motivation The plasma proteome offers a dynamic window of human health, capturing the real-time intersections between genetics and physiology.",
+    "summary": "This recent study explores prometa: a meta-learning framework for robust disease diagnosis and prediction from plasma proteomics.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Motivation The plasma proteome offers a dynamic window of human health, capturing the real-time intersections between genetics and physiology. However, the application of deep learning to proteomics is currently hindered by a reliance on large-scale labeled datasets, rendering standard models ineffective for rare or novel diseases where patient samples are inherently scarce. Results Here, we present ProMeta, a meta-learning framework designed to enable robust disease modeling under extreme data restrictions. By integrating knowledge-guided pathway encoding with bi-level meta-optimization, ProMeta projects unstructured proteomic profiles into biologically interpretable functional tokens. This architecture allows the model to learn a global initialization containing transferable biological priors from biobank-scale data, facilitating rapid adaptation to novel tasks. Through comprehensive benchmark experiments, ProMeta consistently outperformed transfer learning and traditional machine learning baselines in both disease diagnosis and prediction tasks. In the most challenging 4-shot scenarios (utilizing only 2 cases and 2 controls), the model achieved robust generalization with an aver…",
+    "body": "Motivation The plasma proteome offers a dynamic window of human health, capturing the real-time intersections between genetics and physiology. However, the application of deep learning to proteomics is currently hindered by a reliance on large-scale labeled datasets, rendering standard models ineffective for rare or novel diseases where patient samples are inherently scarce. Results Here, we present ProMeta, a meta-learning framework designed to enable robust disease modeling under extreme data restrictions. By integrating knowledge-guided pathway encoding with bi-level meta-optimization, ProMeta projects unstructured proteomic profiles into biologically interpretable functional tokens. This architecture allows the model to learn a global initialization containing transferable biological priors from biobank-scale data, facilitating rapid adaptation to novel tasks. Through comprehensive benchmark experiments, ProMeta consistently outperformed transfer learning and traditional machine learning baselines in both disease diagnosis and prediction tasks. In the most challenging 4-shot scenarios (utilizing only 2 cases and 2 controls), the model achieved robust generalization with an aver…",
     "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
     "keyTakeaways": [
       "The study addresses a recent question in science or medicine.",
@@ -1743,32 +1691,33 @@
     "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
     "scientificTerms": [
       {
+        "term": "biomarker",
+        "explanation": "A measurable signal in the body that can help indicate a disease, risk, or treatment response."
+      },
+      {
         "term": "machine learning",
         "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
       },
       {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
+        "term": "pathway",
+        "explanation": "A chain of molecular events inside cells that produces a biological effect."
       }
     ],
     "sourceName": "PubMed",
     "journal": "",
     "authors": [
-      "Joshi S",
-      "Dwivedi A",
-      "Kumar A",
-      "Aayush K",
-      "Bisht B",
-      "Kumar S",
-      "Kumar V."
+      "Li H",
+      "Gu H",
+      "Hu L",
+      "Zhang Z",
+      "Lv Y",
+      "Gao P",
+      "Cooper-Knock J",
+      "Min Y"
     ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42422973/",
-    "doi": "10.1111/1750-3841.71281",
-    "pmid": "42422973"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42412846/",
+    "doi": "10.1093/bioinformatics/btag267",
+    "pmid": "42412846"
   },
   {
     "id": "medicine-607120e4a2",
@@ -1827,9 +1776,9 @@
     "pmid": "42044259"
   },
   {
-    "id": "public-health-0fa7a9984f",
-    "title": "Sitting still while the world gets sicker: Rethinking physical inactivity as a public health emergency.",
-    "originalTitle": "Sitting still while the world gets sicker: Rethinking physical inactivity as a public health emergency.",
+    "id": "public-health-b091f9c23c",
+    "title": "Oral Health and the SDGs: Unlocking Missed Potential for Global Health Gains.",
+    "originalTitle": "Oral Health and the SDGs: Unlocking Missed Potential for Global Health Gains.",
     "category": "Public Health",
     "date": "2026-07-01",
     "dateISO": "2026-07-01",
@@ -1840,11 +1789,11 @@
     "imageSearchQuery": "",
     "imageAltText": "",
     "imageCaption": "",
-    "blurb": "Physical inactivity (PI) has emerged as a \"forgotten pandemic\" in global health.",
-    "excerpt": "Physical inactivity (PI) has emerged as a \"forgotten pandemic\" in global health.",
-    "summary": "This recent study explores sitting still while the world gets sicker: rethinking physical inactivity as a public health emergency.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Physical inactivity (PI) has emerged as a \"forgotten pandemic\" in global health. Over a quarter of adults worldwide fail to meet recommended physical activity (PA) levels, a proportion that has remained largely unchanged since 2001. This inactivity drives a rising non-communicable disease burden, deepens health inequities, and generates substantial economic costs. Yet preventive action and dedicated funding remain insufficient. Despite international frameworks and national PA plans, with nearly 75% of countries reporting relevant policies, implementation remains inconsistent and population-wide impact elusive. Global efforts are constrained by systemic policy blind spots. Health in All Policies, a governance approach that integrates health considerations into policy decisions across sectors such as urban planning and education, remains widely endorsed but rarely enacted, foreclosing opportunities for action. Viewed through an equity lens, existing strategies disproportionately benefit more advantaged populations, leaving underserved groups behind. These shortcomings are compounded by short political cycles and chronic underinvestment in prevention, which prioritize short-term polit…",
-    "body": "Physical inactivity (PI) has emerged as a \"forgotten pandemic\" in global health. Over a quarter of adults worldwide fail to meet recommended physical activity (PA) levels, a proportion that has remained largely unchanged since 2001. This inactivity drives a rising non-communicable disease burden, deepens health inequities, and generates substantial economic costs. Yet preventive action and dedicated funding remain insufficient. Despite international frameworks and national PA plans, with nearly 75% of countries reporting relevant policies, implementation remains inconsistent and population-wide impact elusive. Global efforts are constrained by systemic policy blind spots. Health in All Policies, a governance approach that integrates health considerations into policy decisions across sectors such as urban planning and education, remains widely endorsed but rarely enacted, foreclosing opportunities for action. Viewed through an equity lens, existing strategies disproportionately benefit more advantaged populations, leaving underserved groups behind. These shortcomings are compounded by short political cycles and chronic underinvestment in prevention, which prioritize short-term polit…",
+    "blurb": "Introduction Oral health is a crucial yet neglected aspect of the global health and development agenda.",
+    "excerpt": "Introduction Oral health is a crucial yet neglected aspect of the global health and development agenda.",
+    "summary": "This recent study explores oral health and the sdgs: unlocking missed potential for global health gains.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Introduction Oral health is a crucial yet neglected aspect of the global health and development agenda. Although oral diseases affect almost half of the world's population, they receive little attention and public investment by policymakers, undermining progress toward the Sustainable Development Goals (SDGs). Objective The study aimed to 1) analyse the SDG framework through an oral health lens, identifying links across goals and targets, and 2) quantify the reduction in oral disease burden required by 2030 under a counterfactual status quo projection and 2 policy benchmark scenarios: one-third reduction of noncommunicable disease prevalence aligned with SDG target and 10% reduction based on the World Health Organization Global Oral Health Strategy & Action Plan (GOHAP) target. Methods A systematic content analysis was conducted on the UN resolution \"Transforming Our World: The 2030 Agenda for Sustainable Development.\" Linkages were categorised across 4 dimensions: disease burden, determinants, system integration, and policy alignment. The Global Burden of Disease data were used to model a counterfactual status quo projection using the compound annual growth rate (CAGR) (2015-2019)…",
+    "body": "Introduction Oral health is a crucial yet neglected aspect of the global health and development agenda. Although oral diseases affect almost half of the world's population, they receive little attention and public investment by policymakers, undermining progress toward the Sustainable Development Goals (SDGs). Objective The study aimed to 1) analyse the SDG framework through an oral health lens, identifying links across goals and targets, and 2) quantify the reduction in oral disease burden required by 2030 under a counterfactual status quo projection and 2 policy benchmark scenarios: one-third reduction of noncommunicable disease prevalence aligned with SDG target and 10% reduction based on the World Health Organization Global Oral Health Strategy & Action Plan (GOHAP) target. Methods A systematic content analysis was conducted on the UN resolution \"Transforming Our World: The 2030 Agenda for Sustainable Development.\" Linkages were categorised across 4 dimensions: disease burden, determinants, system integration, and policy alignment. The Global Burden of Disease data were used to model a counterfactual status quo projection using the compound annual growth rate (CAGR) (2015-2019)…",
     "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
     "keyTakeaways": [
       "The study addresses a recent question in science or medicine.",
@@ -1869,16 +1818,67 @@
     "sourceName": "PubMed",
     "journal": "",
     "authors": [
-      "Daniels K",
-      "Quadflieg K",
-      "Bergs J",
-      "Spooren A",
-      "Hansen D",
-      "Bonnechère B."
+      "Mathur MR",
+      "Listl S",
+      "Syed SS",
+      "Nagrath D",
+      "Mishra VK",
+      "Benzian H."
     ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42381035/",
-    "doi": "10.1186/s44263-026-00295-6",
-    "pmid": "42381035"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42387968/",
+    "doi": "10.1177/23800844261455290",
+    "pmid": "42387968"
+  },
+  {
+    "id": "neuroscience-e181dc8a88",
+    "title": "Neural Basis of Action Simulation in Architectural Perception: A Multi-voxel Pattern Analysis Study.",
+    "originalTitle": "Neural Basis of Action Simulation in Architectural Perception: A Multi-voxel Pattern Analysis Study.",
+    "category": "Neuroscience",
+    "date": "2026-07-01",
+    "dateISO": "2026-07-01",
+    "displayDate": "Jul 1, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/neuro.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs.",
+    "excerpt": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs.",
+    "summary": "This recent study explores neural basis of action simulation in architectural perception: a multi-voxel pattern analysis study.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs. Although previous research on navigation has demonstrated how the spatial configuration of corridors and doorways guide locomotion, it remains unclear whether architectural elements (e.g., doors, windows, stairs) that require direct interaction evoke distinct, action-specific representations in the brain. Thus, the aim of this study is to investigate whether the passive perception of such elements (viewed without any intention to act) spontaneously recruits motor-related brain networks and whether these activations are specific to the actions implied by each element. fMRI data were collected from 31 participants during passive viewing of each architectural element followed by imagery of four actions: one reflecting the element's primary function, one representing manipulation, and two corresponding to peripheral actions. Using multi-voxel pattern analysis, we created classification ratio maps to identify action-architectural element associations. Our analyses revealed tha…",
+    "body": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs. Although previous research on navigation has demonstrated how the spatial configuration of corridors and doorways guide locomotion, it remains unclear whether architectural elements (e.g., doors, windows, stairs) that require direct interaction evoke distinct, action-specific representations in the brain. Thus, the aim of this study is to investigate whether the passive perception of such elements (viewed without any intention to act) spontaneously recruits motor-related brain networks and whether these activations are specific to the actions implied by each element. fMRI data were collected from 31 participants during passive viewing of each architectural element followed by imagery of four actions: one reflecting the element's primary function, one representing manipulation, and two corresponding to peripheral actions. Using multi-voxel pattern analysis, we created classification ratio maps to identify action-architectural element associations. Our analyses revealed tha…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "neural",
+        "explanation": "Related to nerves, neurons, or the brain’s communication system."
+      },
+      {
+        "term": "pathway",
+        "explanation": "A chain of molecular events inside cells that produces a biological effect."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Shin W",
+      "Song Y",
+      "Jeong J."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41707234/",
+    "doi": "10.1162/jocn.a.2486",
+    "pmid": "41707234"
   },
   {
     "id": "biomedical-engineering-bda317c422",
@@ -1935,24 +1935,24 @@
     "pmid": "42300953"
   },
   {
-    "id": "ai-computer-science-8197082146",
-    "title": "A Narrative Review of Artificial Intelligence for Drug Repurposing: Lessons From COVID-19 and Oncology (2020-2025).",
-    "originalTitle": "A Narrative Review of Artificial Intelligence for Drug Repurposing: Lessons From COVID-19 and Oncology (2020-2025).",
+    "id": "ai-computer-science-5a145ad727",
+    "title": "Revolutionizing Nutrition Care: The Role of Artificial Intelligence in Personalized Nutrition.",
+    "originalTitle": "Revolutionizing Nutrition Care: The Role of Artificial Intelligence in Personalized Nutrition.",
     "category": "AI & Computer Science",
     "date": "2026-07-01",
     "dateISO": "2026-07-01",
     "displayDate": "Jul 1, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
+    "readTime": 4,
+    "difficulty": "Advanced",
     "image": "RUimages/AI.jpg",
     "imageSearchQuery": "",
     "imageAltText": "",
     "imageCaption": "",
-    "blurb": "Drug repurposing presents a cost-effective and time-efficient strategy to identify new therapeutic applications for existing drugs.",
-    "excerpt": "Drug repurposing presents a cost-effective and time-efficient strategy to identify new therapeutic applications for existing drugs.",
-    "summary": "This recent study explores a narrative review of artificial intelligence for drug repurposing: lessons from covid-19 and oncology (2020-2025).. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Drug repurposing presents a cost-effective and time-efficient strategy to identify new therapeutic applications for existing drugs. Recent advances in artificial intelligence, including machine learning, deep learning, knowledge graphs, and natural language processing, have revolutionized this field by enabling automated discovery of drug-disease associations. This review examines the role of artificial intelligence in drug repurposing, drawing insights from two critical case areas: Coronavirus disease 2019 and oncology. We explore current trends, methodological frameworks, and technological innovations in artificial intelligence-driven drug repurposing, as well as challenges and emerging future directions. The findings of this paper underscore the transformative potential of artificial intelligence in biomedical research and justify its continued integration in pharmaceutical pipelines.",
-    "body": "Drug repurposing presents a cost-effective and time-efficient strategy to identify new therapeutic applications for existing drugs. Recent advances in artificial intelligence, including machine learning, deep learning, knowledge graphs, and natural language processing, have revolutionized this field by enabling automated discovery of drug-disease associations. This review examines the role of artificial intelligence in drug repurposing, drawing insights from two critical case areas: Coronavirus disease 2019 and oncology. We explore current trends, methodological frameworks, and technological innovations in artificial intelligence-driven drug repurposing, as well as challenges and emerging future directions. The findings of this paper underscore the transformative potential of artificial intelligence in biomedical research and justify its continued integration in pharmaceutical pipelines.",
+    "blurb": "Personalized nutrition (PN) has evolved as a novel approach that aims to maintain or enhance health by utilizing genetic, phenotypic, medical, nutritional, and other relevant individual-specific information to deliver ta…",
+    "excerpt": "Personalized nutrition (PN) has evolved as a novel approach that aims to maintain or enhance health by utilizing genetic, phenotypic, medical, nutritional, and other relevant individual-specific information to deliver ta…",
+    "summary": "This recent study explores revolutionizing nutrition care: the role of artificial intelligence in personalized nutrition.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Personalized nutrition (PN) has evolved as a novel approach that aims to maintain or enhance health by utilizing genetic, phenotypic, medical, nutritional, and other relevant individual-specific information to deliver tailored dietary guidance and nutrition-related services. The rapid expansion of high-throughput biological data and digital health technologies has positioned artificial intelligence (AI) as a pivotal tool for delivering PN advice that can reach and benefit large populations. This review highlights the role of AI in enabling data-driven PN interventions. AI methodologies that include machine learning, deep learning, natural language processing, and reinforcement learning are discussed in the context of their ability to integrate and analyze complex multimodal health data derived from omics, wearable devices, and electronic health records. The potential of AI to enhance disease prevention and management, as well as real-time nutrition monitoring, is emphasized. Furthermore, the review highlights major challenges that currently limit the widespread adoption of AI-driven nutritional recommendations. This review presents a comprehensive overview of AI-driven approaches i…",
+    "body": "Personalized nutrition (PN) has evolved as a novel approach that aims to maintain or enhance health by utilizing genetic, phenotypic, medical, nutritional, and other relevant individual-specific information to deliver tailored dietary guidance and nutrition-related services. The rapid expansion of high-throughput biological data and digital health technologies has positioned artificial intelligence (AI) as a pivotal tool for delivering PN advice that can reach and benefit large populations. This review highlights the role of AI in enabling data-driven PN interventions. AI methodologies that include machine learning, deep learning, natural language processing, and reinforcement learning are discussed in the context of their ability to integrate and analyze complex multimodal health data derived from omics, wearable devices, and electronic health records. The potential of AI to enhance disease prevention and management, as well as real-time nutrition monitoring, is emphasized. Furthermore, the review highlights major challenges that currently limit the widespread adoption of AI-driven nutritional recommendations. This review presents a comprehensive overview of AI-driven approaches i…",
     "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
     "keyTakeaways": [
       "The study addresses a recent question in science or medicine.",
@@ -1977,12 +1977,17 @@
     "sourceName": "PubMed",
     "journal": "",
     "authors": [
-      "Ogungbite AB",
-      "Sibiya M."
+      "Joshi S",
+      "Dwivedi A",
+      "Kumar A",
+      "Aayush K",
+      "Bisht B",
+      "Kumar S",
+      "Kumar V."
     ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42370758/",
-    "doi": "10.1002/psp4.70272",
-    "pmid": "42370758"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42422973/",
+    "doi": "10.1111/1750-3841.71281",
+    "pmid": "42422973"
   },
   {
     "id": "medicine-b0428f4394",
@@ -2037,6 +2042,60 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41627880/",
     "doi": "10.1093/jnci/djag026",
     "pmid": "41627880"
+  },
+  {
+    "id": "public-health-0fa7a9984f",
+    "title": "Sitting still while the world gets sicker: Rethinking physical inactivity as a public health emergency.",
+    "originalTitle": "Sitting still while the world gets sicker: Rethinking physical inactivity as a public health emergency.",
+    "category": "Public Health",
+    "date": "2026-07-01",
+    "dateISO": "2026-07-01",
+    "displayDate": "Jul 1, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Physical inactivity (PI) has emerged as a \"forgotten pandemic\" in global health.",
+    "excerpt": "Physical inactivity (PI) has emerged as a \"forgotten pandemic\" in global health.",
+    "summary": "This recent study explores sitting still while the world gets sicker: rethinking physical inactivity as a public health emergency.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Physical inactivity (PI) has emerged as a \"forgotten pandemic\" in global health. Over a quarter of adults worldwide fail to meet recommended physical activity (PA) levels, a proportion that has remained largely unchanged since 2001. This inactivity drives a rising non-communicable disease burden, deepens health inequities, and generates substantial economic costs. Yet preventive action and dedicated funding remain insufficient. Despite international frameworks and national PA plans, with nearly 75% of countries reporting relevant policies, implementation remains inconsistent and population-wide impact elusive. Global efforts are constrained by systemic policy blind spots. Health in All Policies, a governance approach that integrates health considerations into policy decisions across sectors such as urban planning and education, remains widely endorsed but rarely enacted, foreclosing opportunities for action. Viewed through an equity lens, existing strategies disproportionately benefit more advantaged populations, leaving underserved groups behind. These shortcomings are compounded by short political cycles and chronic underinvestment in prevention, which prioritize short-term polit…",
+    "body": "Physical inactivity (PI) has emerged as a \"forgotten pandemic\" in global health. Over a quarter of adults worldwide fail to meet recommended physical activity (PA) levels, a proportion that has remained largely unchanged since 2001. This inactivity drives a rising non-communicable disease burden, deepens health inequities, and generates substantial economic costs. Yet preventive action and dedicated funding remain insufficient. Despite international frameworks and national PA plans, with nearly 75% of countries reporting relevant policies, implementation remains inconsistent and population-wide impact elusive. Global efforts are constrained by systemic policy blind spots. Health in All Policies, a governance approach that integrates health considerations into policy decisions across sectors such as urban planning and education, remains widely endorsed but rarely enacted, foreclosing opportunities for action. Viewed through an equity lens, existing strategies disproportionately benefit more advantaged populations, leaving underserved groups behind. These shortcomings are compounded by short political cycles and chronic underinvestment in prevention, which prioritize short-term polit…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Daniels K",
+      "Quadflieg K",
+      "Bergs J",
+      "Spooren A",
+      "Hansen D",
+      "Bonnechère B."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42381035/",
+    "doi": "10.1186/s44263-026-00295-6",
+    "pmid": "42381035"
   },
   {
     "id": "women-s-health-ba263c9385",
@@ -2200,6 +2259,62 @@
     "pmid": "42334792"
   },
   {
+    "id": "nutrition-6c3e78f92d",
+    "title": "Do probiotics modulate dietary intake? Pilot data from a randomized controlled sub-study of the ProBioHRV clinical trial in patients with depression and healthy controls.",
+    "originalTitle": "Do probiotics modulate dietary intake? Pilot data from a randomized controlled sub-study of the ProBioHRV clinical trial in patients with depression and healthy controls.",
+    "category": "Nutrition",
+    "date": "2026-06-23",
+    "dateISO": "2026-06-23",
+    "displayDate": "Jun 23, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Background The gut microbiome plays a central role in human health and is strongly influenced by diet.",
+    "excerpt": "Background The gut microbiome plays a central role in human health and is strongly influenced by diet.",
+    "summary": "This recent study explores do probiotics modulate dietary intake? pilot data from a randomized controlled sub-study of the probiohrv clinical trial in patients with depression and healthy controls.. The automated summary should be reviewed against the original article before publication.",
+    "deepDive": "Background The gut microbiome plays a central role in human health and is strongly influenced by diet. Probiotics can beneficially modulate the microbiome and, through the gut-brain axis, may affect mood, appetite, and food preferences. This randomized controlled trial examined whether three months of probiotic supplementation could alter dietary intake in individuals with major depression (MD) and healthy controls (HC). Methods In this double-blind, placebo-controlled trial, 53 participants (23 with MD, 30 HC) received either a multi-strain probiotic or placebo twice daily for three months. Dietary intake was assessed at baseline and three follow-ups using the Vienna Food Record (VFR). Nutritional data were analyzed with nut.s® software and evaluated using mixed ANOVAs for repeated measures. These analyses represent additional data collected within the framework of the ProBioHRV study. Results Changes across dietary measures were generally small, with only a limited number reaching statistical significance. Significant three-way interactions (time × intervention × diagnosis) emerged for vitamin D intake, dietary variety, folic acid, and diversity. In HC, probiotic supplementation…",
+    "body": "Background The gut microbiome plays a central role in human health and is strongly influenced by diet. Probiotics can beneficially modulate the microbiome and, through the gut-brain axis, may affect mood, appetite, and food preferences. This randomized controlled trial examined whether three months of probiotic supplementation could alter dietary intake in individuals with major depression (MD) and healthy controls (HC). Methods In this double-blind, placebo-controlled trial, 53 participants (23 with MD, 30 HC) received either a multi-strain probiotic or placebo twice daily for three months. Dietary intake was assessed at baseline and three follow-ups using the Vienna Food Record (VFR). Nutritional data were analyzed with nut.s® software and evaluated using mixed ANOVAs for repeated measures. These analyses represent additional data collected within the framework of the ProBioHRV study. Results Changes across dietary measures were generally small, with only a limited number reaching statistical significance. Significant three-way interactions (time × intervention × diagnosis) emerged for vitamin D intake, dietary variety, folic acid, and diversity. In HC, probiotic supplementation…",
+    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
+    "keyTakeaways": [
+      "The study addresses a recent question in science or medicine.",
+      "The original abstract gives the most precise technical details.",
+      "Readers should use the source link to go deeper and verify the findings."
+    ],
+    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "clinical trial",
+        "explanation": "A carefully designed study that tests a medical treatment or intervention in people."
+      },
+      {
+        "term": "microbiome",
+        "explanation": "The community of bacteria and other microbes living in or on the body or environment."
+      },
+      {
+        "term": "randomized",
+        "explanation": "A study design where participants are assigned by chance to different groups to reduce bias."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Putz JC",
+      "Wilding M",
+      "Lackner S",
+      "Narrath M",
+      "Schlotmann D",
+      "Sallmutter MT",
+      "Tatzer J",
+      "Brandstätter A"
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42335165/",
+    "doi": "10.1371/journal.pone.0350801",
+    "pmid": "42335165"
+  },
+  {
     "id": "women-s-health-60fb597d4d",
     "title": "From Hope to Infection: Tubo-Ovarian Abscess After Frozen Embryo Transfer-A Case Report and Review of the Literature.",
     "originalTitle": "From Hope to Infection: Tubo-Ovarian Abscess After Frozen Embryo Transfer-A Case Report and Review of the Literature.",
@@ -2300,62 +2415,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42319373/",
     "doi": "10.1097/moh.0000000000000940",
     "pmid": "42319373"
-  },
-  {
-    "id": "public-health-c5abed23e1",
-    "title": "Intersectional inequalities in self-rated health in Germany across sex/gender, migration, education and income: a cross-sectional study.",
-    "originalTitle": "Intersectional inequalities in self-rated health in Germany across sex/gender, migration, education and income: a cross-sectional study.",
-    "category": "Public Health",
-    "date": "2026-06-22",
-    "dateISO": "2026-06-22",
-    "displayDate": "Jun 22, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Background Health inequalities by sex/gender, migration, education and income persist across Europe, yet intersectionality-informed research on how these social positions jointly shape self-rated health (SRH) remains lim…",
-    "excerpt": "Background Health inequalities by sex/gender, migration, education and income persist across Europe, yet intersectionality-informed research on how these social positions jointly shape self-rated health (SRH) remains lim…",
-    "summary": "This recent study explores intersectional inequalities in self-rated health in germany across sex/gender, migration, education and income: a cross-sectional study.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Background Health inequalities by sex/gender, migration, education and income persist across Europe, yet intersectionality-informed research on how these social positions jointly shape self-rated health (SRH) remains limited. Methods We conducted a cross-sectional analysis of the German National Cohort (NAKO; n=179 861). Sex/gender, education and income were combined with three migration characteristics (any migration, Turkish and ethnic German resettler backgrounds) into three 16-strata exposure variables. We used Poisson regression with robust SEs to estimate adjusted frequencies and relative risks of poor SRH, adjusting for age, household size and study site. Departures from additivity were assessed using two-, three-, four-way and total relative excess risk due to interaction (RERI). Results Poor SRH followed a social gradient. Adjusted frequency of poor SRH generally increased with each additional marginalised social position, from 6.3% (95% CI 5.5% to 7.2%) among high education and income migrant men to 22.6% (95% CI 21.3% to 23.8%) among low education and income migrant women. Adjusted frequencies were highest among participants with Turkish background. Joint exposure to fem…",
-    "body": "Background Health inequalities by sex/gender, migration, education and income persist across Europe, yet intersectionality-informed research on how these social positions jointly shape self-rated health (SRH) remains limited. Methods We conducted a cross-sectional analysis of the German National Cohort (NAKO; n=179 861). Sex/gender, education and income were combined with three migration characteristics (any migration, Turkish and ethnic German resettler backgrounds) into three 16-strata exposure variables. We used Poisson regression with robust SEs to estimate adjusted frequencies and relative risks of poor SRH, adjusting for age, household size and study site. Departures from additivity were assessed using two-, three-, four-way and total relative excess risk due to interaction (RERI). Results Poor SRH followed a social gradient. Adjusted frequency of poor SRH generally increased with each additional marginalised social position, from 6.3% (95% CI 5.5% to 7.2%) among high education and income migrant men to 22.6% (95% CI 21.3% to 23.8%) among low education and income migrant women. Adjusted frequencies were highest among participants with Turkish background. Joint exposure to fem…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Slesinski SC",
-      "Bilal U",
-      "Heisig JP",
-      "Telkmann K",
-      "Callies CM",
-      "Emmer C",
-      "Becher H",
-      "Brand T"
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42331609/",
-    "doi": "10.1136/jech-2026-225920",
-    "pmid": "42331609"
   },
   {
     "id": "genetics-4017756b0d",
@@ -2515,62 +2574,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42321912/",
     "doi": "10.1186/s12986-026-01145-w",
     "pmid": "42321912"
-  },
-  {
-    "id": "nutrition-80eb9e9150",
-    "title": "Multi-Axis Functional Mechanisms of the Milpa Diet in Obesity: A Scoping Review.",
-    "originalTitle": "Multi-Axis Functional Mechanisms of the Milpa Diet in Obesity: A Scoping Review.",
-    "category": "Nutrition",
-    "date": "2026-06-19",
-    "dateISO": "2026-06-19",
-    "displayDate": "Jun 19, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Background: Obesity is a multifactorial metabolic disorder characterized by chronic low-grade inflammation, oxidative stress, mitochondrial dysfunction, lipotoxicity, dysregulated adipogenesis, and alterations in the gut…",
-    "excerpt": "Background: Obesity is a multifactorial metabolic disorder characterized by chronic low-grade inflammation, oxidative stress, mitochondrial dysfunction, lipotoxicity, dysregulated adipogenesis, and alterations in the gut…",
-    "summary": "This recent study explores multi-axis functional mechanisms of the milpa diet in obesity: a scoping review.. The automated summary should be reviewed against the original article before publication.",
-    "deepDive": "Background: Obesity is a multifactorial metabolic disorder characterized by chronic low-grade inflammation, oxidative stress, mitochondrial dysfunction, lipotoxicity, dysregulated adipogenesis, and alterations in the gut microbiota, which collectively contribute to insulin resistance and cardiometabolic complications. In this context, dietary patterns rich in bioactive compounds have gained relevance as potential strategies to modulate these interconnected pathways. Objective: To assess the potential of the Milpa Diet (a sustainable, plant-dominant Mesoamerican eating pattern centered on the ancient three sisters' polyculture of maize, beans, and squash, along with chili) as a culturally relevant, multi-axis functional dietary pattern, and to evaluate the molecular mechanisms underlying obesity-associated with metabolic dysfunction. Methods: A scoping review of preclinical and clinical studies was conducted using Medline via PubMed, Scopus, and Web of Science databases. The ChEMBL database was also used to identify chemical structures. The search focused on evidence related to inflammation, oxidative stress, adipogenesis, lipotoxicity, mitochondrial function, and gut microbiota mod…",
-    "body": "Background: Obesity is a multifactorial metabolic disorder characterized by chronic low-grade inflammation, oxidative stress, mitochondrial dysfunction, lipotoxicity, dysregulated adipogenesis, and alterations in the gut microbiota, which collectively contribute to insulin resistance and cardiometabolic complications. In this context, dietary patterns rich in bioactive compounds have gained relevance as potential strategies to modulate these interconnected pathways. Objective: To assess the potential of the Milpa Diet (a sustainable, plant-dominant Mesoamerican eating pattern centered on the ancient three sisters' polyculture of maize, beans, and squash, along with chili) as a culturally relevant, multi-axis functional dietary pattern, and to evaluate the molecular mechanisms underlying obesity-associated with metabolic dysfunction. Methods: A scoping review of preclinical and clinical studies was conducted using Medline via PubMed, Scopus, and Web of Science databases. The ChEMBL database was also used to identify chemical structures. The search focused on evidence related to inflammation, oxidative stress, adipogenesis, lipotoxicity, mitochondrial function, and gut microbiota mod…",
-    "whyItMatters": "This article was selected because it connects to an active research area and can help readers learn how scientists investigate real problems.",
-    "keyTakeaways": [
-      "The study addresses a recent question in science or medicine.",
-      "The original abstract gives the most precise technical details.",
-      "Readers should use the source link to go deeper and verify the findings."
-    ],
-    "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "clinical trial",
-        "explanation": "A carefully designed study that tests a medical treatment or intervention in people."
-      },
-      {
-        "term": "inflammation",
-        "explanation": "The immune system’s response to injury, infection, or stress, which can help healing but also cause harm if uncontrolled."
-      },
-      {
-        "term": "pathway",
-        "explanation": "A chain of molecular events inside cells that produces a biological effect."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Ramos J",
-      "Salas R",
-      "Salazar-Guerrero C",
-      "Gaspar J",
-      "Santos ME",
-      "Hernández-Salazar M",
-      "García S",
-      "Ródenas-Munar M"
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42356376/",
-    "doi": "10.3390/nu18121991",
-    "pmid": "42356376"
   },
   {
     "id": "genetics-c8a3e42e32",
