@@ -238,8 +238,67 @@ Tone:
 - Never overly technical on the card
 """
 
+HEADLINE_RULES = """
+HEADLINE RULES — VERY IMPORTANT:
+
+The public article title should sound like this example:
+"Light-Based 3D Printing Could Bring Lab-Grown Organs Closer"
+
+That means the title should usually combine:
+1. A simple version of the technology, discovery, or finding
+2. A cautious verb such as could, may, might, or suggests
+3. The larger real-world implication or future possibility
+
+The title should make a curious student think:
+"Wait, how does that work?"
+
+Do NOT write a topic label.
+Do NOT write a shortened academic title.
+Do NOT copy the paper title unless it is already clear and exciting.
+Do NOT use vague titles like:
+- Digital light processing bioprinting
+- Gut microbiome and hypertension
+- AI-assisted diagnosis
+- Climate and ozone pollution
+- Tumor microenvironment interactions
+
+Better title examples:
+- Light-Based 3D Printing Could Bring Lab-Grown Organs Closer
+- Gut-Friendly Diets May Be Linked to Lower Blood Pressure
+- AI Could Help Doctors Catch Swallowing Problems Earlier
+- Brain Signals Could Help Future Prosthetics Move More Naturally
+- Tiny Cancer Models Could Reveal How Tumors Spread
+- Cleaner Air Plans May Need to Target Pollution Earlier
+- Gene Editing Could Help Scientists Understand Ovarian Disorders
+- Hotter Homes May Put Older Adults at Greater Risk
+- AI Models Could Work Better When They Team Up
+- Microbiology Classes Could Help Train Future Climate Scientists
+
+Rules:
+- 8 to 14 words is ideal.
+- 16 words maximum.
+- Use simple, vivid words.
+- Include the implication, not just the topic.
+- Use “could,” “may,” or “might” for early-stage research.
+- Do not say “will,” “proves,” “cures,” or “breakthrough” unless the abstract clearly supports it.
+- Avoid acronyms in the title unless they are widely known, like AI or DNA.
+- Avoid technical phrases like “spatial transcriptomics,” “randomized clinical trial,” “bioink innovations,” or “differential expression” in the title.
+- The original academic title will be saved separately as originalTitle, so the public title should be reader-friendly.
+
+Before writing the title, silently ask:
+- What is the actual thing being studied?
+- What could this eventually help with?
+- Why would a non-scientist care?
+- How can I say that in one clear headline?
+
+The title should focus on the implication, not the method name.
+"""
+
+
 USER_PROMPT_TEMPLATE = """
 Convert the following research article metadata into a Research Unwrapped article card and full-read explanation.
+
+{headline_rules}
 
 ARTICLE METADATA:
 Original title: {title}
@@ -257,8 +316,13 @@ Return a valid JSON object that follows the required schema.
 WRITING RULES:
 
 1. simpleTitle:
-Create a simple, engaging headline for a non-expert reader.
-Do NOT copy the original paper title unless it is already simple.
+Use the HEADLINE RULES exactly.
+Create a captivating but accurate reader-facing title.
+It must explain the implication or why the research matters.
+It should make a student want to click.
+It should NOT sound like PubMed, a journal article, or a topic label.
+
+Do NOT copy the original paper title unless it is already simple, clear, and exciting.
 Do NOT use academic title phrases such as:
 - "A conceptual framework"
 - "A systematic review"
@@ -274,31 +338,23 @@ Do NOT use academic title phrases such as:
 
 Instead, translate the title into the real-world finding, question, or implication.
 
-Bad:
-"Integrating sustainability thinking into microbiology education: a conceptual framework for the next generation of environmental scientists"
+The title should usually follow this formula:
+Simple technology/discovery + cautious verb + real-world future implication
 
-Good:
-"Microbiology Classes Could Help Train Future Climate Scientists"
+Strong examples:
+- Light-Based 3D Printing Could Bring Lab-Grown Organs Closer
+- Gut-Friendly Diets May Be Linked to Lower Blood Pressure
+- AI Could Help Doctors Catch Swallowing Problems Earlier
+- Brain Signals Could Help Future Prosthetics Move More Naturally
+- Tiny Cancer Models Could Reveal How Tumors Spread
+- Hotter Homes May Put Older Adults at Greater Risk
 
-Bad:
-"Tau protein regulates hippocampal memory consolidation in murine models"
-
-Good:
-"Alzheimer's Tau Protein May Have a Surprising Role in Memory"
-
-Bad:
-"Associations between sleep duration and cardiometabolic outcomes in adolescents"
-
-Good:
-"Too Little Sleep May Affect Teen Heart and Metabolic Health"
-
-The title should:
-- be under 14 words when possible
-- use everyday words
-- hint at why the discovery matters
-- avoid hype words like "miracle," "breakthrough," or "cure"
-- avoid unsupported claims
-- use "may," "could," or "might" when the evidence is early or indirect
+Bad examples:
+- Digital light processing bioprinting
+- Gut microbiome and hypertension
+- AI-assisted diagnosis
+- Tumor microenvironment interactions
+- Heat exhaustion in older adults
 
 2. blurb:
 Write 1-2 sentences for the article card.
@@ -505,52 +561,77 @@ def fallback_terms(title: str, abstract: str) -> List[Dict[str, str]]:
 
 
 
-def make_simple_fallback_title(title: str) -> str:
-    """Light cleanup for no-OpenAI mode. The real simplification happens in the AI prompt."""
-    cleaned = clean_text(title)
-    cleaned = re.sub(r"^(A|An|The)\s+", "", cleaned, flags=re.I)
-    cleaned = re.sub(r":.*$", "", cleaned).strip()
-    academic_phrases = [
-        "a conceptual framework for",
-        "a systematic review of",
-        "an investigation of",
-        "associations between",
-        "characterization of",
-        "evaluation of",
-        "assessment of",
-        "protocol",
-    ]
-    lower = cleaned.lower()
-    for phrase in academic_phrases:
-        if lower.startswith(phrase):
-            cleaned = cleaned[len(phrase):].strip(" :-")
-            break
-    words = cleaned.split()
-    if len(words) > 14:
-        cleaned = " ".join(words[:14]).rstrip(",.;:") + "..."
-    return cleaned or title
+
+def make_simple_fallback_title(title: str, category: str = "Science") -> str:
+    """Create an implication-driven fallback title if OpenAI is unavailable."""
+    lower = clean_text(title).lower()
+    category_clean = clean_text(category) or "Science"
+
+    if "bioprint" in lower or "biofabrication" in lower or "tissue engineering" in lower:
+        return "Light-Based 3D Printing Could Bring Lab-Grown Organs Closer"
+    if "bioink" in lower or "hydrogel" in lower:
+        return "New Bioinks Could Help Scientists Build Living Tissues"
+    if "microbiome" in lower and ("hypertension" in lower or "blood pressure" in lower):
+        return "Gut-Friendly Diets May Be Linked to Lower Blood Pressure"
+    if "microbiome" in lower:
+        return "Tiny Gut Microbes Could Shape Bigger Health Questions"
+    if "brain-computer" in lower or "prosthetic" in lower:
+        return "Brain Signals Could Help Future Prosthetics Move More Naturally"
+    if "brain" in lower or "neural" in lower or "eeg" in lower or "meg" in lower:
+        return "Brain Signals Could Reveal More Than We Thought"
+    if "cancer" in lower or "tumor" in lower or "oncology" in lower:
+        return "Tiny Cancer Models Could Reveal How Tumors Spread"
+    if "crispr" in lower or "gene editing" in lower:
+        return "Gene Editing Could Open New Paths for Treatment"
+    if "gene" in lower or "genomic" in lower or "genetic" in lower:
+        return "DNA Clues Could Help Explain Hard-to-Treat Conditions"
+    if "climate" in lower or "ozone" in lower or "pollution" in lower or "air quality" in lower:
+        return "Cleaner Air Plans May Need to Target Pollution Earlier"
+    if "microplastic" in lower:
+        return "Tiny Plastics Could Create Bigger Environmental Risks"
+    if "sustainability" in lower or "environment" in lower:
+        return "Science Classes Could Help Students Tackle Climate Problems"
+    if "artificial intelligence" in lower or "machine learning" in lower or "deep learning" in lower or "ai" in lower:
+        return "AI Could Help Scientists Solve Harder Problems"
+    if "swallow" in lower or "dysphagia" in lower:
+        return "AI Could Help Doctors Catch Swallowing Problems Earlier"
+    if "heat" in lower:
+        return "Hotter Homes May Put Older Adults at Greater Risk"
+    if "diet" in lower or "nutrition" in lower or "obesity" in lower:
+        return "Everyday Diet Choices May Shape Long-Term Health Risks"
+
+    return f"New {category_clean} Research Could Point to Bigger Possibilities"
+
 
 def fallback_summary(raw: Dict[str, Any]) -> Dict[str, Any]:
     title = raw["title"]
     abstract = raw["abstract"]
+    category = raw.get("category", "Science")
     score = raw.get("difficultyScore", 0)
     difficulty = "Advanced" if score >= 3 else "Intermediate" if score >= 1 else "Beginner"
-    sentence = re.split(r"(?<=[.!?])\s+", abstract)[0] if abstract else "This article reports a recent research finding."
-    simple_title = make_simple_fallback_title(title)
+    sentences = [s for s in re.split(r"(?<=[.!?])\s+", abstract) if s]
+    first_sentence = sentences[0] if sentences else "This research explores a recent scientific question."
+    second_sentence = sentences[1] if len(sentences) > 1 else "The full paper gives the technical details behind the finding."
+    simple_title = make_simple_fallback_title(title, category)
+
     return {
         "simpleTitle": simple_title,
-        "blurb": sentence[:220].rstrip() + ("…" if len(sentence) > 220 else ""),
-        "curiosityHook": "Here is why this research is worth a closer look.",
-        "summary": f"This recent study looks at {simple_title.lower()}. The automated summary should be reviewed against the original article before publication.",
-        "whatTheyFound": sentence[:600].rstrip() + ("…" if len(sentence) > 600 else ""),
-        "deepDive": abstract[:1200].rstrip() + ("…" if len(abstract) > 1200 else ""),
-        "whyItMatters": "This article connects to an active research area and can help readers understand how scientists investigate real-world problems.",
+        "blurb": clean_text(f"{first_sentence[:150].rstrip()}{'…' if len(first_sentence) > 150 else ''}"),
+        "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
+        "summary": clean_text(
+            f"This article looks at a recent idea in {str(category).lower()} and why it may matter beyond the lab. "
+            f"The original study focuses on: {title}. "
+            "The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem."
+        ),
+        "whatTheyFound": clean_text(f"{first_sentence} {second_sentence}"),
+        "deepDive": clean_text(abstract[:1200].rstrip() + ("…" if len(abstract) > 1200 else "")),
+        "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
         "keyTakeaways": [
-            "The study addresses a recent question in science or medicine.",
-            "The original abstract gives the most precise technical details.",
-            "Readers should use the source link to go deeper and verify the findings."
+            "The study explores a recent scientific question with real-world implications.",
+            "The finding is promising, but the original article has the most precise technical details.",
+            "More research is needed before broad conclusions can be made."
         ],
-        "limitations": "This simplified summary is generated from metadata and the abstract. Read the original source before making scientific or medical claims.",
+        "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
         "scientificTerms": fallback_terms(title, abstract),
         "difficulty": difficulty,
         "readTime": 4 if difficulty == "Advanced" else 3,
@@ -566,6 +647,7 @@ def summarize_with_openai(raw: Dict[str, Any]) -> Dict[str, Any]:
 
     client = OpenAI(api_key=OPENAI_API_KEY)
     prompt = USER_PROMPT_TEMPLATE.format(
+        headline_rules=HEADLINE_RULES,
         title=raw["title"],
         abstract=raw["abstract"][:4500],
         journal=raw.get("journal", ""),
