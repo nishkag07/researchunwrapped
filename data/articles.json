@@ -1,5 +1,58 @@
 [
   {
+    "id": "genetics-81d96d173c",
+    "title": "Gene Editing Could Open New Paths for Treatment",
+    "originalTitle": "CRISPR-Cas9-based therapies for Huntington's disease and Friedreich's ataxia: mechanisms, advances, and future perspectives.",
+    "category": "Genetics",
+    "date": "2026-07-13",
+    "dateISO": "2026-07-13",
+    "displayDate": "Jul 13, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Huntington's disease (HD) and Friedreich's ataxia (FRDA) are progressive inherited neurodegenerative disorders caused by trinucleotide repeat expansio…",
+    "excerpt": "Huntington's disease (HD) and Friedreich's ataxia (FRDA) are progressive inherited neurodegenerative disorders caused by trinucleotide repeat expansio…",
+    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
+    "summary": "This article looks at a recent idea in genetics and why it may matter beyond the lab. The original study focuses on: CRISPR-Cas9-based therapies for Huntington's disease and Friedreich's ataxia: mechanisms, advances, and future perspectives.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
+    "whatTheyFound": "Huntington's disease (HD) and Friedreich's ataxia (FRDA) are progressive inherited neurodegenerative disorders caused by trinucleotide repeat expansions but characterized by distinct pathogenic mechanisms. HD arises from a coding-region CAG expansion in the HTT gene that produces toxic gain-of-function effects of mutant huntingtin (mHTT), whereas FRDA results primarily from intronic GAA repeat expansion in FXN, leading to epigenetic repression and frataxin deficiency.",
+    "deepDive": "Huntington's disease (HD) and Friedreich's ataxia (FRDA) are progressive inherited neurodegenerative disorders caused by trinucleotide repeat expansions but characterized by distinct pathogenic mechanisms. HD arises from a coding-region CAG expansion in the HTT gene that produces toxic gain-of-function effects of mutant huntingtin (mHTT), whereas FRDA results primarily from intronic GAA repeat expansion in FXN, leading to epigenetic repression and frataxin deficiency. The emergence of CRISPR-based genome engineering has created new opportunities to address these diseases at their genetic origin. This review examines current CRISPR therapeutic strategies for HD and FRDA, including allele-specific editing, transcriptional suppression, repeat excision, epigenetic reactivation, and emerging precision editing approaches such as base editing and prime editing. We compare the molecular rationale, preclinical outcomes, and translational limitations associated with each approach while highlighting how disease architecture influences therapeutic design. Although preclinical studies demonstrate promising restoration of cellular phenotypes and functional improvement, significant barriers remai…",
+    "body": "Huntington's disease (HD) and Friedreich's ataxia (FRDA) are progressive inherited neurodegenerative disorders caused by trinucleotide repeat expansions but characterized by distinct pathogenic mechanisms. HD arises from a coding-region CAG expansion in the HTT gene that produces toxic gain-of-function effects of mutant huntingtin (mHTT), whereas FRDA results primarily from intronic GAA repeat expansion in FXN, leading to epigenetic repression and frataxin deficiency. The emergence of CRISPR-based genome engineering has created new opportunities to address these diseases at their genetic origin. This review examines current CRISPR therapeutic strategies for HD and FRDA, including allele-specific editing, transcriptional suppression, repeat excision, epigenetic reactivation, and emerging precision editing approaches such as base editing and prime editing. We compare the molecular rationale, preclinical outcomes, and translational limitations associated with each approach while highlighting how disease architecture influences therapeutic design. Although preclinical studies demonstrate promising restoration of cellular phenotypes and functional improvement, significant barriers remai…",
+    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
+    "keyTakeaways": [
+      "The study explores a recent scientific question with real-world implications.",
+      "The finding is promising, but the original article has the most precise technical details.",
+      "More research is needed before broad conclusions can be made."
+    ],
+    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "genomic",
+        "explanation": "Related to the full set of DNA instructions inside cells."
+      },
+      {
+        "term": "epigenetic",
+        "explanation": "Changes in gene activity that do not alter the DNA sequence itself."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Mundada AR",
+      "Badikol AR",
+      "Mangu K."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42439976/",
+    "doi": "10.1007/s10048-026-00921-3",
+    "pmid": "42439976"
+  },
+  {
     "id": "biomedical-engineering-7c3966966f",
     "title": "Light-Based 3D Printing Could Bring Lab-Grown Organs Closer",
     "originalTitle": "Digital light processing bioprinting: bioink innovations and applications in tissue and organ regeneration.",
@@ -222,59 +275,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42431478/",
     "doi": "10.1016/j.ijbiomac.2026.153478",
     "pmid": "42431478"
-  },
-  {
-    "id": "ai-computer-science-83460c9f27",
-    "title": "Tiny Cancer Models Could Reveal How Tumors Spread",
-    "originalTitle": "Enhancing tumor T cell antigen prediction by integrating deep protein representations.",
-    "category": "AI & Computer Science",
-    "date": "2026-07-10",
-    "dateISO": "2026-07-10",
-    "displayDate": "Jul 10, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/AI.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Background Cancer is a major threat to human health, and cancer immunotherapy is considered the most promising treatment option.",
-    "excerpt": "Background Cancer is a major threat to human health, and cancer immunotherapy is considered the most promising treatment option.",
-    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
-    "summary": "This article looks at a recent idea in ai & computer science and why it may matter beyond the lab. The original study focuses on: Enhancing tumor T cell antigen prediction by integrating deep protein representations.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
-    "whatTheyFound": "Background Cancer is a major threat to human health, and cancer immunotherapy is considered the most promising treatment option. It offers high effectiveness and precision, with fewer side effects than traditional treatments.",
-    "deepDive": "Background Cancer is a major threat to human health, and cancer immunotherapy is considered the most promising treatment option. It offers high effectiveness and precision, with fewer side effects than traditional treatments. Tumor T cell antigens (TTCA) are the proteins or protein fragments that stand on the surface of cancer cells and that are recognized by the immune system. However, physical experimental approaches to infer them might be costly and time-consuming, even though they are important for cancer immunotherapy. Results We propose DEEPTHYBRID to predict TTCAs by combining chemically hand-designed features with deep protein representations from ProtBERT, an adapted version of the BERT large Language Model, for finding complex representations from the protein sequences. It is the first framework to incorporate these protein embeddings with complementary chemical features for this problem. After the feature extraction step, among multiple classifiers tested, we find Inception-based neural network to outperform the rest, so DEEPTHYBRID includes it. We evaluate the prediction performance on multiple datasets, where DEEPTHYBRID consistently outperforms the competing approache…",
-    "body": "Background Cancer is a major threat to human health, and cancer immunotherapy is considered the most promising treatment option. It offers high effectiveness and precision, with fewer side effects than traditional treatments. Tumor T cell antigens (TTCA) are the proteins or protein fragments that stand on the surface of cancer cells and that are recognized by the immune system. However, physical experimental approaches to infer them might be costly and time-consuming, even though they are important for cancer immunotherapy. Results We propose DEEPTHYBRID to predict TTCAs by combining chemically hand-designed features with deep protein representations from ProtBERT, an adapted version of the BERT large Language Model, for finding complex representations from the protein sequences. It is the first framework to incorporate these protein embeddings with complementary chemical features for this problem. After the feature extraction step, among multiple classifiers tested, we find Inception-based neural network to outperform the rest, so DEEPTHYBRID includes it. We evaluate the prediction performance on multiple datasets, where DEEPTHYBRID consistently outperforms the competing approache…",
-    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
-    "keyTakeaways": [
-      "The study explores a recent scientific question with real-world implications.",
-      "The finding is promising, but the original article has the most precise technical details.",
-      "More research is needed before broad conclusions can be made."
-    ],
-    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "machine learning",
-        "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
-      },
-      {
-        "term": "neural",
-        "explanation": "Related to nerves, neurons, or the brain’s communication system."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Oskay U",
-      "Tudes B",
-      "Sefer E."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42432495/",
-    "doi": "10.1186/s12859-026-06556-3",
-    "pmid": "42432495"
   },
   {
     "id": "neuroscience-eebeb16c0b",
@@ -557,61 +557,6 @@
     "pmid": "42424047"
   },
   {
-    "id": "ai-computer-science-1457b071bc",
-    "title": "AI Could Help Scientists Solve Harder Problems",
-    "originalTitle": "StackingNet: Collective Inference Across Independent AI Foundation Models.",
-    "category": "AI & Computer Science",
-    "date": "2026-07-09",
-    "dateISO": "2026-07-09",
-    "displayDate": "Jul 9, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/AI.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Artificial intelligence (AI) built on large foundation models has transformed language understanding, computer vision, and reasoning, yet these system…",
-    "excerpt": "Artificial intelligence (AI) built on large foundation models has transformed language understanding, computer vision, and reasoning, yet these system…",
-    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
-    "summary": "This article looks at a recent idea in ai & computer science and why it may matter beyond the lab. The original study focuses on: StackingNet: Collective Inference Across Independent AI Foundation Models.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
-    "whatTheyFound": "Artificial intelligence (AI) built on large foundation models has transformed language understanding, computer vision, and reasoning, yet these systems remain isolated and cannot readily share their capabilities. Coordinating the complementary strengths of independently developed, black-box foundation models is essential for trustworthy intelligent systems, yet no established method exists.",
-    "deepDive": "Artificial intelligence (AI) built on large foundation models has transformed language understanding, computer vision, and reasoning, yet these systems remain isolated and cannot readily share their capabilities. Coordinating the complementary strengths of independently developed, black-box foundation models is essential for trustworthy intelligent systems, yet no established method exists. Here we show that such coordination can be achieved through a meta-ensemble framework termed StackingNet, which aggregates the output predictions of independent models at inference. StackingNet improves accuracy, reduces individual-model error and group-wise disparities, ranks model reliability, and identifies or prunes models that degrade performance, all without access to internal parameters or training data. Across language comprehension, visual attribute estimation, and academic paper rating, it consistently outperforms individual models and classic ensembles, with gains that persist when the base models are uniformly strong. These gains stem from variance reduction and consensus alignment among independent models rather than from any emergent group cognition, and they widen as the model poo…",
-    "body": "Artificial intelligence (AI) built on large foundation models has transformed language understanding, computer vision, and reasoning, yet these systems remain isolated and cannot readily share their capabilities. Coordinating the complementary strengths of independently developed, black-box foundation models is essential for trustworthy intelligent systems, yet no established method exists. Here we show that such coordination can be achieved through a meta-ensemble framework termed StackingNet, which aggregates the output predictions of independent models at inference. StackingNet improves accuracy, reduces individual-model error and group-wise disparities, ranks model reliability, and identifies or prunes models that degrade performance, all without access to internal parameters or training data. Across language comprehension, visual attribute estimation, and academic paper rating, it consistently outperforms individual models and classic ensembles, with gains that persist when the base models are uniformly strong. These gains stem from variance reduction and consensus alignment among independent models rather than from any emergent group cognition, and they widen as the model poo…",
-    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
-    "keyTakeaways": [
-      "The study explores a recent scientific question with real-world implications.",
-      "The finding is promising, but the original article has the most precise technical details.",
-      "More research is needed before broad conclusions can be made."
-    ],
-    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Li S",
-      "Liu C",
-      "Wu D",
-      "Zeng Z",
-      "Ding L."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42423619/",
-    "doi": "10.1002/advs.76488",
-    "pmid": "42423619"
-  },
-  {
     "id": "public-health-c2aeb8af43",
     "title": "New Public Health Research Could Point to Bigger Possibilities",
     "originalTitle": "Mapping the use of interactive voice response (IVR) in healthcare in Africa: a scoping review protocol.",
@@ -668,6 +613,64 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42425572/",
     "doi": "10.1136/bmjopen-2026-118406",
     "pmid": "42425572"
+  },
+  {
+    "id": "public-health-730c4eda28",
+    "title": "New Public Health Research Could Point to Bigger Possibilities",
+    "originalTitle": "The promise of virtual and augmented reality for optimizing community engagement in driving health equity solutions.",
+    "category": "Public Health",
+    "date": "2026-07-09",
+    "dateISO": "2026-07-09",
+    "displayDate": "Jul 9, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Background A growing number of studies have highlighted the importance of data visualization when utilizing mixed-methods approaches within community-…",
+    "excerpt": "Background A growing number of studies have highlighted the importance of data visualization when utilizing mixed-methods approaches within community-…",
+    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
+    "summary": "This article looks at a recent idea in public health and why it may matter beyond the lab. The original study focuses on: The promise of virtual and augmented reality for optimizing community engagement in driving health equity solutions.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
+    "whatTheyFound": "Background A growing number of studies have highlighted the importance of data visualization when utilizing mixed-methods approaches within community-based participatory research (CBPR). One such CBPR-derived method - Our Voice - employs a citizen-science (CS) framework that leverages mobile technology to improve health outcomes for residents from diverse communities.",
+    "deepDive": "Background A growing number of studies have highlighted the importance of data visualization when utilizing mixed-methods approaches within community-based participatory research (CBPR). One such CBPR-derived method - Our Voice - employs a citizen-science (CS) framework that leverages mobile technology to improve health outcomes for residents from diverse communities. Virtual reality (VR) and augmented reality (AR) are two cutting-edge technologies that have been cited as potential tools to enhance data visualization and solution-building processes in Our Voice and similar community-facing methods. However, their utilization in such projects remains limited. In the present study, we report the first integration of VR and AR into two Our Voice projects and examine their feasibility and perceived utility within community-engaged settings. Methods VR/AR technology was integrated into two Our Voice projects: (1) a project with adult unpaid care workers in Ciudad Bolívar, Bogotá, Colombia, and (2) a project with high school students in Half Moon Bay, CA, United States. In both settings, 360-degree simulations were integrated into a newly refined five-step Our Voice method, which include…",
+    "body": "Background A growing number of studies have highlighted the importance of data visualization when utilizing mixed-methods approaches within community-based participatory research (CBPR). One such CBPR-derived method - Our Voice - employs a citizen-science (CS) framework that leverages mobile technology to improve health outcomes for residents from diverse communities. Virtual reality (VR) and augmented reality (AR) are two cutting-edge technologies that have been cited as potential tools to enhance data visualization and solution-building processes in Our Voice and similar community-facing methods. However, their utilization in such projects remains limited. In the present study, we report the first integration of VR and AR into two Our Voice projects and examine their feasibility and perceived utility within community-engaged settings. Methods VR/AR technology was integrated into two Our Voice projects: (1) a project with adult unpaid care workers in Ciudad Bolívar, Bogotá, Colombia, and (2) a project with high school students in Half Moon Bay, CA, United States. In both settings, 360-degree simulations were integrated into a newly refined five-step Our Voice method, which include…",
+    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
+    "keyTakeaways": [
+      "The study explores a recent scientific question with real-world implications.",
+      "The finding is promising, but the original article has the most precise technical details.",
+      "More research is needed before broad conclusions can be made."
+    ],
+    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Doueiri ZN",
+      "Banchoff A",
+      "Gómez-García LM",
+      "Foldenauer C",
+      "Aladino PG",
+      "Zamora AN",
+      "Sarmiento OL",
+      "King AC."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42426739/",
+    "doi": "10.1186/s12889-026-28409-7",
+    "pmid": "42426739"
   },
   {
     "id": "environment-ffcfa84c4a",
@@ -950,6 +953,58 @@
     "pmid": "42412303"
   },
   {
+    "id": "biomedical-engineering-3a02709693",
+    "title": "Light-Based 3D Printing Could Bring Lab-Grown Organs Closer",
+    "originalTitle": "Engineering programmable tumor microenvironment interactions through single-cell bioprinting of spatially defined cell microarrays.",
+    "category": "Biomedical Engineering",
+    "date": "2026-07-07",
+    "dateISO": "2026-07-07",
+    "displayDate": "Jul 7, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/prosthetic.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Cancer evolution is increasingly understood as a byproduct of dynamic interactions between malignant cells and the surrounding tumor microenvironment,…",
+    "excerpt": "Cancer evolution is increasingly understood as a byproduct of dynamic interactions between malignant cells and the surrounding tumor microenvironment,…",
+    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
+    "summary": "This article looks at a recent idea in biomedical engineering and why it may matter beyond the lab. The original study focuses on: Engineering programmable tumor microenvironment interactions through single-cell bioprinting of spatially defined cell microarrays.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
+    "whatTheyFound": "Cancer evolution is increasingly understood as a byproduct of dynamic interactions between malignant cells and the surrounding tumor microenvironment, with local cellular neighborhoods serving as key regulators of disease-relevant behavior. While spatial biology studies of healthy and malignant tissues have revealed spatial features correlating with clinical outcomes, the mechanisms by which individual cell interactions propagate to shape cancer evolution remain difficult to resolve in native tissues.",
+    "deepDive": "Cancer evolution is increasingly understood as a byproduct of dynamic interactions between malignant cells and the surrounding tumor microenvironment, with local cellular neighborhoods serving as key regulators of disease-relevant behavior. While spatial biology studies of healthy and malignant tissues have revealed spatial features correlating with clinical outcomes, the mechanisms by which individual cell interactions propagate to shape cancer evolution remain difficult to resolve in native tissues. Here, we use single-cell bioprinting to engineer tumor microenvironment interactions through spatially defined cell microarrays in which individual cells can be positioned with micrometer-scale precision and high reproducibility, enabling systematic control of cell composition, spacing, density, and spatial arrangement. As a proof of concept, we combined breast cancer cells with patient-derived myoepithelial cells to construct reductionist microenvironments and independently test how local cancer cell density and spatial organization influence tumor-relevant behavior. We show that increasing local cancer cell density suppresses myoepithelial migration while promoting greater cancer ce…",
+    "body": "Cancer evolution is increasingly understood as a byproduct of dynamic interactions between malignant cells and the surrounding tumor microenvironment, with local cellular neighborhoods serving as key regulators of disease-relevant behavior. While spatial biology studies of healthy and malignant tissues have revealed spatial features correlating with clinical outcomes, the mechanisms by which individual cell interactions propagate to shape cancer evolution remain difficult to resolve in native tissues. Here, we use single-cell bioprinting to engineer tumor microenvironment interactions through spatially defined cell microarrays in which individual cells can be positioned with micrometer-scale precision and high reproducibility, enabling systematic control of cell composition, spacing, density, and spatial arrangement. As a proof of concept, we combined breast cancer cells with patient-derived myoepithelial cells to construct reductionist microenvironments and independently test how local cancer cell density and spatial organization influence tumor-relevant behavior. We show that increasing local cancer cell density suppresses myoepithelial migration while promoting greater cancer ce…",
+    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
+    "keyTakeaways": [
+      "The study explores a recent scientific question with real-world implications.",
+      "The finding is promising, but the original article has the most precise technical details.",
+      "More research is needed before broad conclusions can be made."
+    ],
+    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Helms HR",
+      "Bertassoni LE."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42411456/",
+    "doi": "10.1088/1758-5090/ae7bc6",
+    "pmid": "42411456"
+  },
+  {
     "id": "nutrition-da4ad4e309",
     "title": "Gut-Friendly Diets May Be Linked to Lower Blood Pressure",
     "originalTitle": "Association of a Diet Index for the Gut Microbiome With Hypertension and Obesity-Related Hypertension: A Cross-Sectional Analysis of NHANES 2007-2020.",
@@ -1117,64 +1172,6 @@
     "pmid": "42412122"
   },
   {
-    "id": "genetics-7f133cf24c",
-    "title": "Gene Editing Could Open New Paths for Treatment",
-    "originalTitle": "Faster, Smarter, Precise: Integrating Speed Breeding and CRISPR-Based New Genomic Techniques into the Conventional Cereal Breeding Pipeline",
-    "category": "Genetics",
-    "date": "2026-07-07",
-    "dateISO": "2026-07-07",
-    "displayDate": "Jul 7, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Generation time is the principal bottleneck constraining genetic gain in plant breeding.",
-    "excerpt": "Generation time is the principal bottleneck constraining genetic gain in plant breeding.",
-    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
-    "summary": "This article looks at a recent idea in genetics and why it may matter beyond the lab. The original study focuses on: Faster, Smarter, Precise: Integrating Speed Breeding and CRISPR-Based New Genomic Techniques into the Conventional Cereal Breeding Pipeline. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
-    "whatTheyFound": "Generation time is the principal bottleneck constraining genetic gain in plant breeding. Speed breeding (SB) addresses this by simultaneously managing photoperiod, light spectrum and intensity, temperature, CO2 concentration, mineral nutrition, growing substrate volume, and post-harvest seed dormancy, enabling four to seven generations per year in long-day cereals and legumes, and four to five generations in optimised short-day systems.",
-    "deepDive": "Generation time is the principal bottleneck constraining genetic gain in plant breeding. Speed breeding (SB) addresses this by simultaneously managing photoperiod, light spectrum and intensity, temperature, CO2 concentration, mineral nutrition, growing substrate volume, and post-harvest seed dormancy, enabling four to seven generations per year in long-day cereals and legumes, and four to five generations in optimised short-day systems. This review sets the conventional pedigree framework as the benchmark against which SB is evaluated; synthesises validated environmental parameters and crop-specific protocols; and examines principal SB applications in hybridisation, genomic selection, disease-resistance screening, and allele introgression. A structured comparison of major review and protocol papers identifies broad consensus on core parameters alongside genuine divergence on far-red light supplementation. Critical evaluation addresses genotype-by-environment interaction, incomplete trait coverage, infrastructure costs, and unresolved questions on biological integrity of rapidly advanced generations. The review further discusses new genomic techniques (NGTs), particularly CRISPR/Cas…",
-    "body": "Generation time is the principal bottleneck constraining genetic gain in plant breeding. Speed breeding (SB) addresses this by simultaneously managing photoperiod, light spectrum and intensity, temperature, CO2 concentration, mineral nutrition, growing substrate volume, and post-harvest seed dormancy, enabling four to seven generations per year in long-day cereals and legumes, and four to five generations in optimised short-day systems. This review sets the conventional pedigree framework as the benchmark against which SB is evaluated; synthesises validated environmental parameters and crop-specific protocols; and examines principal SB applications in hybridisation, genomic selection, disease-resistance screening, and allele introgression. A structured comparison of major review and protocol papers identifies broad consensus on core parameters alongside genuine divergence on far-red light supplementation. Critical evaluation addresses genotype-by-environment interaction, incomplete trait coverage, infrastructure costs, and unresolved questions on biological integrity of rapidly advanced generations. The review further discusses new genomic techniques (NGTs), particularly CRISPR/Cas…",
-    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
-    "keyTakeaways": [
-      "The study explores a recent scientific question with real-world implications.",
-      "The finding is promising, but the original article has the most precise technical details.",
-      "More research is needed before broad conclusions can be made."
-    ],
-    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "genomic",
-        "explanation": "Related to the full set of DNA instructions inside cells."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "DOI",
-    "journal": "{'publisher': 'Preprints.org', 'yearOfPublication': 2026}",
-    "authors": [
-      "Mladenov V",
-      "Šućur R",
-      "Banjac B",
-      "Čurčić M",
-      "Feher Kričković T",
-      "Musić J",
-      "Petrović S",
-      "Drašković B"
-    ],
-    "sourceUrl": "https://doi.org/10.20944/preprints202607.0402.v1",
-    "doi": "10.20944/preprints202607.0402.v1",
-    "pmid": ""
-  },
-  {
     "id": "environment-27a2b620aa",
     "title": "New Environment Research Could Point to Bigger Possibilities",
     "originalTitle": "When remediation creates toxicological risk: transformation products and the soil exposome in contaminated agroecosystems.",
@@ -1225,109 +1222,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42412225/",
     "doi": "10.1007/s00204-026-04504-x",
     "pmid": "42412225"
-  },
-  {
-    "id": "ai-computer-science-89f3fff562",
-    "title": "AI Could Help Scientists Solve Harder Problems",
-    "originalTitle": "The Technological Advances in Artificial Intelligence-assisted Diagnosis of Dysphagia: A Mini Review.",
-    "category": "AI & Computer Science",
-    "date": "2026-07-06",
-    "dateISO": "2026-07-06",
-    "displayDate": "Jul 6, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/AI.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Background Dysphagia is a common complaint that afflicts the elderly and individuals with neurological disorders.",
-    "excerpt": "Background Dysphagia is a common complaint that afflicts the elderly and individuals with neurological disorders.",
-    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
-    "summary": "This article looks at a recent idea in ai & computer science and why it may matter beyond the lab. The original study focuses on: The Technological Advances in Artificial Intelligence-assisted Diagnosis of Dysphagia: A Mini Review.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
-    "whatTheyFound": "Background Dysphagia is a common complaint that afflicts the elderly and individuals with neurological disorders. Conventional diagnostic techniques, such as Videofluoroscopic Swallowing Studies (VFSS) and Fiberoptic Endoscopic Evaluation of Swallowing (FEES), have disadvantages including inter-rater variability, radiation exposure, invasive procedures, the need for clinician observation, and subjectivity.",
-    "deepDive": "Background Dysphagia is a common complaint that afflicts the elderly and individuals with neurological disorders. Conventional diagnostic techniques, such as Videofluoroscopic Swallowing Studies (VFSS) and Fiberoptic Endoscopic Evaluation of Swallowing (FEES), have disadvantages including inter-rater variability, radiation exposure, invasive procedures, the need for clinician observation, and subjectivity. The review aims to highlight applications of Artificial Intelligence (AI) using Deep Learning (DL) and machine-learning methods to diagnose dysphagia, with the objective of increasing diagnostic accuracy, objectivity, and specificity. Methods A literature review was performed using the following databases: PubMed, Scopus, Web of Science, and Google Scholar, covering the period from January 2011 to December 2025. These articles were selected based on the use of AI for dysphagia Evaluation and the reporting of diagnostic metrics. Results The AI models, such as wearable sensor technologies and Inflated 3D Convolutional Neural Networks, achieved higher classification accuracy of 95.96% and success detection of 97.5% for the swallowing reflex class than conventional diagnostic modalit…",
-    "body": "Background Dysphagia is a common complaint that afflicts the elderly and individuals with neurological disorders. Conventional diagnostic techniques, such as Videofluoroscopic Swallowing Studies (VFSS) and Fiberoptic Endoscopic Evaluation of Swallowing (FEES), have disadvantages including inter-rater variability, radiation exposure, invasive procedures, the need for clinician observation, and subjectivity. The review aims to highlight applications of Artificial Intelligence (AI) using Deep Learning (DL) and machine-learning methods to diagnose dysphagia, with the objective of increasing diagnostic accuracy, objectivity, and specificity. Methods A literature review was performed using the following databases: PubMed, Scopus, Web of Science, and Google Scholar, covering the period from January 2011 to December 2025. These articles were selected based on the use of AI for dysphagia Evaluation and the reporting of diagnostic metrics. Results The AI models, such as wearable sensor technologies and Inflated 3D Convolutional Neural Networks, achieved higher classification accuracy of 95.96% and success detection of 97.5% for the swallowing reflex class than conventional diagnostic modalit…",
-    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
-    "keyTakeaways": [
-      "The study explores a recent scientific question with real-world implications.",
-      "The finding is promising, but the original article has the most precise technical details.",
-      "More research is needed before broad conclusions can be made."
-    ],
-    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "neural",
-        "explanation": "Related to nerves, neurons, or the brain’s communication system."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "P S",
-      "Nallasamy V."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42411212/",
-    "doi": "10.2174/0115672026477902260702064111",
-    "pmid": "42411212"
-  },
-  {
-    "id": "ai-computer-science-74ff85c14a",
-    "title": "AI Could Help Scientists Solve Harder Problems",
-    "originalTitle": "Artificial Intelligence-Powered Algal Biodiesel: The Future of Biofuel Production Through Data-Driven Biotechnology.",
-    "category": "AI & Computer Science",
-    "date": "2026-07-06",
-    "dateISO": "2026-07-06",
-    "displayDate": "Jul 6, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/AI.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Microalgae are promising feedstocks for sustainable biodiesel production, although their industrial use is currently limited by their biological compl…",
-    "excerpt": "Microalgae are promising feedstocks for sustainable biodiesel production, although their industrial use is currently limited by their biological compl…",
-    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
-    "summary": "This article looks at a recent idea in ai & computer science and why it may matter beyond the lab. The original study focuses on: Artificial Intelligence-Powered Algal Biodiesel: The Future of Biofuel Production Through Data-Driven Biotechnology.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
-    "whatTheyFound": "Microalgae are promising feedstocks for sustainable biodiesel production, although their industrial use is currently limited by their biological complexity and high production costs. Recently, artificial intelligence (AI) technologies have been identified as promising, game-changing tools that could optimize algal biodiesel processes by leveraging data-driven biology.",
-    "deepDive": "Microalgae are promising feedstocks for sustainable biodiesel production, although their industrial use is currently limited by their biological complexity and high production costs. Recently, artificial intelligence (AI) technologies have been identified as promising, game-changing tools that could optimize algal biodiesel processes by leveraging data-driven biology. The purpose of this Review is to provide an integrated summary of recent developments in machine learning, deep learning, and hybrid models of microalgal biodiesel, analyzing AI frameworks that integrate biological and physical information with microalgal biodiesel process models to improve productivity, biological stability, and sustainability. It is essential to critically analyze the challenges of data quality and explainability in machine learning models, and to explain their use in techno-economic analysis of microalgal biodiesel. In the final part, directions for developing an independent microalgal biorefinery system using artificial intelligence tools are outlined to accelerate the lab-to-production transition of climate-relevant biofuels.",
-    "body": "Microalgae are promising feedstocks for sustainable biodiesel production, although their industrial use is currently limited by their biological complexity and high production costs. Recently, artificial intelligence (AI) technologies have been identified as promising, game-changing tools that could optimize algal biodiesel processes by leveraging data-driven biology. The purpose of this Review is to provide an integrated summary of recent developments in machine learning, deep learning, and hybrid models of microalgal biodiesel, analyzing AI frameworks that integrate biological and physical information with microalgal biodiesel process models to improve productivity, biological stability, and sustainability. It is essential to critically analyze the challenges of data quality and explainability in machine learning models, and to explain their use in techno-economic analysis of microalgal biodiesel. In the final part, directions for developing an independent microalgal biorefinery system using artificial intelligence tools are outlined to accelerate the lab-to-production transition of climate-relevant biofuels.",
-    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
-    "keyTakeaways": [
-      "The study explores a recent scientific question with real-world implications.",
-      "The finding is promising, but the original article has the most precise technical details.",
-      "More research is needed before broad conclusions can be made."
-    ],
-    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "machine learning",
-        "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Tripathi G."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42410748/",
-    "doi": "10.1002/bit.70305",
-    "pmid": "42410748"
   },
   {
     "id": "medicine-237eb6afc4",
@@ -1611,58 +1505,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42399230/",
     "doi": "10.1038/s41378-026-01357-3",
     "pmid": "42399230"
-  },
-  {
-    "id": "ai-computer-science-08d174f73a",
-    "title": "AI Could Help Scientists Solve Harder Problems",
-    "originalTitle": "The role of artificial intelligence in the diagnosis, risk stratification, and treatment of heart failure: A narrative review.",
-    "category": "AI & Computer Science",
-    "date": "2026-07-03",
-    "dateISO": "2026-07-03",
-    "displayDate": "Jul 3, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/AI.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Heart failure (HF) is a complex, multifactorial, and difficult-to-treat syndrome.",
-    "excerpt": "Heart failure (HF) is a complex, multifactorial, and difficult-to-treat syndrome.",
-    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
-    "summary": "This article looks at a recent idea in ai & computer science and why it may matter beyond the lab. The original study focuses on: The role of artificial intelligence in the diagnosis, risk stratification, and treatment of heart failure: A narrative review.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
-    "whatTheyFound": "Heart failure (HF) is a complex, multifactorial, and difficult-to-treat syndrome. Over the past years, a concerning increase in its global prevalence, mortality, costs, and burden on the healthcare system has been observed.",
-    "deepDive": "Heart failure (HF) is a complex, multifactorial, and difficult-to-treat syndrome. Over the past years, a concerning increase in its global prevalence, mortality, costs, and burden on the healthcare system has been observed. The recent development of machine learning (ML), especially unsupervised and deep learning (DL) algorithms, offers a potential way to facilitate diagnosis, enable more precise treatment, and reduce both mortality and costs of HF patients. Especially unsupervised ML and DL present new opportunities for increased efficiency in clinical practice in cardiology. Unsupervised ML, e.g., enables novel phenogrouping of HF patients into high-risk groups and disease outcome prediction. Deep learning algorithms can enhance echocardiographic analysis by improving image quality and ECG interpretation, and by providing assistance and guidance to inexperienced cardiologists. However, substantial challenges related to generalizability, external validation, overfitting, model explainability, and ethical considerations currently severely limit the implementation of AI-based tools in real-world clinical practice. This review critically evaluates current AI models in HF, focusing on…",
-    "body": "Heart failure (HF) is a complex, multifactorial, and difficult-to-treat syndrome. Over the past years, a concerning increase in its global prevalence, mortality, costs, and burden on the healthcare system has been observed. The recent development of machine learning (ML), especially unsupervised and deep learning (DL) algorithms, offers a potential way to facilitate diagnosis, enable more precise treatment, and reduce both mortality and costs of HF patients. Especially unsupervised ML and DL present new opportunities for increased efficiency in clinical practice in cardiology. Unsupervised ML, e.g., enables novel phenogrouping of HF patients into high-risk groups and disease outcome prediction. Deep learning algorithms can enhance echocardiographic analysis by improving image quality and ECG interpretation, and by providing assistance and guidance to inexperienced cardiologists. However, substantial challenges related to generalizability, external validation, overfitting, model explainability, and ethical considerations currently severely limit the implementation of AI-based tools in real-world clinical practice. This review critically evaluates current AI models in HF, focusing on…",
-    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
-    "keyTakeaways": [
-      "The study explores a recent scientific question with real-world implications.",
-      "The finding is promising, but the original article has the most precise technical details.",
-      "More research is needed before broad conclusions can be made."
-    ],
-    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "machine learning",
-        "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Resch J",
-      "Lelonek M."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42397100/",
-    "doi": "10.17219/acem/218578",
-    "pmid": "42397100"
   },
   {
     "id": "neuroscience-758223d879",
@@ -2008,6 +1850,58 @@
     "pmid": "42387540"
   },
   {
+    "id": "biomedical-engineering-97e8721cc4",
+    "title": "New Bioinks Could Help Scientists Build Living Tissues",
+    "originalTitle": "Inorganic biomaterials-reinforced printable hydrogel modulating regenerative microenvironments for tissue repair.",
+    "category": "Biomedical Engineering",
+    "date": "2026-07-02",
+    "dateISO": "2026-07-02",
+    "displayDate": "Jul 2, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/prosthetic.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Complex tissue/organ regeneration is a well-orchestrated biological process that orchestrated by coordinate effort of neural, vascular and immune syst…",
+    "excerpt": "Complex tissue/organ regeneration is a well-orchestrated biological process that orchestrated by coordinate effort of neural, vascular and immune syst…",
+    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
+    "summary": "This article looks at a recent idea in biomedical engineering and why it may matter beyond the lab. The original study focuses on: Inorganic biomaterials-reinforced printable hydrogel modulating regenerative microenvironments for tissue repair.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
+    "whatTheyFound": "Complex tissue/organ regeneration is a well-orchestrated biological process that orchestrated by coordinate effort of neural, vascular and immune systems, accompanied with multiple cellular interaction and signals crosstalk. The beneficial pro-regenerative microenvironments are of great significance for regulating tissue-resident cell viability, migration and differentiation to direct tissue repair process.",
+    "deepDive": "Complex tissue/organ regeneration is a well-orchestrated biological process that orchestrated by coordinate effort of neural, vascular and immune systems, accompanied with multiple cellular interaction and signals crosstalk. The beneficial pro-regenerative microenvironments are of great significance for regulating tissue-resident cell viability, migration and differentiation to direct tissue repair process. 3D bioprinting is an advanced biomanufacturing strategy that utilizes hydrogelcontaining bioinks to fabricate cell-laden scaffolds, but they face the limitations of insufficient bioactivity. Inorganic biomaterials have been recognized as effective bioactive agents owing to their tunable chemical composition, topographical architectures, and physiochemical properties, which can overcome the limitation of printable hydrogel and broaden their potential biological applications. This review primarily concentrates on the design of inorganic biomaterials-reinforced printable hydrogel for modulating regenerative microenvironments including neural, vascular, and immune regulation, and summarizes the recent progress of their applications for tissue and organ regeneration. It begins with a…",
+    "body": "Complex tissue/organ regeneration is a well-orchestrated biological process that orchestrated by coordinate effort of neural, vascular and immune systems, accompanied with multiple cellular interaction and signals crosstalk. The beneficial pro-regenerative microenvironments are of great significance for regulating tissue-resident cell viability, migration and differentiation to direct tissue repair process. 3D bioprinting is an advanced biomanufacturing strategy that utilizes hydrogelcontaining bioinks to fabricate cell-laden scaffolds, but they face the limitations of insufficient bioactivity. Inorganic biomaterials have been recognized as effective bioactive agents owing to their tunable chemical composition, topographical architectures, and physiochemical properties, which can overcome the limitation of printable hydrogel and broaden their potential biological applications. This review primarily concentrates on the design of inorganic biomaterials-reinforced printable hydrogel for modulating regenerative microenvironments including neural, vascular, and immune regulation, and summarizes the recent progress of their applications for tissue and organ regeneration. It begins with a…",
+    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
+    "keyTakeaways": [
+      "The study explores a recent scientific question with real-world implications.",
+      "The finding is promising, but the original article has the most precise technical details.",
+      "More research is needed before broad conclusions can be made."
+    ],
+    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "neural",
+        "explanation": "Related to nerves, neurons, or the brain’s communication system."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Zhao Z",
+      "Wu C."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42392153/",
+    "doi": "10.1088/1758-5090/ae8580",
+    "pmid": "42392153"
+  },
+  {
     "id": "genetics-244f3b303c",
     "title": "Gene Editing Could Open New Paths for Treatment",
     "originalTitle": "Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)-Cas genome editing transforming crop stress tolerance for global food security.",
@@ -2064,63 +1958,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42405245/",
     "doi": "10.7717/peerj.21450",
     "pmid": "42405245"
-  },
-  {
-    "id": "ai-computer-science-5a145ad727",
-    "title": "AI Could Help Scientists Solve Harder Problems",
-    "originalTitle": "Revolutionizing Nutrition Care: The Role of Artificial Intelligence in Personalized Nutrition.",
-    "category": "AI & Computer Science",
-    "date": "2026-07-01",
-    "dateISO": "2026-07-01",
-    "displayDate": "Jul 1, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/AI.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Personalized nutrition (PN) has evolved as a novel approach that aims to maintain or enhance health by utilizing genetic, phenotypic, medical, nutriti…",
-    "excerpt": "Personalized nutrition (PN) has evolved as a novel approach that aims to maintain or enhance health by utilizing genetic, phenotypic, medical, nutriti…",
-    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
-    "summary": "This article looks at a recent idea in ai & computer science and why it may matter beyond the lab. The original study focuses on: Revolutionizing Nutrition Care: The Role of Artificial Intelligence in Personalized Nutrition.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
-    "whatTheyFound": "Personalized nutrition (PN) has evolved as a novel approach that aims to maintain or enhance health by utilizing genetic, phenotypic, medical, nutritional, and other relevant individual-specific information to deliver tailored dietary guidance and nutrition-related services. The rapid expansion of high-throughput biological data and digital health technologies has positioned artificial intelligence (AI) as a pivotal tool for delivering PN advice that can reach and benefit large populations.",
-    "deepDive": "Personalized nutrition (PN) has evolved as a novel approach that aims to maintain or enhance health by utilizing genetic, phenotypic, medical, nutritional, and other relevant individual-specific information to deliver tailored dietary guidance and nutrition-related services. The rapid expansion of high-throughput biological data and digital health technologies has positioned artificial intelligence (AI) as a pivotal tool for delivering PN advice that can reach and benefit large populations. This review highlights the role of AI in enabling data-driven PN interventions. AI methodologies that include machine learning, deep learning, natural language processing, and reinforcement learning are discussed in the context of their ability to integrate and analyze complex multimodal health data derived from omics, wearable devices, and electronic health records. The potential of AI to enhance disease prevention and management, as well as real-time nutrition monitoring, is emphasized. Furthermore, the review highlights major challenges that currently limit the widespread adoption of AI-driven nutritional recommendations. This review presents a comprehensive overview of AI-driven approaches i…",
-    "body": "Personalized nutrition (PN) has evolved as a novel approach that aims to maintain or enhance health by utilizing genetic, phenotypic, medical, nutritional, and other relevant individual-specific information to deliver tailored dietary guidance and nutrition-related services. The rapid expansion of high-throughput biological data and digital health technologies has positioned artificial intelligence (AI) as a pivotal tool for delivering PN advice that can reach and benefit large populations. This review highlights the role of AI in enabling data-driven PN interventions. AI methodologies that include machine learning, deep learning, natural language processing, and reinforcement learning are discussed in the context of their ability to integrate and analyze complex multimodal health data derived from omics, wearable devices, and electronic health records. The potential of AI to enhance disease prevention and management, as well as real-time nutrition monitoring, is emphasized. Furthermore, the review highlights major challenges that currently limit the widespread adoption of AI-driven nutritional recommendations. This review presents a comprehensive overview of AI-driven approaches i…",
-    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
-    "keyTakeaways": [
-      "The study explores a recent scientific question with real-world implications.",
-      "The finding is promising, but the original article has the most precise technical details.",
-      "More research is needed before broad conclusions can be made."
-    ],
-    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "machine learning",
-        "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Joshi S",
-      "Dwivedi A",
-      "Kumar A",
-      "Aayush K",
-      "Bisht B",
-      "Kumar S",
-      "Kumar V."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42422973/",
-    "doi": "10.1111/1750-3841.71281",
-    "pmid": "42422973"
   },
   {
     "id": "medicine-607120e4a2",
@@ -2235,6 +2072,173 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42387968/",
     "doi": "10.1177/23800844261455290",
     "pmid": "42387968"
+  },
+  {
+    "id": "environment-9c52e07b9b",
+    "title": "New Environment Research Could Point to Bigger Possibilities",
+    "originalTitle": "Bayesian Analysis of Postoperative Complication Risk Associated With Preoperative Exposure to Fine Particulate Matter: A Single-Center Cohort Study.",
+    "category": "Environment",
+    "date": "2026-07-01",
+    "dateISO": "2026-07-01",
+    "displayDate": "Jul 1, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Background Air pollution, especially particle pollution, is increasingly recognized as a potential perioperative risk factor, yet modeling environment…",
+    "excerpt": "Background Air pollution, especially particle pollution, is increasingly recognized as a potential perioperative risk factor, yet modeling environment…",
+    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
+    "summary": "This article looks at a recent idea in environment and why it may matter beyond the lab. The original study focuses on: Bayesian Analysis of Postoperative Complication Risk Associated With Preoperative Exposure to Fine Particulate Matter: A Single-Center Cohort Study.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
+    "whatTheyFound": "Background Air pollution, especially particle pollution, is increasingly recognized as a potential perioperative risk factor, yet modeling environmental exposures in surgical cohorts remains methodologically underdeveloped. We demonstrate a Bayesian hierarchical framework to quantify probabilistic associations between preoperative fine particulate matter (PM 2.5 ) exposure and postoperative complications, highlighting its interpretability and flexibility for clinical environmental epidemiology.",
+    "deepDive": "Background Air pollution, especially particle pollution, is increasingly recognized as a potential perioperative risk factor, yet modeling environmental exposures in surgical cohorts remains methodologically underdeveloped. We demonstrate a Bayesian hierarchical framework to quantify probabilistic associations between preoperative fine particulate matter (PM 2.5 ) exposure and postoperative complications, highlighting its interpretability and flexibility for clinical environmental epidemiology. Methods We conducted a single center, retrospective cohort study using data from 49,615 surgical patients in Utah who underwent elective surgical procedures from 2016 to 2018. Patients' addresses were geocoded and linked to daily Census-tract level PM 2.5 estimates. The exposure variable was defined as the maximum PM 2.5 concentrations in the 7 days prior to surgery. The binary outcome was a composite of postoperative complications: pneumonia, surgical site infection, urinary tract infection, sepsis, stroke, myocardial infarction, or thromboembolic event. A hierarchical Bayesians regression model with weakly informative priors was used adjusting for age, sex, season, neighborhood disadvantag…",
+    "body": "Background Air pollution, especially particle pollution, is increasingly recognized as a potential perioperative risk factor, yet modeling environmental exposures in surgical cohorts remains methodologically underdeveloped. We demonstrate a Bayesian hierarchical framework to quantify probabilistic associations between preoperative fine particulate matter (PM 2.5 ) exposure and postoperative complications, highlighting its interpretability and flexibility for clinical environmental epidemiology. Methods We conducted a single center, retrospective cohort study using data from 49,615 surgical patients in Utah who underwent elective surgical procedures from 2016 to 2018. Patients' addresses were geocoded and linked to daily Census-tract level PM 2.5 estimates. The exposure variable was defined as the maximum PM 2.5 concentrations in the 7 days prior to surgery. The binary outcome was a composite of postoperative complications: pneumonia, surgical site infection, urinary tract infection, sepsis, stroke, myocardial infarction, or thromboembolic event. A hierarchical Bayesians regression model with weakly informative priors was used adjusting for age, sex, season, neighborhood disadvantag…",
+    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
+    "keyTakeaways": [
+      "The study explores a recent scientific question with real-world implications.",
+      "The finding is promising, but the original article has the most precise technical details.",
+      "More research is needed before broad conclusions can be made."
+    ],
+    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Pearson JF",
+      "Jacobson CK",
+      "Riss CS",
+      "Strickland MJ",
+      "Lee L",
+      "Wan N",
+      "Benney TM",
+      "Pace NL"
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42036603/",
+    "doi": "10.1111/aas.70235",
+    "pmid": "42036603"
+  },
+  {
+    "id": "neuroscience-e181dc8a88",
+    "title": "Brain Signals Could Reveal More Than We Thought",
+    "originalTitle": "Neural Basis of Action Simulation in Architectural Perception: A Multi-voxel Pattern Analysis Study.",
+    "category": "Neuroscience",
+    "date": "2026-07-01",
+    "dateISO": "2026-07-01",
+    "displayDate": "Jul 1, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/neuro.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions,…",
+    "excerpt": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions,…",
+    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
+    "summary": "This article looks at a recent idea in neuroscience and why it may matter beyond the lab. The original study focuses on: Neural Basis of Action Simulation in Architectural Perception: A Multi-voxel Pattern Analysis Study.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
+    "whatTheyFound": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs. Although previous research on navigation has demonstrated how the spatial configuration of corridors and doorways guide locomotion, it remains unclear whether architectural elements (e.g., doors, windows, stairs) that require direct interaction evoke distinct, action-specific representations in the brain.",
+    "deepDive": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs. Although previous research on navigation has demonstrated how the spatial configuration of corridors and doorways guide locomotion, it remains unclear whether architectural elements (e.g., doors, windows, stairs) that require direct interaction evoke distinct, action-specific representations in the brain. Thus, the aim of this study is to investigate whether the passive perception of such elements (viewed without any intention to act) spontaneously recruits motor-related brain networks and whether these activations are specific to the actions implied by each element. fMRI data were collected from 31 participants during passive viewing of each architectural element followed by imagery of four actions: one reflecting the element's primary function, one representing manipulation, and two corresponding to peripheral actions. Using multi-voxel pattern analysis, we created classification ratio maps to identify action-architectural element associations. Our analyses revealed tha…",
+    "body": "A growing body of neuroscience evidence indicates that perceiving everyday objects and environments triggers mental simulations of potential actions, preparing the brain for movement even before any motion occurs. Although previous research on navigation has demonstrated how the spatial configuration of corridors and doorways guide locomotion, it remains unclear whether architectural elements (e.g., doors, windows, stairs) that require direct interaction evoke distinct, action-specific representations in the brain. Thus, the aim of this study is to investigate whether the passive perception of such elements (viewed without any intention to act) spontaneously recruits motor-related brain networks and whether these activations are specific to the actions implied by each element. fMRI data were collected from 31 participants during passive viewing of each architectural element followed by imagery of four actions: one reflecting the element's primary function, one representing manipulation, and two corresponding to peripheral actions. Using multi-voxel pattern analysis, we created classification ratio maps to identify action-architectural element associations. Our analyses revealed tha…",
+    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
+    "keyTakeaways": [
+      "The study explores a recent scientific question with real-world implications.",
+      "The finding is promising, but the original article has the most precise technical details.",
+      "More research is needed before broad conclusions can be made."
+    ],
+    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "neural",
+        "explanation": "Related to nerves, neurons, or the brain’s communication system."
+      },
+      {
+        "term": "pathway",
+        "explanation": "A chain of molecular events inside cells that produces a biological effect."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Shin W",
+      "Song Y",
+      "Jeong J."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41707234/",
+    "doi": "10.1162/jocn.a.2486",
+    "pmid": "41707234"
+  },
+  {
+    "id": "medicine-b0428f4394",
+    "title": "Tiny Cancer Models Could Reveal How Tumors Spread",
+    "originalTitle": "Driving progress in recurrent and metastatic head and neck cancer: the NRG Oncology perspective.",
+    "category": "Medicine",
+    "date": "2026-07-01",
+    "dateISO": "2026-07-01",
+    "displayDate": "Jul 1, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/prosthetic.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Head and neck cancers represent a diverse group of malignancies with substantial heterogeneity in biology and prognosis for which management of advanc…",
+    "excerpt": "Head and neck cancers represent a diverse group of malignancies with substantial heterogeneity in biology and prognosis for which management of advanc…",
+    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
+    "summary": "This article looks at a recent idea in medicine and why it may matter beyond the lab. The original study focuses on: Driving progress in recurrent and metastatic head and neck cancer: the NRG Oncology perspective.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
+    "whatTheyFound": "Head and neck cancers represent a diverse group of malignancies with substantial heterogeneity in biology and prognosis for which management of advanced-stage disease remains a formidable challenge. Although the incorporation of immune checkpoint inhibitors has led the way to a new era of treatment possibilities, the current state of the science calls for further innovation and a nuanced approach to clinical trial design to address several unmet needs.",
+    "deepDive": "Head and neck cancers represent a diverse group of malignancies with substantial heterogeneity in biology and prognosis for which management of advanced-stage disease remains a formidable challenge. Although the incorporation of immune checkpoint inhibitors has led the way to a new era of treatment possibilities, the current state of the science calls for further innovation and a nuanced approach to clinical trial design to address several unmet needs. This article from the NRG Oncology Recurrent/Metastatic Head and Neck Working Group aimed to critically identify gaps in clinical practice and the scientific literature and to propose actionable recommendations for future research in the framework of recurrent or metastatic squamous cell carcinoma of the head and neck.",
+    "body": "Head and neck cancers represent a diverse group of malignancies with substantial heterogeneity in biology and prognosis for which management of advanced-stage disease remains a formidable challenge. Although the incorporation of immune checkpoint inhibitors has led the way to a new era of treatment possibilities, the current state of the science calls for further innovation and a nuanced approach to clinical trial design to address several unmet needs. This article from the NRG Oncology Recurrent/Metastatic Head and Neck Working Group aimed to critically identify gaps in clinical practice and the scientific literature and to propose actionable recommendations for future research in the framework of recurrent or metastatic squamous cell carcinoma of the head and neck.",
+    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
+    "keyTakeaways": [
+      "The study explores a recent scientific question with real-world implications.",
+      "The finding is promising, but the original article has the most precise technical details.",
+      "More research is needed before broad conclusions can be made."
+    ],
+    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "clinical trial",
+        "explanation": "A carefully designed study that tests a medical treatment or intervention in people."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Herrera M",
+      "Ward M",
+      "Hanna GJ",
+      "Yom SS",
+      "Heron D",
+      "Spreafico A."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41627880/",
+    "doi": "10.1093/jnci/djag026",
+    "pmid": "41627880"
   },
   {
     "id": "women-s-health-c1eaefdce8",
