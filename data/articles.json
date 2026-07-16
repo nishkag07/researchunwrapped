@@ -1,5 +1,231 @@
 [
   {
+    "id": "neuroscience-21ca4a8bae",
+    "title": "Brain Signals Could Reveal More Than We Thought",
+    "originalTitle": "Overcoming brain non-stationarity: adaptive RLS classification for stable BCIs based on auditory evoked potentials.",
+    "category": "Neuroscience",
+    "date": "2026-07-15",
+    "dateISO": "2026-07-15",
+    "displayDate": "Jul 15, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/neuro.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Objective.",
+    "excerpt": "Objective.",
+    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
+    "summary": "This article looks at a recent idea in neuroscience and why it may matter beyond the lab. The original study focuses on: Overcoming brain non-stationarity: adaptive RLS classification for stable BCIs based on auditory evoked potentials.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
+    "whatTheyFound": "Objective. Brain-computer interfaces (BCIs) based on selective auditory attention aim to restore communication by decoding selective attention from auditory evoked potentials.",
+    "deepDive": "Objective. Brain-computer interfaces (BCIs) based on selective auditory attention aim to restore communication by decoding selective attention from auditory evoked potentials. Clinical translation of such BCIs requires maintaining sufficient decoding performance despite brain-state non-stationarity. Approach. We compared classifiers across four evaluation settings: offline baseline classifiers using shuffled 5-fold cross-validation; a causal classifier using a chronological 20%/80% calibration/test split; simulated real-time deployment with a static classifier calibrated on 20 trials; and simulated real-time deployment with an adaptive recursive least squares (RLS) classifier, evaluated within-subject and in a leave-one-subject-out (LOSO) setting. The analysis used 62-channel electroencephalography recorded from 25 healthy adults (18 retained after artifact rejection). Main results. The best offline baseline classifier, logistic regression with point-to-point features, achieved a mean ROC AUC of 0.75 and an estimated information transfer rate (ITR) of 2.46 bits min, derived from ROC AUC via a conservative heuristic. Under causal application, performance decreased to ROC AUC = 0.63…",
+    "body": "Objective. Brain-computer interfaces (BCIs) based on selective auditory attention aim to restore communication by decoding selective attention from auditory evoked potentials. Clinical translation of such BCIs requires maintaining sufficient decoding performance despite brain-state non-stationarity. Approach. We compared classifiers across four evaluation settings: offline baseline classifiers using shuffled 5-fold cross-validation; a causal classifier using a chronological 20%/80% calibration/test split; simulated real-time deployment with a static classifier calibrated on 20 trials; and simulated real-time deployment with an adaptive recursive least squares (RLS) classifier, evaluated within-subject and in a leave-one-subject-out (LOSO) setting. The analysis used 62-channel electroencephalography recorded from 25 healthy adults (18 retained after artifact rejection). Main results. The best offline baseline classifier, logistic regression with point-to-point features, achieved a mean ROC AUC of 0.75 and an estimated information transfer rate (ITR) of 2.46 bits min, derived from ROC AUC via a conservative heuristic. Under causal application, performance decreased to ROC AUC = 0.63…",
+    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
+    "keyTakeaways": [
+      "The study explores a recent scientific question with real-world implications.",
+      "The finding is promising, but the original article has the most precise technical details.",
+      "More research is needed before broad conclusions can be made."
+    ],
+    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Kurmanavičiūtė D",
+      "Makkonen M",
+      "Zubarev I",
+      "Kahilakoski OP",
+      "Parkkonen L."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42398529/",
+    "doi": "10.1088/1741-2552/ae863e",
+    "pmid": "42398529"
+  },
+  {
+    "id": "neuroscience-68d19dfc39",
+    "title": "Brain Signals Could Reveal More Than We Thought",
+    "originalTitle": "Sensory-guided human-machine joint learning accelerates the acquisition of motor imagery brain computer interface control.",
+    "category": "Neuroscience",
+    "date": "2026-07-15",
+    "dateISO": "2026-07-15",
+    "displayDate": "Jul 15, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/neuro.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Brain-computer interfaces (BCIs) offer the potential to restore function and augment human capabilities.",
+    "excerpt": "Brain-computer interfaces (BCIs) offer the potential to restore function and augment human capabilities.",
+    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
+    "summary": "This article looks at a recent idea in neuroscience and why it may matter beyond the lab. The original study focuses on: Sensory-guided human-machine joint learning accelerates the acquisition of motor imagery brain computer interface control.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
+    "whatTheyFound": "Brain-computer interfaces (BCIs) offer the potential to restore function and augment human capabilities. However, non-invasive electroencephalography (EEG)-based BCIs still face challenges in learning efficiency and control precision, particularly for naïve users performing complex tasks.",
+    "deepDive": "Brain-computer interfaces (BCIs) offer the potential to restore function and augment human capabilities. However, non-invasive electroencephalography (EEG)-based BCIs still face challenges in learning efficiency and control precision, particularly for naïve users performing complex tasks. Here, we present a sensory-guided joint learning framework that integrates human motor learning with adaptive machine learning to improve BCI training and performance. In 31 BCI-naïve participants, the framework enabled rapid skill acquisition, achieving average online discrete accuracies of 86.0% for one-dimensional (1D) and 77.5% for two-dimensional (2D) motor imagery tasks, along with continuous control accuracies of 77.5% (1D) and 66.9% (2D). Mechanistically, tactile guidance reduced user exploration and accelerated neural adaptation, while sample reweighting aligned decoder updates with human learning trajectories. By coupling reinforcement-driven neural plasticity with adaptive algorithmic optimization, this framework advances BCI training from passive calibration to active human-machine joint learning, enabling practical and scalable neural interfaces for communication and rehabilitation.",
+    "body": "Brain-computer interfaces (BCIs) offer the potential to restore function and augment human capabilities. However, non-invasive electroencephalography (EEG)-based BCIs still face challenges in learning efficiency and control precision, particularly for naïve users performing complex tasks. Here, we present a sensory-guided joint learning framework that integrates human motor learning with adaptive machine learning to improve BCI training and performance. In 31 BCI-naïve participants, the framework enabled rapid skill acquisition, achieving average online discrete accuracies of 86.0% for one-dimensional (1D) and 77.5% for two-dimensional (2D) motor imagery tasks, along with continuous control accuracies of 77.5% (1D) and 66.9% (2D). Mechanistically, tactile guidance reduced user exploration and accelerated neural adaptation, while sample reweighting aligned decoder updates with human learning trajectories. By coupling reinforcement-driven neural plasticity with adaptive algorithmic optimization, this framework advances BCI training from passive calibration to active human-machine joint learning, enabling practical and scalable neural interfaces for communication and rehabilitation.",
+    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
+    "keyTakeaways": [
+      "The study explores a recent scientific question with real-world implications.",
+      "The finding is promising, but the original article has the most precise technical details.",
+      "More research is needed before broad conclusions can be made."
+    ],
+    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "machine learning",
+        "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
+      },
+      {
+        "term": "neural",
+        "explanation": "Related to nerves, neurons, or the brain’s communication system."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Wang H",
+      "Zhang Y",
+      "Karrenbach M",
+      "Ding Y",
+      "He B."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42457692/",
+    "doi": "10.1038/s41467-026-75435-5",
+    "pmid": "42457692"
+  },
+  {
+    "id": "public-health-25a5390273",
+    "title": "New Public Health Research Could Point to Bigger Possibilities",
+    "originalTitle": "Empowering communities: a case study of integrated knowledge translation in the A/C study.",
+    "category": "Public Health",
+    "date": "2026-07-15",
+    "dateISO": "2026-07-15",
+    "displayDate": "Jul 15, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "In Ontario, Black people make up approximately 5% of the population and routinely account for over 20% of new HIV diagnoses.",
+    "excerpt": "In Ontario, Black people make up approximately 5% of the population and routinely account for over 20% of new HIV diagnoses.",
+    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
+    "summary": "This article looks at a recent idea in public health and why it may matter beyond the lab. The original study focuses on: Empowering communities: a case study of integrated knowledge translation in the A/C study.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
+    "whatTheyFound": "In Ontario, Black people make up approximately 5% of the population and routinely account for over 20% of new HIV diagnoses. The A/C Study, a community-led cross-sectional study among Black Canadians, was designed to examine the factors that augment HIV risk and vulnerability for Black communities and inform policy and practice in Ontario, Canada, regarding HIV prevention and care for Black people.",
+    "deepDive": "In Ontario, Black people make up approximately 5% of the population and routinely account for over 20% of new HIV diagnoses. The A/C Study, a community-led cross-sectional study among Black Canadians, was designed to examine the factors that augment HIV risk and vulnerability for Black communities and inform policy and practice in Ontario, Canada, regarding HIV prevention and care for Black people. Knowledge translation (KT) was integrated throughout the research process as a core component of the study. Adhering to the principles of self-determination and autonomy in community-based participatory research, this study was led by Black researchers and was guided by an integrated knowledge translation (IKT) approach. The research team developed a KT plan including: (1) push activities to disseminate the study findings, (2) pull activities to help interested stakeholders \"pull\" information about the research and (3) linkage and exchange activities. Community members played an integral role in all aspects of the research, including KT activities, and contributed to the study's design and implementation and to the interpretation of findings. Significant efforts were made to build partne…",
+    "body": "In Ontario, Black people make up approximately 5% of the population and routinely account for over 20% of new HIV diagnoses. The A/C Study, a community-led cross-sectional study among Black Canadians, was designed to examine the factors that augment HIV risk and vulnerability for Black communities and inform policy and practice in Ontario, Canada, regarding HIV prevention and care for Black people. Knowledge translation (KT) was integrated throughout the research process as a core component of the study. Adhering to the principles of self-determination and autonomy in community-based participatory research, this study was led by Black researchers and was guided by an integrated knowledge translation (IKT) approach. The research team developed a KT plan including: (1) push activities to disseminate the study findings, (2) pull activities to help interested stakeholders \"pull\" information about the research and (3) linkage and exchange activities. Community members played an integral role in all aspects of the research, including KT activities, and contributed to the study's design and implementation and to the interpretation of findings. Significant efforts were made to build partne…",
+    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
+    "keyTakeaways": [
+      "The study explores a recent scientific question with real-world implications.",
+      "The finding is promising, but the original article has the most precise technical details.",
+      "More research is needed before broad conclusions can be made."
+    ],
+    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Nyambi A",
+      "Baidoobonso S",
+      "Husbands W",
+      "Djiadeu P",
+      "Ongolo-Zogo C",
+      "Aden M",
+      "Etowa E",
+      "Tharao W"
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42458508/",
+    "doi": "10.1186/s12961-026-01513-1",
+    "pmid": "42458508"
+  },
+  {
+    "id": "environment-b8e22936ea",
+    "title": "New Environment Research Could Point to Bigger Possibilities",
+    "originalTitle": "Identifying Sources of Black Carbon Associated with High Mortality Risk in Beijing, China Based on Long-term Hourly Continuous Measurements.",
+    "category": "Environment",
+    "date": "2026-07-15",
+    "dateISO": "2026-07-15",
+    "displayDate": "Jul 15, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Black carbon (BC) is an important air pollutant that poses serious risks to human health.",
+    "excerpt": "Black carbon (BC) is an important air pollutant that poses serious risks to human health.",
+    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
+    "summary": "This article looks at a recent idea in environment and why it may matter beyond the lab. The original study focuses on: Identifying Sources of Black Carbon Associated with High Mortality Risk in Beijing, China Based on Long-term Hourly Continuous Measurements.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
+    "whatTheyFound": "Black carbon (BC) is an important air pollutant that poses serious risks to human health. However, previous studies have largely focused on total BC mass concentrations, while the health risks associated with source-specific BC remain poorly understood, limiting the development of effective health-oriented control strategies.",
+    "deepDive": "Black carbon (BC) is an important air pollutant that poses serious risks to human health. However, previous studies have largely focused on total BC mass concentrations, while the health risks associated with source-specific BC remain poorly understood, limiting the development of effective health-oriented control strategies. To address this issue, long-term source-specific BC mortality analyses were conducted in Beijing during 2016-2019 by integrating an hourly-resolution dataset of nineteen PM2.5 components, Positive Matrix Factorization (PMF) source apportionment, and high-quality mortality records. The findings indicated that the health risk of BC could vary by sources with traffic BC posing the highest non-accidental mortality risk (RR: 1.014, 95% CI: 1.003, 1.025), followed by biomass burning and atmospherically aged BC. During the study period, the stringent coal control policies implemented in northern China led to a drastic reduction in coal BC concentration, accounting for 40% of the reduction in BC-attributable mortality burden. Consequently, the three non-coal sources (traffic, biomass burning, and aged BC) became the dominant contributors in 2019, collectively accounti…",
+    "body": "Black carbon (BC) is an important air pollutant that poses serious risks to human health. However, previous studies have largely focused on total BC mass concentrations, while the health risks associated with source-specific BC remain poorly understood, limiting the development of effective health-oriented control strategies. To address this issue, long-term source-specific BC mortality analyses were conducted in Beijing during 2016-2019 by integrating an hourly-resolution dataset of nineteen PM2.5 components, Positive Matrix Factorization (PMF) source apportionment, and high-quality mortality records. The findings indicated that the health risk of BC could vary by sources with traffic BC posing the highest non-accidental mortality risk (RR: 1.014, 95% CI: 1.003, 1.025), followed by biomass burning and atmospherically aged BC. During the study period, the stringent coal control policies implemented in northern China led to a drastic reduction in coal BC concentration, accounting for 40% of the reduction in BC-attributable mortality burden. Consequently, the three non-coal sources (traffic, biomass burning, and aged BC) became the dominant contributors in 2019, collectively accounti…",
+    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
+    "keyTakeaways": [
+      "The study explores a recent scientific question with real-world implications.",
+      "The finding is promising, but the original article has the most precise technical details.",
+      "More research is needed before broad conclusions can be made."
+    ],
+    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Zhou Q",
+      "Du H",
+      "Liu J",
+      "Zhang T",
+      "Wei Y",
+      "Liu Y",
+      "Yan C",
+      "Wang S"
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42457017/",
+    "doi": "10.1016/j.envpol.2026.128791",
+    "pmid": "42457017"
+  },
+  {
     "id": "ai-computer-science-1de52f9d61",
     "title": "AI Could Help Scientists Solve Harder Problems",
     "originalTitle": "Artificial Intelligence in Neonatal Care: The Breadth of Promise, the Depth of Challenge-An Overview.",
@@ -110,59 +336,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42446111/",
     "doi": "10.1002/smll.74473",
     "pmid": "42446111"
-  },
-  {
-    "id": "public-health-01da989930",
-    "title": "New Public Health Research Could Point to Bigger Possibilities",
-    "originalTitle": "From Control to Elimination: Making the End of Dental Caries Thinkable.",
-    "category": "Public Health",
-    "date": "2026-07-14",
-    "dateISO": "2026-07-14",
-    "displayDate": "Jul 14, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Background Dental caries remains one of the most prevalent noncommunicable diseases worldwide despite decades of clinical and behavioural intervention…",
-    "excerpt": "Background Dental caries remains one of the most prevalent noncommunicable diseases worldwide despite decades of clinical and behavioural intervention…",
-    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
-    "summary": "This article looks at a recent idea in public health and why it may matter beyond the lab. The original study focuses on: From Control to Elimination: Making the End of Dental Caries Thinkable.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
-    "whatTheyFound": "Background Dental caries remains one of the most prevalent noncommunicable diseases worldwide despite decades of clinical and behavioural interventions. Persistently high prevalence suggests that current approaches are better organised for ongoing disease management than for preventing new disease occurrence.",
-    "deepDive": "Background Dental caries remains one of the most prevalent noncommunicable diseases worldwide despite decades of clinical and behavioural interventions. Persistently high prevalence suggests that current approaches are better organised for ongoing disease management than for preventing new disease occurrence. This commentary examines whether an elimination framework could provide a more coherent and outcome-oriented direction for oral health policy and practice. Methodology We apply the Dahlem Framework to assess whether dental caries meets established criteria for disease eradication. We then position caries within the classical continuum of control, elimination, and eradication, drawing on current evidence on caries aetiology, fluoride exposure, dietary environments, primary care integration, surveillance, and the social and commercial determinants of oral health. Results Dental caries does not meet the criteria for eradication. It has no single causal agent, no interruptible transmission cycle, no immunising intervention, and no global surveillance architecture capable of detecting incidence. Eradication is therefore conceptually impossible. Elimination, however, defined as the…",
-    "body": "Background Dental caries remains one of the most prevalent noncommunicable diseases worldwide despite decades of clinical and behavioural interventions. Persistently high prevalence suggests that current approaches are better organised for ongoing disease management than for preventing new disease occurrence. This commentary examines whether an elimination framework could provide a more coherent and outcome-oriented direction for oral health policy and practice. Methodology We apply the Dahlem Framework to assess whether dental caries meets established criteria for disease eradication. We then position caries within the classical continuum of control, elimination, and eradication, drawing on current evidence on caries aetiology, fluoride exposure, dietary environments, primary care integration, surveillance, and the social and commercial determinants of oral health. Results Dental caries does not meet the criteria for eradication. It has no single causal agent, no interruptible transmission cycle, no immunising intervention, and no global surveillance architecture capable of detecting incidence. Eradication is therefore conceptually impossible. Elimination, however, defined as the…",
-    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
-    "keyTakeaways": [
-      "The study explores a recent scientific question with real-world implications.",
-      "The finding is promising, but the original article has the most precise technical details.",
-      "More research is needed before broad conclusions can be made."
-    ],
-    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Benzian H",
-      "Mathur MR",
-      "Beltrán-Aguilar E."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42446275/",
-    "doi": "10.1111/cdoe.70087",
-    "pmid": "42446275"
   },
   {
     "id": "nutrition-71400c6b47",
@@ -385,26 +558,26 @@
     "pmid": "42439976"
   },
   {
-    "id": "nutrition-c137668510",
-    "title": "Everyday Diet Choices May Shape Long-Term Health Risks",
-    "originalTitle": "Mediterranean diet: definitions, health effects and metabolic pathways - evidence and future directions.",
-    "category": "Nutrition",
-    "date": "2026-07-13",
-    "dateISO": "2026-07-13",
-    "displayDate": "Jul 13, 2026",
+    "id": "women-s-health-1dc37ce5e4",
+    "title": "New Women’s Health Research Could Point to Bigger Possibilities",
+    "originalTitle": "Chorioamnionitis and Glucocorticoids Elicit Acute Adverse Effects on the Developing Ovine Fetal Ovaries.",
+    "category": "Women’s Health",
+    "date": "2026-07-11",
+    "dateISO": "2026-07-11",
+    "displayDate": "Jul 11, 2026",
     "readTime": 4,
     "difficulty": "Advanced",
-    "image": "RUimages/genetics.jpg",
+    "image": "RUimages/prosthetic.jpg",
     "imageSearchQuery": "",
     "imageAltText": "",
     "imageCaption": "",
-    "blurb": "The Mediterranean diet (MedDiet) is one of the most extensively studied dietary patterns in relation to chronic disease prevention and management.",
-    "excerpt": "The Mediterranean diet (MedDiet) is one of the most extensively studied dietary patterns in relation to chronic disease prevention and management.",
+    "blurb": "Antenatal corticosteroid (ANS) therapy and chorioamnionitis are common antecedents of preterm birth, yet their effects on the developing fetal ovary r…",
+    "excerpt": "Antenatal corticosteroid (ANS) therapy and chorioamnionitis are common antecedents of preterm birth, yet their effects on the developing fetal ovary r…",
     "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
-    "summary": "This article looks at a recent idea in nutrition and why it may matter beyond the lab. The original study focuses on: Mediterranean diet: definitions, health effects and metabolic pathways - evidence and future directions.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
-    "whatTheyFound": "The Mediterranean diet (MedDiet) is one of the most extensively studied dietary patterns in relation to chronic disease prevention and management. MedDiet reflects a plant-forward dietary model characterized by high intake of fruits, vegetables, legumes, whole grains, nuts, and olive oil, moderate consumption of fish and dairy, low intake of red and processed meats, and optional moderate wine intake with meals.",
-    "deepDive": "The Mediterranean diet (MedDiet) is one of the most extensively studied dietary patterns in relation to chronic disease prevention and management. MedDiet reflects a plant-forward dietary model characterized by high intake of fruits, vegetables, legumes, whole grains, nuts, and olive oil, moderate consumption of fish and dairy, low intake of red and processed meats, and optional moderate wine intake with meals. This review summarizes current evidence linking adherence to the MedDiet with major health outcomes, including cardiovascular disease, type 2 diabetes mellitus, metabolic dysfunction-associated steatotic liver disease, chronic kidney disease, neurodegenerative disorders, and cancer. Evidence from prospective cohort studies, randomized controlled trials, and meta-analyses consistently supports protective associations, particularly for cardiovascular and metabolic endpoints. Biological pathways underlying these effects include modulation of inflammation, oxidative stress, endothelial function, thrombosis, gut microbiome composition and/or function, and metabolomic profiles. Advances in metabolomics and microbiome research provide emerging insight into potential intermediary me…",
-    "body": "The Mediterranean diet (MedDiet) is one of the most extensively studied dietary patterns in relation to chronic disease prevention and management. MedDiet reflects a plant-forward dietary model characterized by high intake of fruits, vegetables, legumes, whole grains, nuts, and olive oil, moderate consumption of fish and dairy, low intake of red and processed meats, and optional moderate wine intake with meals. This review summarizes current evidence linking adherence to the MedDiet with major health outcomes, including cardiovascular disease, type 2 diabetes mellitus, metabolic dysfunction-associated steatotic liver disease, chronic kidney disease, neurodegenerative disorders, and cancer. Evidence from prospective cohort studies, randomized controlled trials, and meta-analyses consistently supports protective associations, particularly for cardiovascular and metabolic endpoints. Biological pathways underlying these effects include modulation of inflammation, oxidative stress, endothelial function, thrombosis, gut microbiome composition and/or function, and metabolomic profiles. Advances in metabolomics and microbiome research provide emerging insight into potential intermediary me…",
+    "summary": "This article looks at a recent idea in women’s health and why it may matter beyond the lab. The original study focuses on: Chorioamnionitis and Glucocorticoids Elicit Acute Adverse Effects on the Developing Ovine Fetal Ovaries.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
+    "whatTheyFound": "Antenatal corticosteroid (ANS) therapy and chorioamnionitis are common antecedents of preterm birth, yet their effects on the developing fetal ovary remain poorly understood. Long-term follow-up of 45% of participants from the Auckland Steroid Trial reported that high-dose antenatal betamethasone exposure was associated with a modest delay in female reproductive maturation and a non-significant two-year reduction in menopause age (Lord et al., 2025), raising concerns regarding potential effects on ovarian lifespan.",
+    "deepDive": "Antenatal corticosteroid (ANS) therapy and chorioamnionitis are common antecedents of preterm birth, yet their effects on the developing fetal ovary remain poorly understood. Long-term follow-up of 45% of participants from the Auckland Steroid Trial reported that high-dose antenatal betamethasone exposure was associated with a modest delay in female reproductive maturation and a non-significant two-year reduction in menopause age (Lord et al., 2025), raising concerns regarding potential effects on ovarian lifespan. Using a sheep model of pregnancy, we investigated the impact of antenatal betamethasone exposure and lipopolysaccharide (LPS)-induced chorioamnionitis on fetal ovarian development. Date-mated Merino ewes were randomized to saline control, ANS, or chorioamnionitis treatment groups administered 2 or 8 days before delivery. Female lambs were delivered preterm at 124±1 days' gestation, underwent standardized 30 minutes ventilation, and ovarian tissues were collected for transcriptomic and histological analyses. RNA sequencing demonstrated marked transcriptional alterations following both ANS and chorioamnionitis, affecting pathways involved in cell cycle regulation, ovarian…",
+    "body": "Antenatal corticosteroid (ANS) therapy and chorioamnionitis are common antecedents of preterm birth, yet their effects on the developing fetal ovary remain poorly understood. Long-term follow-up of 45% of participants from the Auckland Steroid Trial reported that high-dose antenatal betamethasone exposure was associated with a modest delay in female reproductive maturation and a non-significant two-year reduction in menopause age (Lord et al., 2025), raising concerns regarding potential effects on ovarian lifespan. Using a sheep model of pregnancy, we investigated the impact of antenatal betamethasone exposure and lipopolysaccharide (LPS)-induced chorioamnionitis on fetal ovarian development. Date-mated Merino ewes were randomized to saline control, ANS, or chorioamnionitis treatment groups administered 2 or 8 days before delivery. Female lambs were delivered preterm at 124±1 days' gestation, underwent standardized 30 minutes ventilation, and ovarian tissues were collected for transcriptomic and histological analyses. RNA sequencing demonstrated marked transcriptional alterations following both ANS and chorioamnionitis, affecting pathways involved in cell cycle regulation, ovarian…",
     "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
     "keyTakeaways": [
       "The study explores a recent scientific question with real-world implications.",
@@ -414,12 +587,8 @@
     "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
     "scientificTerms": [
       {
-        "term": "inflammation",
-        "explanation": "The immune system’s response to injury, infection, or stress, which can help healing but also cause harm if uncontrolled."
-      },
-      {
-        "term": "microbiome",
-        "explanation": "The community of bacteria and other microbes living in or on the body or environment."
+        "term": "transcriptomic",
+        "explanation": "Related to which genes are being actively read and turned into RNA inside cells."
       },
       {
         "term": "randomized",
@@ -433,73 +602,18 @@
     "sourceName": "PubMed",
     "journal": "",
     "authors": [
-      "Yannakoulia Μ",
-      "Kontogianni ΜD",
-      "Antonopoulou S",
-      "Fragopoulou E",
-      "Kyriacou A",
-      "Gutierrez de Piñeres V",
-      "Panagiotakos D",
-      "Mantzoros CS."
+      "Seah KYM",
+      "Carter SWD",
+      "Usuda H",
+      "Pinnington TR",
+      "Sim WE",
+      "Sesurajan BP",
+      "Johnson EL",
+      "Kumagai Y"
     ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42442659/",
-    "doi": "10.1016/j.metabol.2026.156690",
-    "pmid": "42442659"
-  },
-  {
-    "id": "ai-computer-science-47659f4fde",
-    "title": "AI Could Help Scientists Solve Harder Problems",
-    "originalTitle": "Artificial intelligence in cardiopulmonary resuscitation: a systematic review.",
-    "category": "AI & Computer Science",
-    "date": "2026-07-12",
-    "dateISO": "2026-07-12",
-    "displayDate": "Jul 12, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/AI.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Cardiac arrest remains a major cause of mortality and neurological disability, and its management depends on rapid recognition, effective resuscitatio…",
-    "excerpt": "Cardiac arrest remains a major cause of mortality and neurological disability, and its management depends on rapid recognition, effective resuscitatio…",
-    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
-    "summary": "This article looks at a recent idea in ai & computer science and why it may matter beyond the lab. The original study focuses on: Artificial intelligence in cardiopulmonary resuscitation: a systematic review.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
-    "whatTheyFound": "Cardiac arrest remains a major cause of mortality and neurological disability, and its management depends on rapid recognition, effective resuscitation, and accurate post-arrest prognostication. Artificial intelligence (AI) has been increasingly investigated as a tool to support these stages of care.",
-    "deepDive": "Cardiac arrest remains a major cause of mortality and neurological disability, and its management depends on rapid recognition, effective resuscitation, and accurate post-arrest prognostication. Artificial intelligence (AI) has been increasingly investigated as a tool to support these stages of care. This narrative review summarizes recent evidence on AI applications in cardiac arrest, including prediction, recognition, intra-arrest support, prognostication, and cardiovascular risk stratification. Searches were conducted in PubMed/MEDLINE, Google Scholar, EMBASE, Scopus, IEEE Xplore, and ScienceDirect for studies published from January 2000 to June 2025. Studies addressing AI, machine learning, or deep learning in cardiac arrest-related contexts were descriptively synthesized according to clinical application, AI methodology, and care setting. Overall, 59 studies were included. Six application categories were identified: early prediction of cardiac arrest or clinical deterioration (n = 16), cardiac arrest recognition and emergency response activation (n = 3), intra-arrest CPR and defibrillation support (n = 6), post-cardiac arrest prognostication (n = 20), risk stratification for s…",
-    "body": "Cardiac arrest remains a major cause of mortality and neurological disability, and its management depends on rapid recognition, effective resuscitation, and accurate post-arrest prognostication. Artificial intelligence (AI) has been increasingly investigated as a tool to support these stages of care. This narrative review summarizes recent evidence on AI applications in cardiac arrest, including prediction, recognition, intra-arrest support, prognostication, and cardiovascular risk stratification. Searches were conducted in PubMed/MEDLINE, Google Scholar, EMBASE, Scopus, IEEE Xplore, and ScienceDirect for studies published from January 2000 to June 2025. Studies addressing AI, machine learning, or deep learning in cardiac arrest-related contexts were descriptively synthesized according to clinical application, AI methodology, and care setting. Overall, 59 studies were included. Six application categories were identified: early prediction of cardiac arrest or clinical deterioration (n = 16), cardiac arrest recognition and emergency response activation (n = 3), intra-arrest CPR and defibrillation support (n = 6), post-cardiac arrest prognostication (n = 20), risk stratification for s…",
-    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
-    "keyTakeaways": [
-      "The study explores a recent scientific question with real-world implications.",
-      "The finding is promising, but the original article has the most precise technical details.",
-      "More research is needed before broad conclusions can be made."
-    ],
-    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "machine learning",
-        "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
-      },
-      {
-        "term": "neural",
-        "explanation": "Related to nerves, neurons, or the brain’s communication system."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Silva DO",
-      "Pretto G",
-      "Dominici S",
-      "Leal PDC",
-      "Brandão ACA."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42437636/",
-    "doi": "10.1016/j.bjane.2026.844795",
-    "pmid": "42437636"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42435406/",
+    "doi": "10.1093/reprod/xaag088",
+    "pmid": "42435406"
   },
   {
     "id": "biomedical-engineering-7c3966966f",
@@ -610,6 +724,63 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42432751/",
     "doi": "10.1186/s13287-026-05168-1",
     "pmid": "42432751"
+  },
+  {
+    "id": "women-s-health-c001955e4d",
+    "title": "New Women’s Health Research Could Point to Bigger Possibilities",
+    "originalTitle": "Clinical features and reproductive outcomes after first frozen embryo transfer in patients with different ultrasound-diagnosed adenomyosis subtypes following ultralong gonadotropin-releasing hormone agonist pretreatment: a retrospective cohort study.",
+    "category": "Women’s Health",
+    "date": "2026-07-11",
+    "dateISO": "2026-07-11",
+    "displayDate": "Jul 11, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/prosthetic.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Background The differences between adenomyosis subtypes in clinical features and reproductive outcomes remain largely unexplored.",
+    "excerpt": "Background The differences between adenomyosis subtypes in clinical features and reproductive outcomes remain largely unexplored.",
+    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
+    "summary": "This article looks at a recent idea in women’s health and why it may matter beyond the lab. The original study focuses on: Clinical features and reproductive outcomes after first frozen embryo transfer in patients with different ultrasound-diagnosed adenomyosis subtypes following ultralong gonadotropin-releasing hormone agonist pretreatment: a retrospective cohort study.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
+    "whatTheyFound": "Background The differences between adenomyosis subtypes in clinical features and reproductive outcomes remain largely unexplored. This study aimed to compare clinical features and reproductive outcomes after the first frozen embryo transfer (FET) among patients with different ultrasound-diagnosed adenomyosis subtypes following ultralong gonadotropin-releasing hormone agonist (GnRHa) pretreatment.",
+    "deepDive": "Background The differences between adenomyosis subtypes in clinical features and reproductive outcomes remain largely unexplored. This study aimed to compare clinical features and reproductive outcomes after the first frozen embryo transfer (FET) among patients with different ultrasound-diagnosed adenomyosis subtypes following ultralong gonadotropin-releasing hormone agonist (GnRHa) pretreatment. Methods A retrospective cohort study was conducted and included infertility patients with (n = 179) and without (n = 179) adenomyosis undergoing first FET. Patients with adenomyosis underwent the ultralong GnRHa pretreatment before their first FET cycle. Adenomyosis was diagnosed by two-dimensional (2D) and three-dimensional (3D) transvaginal sonography (TVS) and classified into subtypes according to types (diffuse/focal/mixed) and locations (inner/outer myometrium) of lesions. Baseline characteristics, sonographic features and pregnancy outcomes after the first FET cycle were collected. The primary outcome was live birth rate after the first FET cycle. Secondary outcomes included implantation rate, clinical pregnancy rate, and miscarriage rate. Results For different subtypes of adenomyosi…",
+    "body": "Background The differences between adenomyosis subtypes in clinical features and reproductive outcomes remain largely unexplored. This study aimed to compare clinical features and reproductive outcomes after the first frozen embryo transfer (FET) among patients with different ultrasound-diagnosed adenomyosis subtypes following ultralong gonadotropin-releasing hormone agonist (GnRHa) pretreatment. Methods A retrospective cohort study was conducted and included infertility patients with (n = 179) and without (n = 179) adenomyosis undergoing first FET. Patients with adenomyosis underwent the ultralong GnRHa pretreatment before their first FET cycle. Adenomyosis was diagnosed by two-dimensional (2D) and three-dimensional (3D) transvaginal sonography (TVS) and classified into subtypes according to types (diffuse/focal/mixed) and locations (inner/outer myometrium) of lesions. Baseline characteristics, sonographic features and pregnancy outcomes after the first FET cycle were collected. The primary outcome was live birth rate after the first FET cycle. Secondary outcomes included implantation rate, clinical pregnancy rate, and miscarriage rate. Results For different subtypes of adenomyosi…",
+    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
+    "keyTakeaways": [
+      "The study explores a recent scientific question with real-world implications.",
+      "The finding is promising, but the original article has the most precise technical details.",
+      "More research is needed before broad conclusions can be made."
+    ],
+    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Jiang J",
+      "Li L",
+      "Hou X",
+      "Zhu Y",
+      "Sun H",
+      "Huang C",
+      "Mei J."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42436422/",
+    "doi": "10.1186/s12884-026-09624-x",
+    "pmid": "42436422"
   },
   {
     "id": "public-health-683e8ef020",
@@ -833,58 +1004,6 @@
     "pmid": "42431561"
   },
   {
-    "id": "environment-9bbbe9500b",
-    "title": "DNA Clues Could Help Explain Hard-to-Treat Conditions",
-    "originalTitle": "Integrating sustainability thinking into microbiology education: a conceptual framework for the next generation of environmental scientists.",
-    "category": "Environment",
-    "date": "2026-07-10",
-    "dateISO": "2026-07-10",
-    "displayDate": "Jul 10, 2026",
-    "readTime": 3,
-    "difficulty": "Beginner",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Although microbiology is essential to the global sustainability agenda, its educational focus is still mostly limited to industrial and medical applic…",
-    "excerpt": "Although microbiology is essential to the global sustainability agenda, its educational focus is still mostly limited to industrial and medical applic…",
-    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
-    "summary": "This article looks at a recent idea in environment and why it may matter beyond the lab. The original study focuses on: Integrating sustainability thinking into microbiology education: a conceptual framework for the next generation of environmental scientists.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
-    "whatTheyFound": "Although microbiology is essential to the global sustainability agenda, its educational focus is still mostly limited to industrial and medical applications. In order to bring microbiological education into line with the tenets of Education for Sustainable Development, this conceptual paper presents a sustainability-focused paradigm.",
-    "deepDive": "Although microbiology is essential to the global sustainability agenda, its educational focus is still mostly limited to industrial and medical applications. In order to bring microbiological education into line with the tenets of Education for Sustainable Development, this conceptual paper presents a sustainability-focused paradigm. The framework, which is founded on constructivist learning theory and systems thinking, highlights three interconnected educational pillars: interdisciplinary cooperation, ecological literacy, and problem-based learning. These pillars are intended to give students the skills, values, and information they need to relate microbial processes to global issues, including pollution, biodiversity loss, and climate change. The paper describes strategies for encouraging environmental awareness and social responsibility in aspiring microbiologists by combining knowledge from sustainability education and microbiology teaching. In order to prepare graduates to contribute to a resilient and regenerative future, it emphasizes that integrating sustainability thinking into microbiology education is crucial. It ends with strategic recommendations for curriculum reform,…",
-    "body": "Although microbiology is essential to the global sustainability agenda, its educational focus is still mostly limited to industrial and medical applications. In order to bring microbiological education into line with the tenets of Education for Sustainable Development, this conceptual paper presents a sustainability-focused paradigm. The framework, which is founded on constructivist learning theory and systems thinking, highlights three interconnected educational pillars: interdisciplinary cooperation, ecological literacy, and problem-based learning. These pillars are intended to give students the skills, values, and information they need to relate microbial processes to global issues, including pollution, biodiversity loss, and climate change. The paper describes strategies for encouraging environmental awareness and social responsibility in aspiring microbiologists by combining knowledge from sustainability education and microbiology teaching. In order to prepare graduates to contribute to a resilient and regenerative future, it emphasizes that integrating sustainability thinking into microbiology education is crucial. It ends with strategic recommendations for curriculum reform,…",
-    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
-    "keyTakeaways": [
-      "The study explores a recent scientific question with real-world implications.",
-      "The finding is promising, but the original article has the most precise technical details.",
-      "More research is needed before broad conclusions can be made."
-    ],
-    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Kari A",
-      "Disegha GC."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42429682/",
-    "doi": "10.1128/jmbe.00289-25",
-    "pmid": "42429682"
-  },
-  {
     "id": "biomedical-engineering-0b37426753",
     "title": "New Biomedical Engineering Research Could Point to Bigger Possibilities",
     "originalTitle": "3D bone printing via ultrasound-mediated osteogenic differentiation of stem cells (3DBonUS).",
@@ -941,6 +1060,58 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42330984/",
     "doi": "10.1088/1758-5090/ae8061",
     "pmid": "42330984"
+  },
+  {
+    "id": "environment-9bbbe9500b",
+    "title": "DNA Clues Could Help Explain Hard-to-Treat Conditions",
+    "originalTitle": "Integrating sustainability thinking into microbiology education: a conceptual framework for the next generation of environmental scientists.",
+    "category": "Environment",
+    "date": "2026-07-10",
+    "dateISO": "2026-07-10",
+    "displayDate": "Jul 10, 2026",
+    "readTime": 3,
+    "difficulty": "Beginner",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Although microbiology is essential to the global sustainability agenda, its educational focus is still mostly limited to industrial and medical applic…",
+    "excerpt": "Although microbiology is essential to the global sustainability agenda, its educational focus is still mostly limited to industrial and medical applic…",
+    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
+    "summary": "This article looks at a recent idea in environment and why it may matter beyond the lab. The original study focuses on: Integrating sustainability thinking into microbiology education: a conceptual framework for the next generation of environmental scientists.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
+    "whatTheyFound": "Although microbiology is essential to the global sustainability agenda, its educational focus is still mostly limited to industrial and medical applications. In order to bring microbiological education into line with the tenets of Education for Sustainable Development, this conceptual paper presents a sustainability-focused paradigm.",
+    "deepDive": "Although microbiology is essential to the global sustainability agenda, its educational focus is still mostly limited to industrial and medical applications. In order to bring microbiological education into line with the tenets of Education for Sustainable Development, this conceptual paper presents a sustainability-focused paradigm. The framework, which is founded on constructivist learning theory and systems thinking, highlights three interconnected educational pillars: interdisciplinary cooperation, ecological literacy, and problem-based learning. These pillars are intended to give students the skills, values, and information they need to relate microbial processes to global issues, including pollution, biodiversity loss, and climate change. The paper describes strategies for encouraging environmental awareness and social responsibility in aspiring microbiologists by combining knowledge from sustainability education and microbiology teaching. In order to prepare graduates to contribute to a resilient and regenerative future, it emphasizes that integrating sustainability thinking into microbiology education is crucial. It ends with strategic recommendations for curriculum reform,…",
+    "body": "Although microbiology is essential to the global sustainability agenda, its educational focus is still mostly limited to industrial and medical applications. In order to bring microbiological education into line with the tenets of Education for Sustainable Development, this conceptual paper presents a sustainability-focused paradigm. The framework, which is founded on constructivist learning theory and systems thinking, highlights three interconnected educational pillars: interdisciplinary cooperation, ecological literacy, and problem-based learning. These pillars are intended to give students the skills, values, and information they need to relate microbial processes to global issues, including pollution, biodiversity loss, and climate change. The paper describes strategies for encouraging environmental awareness and social responsibility in aspiring microbiologists by combining knowledge from sustainability education and microbiology teaching. In order to prepare graduates to contribute to a resilient and regenerative future, it emphasizes that integrating sustainability thinking into microbiology education is crucial. It ends with strategic recommendations for curriculum reform,…",
+    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
+    "keyTakeaways": [
+      "The study explores a recent scientific question with real-world implications.",
+      "The finding is promising, but the original article has the most precise technical details.",
+      "More research is needed before broad conclusions can be made."
+    ],
+    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Kari A",
+      "Disegha GC."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42429682/",
+    "doi": "10.1128/jmbe.00289-25",
+    "pmid": "42429682"
   },
   {
     "id": "biomedical-engineering-66aa956ece",
@@ -1001,6 +1172,116 @@
     "pmid": "42431200"
   },
   {
+    "id": "nutrition-9bbb803c19",
+    "title": "Everyday Diet Choices May Shape Long-Term Health Risks",
+    "originalTitle": "Precision nutrition in Asian populations: a Multi-omics review of mechanisms, biomarkers, and implementation pathways.",
+    "category": "Nutrition",
+    "date": "2026-07-09",
+    "dateISO": "2026-07-09",
+    "displayDate": "Jul 9, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "The rapid expansion of omics technologies has created new opportunities to understand inter-individual variations in metabolic responses to diet.",
+    "excerpt": "The rapid expansion of omics technologies has created new opportunities to understand inter-individual variations in metabolic responses to diet.",
+    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
+    "summary": "This article looks at a recent idea in nutrition and why it may matter beyond the lab. The original study focuses on: Precision nutrition in Asian populations: a Multi-omics review of mechanisms, biomarkers, and implementation pathways.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
+    "whatTheyFound": "The rapid expansion of omics technologies has created new opportunities to understand inter-individual variations in metabolic responses to diet. Such advances are particularly relevant for Asian populations, which exhibit distinct metabolic characteristics, including increased visceral adiposity, reduced β-cell reserves, and heightened susceptibility to type 2 diabetes at lower BMI levels, compared to Western populations.",
+    "deepDive": "The rapid expansion of omics technologies has created new opportunities to understand inter-individual variations in metabolic responses to diet. Such advances are particularly relevant for Asian populations, which exhibit distinct metabolic characteristics, including increased visceral adiposity, reduced β-cell reserves, and heightened susceptibility to type 2 diabetes at lower BMI levels, compared to Western populations. This review synthesizes the current evidence on metabolomic and genomic biomarkers associated with metabolic health in Asians and outlines the mechanistic pathways through which diet influences these biomarkers. Metabolomic signatures, such as lysophosphatidylcholines, micronutrient-derived metabolites, amino acid profiles, and oxidative stress indicators, have demonstrated strong potential for the early detection of metabolic dysfunction. In addition, carbohydrate-related markers of glycemic excursions, microbiome-derived metabolites, and diet-responsive fatty acid profiles may help capture the heterogeneity in postprandial regulation and diet responsiveness. Genetic variants enriched in Asian populations, including TMEM182- and NPC1L1-related polymorphisms, fur…",
+    "body": "The rapid expansion of omics technologies has created new opportunities to understand inter-individual variations in metabolic responses to diet. Such advances are particularly relevant for Asian populations, which exhibit distinct metabolic characteristics, including increased visceral adiposity, reduced β-cell reserves, and heightened susceptibility to type 2 diabetes at lower BMI levels, compared to Western populations. This review synthesizes the current evidence on metabolomic and genomic biomarkers associated with metabolic health in Asians and outlines the mechanistic pathways through which diet influences these biomarkers. Metabolomic signatures, such as lysophosphatidylcholines, micronutrient-derived metabolites, amino acid profiles, and oxidative stress indicators, have demonstrated strong potential for the early detection of metabolic dysfunction. In addition, carbohydrate-related markers of glycemic excursions, microbiome-derived metabolites, and diet-responsive fatty acid profiles may help capture the heterogeneity in postprandial regulation and diet responsiveness. Genetic variants enriched in Asian populations, including TMEM182- and NPC1L1-related polymorphisms, fur…",
+    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
+    "keyTakeaways": [
+      "The study explores a recent scientific question with real-world implications.",
+      "The finding is promising, but the original article has the most precise technical details.",
+      "More research is needed before broad conclusions can be made."
+    ],
+    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "biomarker",
+        "explanation": "A measurable signal in the body that can help indicate a disease, risk, or treatment response."
+      },
+      {
+        "term": "genomic",
+        "explanation": "Related to the full set of DNA instructions inside cells."
+      },
+      {
+        "term": "microbiome",
+        "explanation": "The community of bacteria and other microbes living in or on the body or environment."
+      },
+      {
+        "term": "pathway",
+        "explanation": "A chain of molecular events inside cells that produces a biological effect."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Kim M."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42459212/",
+    "doi": "10.1017/jns.2026.10110",
+    "pmid": "42459212"
+  },
+  {
+    "id": "ai-computer-science-1457b071bc",
+    "title": "AI Could Help Scientists Solve Harder Problems",
+    "originalTitle": "StackingNet: Collective Inference Across Independent AI Foundation Models.",
+    "category": "AI & Computer Science",
+    "date": "2026-07-09",
+    "dateISO": "2026-07-09",
+    "displayDate": "Jul 9, 2026",
+    "readTime": 3,
+    "difficulty": "Intermediate",
+    "image": "RUimages/AI.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Artificial intelligence (AI) built on large foundation models has transformed language understanding, computer vision, and reasoning, yet these system…",
+    "excerpt": "Artificial intelligence (AI) built on large foundation models has transformed language understanding, computer vision, and reasoning, yet these system…",
+    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
+    "summary": "This article looks at a recent idea in ai & computer science and why it may matter beyond the lab. The original study focuses on: StackingNet: Collective Inference Across Independent AI Foundation Models.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
+    "whatTheyFound": "Artificial intelligence (AI) built on large foundation models has transformed language understanding, computer vision, and reasoning, yet these systems remain isolated and cannot readily share their capabilities. Coordinating the complementary strengths of independently developed, black-box foundation models is essential for trustworthy intelligent systems, yet no established method exists.",
+    "deepDive": "Artificial intelligence (AI) built on large foundation models has transformed language understanding, computer vision, and reasoning, yet these systems remain isolated and cannot readily share their capabilities. Coordinating the complementary strengths of independently developed, black-box foundation models is essential for trustworthy intelligent systems, yet no established method exists. Here we show that such coordination can be achieved through a meta-ensemble framework termed StackingNet, which aggregates the output predictions of independent models at inference. StackingNet improves accuracy, reduces individual-model error and group-wise disparities, ranks model reliability, and identifies or prunes models that degrade performance, all without access to internal parameters or training data. Across language comprehension, visual attribute estimation, and academic paper rating, it consistently outperforms individual models and classic ensembles, with gains that persist when the base models are uniformly strong. These gains stem from variance reduction and consensus alignment among independent models rather than from any emergent group cognition, and they widen as the model poo…",
+    "body": "Artificial intelligence (AI) built on large foundation models has transformed language understanding, computer vision, and reasoning, yet these systems remain isolated and cannot readily share their capabilities. Coordinating the complementary strengths of independently developed, black-box foundation models is essential for trustworthy intelligent systems, yet no established method exists. Here we show that such coordination can be achieved through a meta-ensemble framework termed StackingNet, which aggregates the output predictions of independent models at inference. StackingNet improves accuracy, reduces individual-model error and group-wise disparities, ranks model reliability, and identifies or prunes models that degrade performance, all without access to internal parameters or training data. Across language comprehension, visual attribute estimation, and academic paper rating, it consistently outperforms individual models and classic ensembles, with gains that persist when the base models are uniformly strong. These gains stem from variance reduction and consensus alignment among independent models rather than from any emergent group cognition, and they widen as the model poo…",
+    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
+    "keyTakeaways": [
+      "The study explores a recent scientific question with real-world implications.",
+      "The finding is promising, but the original article has the most precise technical details.",
+      "More research is needed before broad conclusions can be made."
+    ],
+    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "abstract",
+        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Li S",
+      "Liu C",
+      "Wu D",
+      "Zeng Z",
+      "Ding L."
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42423619/",
+    "doi": "10.1002/advs.76488",
+    "pmid": "42423619"
+  },
+  {
     "id": "medicine-0a83619e0e",
     "title": "Tiny Cancer Models Could Reveal How Tumors Spread",
     "originalTitle": "Consolidative Thoracic Radiotherapy With Atezolizumab Maintenance in Extensive-Stage Small Cell Lung Cancer: The Phase 2 TREASURE Randomized Clinical Trial (AIO-TRK-0320).",
@@ -1057,61 +1338,6 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42424047/",
     "doi": "10.1001/jamaoncol.2026.2330",
     "pmid": "42424047"
-  },
-  {
-    "id": "ai-computer-science-1457b071bc",
-    "title": "AI Could Help Scientists Solve Harder Problems",
-    "originalTitle": "StackingNet: Collective Inference Across Independent AI Foundation Models.",
-    "category": "AI & Computer Science",
-    "date": "2026-07-09",
-    "dateISO": "2026-07-09",
-    "displayDate": "Jul 9, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/AI.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Artificial intelligence (AI) built on large foundation models has transformed language understanding, computer vision, and reasoning, yet these system…",
-    "excerpt": "Artificial intelligence (AI) built on large foundation models has transformed language understanding, computer vision, and reasoning, yet these system…",
-    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
-    "summary": "This article looks at a recent idea in ai & computer science and why it may matter beyond the lab. The original study focuses on: StackingNet: Collective Inference Across Independent AI Foundation Models.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
-    "whatTheyFound": "Artificial intelligence (AI) built on large foundation models has transformed language understanding, computer vision, and reasoning, yet these systems remain isolated and cannot readily share their capabilities. Coordinating the complementary strengths of independently developed, black-box foundation models is essential for trustworthy intelligent systems, yet no established method exists.",
-    "deepDive": "Artificial intelligence (AI) built on large foundation models has transformed language understanding, computer vision, and reasoning, yet these systems remain isolated and cannot readily share their capabilities. Coordinating the complementary strengths of independently developed, black-box foundation models is essential for trustworthy intelligent systems, yet no established method exists. Here we show that such coordination can be achieved through a meta-ensemble framework termed StackingNet, which aggregates the output predictions of independent models at inference. StackingNet improves accuracy, reduces individual-model error and group-wise disparities, ranks model reliability, and identifies or prunes models that degrade performance, all without access to internal parameters or training data. Across language comprehension, visual attribute estimation, and academic paper rating, it consistently outperforms individual models and classic ensembles, with gains that persist when the base models are uniformly strong. These gains stem from variance reduction and consensus alignment among independent models rather than from any emergent group cognition, and they widen as the model poo…",
-    "body": "Artificial intelligence (AI) built on large foundation models has transformed language understanding, computer vision, and reasoning, yet these systems remain isolated and cannot readily share their capabilities. Coordinating the complementary strengths of independently developed, black-box foundation models is essential for trustworthy intelligent systems, yet no established method exists. Here we show that such coordination can be achieved through a meta-ensemble framework termed StackingNet, which aggregates the output predictions of independent models at inference. StackingNet improves accuracy, reduces individual-model error and group-wise disparities, ranks model reliability, and identifies or prunes models that degrade performance, all without access to internal parameters or training data. Across language comprehension, visual attribute estimation, and academic paper rating, it consistently outperforms individual models and classic ensembles, with gains that persist when the base models are uniformly strong. These gains stem from variance reduction and consensus alignment among independent models rather than from any emergent group cognition, and they widen as the model poo…",
-    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
-    "keyTakeaways": [
-      "The study explores a recent scientific question with real-world implications.",
-      "The finding is promising, but the original article has the most precise technical details.",
-      "More research is needed before broad conclusions can be made."
-    ],
-    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Li S",
-      "Liu C",
-      "Wu D",
-      "Zeng Z",
-      "Ding L."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42423619/",
-    "doi": "10.1002/advs.76488",
-    "pmid": "42423619"
   },
   {
     "id": "public-health-c2aeb8af43",
@@ -1622,58 +1848,6 @@
     "pmid": "42413862"
   },
   {
-    "id": "environment-27a2b620aa",
-    "title": "New Environment Research Could Point to Bigger Possibilities",
-    "originalTitle": "When remediation creates toxicological risk: transformation products and the soil exposome in contaminated agroecosystems.",
-    "category": "Environment",
-    "date": "2026-07-07",
-    "dateISO": "2026-07-07",
-    "displayDate": "Jul 7, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Remediation is often considered successful when parent contaminants decline, visible pollution disappears, or extractable concentrations fall below ta…",
-    "excerpt": "Remediation is often considered successful when parent contaminants decline, visible pollution disappears, or extractable concentrations fall below ta…",
-    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
-    "summary": "This article looks at a recent idea in environment and why it may matter beyond the lab. The original study focuses on: When remediation creates toxicological risk: transformation products and the soil exposome in contaminated agroecosystems.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
-    "whatTheyFound": "Remediation is often considered successful when parent contaminants decline, visible pollution disappears, or extractable concentrations fall below target values. In contaminated agroecosystems, however, contaminant disappearance does not necessarily mean toxicological risk disappearance.",
-    "deepDive": "Remediation is often considered successful when parent contaminants decline, visible pollution disappears, or extractable concentrations fall below target values. In contaminated agroecosystems, however, contaminant disappearance does not necessarily mean toxicological risk disappearance. Agricultural soils are reactive exposure interfaces where pollutants interact with minerals, organic matter, enzymes, microbes, and plant roots, often generating transformation products with different mobility, persistence, bioavailability, and toxicity from their parent compounds. This commentary proposes the soil exposome as a framework for evaluating remediated agroecosystems as dynamic exposure systems shaped by chemical mixtures, transformation pathways, microbial responses, plant uptake, and potential dietary exposure. We argue that remediation can create or obscure risk when assessment remains limited to removal efficiency or parent-compound monitoring. A toxicology-oriented evaluation should therefore integrate transformation-product profiling, effect-based bioassays, bioavailability testing, microbial and soil-function indicators, phytotoxicity assessment, and crop-safety verification. Mo…",
-    "body": "Remediation is often considered successful when parent contaminants decline, visible pollution disappears, or extractable concentrations fall below target values. In contaminated agroecosystems, however, contaminant disappearance does not necessarily mean toxicological risk disappearance. Agricultural soils are reactive exposure interfaces where pollutants interact with minerals, organic matter, enzymes, microbes, and plant roots, often generating transformation products with different mobility, persistence, bioavailability, and toxicity from their parent compounds. This commentary proposes the soil exposome as a framework for evaluating remediated agroecosystems as dynamic exposure systems shaped by chemical mixtures, transformation pathways, microbial responses, plant uptake, and potential dietary exposure. We argue that remediation can create or obscure risk when assessment remains limited to removal efficiency or parent-compound monitoring. A toxicology-oriented evaluation should therefore integrate transformation-product profiling, effect-based bioassays, bioavailability testing, microbial and soil-function indicators, phytotoxicity assessment, and crop-safety verification. Mo…",
-    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
-    "keyTakeaways": [
-      "The study explores a recent scientific question with real-world implications.",
-      "The finding is promising, but the original article has the most precise technical details.",
-      "More research is needed before broad conclusions can be made."
-    ],
-    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "pathway",
-        "explanation": "A chain of molecular events inside cells that produces a biological effect."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Zaman W",
-      "Ayaz A."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42412225/",
-    "doi": "10.1007/s00204-026-04504-x",
-    "pmid": "42412225"
-  },
-  {
     "id": "neuroscience-a7d7f3f15d",
     "title": "Brain Signals Could Reveal More Than We Thought",
     "originalTitle": "Deep Learning Reveals Cross-Modal Neural Representations of Auditory and Visual Mental Imagery in MEG.",
@@ -1887,64 +2061,6 @@
     "pmid": "42397100"
   },
   {
-    "id": "public-health-87102900f5",
-    "title": "Tiny Cancer Models Could Reveal How Tumors Spread",
-    "originalTitle": "BCAA metabolism promotes lung cancer tumorigenesis by enhancing cholesterol biosynthesis.",
-    "category": "Public Health",
-    "date": "2026-07-03",
-    "dateISO": "2026-07-03",
-    "displayDate": "Jul 3, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Metabolic dysregulation has been established as a key driver in tumorigenesis, but its underlying mechanisms in lung cancer remain poorly characterize…",
-    "excerpt": "Metabolic dysregulation has been established as a key driver in tumorigenesis, but its underlying mechanisms in lung cancer remain poorly characterize…",
-    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
-    "summary": "This article looks at a recent idea in public health and why it may matter beyond the lab. The original study focuses on: BCAA metabolism promotes lung cancer tumorigenesis by enhancing cholesterol biosynthesis.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
-    "whatTheyFound": "Metabolic dysregulation has been established as a key driver in tumorigenesis, but its underlying mechanisms in lung cancer remain poorly characterized. In this study, we performed nested case-control analyses in two prospective cohorts (208 and 144 matched pairs) to examine associations between plasma metabolites and lung cancer risk.",
-    "deepDive": "Metabolic dysregulation has been established as a key driver in tumorigenesis, but its underlying mechanisms in lung cancer remain poorly characterized. In this study, we performed nested case-control analyses in two prospective cohorts (208 and 144 matched pairs) to examine associations between plasma metabolites and lung cancer risk. Untargeted metabolomics identified circulating metabolites of the branched-chain amino acid (BCAA) pathway as significantly associated with lung cancer risk. An animal study demonstrated that a high-BCAA diet accelerated lung cancer progression in the Kras G12D/+ mice model. Among the three BCAAs, leucine contributed much more to promoting lung cancer growth. Mechanistically, AUH-mediated acetyl-CoA production from leucine metabolism fuels cholesterol synthesis, promoting lipid raft formation and EGFR redistribution and activation, thereby driving lung tumorigenesis. Moreover, atorvastatin blocked leucine-induced tumor progression in mice. Overall, our findings provide experimental evidence that leucine-driven BCAA metabolic reprogramming promotes lung tumorigenesis via cholesterol metabolism, revealing a potential therapeutic target.",
-    "body": "Metabolic dysregulation has been established as a key driver in tumorigenesis, but its underlying mechanisms in lung cancer remain poorly characterized. In this study, we performed nested case-control analyses in two prospective cohorts (208 and 144 matched pairs) to examine associations between plasma metabolites and lung cancer risk. Untargeted metabolomics identified circulating metabolites of the branched-chain amino acid (BCAA) pathway as significantly associated with lung cancer risk. An animal study demonstrated that a high-BCAA diet accelerated lung cancer progression in the Kras G12D/+ mice model. Among the three BCAAs, leucine contributed much more to promoting lung cancer growth. Mechanistically, AUH-mediated acetyl-CoA production from leucine metabolism fuels cholesterol synthesis, promoting lipid raft formation and EGFR redistribution and activation, thereby driving lung tumorigenesis. Moreover, atorvastatin blocked leucine-induced tumor progression in mice. Overall, our findings provide experimental evidence that leucine-driven BCAA metabolic reprogramming promotes lung tumorigenesis via cholesterol metabolism, revealing a potential therapeutic target.",
-    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
-    "keyTakeaways": [
-      "The study explores a recent scientific question with real-world implications.",
-      "The finding is promising, but the original article has the most precise technical details.",
-      "More research is needed before broad conclusions can be made."
-    ],
-    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "pathway",
-        "explanation": "A chain of molecular events inside cells that produces a biological effect."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Ma H",
-      "Zhang E",
-      "Cai J",
-      "Hang D",
-      "Ma X",
-      "Yang Y",
-      "Zhu M",
-      "Sun Q"
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42397743/",
-    "doi": "10.1016/j.celrep.2026.117641",
-    "pmid": "42397743"
-  },
-  {
     "id": "genetics-59306c01c3",
     "title": "DNA Clues Could Help Explain Hard-to-Treat Conditions",
     "originalTitle": "Transposable element disruption of a second thyroglobulin-like gene confers Vip3Aa resistance in Helicoverpa armigera.",
@@ -2001,6 +2117,64 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42399777/",
     "doi": "10.1186/s12864-026-13139-2",
     "pmid": "42399777"
+  },
+  {
+    "id": "public-health-87102900f5",
+    "title": "Tiny Cancer Models Could Reveal How Tumors Spread",
+    "originalTitle": "BCAA metabolism promotes lung cancer tumorigenesis by enhancing cholesterol biosynthesis.",
+    "category": "Public Health",
+    "date": "2026-07-03",
+    "dateISO": "2026-07-03",
+    "displayDate": "Jul 3, 2026",
+    "readTime": 4,
+    "difficulty": "Advanced",
+    "image": "RUimages/genetics.jpg",
+    "imageSearchQuery": "",
+    "imageAltText": "",
+    "imageCaption": "",
+    "blurb": "Metabolic dysregulation has been established as a key driver in tumorigenesis, but its underlying mechanisms in lung cancer remain poorly characterize…",
+    "excerpt": "Metabolic dysregulation has been established as a key driver in tumorigenesis, but its underlying mechanisms in lung cancer remain poorly characterize…",
+    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
+    "summary": "This article looks at a recent idea in public health and why it may matter beyond the lab. The original study focuses on: BCAA metabolism promotes lung cancer tumorigenesis by enhancing cholesterol biosynthesis.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
+    "whatTheyFound": "Metabolic dysregulation has been established as a key driver in tumorigenesis, but its underlying mechanisms in lung cancer remain poorly characterized. In this study, we performed nested case-control analyses in two prospective cohorts (208 and 144 matched pairs) to examine associations between plasma metabolites and lung cancer risk.",
+    "deepDive": "Metabolic dysregulation has been established as a key driver in tumorigenesis, but its underlying mechanisms in lung cancer remain poorly characterized. In this study, we performed nested case-control analyses in two prospective cohorts (208 and 144 matched pairs) to examine associations between plasma metabolites and lung cancer risk. Untargeted metabolomics identified circulating metabolites of the branched-chain amino acid (BCAA) pathway as significantly associated with lung cancer risk. An animal study demonstrated that a high-BCAA diet accelerated lung cancer progression in the Kras G12D/+ mice model. Among the three BCAAs, leucine contributed much more to promoting lung cancer growth. Mechanistically, AUH-mediated acetyl-CoA production from leucine metabolism fuels cholesterol synthesis, promoting lipid raft formation and EGFR redistribution and activation, thereby driving lung tumorigenesis. Moreover, atorvastatin blocked leucine-induced tumor progression in mice. Overall, our findings provide experimental evidence that leucine-driven BCAA metabolic reprogramming promotes lung tumorigenesis via cholesterol metabolism, revealing a potential therapeutic target.",
+    "body": "Metabolic dysregulation has been established as a key driver in tumorigenesis, but its underlying mechanisms in lung cancer remain poorly characterized. In this study, we performed nested case-control analyses in two prospective cohorts (208 and 144 matched pairs) to examine associations between plasma metabolites and lung cancer risk. Untargeted metabolomics identified circulating metabolites of the branched-chain amino acid (BCAA) pathway as significantly associated with lung cancer risk. An animal study demonstrated that a high-BCAA diet accelerated lung cancer progression in the Kras G12D/+ mice model. Among the three BCAAs, leucine contributed much more to promoting lung cancer growth. Mechanistically, AUH-mediated acetyl-CoA production from leucine metabolism fuels cholesterol synthesis, promoting lipid raft formation and EGFR redistribution and activation, thereby driving lung tumorigenesis. Moreover, atorvastatin blocked leucine-induced tumor progression in mice. Overall, our findings provide experimental evidence that leucine-driven BCAA metabolic reprogramming promotes lung tumorigenesis via cholesterol metabolism, revealing a potential therapeutic target.",
+    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
+    "keyTakeaways": [
+      "The study explores a recent scientific question with real-world implications.",
+      "The finding is promising, but the original article has the most precise technical details.",
+      "More research is needed before broad conclusions can be made."
+    ],
+    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
+    "scientificTerms": [
+      {
+        "term": "pathway",
+        "explanation": "A chain of molecular events inside cells that produces a biological effect."
+      },
+      {
+        "term": "peer review",
+        "explanation": "A quality-control process where experts evaluate a study before publication."
+      },
+      {
+        "term": "correlation",
+        "explanation": "A relationship between two things, which does not always mean one caused the other."
+      }
+    ],
+    "sourceName": "PubMed",
+    "journal": "",
+    "authors": [
+      "Ma H",
+      "Zhang E",
+      "Cai J",
+      "Hang D",
+      "Ma X",
+      "Yang Y",
+      "Zhu M",
+      "Sun Q"
+    ],
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42397743/",
+    "doi": "10.1016/j.celrep.2026.117641",
+    "pmid": "42397743"
   },
   {
     "id": "medicine-2e83adfc36",
@@ -2231,116 +2405,6 @@
     "pmid": "42422973"
   },
   {
-    "id": "ai-computer-science-8197082146",
-    "title": "Tiny Cancer Models Could Reveal How Tumors Spread",
-    "originalTitle": "A Narrative Review of Artificial Intelligence for Drug Repurposing: Lessons From COVID-19 and Oncology (2020-2025).",
-    "category": "AI & Computer Science",
-    "date": "2026-07-01",
-    "dateISO": "2026-07-01",
-    "displayDate": "Jul 1, 2026",
-    "readTime": 3,
-    "difficulty": "Intermediate",
-    "image": "RUimages/AI.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Drug repurposing presents a cost-effective and time-efficient strategy to identify new therapeutic applications for existing drugs.",
-    "excerpt": "Drug repurposing presents a cost-effective and time-efficient strategy to identify new therapeutic applications for existing drugs.",
-    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
-    "summary": "This article looks at a recent idea in ai & computer science and why it may matter beyond the lab. The original study focuses on: A Narrative Review of Artificial Intelligence for Drug Repurposing: Lessons From COVID-19 and Oncology (2020-2025).. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
-    "whatTheyFound": "Drug repurposing presents a cost-effective and time-efficient strategy to identify new therapeutic applications for existing drugs. Recent advances in artificial intelligence, including machine learning, deep learning, knowledge graphs, and natural language processing, have revolutionized this field by enabling automated discovery of drug-disease associations.",
-    "deepDive": "Drug repurposing presents a cost-effective and time-efficient strategy to identify new therapeutic applications for existing drugs. Recent advances in artificial intelligence, including machine learning, deep learning, knowledge graphs, and natural language processing, have revolutionized this field by enabling automated discovery of drug-disease associations. This review examines the role of artificial intelligence in drug repurposing, drawing insights from two critical case areas: Coronavirus disease 2019 and oncology. We explore current trends, methodological frameworks, and technological innovations in artificial intelligence-driven drug repurposing, as well as challenges and emerging future directions. The findings of this paper underscore the transformative potential of artificial intelligence in biomedical research and justify its continued integration in pharmaceutical pipelines.",
-    "body": "Drug repurposing presents a cost-effective and time-efficient strategy to identify new therapeutic applications for existing drugs. Recent advances in artificial intelligence, including machine learning, deep learning, knowledge graphs, and natural language processing, have revolutionized this field by enabling automated discovery of drug-disease associations. This review examines the role of artificial intelligence in drug repurposing, drawing insights from two critical case areas: Coronavirus disease 2019 and oncology. We explore current trends, methodological frameworks, and technological innovations in artificial intelligence-driven drug repurposing, as well as challenges and emerging future directions. The findings of this paper underscore the transformative potential of artificial intelligence in biomedical research and justify its continued integration in pharmaceutical pipelines.",
-    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
-    "keyTakeaways": [
-      "The study explores a recent scientific question with real-world implications.",
-      "The finding is promising, but the original article has the most precise technical details.",
-      "More research is needed before broad conclusions can be made."
-    ],
-    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "machine learning",
-        "explanation": "A type of AI where computers learn patterns from data instead of being explicitly programmed for every rule."
-      },
-      {
-        "term": "peer review",
-        "explanation": "A quality-control process where experts evaluate a study before publication."
-      },
-      {
-        "term": "correlation",
-        "explanation": "A relationship between two things, which does not always mean one caused the other."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Ogungbite AB",
-      "Sibiya M."
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42370758/",
-    "doi": "10.1002/psp4.70272",
-    "pmid": "42370758"
-  },
-  {
-    "id": "medicine-607120e4a2",
-    "title": "Tiny Cancer Models Could Reveal How Tumors Spread",
-    "originalTitle": "Lenvatinib Combined with PD-1 Blockade Therapy Benefits Gastric Cancers through Immunosuppressive Macrophage Modulation.",
-    "category": "Medicine",
-    "date": "2026-07-01",
-    "dateISO": "2026-07-01",
-    "displayDate": "Jul 1, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/prosthetic.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "The combination of multikinase inhibitors with PD-1 blockade therapy has emerged as a promising strategy to overcome resistance to PD-1 blockade monot…",
-    "excerpt": "The combination of multikinase inhibitors with PD-1 blockade therapy has emerged as a promising strategy to overcome resistance to PD-1 blockade monot…",
-    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
-    "summary": "This article looks at a recent idea in medicine and why it may matter beyond the lab. The original study focuses on: Lenvatinib Combined with PD-1 Blockade Therapy Benefits Gastric Cancers through Immunosuppressive Macrophage Modulation.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
-    "whatTheyFound": "The combination of multikinase inhibitors with PD-1 blockade therapy has emerged as a promising strategy to overcome resistance to PD-1 blockade monotherapy across multiple cancer types, including gastric cancer. In this study, we report that the multikinase inhibitor lenvatinib selectively reduced the number of CD206+CD163+ immunosuppressive macrophages in the tumor microenvironment (TME) and increased antitumor immunity.",
-    "deepDive": "The combination of multikinase inhibitors with PD-1 blockade therapy has emerged as a promising strategy to overcome resistance to PD-1 blockade monotherapy across multiple cancer types, including gastric cancer. In this study, we report that the multikinase inhibitor lenvatinib selectively reduced the number of CD206+CD163+ immunosuppressive macrophages in the tumor microenvironment (TME) and increased antitumor immunity. Longitudinal immunoprofiling was conducted with paired (pre- and posttreatment) tumor samples from patients with advanced gastric cancer who received first- or second-line combination therapy with lenvatinib and pembrolizumab in the EPOC1706 clinical trial. Patients with abundant CD206+CD163+ immunosuppressive macrophage infiltration exhibited favorable responses to combination therapy, accompanied by a significant posttreatment reduction in these cells. Although this immunosuppressive macrophage infiltration was associated with resistance to PD-1 blockade monotherapy, it predicted a response to combination treatment: 8 of the 9 patients with >440 CD206+CD163+ immunosuppressive macrophages/mm2 responded, whereas none of the 8 patients who received monotherapy res…",
-    "body": "The combination of multikinase inhibitors with PD-1 blockade therapy has emerged as a promising strategy to overcome resistance to PD-1 blockade monotherapy across multiple cancer types, including gastric cancer. In this study, we report that the multikinase inhibitor lenvatinib selectively reduced the number of CD206+CD163+ immunosuppressive macrophages in the tumor microenvironment (TME) and increased antitumor immunity. Longitudinal immunoprofiling was conducted with paired (pre- and posttreatment) tumor samples from patients with advanced gastric cancer who received first- or second-line combination therapy with lenvatinib and pembrolizumab in the EPOC1706 clinical trial. Patients with abundant CD206+CD163+ immunosuppressive macrophage infiltration exhibited favorable responses to combination therapy, accompanied by a significant posttreatment reduction in these cells. Although this immunosuppressive macrophage infiltration was associated with resistance to PD-1 blockade monotherapy, it predicted a response to combination treatment: 8 of the 9 patients with >440 CD206+CD163+ immunosuppressive macrophages/mm2 responded, whereas none of the 8 patients who received monotherapy res…",
-    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
-    "keyTakeaways": [
-      "The study explores a recent scientific question with real-world implications.",
-      "The finding is promising, but the original article has the most precise technical details.",
-      "More research is needed before broad conclusions can be made."
-    ],
-    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "biomarker",
-        "explanation": "A measurable signal in the body that can help indicate a disease, risk, or treatment response."
-      },
-      {
-        "term": "clinical trial",
-        "explanation": "A carefully designed study that tests a medical treatment or intervention in people."
-      },
-      {
-        "term": "pathway",
-        "explanation": "A chain of molecular events inside cells that produces a biological effect."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Lin NY",
-      "Machiyama H",
-      "Kawazoe A",
-      "Sai A",
-      "Irie T",
-      "Habu T",
-      "Fukuoka S",
-      "Kumanogoh A"
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42044259/",
-    "doi": "10.1158/2326-6066.cir-25-0982",
-    "pmid": "42044259"
-  },
-  {
     "id": "genetics-244f3b303c",
     "title": "Gene Editing Could Open New Paths for Treatment",
     "originalTitle": "Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)-Cas genome editing transforming crop stress tolerance for global food security.",
@@ -2399,26 +2463,26 @@
     "pmid": "42405245"
   },
   {
-    "id": "public-health-b091f9c23c",
-    "title": "AI Could Help Scientists Solve Harder Problems",
-    "originalTitle": "Oral Health and the SDGs: Unlocking Missed Potential for Global Health Gains.",
-    "category": "Public Health",
-    "date": "2026-07-01",
-    "dateISO": "2026-07-01",
-    "displayDate": "Jul 1, 2026",
+    "id": "nutrition-3d05ae1058",
+    "title": "Brain Signals Could Reveal More Than We Thought",
+    "originalTitle": "Relationships Between High Dietary Inflammatory Index Scores and Intestinal and Blood-Brain Barrier Integrity in the Context of Neurodegenerative Diseases.",
+    "category": "Nutrition",
+    "date": "2026-06-28",
+    "dateISO": "2026-06-28",
+    "displayDate": "Jun 28, 2026",
     "readTime": 3,
     "difficulty": "Intermediate",
     "image": "RUimages/genetics.jpg",
     "imageSearchQuery": "",
     "imageAltText": "",
     "imageCaption": "",
-    "blurb": "Introduction Oral health is a crucial yet neglected aspect of the global health and development agenda.",
-    "excerpt": "Introduction Oral health is a crucial yet neglected aspect of the global health and development agenda.",
+    "blurb": "The impact of diet on human health is constantly being researched.",
+    "excerpt": "The impact of diet on human health is constantly being researched.",
     "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
-    "summary": "This article looks at a recent idea in public health and why it may matter beyond the lab. The original study focuses on: Oral Health and the SDGs: Unlocking Missed Potential for Global Health Gains.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
-    "whatTheyFound": "Introduction Oral health is a crucial yet neglected aspect of the global health and development agenda. Although oral diseases affect almost half of the world's population, they receive little attention and public investment by policymakers, undermining progress toward the Sustainable Development Goals (SDGs).",
-    "deepDive": "Introduction Oral health is a crucial yet neglected aspect of the global health and development agenda. Although oral diseases affect almost half of the world's population, they receive little attention and public investment by policymakers, undermining progress toward the Sustainable Development Goals (SDGs). Objective The study aimed to 1) analyse the SDG framework through an oral health lens, identifying links across goals and targets, and 2) quantify the reduction in oral disease burden required by 2030 under a counterfactual status quo projection and 2 policy benchmark scenarios: one-third reduction of noncommunicable disease prevalence aligned with SDG target and 10% reduction based on the World Health Organization Global Oral Health Strategy & Action Plan (GOHAP) target. Methods A systematic content analysis was conducted on the UN resolution \"Transforming Our World: The 2030 Agenda for Sustainable Development.\" Linkages were categorised across 4 dimensions: disease burden, determinants, system integration, and policy alignment. The Global Burden of Disease data were used to model a counterfactual status quo projection using the compound annual growth rate (CAGR) (2015-2019)…",
-    "body": "Introduction Oral health is a crucial yet neglected aspect of the global health and development agenda. Although oral diseases affect almost half of the world's population, they receive little attention and public investment by policymakers, undermining progress toward the Sustainable Development Goals (SDGs). Objective The study aimed to 1) analyse the SDG framework through an oral health lens, identifying links across goals and targets, and 2) quantify the reduction in oral disease burden required by 2030 under a counterfactual status quo projection and 2 policy benchmark scenarios: one-third reduction of noncommunicable disease prevalence aligned with SDG target and 10% reduction based on the World Health Organization Global Oral Health Strategy & Action Plan (GOHAP) target. Methods A systematic content analysis was conducted on the UN resolution \"Transforming Our World: The 2030 Agenda for Sustainable Development.\" Linkages were categorised across 4 dimensions: disease burden, determinants, system integration, and policy alignment. The Global Burden of Disease data were used to model a counterfactual status quo projection using the compound annual growth rate (CAGR) (2015-2019)…",
+    "summary": "This article looks at a recent idea in nutrition and why it may matter beyond the lab. The original study focuses on: Relationships Between High Dietary Inflammatory Index Scores and Intestinal and Blood-Brain Barrier Integrity in the Context of Neurodegenerative Diseases.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
+    "whatTheyFound": "The impact of diet on human health is constantly being researched. Nutrition is one of the most powerful tools for influencing gene expression, and dietary habits can promote the expression of genetic predisposition to obesity, diabetes, cardiovascular disease, cancer, and neurodegenerative diseases (NDs).",
+    "deepDive": "The impact of diet on human health is constantly being researched. Nutrition is one of the most powerful tools for influencing gene expression, and dietary habits can promote the expression of genetic predisposition to obesity, diabetes, cardiovascular disease, cancer, and neurodegenerative diseases (NDs). The dietary inflammatory index (DII) is a numerical score that assesses the pro-or anti-inflammatory potential of a given diet. According to high DII scores, a Western diet or a standard American diet (SAD) has proinflammatory properties. By disrupting the gut microbiome, SAD creates an unfavorable environment in the intestine that is associated with a low-grade systemic inflammatory response and oxidative changes that may promote the development of NDs. An increased intestinal permeability and loss of blood-brain barrier (BBB) integrity play key roles in the pathomechanisms of diet-dependent NDs, leading to proinflammatory signaling via the gut-brain axis. The aim of this narrative review is to present in detail the current state of knowledge on the function of the gut-brain axis depending on the pro-/anti-inflammatory potential of the diet, measured by the DII, in the context o…",
+    "body": "The impact of diet on human health is constantly being researched. Nutrition is one of the most powerful tools for influencing gene expression, and dietary habits can promote the expression of genetic predisposition to obesity, diabetes, cardiovascular disease, cancer, and neurodegenerative diseases (NDs). The dietary inflammatory index (DII) is a numerical score that assesses the pro-or anti-inflammatory potential of a given diet. According to high DII scores, a Western diet or a standard American diet (SAD) has proinflammatory properties. By disrupting the gut microbiome, SAD creates an unfavorable environment in the intestine that is associated with a low-grade systemic inflammatory response and oxidative changes that may promote the development of NDs. An increased intestinal permeability and loss of blood-brain barrier (BBB) integrity play key roles in the pathomechanisms of diet-dependent NDs, leading to proinflammatory signaling via the gut-brain axis. The aim of this narrative review is to present in detail the current state of knowledge on the function of the gut-brain axis depending on the pro-/anti-inflammatory potential of the diet, measured by the DII, in the context o…",
     "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
     "keyTakeaways": [
       "The study explores a recent scientific question with real-world implications.",
@@ -2428,8 +2492,8 @@
     "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
     "scientificTerms": [
       {
-        "term": "abstract",
-        "explanation": "A short summary of a scientific article’s purpose, methods, results, and conclusions."
+        "term": "microbiome",
+        "explanation": "The community of bacteria and other microbes living in or on the body or environment."
       },
       {
         "term": "peer review",
@@ -2443,16 +2507,15 @@
     "sourceName": "PubMed",
     "journal": "",
     "authors": [
-      "Mathur MR",
-      "Listl S",
-      "Syed SS",
-      "Nagrath D",
-      "Mishra VK",
-      "Benzian H."
+      "Szukiewicz D",
+      "Almeida-de-Souza J",
+      "Gryka-Marton M",
+      "Wątroba M",
+      "Grabowska AD."
     ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42387968/",
-    "doi": "10.1177/23800844261455290",
-    "pmid": "42387968"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42451112/",
+    "doi": "10.3390/nu18132106",
+    "pmid": "42451112"
   },
   {
     "id": "women-s-health-c1eaefdce8",
@@ -2622,64 +2685,6 @@
     "pmid": "42334792"
   },
   {
-    "id": "nutrition-6c3e78f92d",
-    "title": "Everyday Diet Choices May Shape Long-Term Health Risks",
-    "originalTitle": "Do probiotics modulate dietary intake? Pilot data from a randomized controlled sub-study of the ProBioHRV clinical trial in patients with depression and healthy controls.",
-    "category": "Nutrition",
-    "date": "2026-06-23",
-    "dateISO": "2026-06-23",
-    "displayDate": "Jun 23, 2026",
-    "readTime": 4,
-    "difficulty": "Advanced",
-    "image": "RUimages/genetics.jpg",
-    "imageSearchQuery": "",
-    "imageAltText": "",
-    "imageCaption": "",
-    "blurb": "Background The gut microbiome plays a central role in human health and is strongly influenced by diet.",
-    "excerpt": "Background The gut microbiome plays a central role in human health and is strongly influenced by diet.",
-    "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
-    "summary": "This article looks at a recent idea in nutrition and why it may matter beyond the lab. The original study focuses on: Do probiotics modulate dietary intake? Pilot data from a randomized controlled sub-study of the ProBioHRV clinical trial in patients with depression and healthy controls.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
-    "whatTheyFound": "Background The gut microbiome plays a central role in human health and is strongly influenced by diet. Probiotics can beneficially modulate the microbiome and, through the gut-brain axis, may affect mood, appetite, and food preferences.",
-    "deepDive": "Background The gut microbiome plays a central role in human health and is strongly influenced by diet. Probiotics can beneficially modulate the microbiome and, through the gut-brain axis, may affect mood, appetite, and food preferences. This randomized controlled trial examined whether three months of probiotic supplementation could alter dietary intake in individuals with major depression (MD) and healthy controls (HC). Methods In this double-blind, placebo-controlled trial, 53 participants (23 with MD, 30 HC) received either a multi-strain probiotic or placebo twice daily for three months. Dietary intake was assessed at baseline and three follow-ups using the Vienna Food Record (VFR). Nutritional data were analyzed with nut.s® software and evaluated using mixed ANOVAs for repeated measures. These analyses represent additional data collected within the framework of the ProBioHRV study. Results Changes across dietary measures were generally small, with only a limited number reaching statistical significance. Significant three-way interactions (time × intervention × diagnosis) emerged for vitamin D intake, dietary variety, folic acid, and diversity. In HC, probiotic supplementation…",
-    "body": "Background The gut microbiome plays a central role in human health and is strongly influenced by diet. Probiotics can beneficially modulate the microbiome and, through the gut-brain axis, may affect mood, appetite, and food preferences. This randomized controlled trial examined whether three months of probiotic supplementation could alter dietary intake in individuals with major depression (MD) and healthy controls (HC). Methods In this double-blind, placebo-controlled trial, 53 participants (23 with MD, 30 HC) received either a multi-strain probiotic or placebo twice daily for three months. Dietary intake was assessed at baseline and three follow-ups using the Vienna Food Record (VFR). Nutritional data were analyzed with nut.s® software and evaluated using mixed ANOVAs for repeated measures. These analyses represent additional data collected within the framework of the ProBioHRV study. Results Changes across dietary measures were generally small, with only a limited number reaching statistical significance. Significant three-way interactions (time × intervention × diagnosis) emerged for vitamin D intake, dietary variety, folic acid, and diversity. In HC, probiotic supplementation…",
-    "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
-    "keyTakeaways": [
-      "The study explores a recent scientific question with real-world implications.",
-      "The finding is promising, but the original article has the most precise technical details.",
-      "More research is needed before broad conclusions can be made."
-    ],
-    "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
-    "scientificTerms": [
-      {
-        "term": "clinical trial",
-        "explanation": "A carefully designed study that tests a medical treatment or intervention in people."
-      },
-      {
-        "term": "microbiome",
-        "explanation": "The community of bacteria and other microbes living in or on the body or environment."
-      },
-      {
-        "term": "randomized",
-        "explanation": "A study design where participants are assigned by chance to different groups to reduce bias."
-      }
-    ],
-    "sourceName": "PubMed",
-    "journal": "",
-    "authors": [
-      "Putz JC",
-      "Wilding M",
-      "Lackner S",
-      "Narrath M",
-      "Schlotmann D",
-      "Sallmutter MT",
-      "Tatzer J",
-      "Brandstätter A"
-    ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42335165/",
-    "doi": "10.1371/journal.pone.0350801",
-    "pmid": "42335165"
-  },
-  {
     "id": "women-s-health-60fb597d4d",
     "title": "New Women’s Health Research Could Point to Bigger Possibilities",
     "originalTitle": "From Hope to Infection: Tubo-Ovarian Abscess After Frozen Embryo Transfer-A Case Report and Review of the Literature.",
@@ -2734,26 +2739,26 @@
     "pmid": "42339272"
   },
   {
-    "id": "women-s-health-2e271590dc",
-    "title": "New Women’s Health Research Could Point to Bigger Possibilities",
-    "originalTitle": "Comparative analysis of natural versus ovarian stimulation cycles in intrauterine insemination by diverse infertility indications.",
+    "id": "women-s-health-41810e5058",
+    "title": "Tiny Cancer Models Could Reveal How Tumors Spread",
+    "originalTitle": "The long road after breast cancer: survivorship issues and long-term treatment effects in young women.",
     "category": "Women’s Health",
-    "date": "2026-06-19",
-    "dateISO": "2026-06-19",
-    "displayDate": "Jun 19, 2026",
+    "date": "2026-06-17",
+    "dateISO": "2026-06-17",
+    "displayDate": "Jun 17, 2026",
     "readTime": 3,
     "difficulty": "Intermediate",
     "image": "RUimages/prosthetic.jpg",
     "imageSearchQuery": "",
     "imageAltText": "",
     "imageCaption": "",
-    "blurb": "Objective To describe clinical intrauterine insemination (IUI) outcomes among infertile patients with different infertility indications, and further c…",
-    "excerpt": "Objective To describe clinical intrauterine insemination (IUI) outcomes among infertile patients with different infertility indications, and further c…",
+    "blurb": "Advances in early detection and treatment have significantly improved survival rates in young women with breast cancer, leading to a growing populatio…",
+    "excerpt": "Advances in early detection and treatment have significantly improved survival rates in young women with breast cancer, leading to a growing populatio…",
     "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
-    "summary": "This article looks at a recent idea in women’s health and why it may matter beyond the lab. The original study focuses on: Comparative analysis of natural versus ovarian stimulation cycles in intrauterine insemination by diverse infertility indications.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
-    "whatTheyFound": "Objective To describe clinical intrauterine insemination (IUI) outcomes among infertile patients with different infertility indications, and further compare reproductive outcomes between natural cycle (NC) and ovarian stimulation cycle (OSC) IUI. Materials and methods A total of 1451 infertile couples that underwent their first IUI cycle with husband sperm were included in this retrospective cohort study.",
-    "deepDive": "Objective To describe clinical intrauterine insemination (IUI) outcomes among infertile patients with different infertility indications, and further compare reproductive outcomes between natural cycle (NC) and ovarian stimulation cycle (OSC) IUI. Materials and methods A total of 1451 infertile couples that underwent their first IUI cycle with husband sperm were included in this retrospective cohort study. The clinical pregnancy rates and live birth rates were compared between NC and OSC by diverse infertility indications. Results A total of 833 NC-IUI and 618 OSC-IUI cycles were available for analysis. Logistic regression showed patients with ovulatory disorder had significantly higher clinical pregnancy (21.99% vs 14.15%; AOR 1.992, 95% CI 1.207-3.288) and live birth rates (18.67% vs 11.51%; AOR 2.326, 95% CI 1.312-4.124), along with a higher preterm birth rate ( p = 0.032) when compared to the normal ovulation group. Among normal ovulatory patients, NC-IUI achieved higher clinical pregnancy rate than OSC-IUI in endometriosis (12.70% vs 8.00%), tubal infertility (16.67% vs 7.14%), and male factor group (15.92% vs 9.40%, p = 0.047), with similar live birth trends. For unexplained i…",
-    "body": "Objective To describe clinical intrauterine insemination (IUI) outcomes among infertile patients with different infertility indications, and further compare reproductive outcomes between natural cycle (NC) and ovarian stimulation cycle (OSC) IUI. Materials and methods A total of 1451 infertile couples that underwent their first IUI cycle with husband sperm were included in this retrospective cohort study. The clinical pregnancy rates and live birth rates were compared between NC and OSC by diverse infertility indications. Results A total of 833 NC-IUI and 618 OSC-IUI cycles were available for analysis. Logistic regression showed patients with ovulatory disorder had significantly higher clinical pregnancy (21.99% vs 14.15%; AOR 1.992, 95% CI 1.207-3.288) and live birth rates (18.67% vs 11.51%; AOR 2.326, 95% CI 1.312-4.124), along with a higher preterm birth rate ( p = 0.032) when compared to the normal ovulation group. Among normal ovulatory patients, NC-IUI achieved higher clinical pregnancy rate than OSC-IUI in endometriosis (12.70% vs 8.00%), tubal infertility (16.67% vs 7.14%), and male factor group (15.92% vs 9.40%, p = 0.047), with similar live birth trends. For unexplained i…",
+    "summary": "This article looks at a recent idea in women’s health and why it may matter beyond the lab. The original study focuses on: The long road after breast cancer: survivorship issues and long-term treatment effects in young women.. The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem.",
+    "whatTheyFound": "Advances in early detection and treatment have significantly improved survival rates in young women with breast cancer, leading to a growing population of long-term survivors. However, survivorship in this population is characterized by a unique and complex set of challenges that extend well beyond the completion of active treatment.",
+    "deepDive": "Advances in early detection and treatment have significantly improved survival rates in young women with breast cancer, leading to a growing population of long-term survivors. However, survivorship in this population is characterized by a unique and complex set of challenges that extend well beyond the completion of active treatment. This review aims to provide a comprehensive overview of the long-term physical, psychological, reproductive, and social effects of breast cancer and its treatment in young survivors, highlighting the need for tailored, age-specific survivorship care. Young breast cancer survivors are particularly vulnerable to treatment-related sequelae due to the interaction between therapy-related toxicities and critical life stages, including family planning, career development, and relationship building. Common long-term physical effects include bone density loss associated with premature ovarian insufficiency, cognitive dysfunction, and persistent cancer-related fatigue. In addition, endocrine therapies and treatment-induced menopause contribute to vasomotor symptoms (VMS), sleep disturbances, weight gain, and sexual dysfunction, all of which can significantly imp…",
+    "body": "Advances in early detection and treatment have significantly improved survival rates in young women with breast cancer, leading to a growing population of long-term survivors. However, survivorship in this population is characterized by a unique and complex set of challenges that extend well beyond the completion of active treatment. This review aims to provide a comprehensive overview of the long-term physical, psychological, reproductive, and social effects of breast cancer and its treatment in young survivors, highlighting the need for tailored, age-specific survivorship care. Young breast cancer survivors are particularly vulnerable to treatment-related sequelae due to the interaction between therapy-related toxicities and critical life stages, including family planning, career development, and relationship building. Common long-term physical effects include bone density loss associated with premature ovarian insufficiency, cognitive dysfunction, and persistent cancer-related fatigue. In addition, endocrine therapies and treatment-induced menopause contribute to vasomotor symptoms (VMS), sleep disturbances, weight gain, and sexual dysfunction, all of which can significantly imp…",
     "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
     "keyTakeaways": [
       "The study explores a recent scientific question with real-world implications.",
@@ -2778,14 +2783,17 @@
     "sourceName": "PubMed",
     "journal": "",
     "authors": [
-      "Fan J",
-      "Li L",
-      "Xu H",
-      "Shu J",
-      "Zhang K."
+      "Pagliuca M",
+      "Buonaiuto R",
+      "Verrazzo A",
+      "Parola S",
+      "Tafuro M",
+      "Calderaio C",
+      "Martinelli C",
+      "Di Rienzo R"
     ],
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42319031/",
-    "doi": "10.1080/07853890.2026.2688370",
-    "pmid": "42319031"
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42388620/",
+    "doi": "10.3389/fonc.2026.1840152",
+    "pmid": "42388620"
   }
 ]
