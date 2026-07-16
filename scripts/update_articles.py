@@ -113,7 +113,11 @@ ARTICLE_SCHEMA: Dict[str, Any] = {
         "blurb",
         "curiosityHook",
         "summary",
+        "researchQuestion",
+        "whatTheyDid",
         "whatTheyFound",
+        "mainResult",
+        "whatThisCouldLeadTo",
         "deepDive",
         "whyItMatters",
         "keyTakeaways",
@@ -132,7 +136,7 @@ ARTICLE_SCHEMA: Dict[str, Any] = {
         },
         "blurb": {
             "type": "string",
-            "description": "Two short sentences maximum for the card. Plain English. Explain what the study found."
+            "description": "One very simple card sentence. Sixth-grade reading level. No technical phrases unless unavoidable."
         },
         "curiosityHook": {
             "type": "string",
@@ -140,15 +144,23 @@ ARTICLE_SCHEMA: Dict[str, Any] = {
         },
         "summary": {
             "type": "string",
-            "description": "A friendly 3-4 sentence summary for students and general readers."
+            "description": "A very simple 3-4 sentence summary for non-scientists. Sixth-grade reading level."
         },
         "whatTheyFound": {
             "type": "string",
-            "description": "The main finding in plain English. Mention if it was a human, animal, cell, data, review, or framework study when clear."
+            "description": "The actual result or conclusion of the paper in very plain English. Must be specific to the article."
+        },
+        "mainResult": {
+            "type": "string",
+            "description": "One short sentence naming the clearest result, claim, or takeaway from the paper."
+        },
+        "whatThisCouldLeadTo": {
+            "type": "string",
+            "description": "A simple, specific explanation of what the result could lead to if future research works, without overclaiming."
         },
         "deepDive": {
             "type": "string",
-            "description": "A more detailed explanation that teaches the real science in 2-3 short paragraphs. Explain hard concepts clearly."
+            "description": "A simple explanation in 2-3 short paragraphs. Avoid jargon. Explain only the big idea, not every technical detail."
         },
         "whyItMatters": {
             "type": "string",
@@ -207,98 +219,172 @@ ARTICLE_SCHEMA: Dict[str, Any] = {
 
 
 SYSTEM_PROMPT = """
-You are the editorial engine for Research Unwrapped, a science-literacy platform for high school and college students, curious non-experts, and everyday readers.
+You are the editorial engine for Research Unwrapped.
 
-Your job is NOT to rewrite papers in academic language.
-Your job is to translate credible research into clear, engaging, accurate explanations that make people want to learn more.
+Your job is to turn real research papers into simple, specific, interesting explanations for normal readers.
 
-Core editorial philosophy:
-- Lead with the discovery, surprise, or real-world implication.
-- Do not lead with the paper's academic framing.
-- Make the card title understandable to a smart teenager.
-- Preserve scientific accuracy.
-- Never exaggerate beyond the evidence.
-- Never imply human clinical impact if the study was only in cells, animals, simulations, data, or a small early trial.
-- Keep the original scientific title separately for citation and transparency.
+This is NOT a press release.
+This is NOT a motivational science blog.
+This is NOT PubMed copied into easier words.
 
-Audience:
-- Smart high school students
-- College applicants interested in STEM
-- Curious non-scientists
-- Patients and families who want plain-English research explanations
-- Students looking for inspiration for independent research
+Every answer must stay focused on the exact paper provided.
+The reader should understand:
+- what the paper was asking
+- what the researchers actually used or did
+- what they found, built, reviewed, tested, or argued
+- what the result could lead to in the real world
+- what the paper still does not prove
 
-Tone:
-- Clear
-- Curious
-- Conversational
-- Accessible
-- Slightly exciting, but never clickbait
-- Never childish
-- Never overly technical on the card
+Style:
+- ScienceDaily-like: simple, clear, specific, and curiosity-building.
+- Use short sentences.
+- Use plain words.
+- Explain hard words immediately.
+- Write for a smart student or curious parent with no research background.
+- Keep it easy, but do not make it empty.
+- Never write generic filler.
 """
 
 HEADLINE_RULES = """
-HEADLINE RULES — VERY IMPORTANT:
+HEADLINE RULES:
 
-The public article title should sound like this example:
+Keep the headline style the user likes:
 "Light-Based 3D Printing Could Bring Lab-Grown Organs Closer"
 
-That means the title should usually combine:
-1. A simple version of the technology, discovery, or finding
-2. A cautious verb such as could, may, might, or suggests
-3. The larger real-world implication or future possibility
+The headline should combine:
+1. the actual thing studied or built,
+2. a cautious verb like could, may, might, or suggests,
+3. the specific result or real-world possibility.
 
-The title should make a curious student think:
-"Wait, how does that work?"
+It must be catchy, but still clearly connected to THIS paper.
 
-Do NOT write a topic label.
-Do NOT write a shortened academic title.
-Do NOT copy the paper title unless it is already clear and exciting.
-Do NOT use vague titles like:
+Good:
+- Light-Based 3D Printing Could Bring Lab-Grown Organs Closer
+- AI Read Rat Brain Signals to Track Walking Speed
+- Tiny Cancer Models Could Show How Tumors Change Nearby Cells
+- Gut-Friendly Diets May Be Linked to Lower Blood Pressure
+- Hot Homes May Raise Heat Risk for Older Adults
+
+Bad:
+- Brain signals could reveal more than we thought
+- New biomedical engineering research could point to bigger possibilities
 - Digital light processing bioprinting
 - Gut microbiome and hypertension
 - AI-assisted diagnosis
-- Climate and ozone pollution
-- Tumor microenvironment interactions
-
-Better title examples:
-- Light-Based 3D Printing Could Bring Lab-Grown Organs Closer
-- Gut-Friendly Diets May Be Linked to Lower Blood Pressure
-- AI Could Help Doctors Catch Swallowing Problems Earlier
-- Brain Signals Could Help Future Prosthetics Move More Naturally
-- Tiny Cancer Models Could Reveal How Tumors Spread
-- Cleaner Air Plans May Need to Target Pollution Earlier
-- Gene Editing Could Help Scientists Understand Ovarian Disorders
-- Hotter Homes May Put Older Adults at Greater Risk
-- AI Models Could Work Better When They Team Up
-- Microbiology Classes Could Help Train Future Climate Scientists
 
 Rules:
 - 8 to 14 words is ideal.
 - 16 words maximum.
-- Use simple, vivid words.
-- Include the implication, not just the topic.
-- Use “could,” “may,” or “might” for early-stage research.
-- Do not say “will,” “proves,” “cures,” or “breakthrough” unless the abstract clearly supports it.
-- Avoid acronyms in the title unless they are widely known, like AI or DNA.
-- Avoid technical phrases like “spatial transcriptomics,” “randomized clinical trial,” “bioink innovations,” or “differential expression” in the title.
-- The original academic title will be saved separately as originalTitle, so the public title should be reader-friendly.
-
-Before writing the title, silently ask:
-- What is the actual thing being studied?
-- What could this eventually help with?
-- Why would a non-scientist care?
-- How can I say that in one clear headline?
-
-The title should focus on the implication, not the method name.
+- Avoid vague words like "things," "ideas," "possibilities," or "problems" when a specific noun is available.
+- Do not copy the academic title.
+- Do not overclaim. Use "could," "may," or "might" when the research is early.
 """
 
+SPECIFICITY_RULES = """
+SPECIFICITY RULES — MOST IMPORTANT:
+
+The user wants simple writing that still explains the exact study.
+Do not drift into only future implications.
+Do not summarize the whole field.
+Do not write generic sentences that could fit any paper.
+
+Before writing, silently extract these facts from the abstract:
+1. Paper type: experiment, clinical trial, animal study, cell study, AI/data study, review, protocol, framework, commentary, etc.
+2. Research question: what exact question or problem did the paper focus on?
+3. Materials/data: what did they use? Examples: rats, EEG recordings, survey responses, patient records, cells, printed gels, previous studies, AI models.
+4. Method: what did they do with those materials/data? Examples: trained an AI model, compared groups, reviewed papers, printed scaffolds, measured indoor heat.
+5. Result: what did they find, show, build, argue, or propose?
+6. Specific implication: if this work keeps improving, what could it specifically help with?
+7. Limit: what does it NOT prove yet?
+
+Writing must be simple but useful.
+The reader should never think: "This tells me nothing."
+
+BANNED FILLER PHRASES:
+- This article looks at a recent idea...
+- This study explores...
+- This research points to a bigger question...
+- This could help readers understand...
+- Scientists are testing new ways to understand or solve a real problem.
+- The study addresses a recent question in science or medicine.
+- Readers should use the source link to go deeper.
+- Offers potential to restore function.
+- Could reveal more than we thought.
+- Objective.
+- Background.
+
+Do not copy the abstract's technical wording.
+Translate it.
+
+Examples of translation:
+- "Digital light processing bioprinting" → "a 3D printing method that uses light to shape soft, cell-friendly gels"
+- "bioink" → "a gel-like material that can carry living cells"
+- "bioactuation" → "the ability of engineered muscle to move or contract"
+- "EEG" → "electrical brain signals recorded from the head or skull"
+- "recurrent neural network" → "an AI model that learns patterns over time"
+- "cross-sectional" → "a snapshot study taken at one point in time"
+- "randomized clinical trial" → "a human study where people were placed into treatment groups by chance"
+
+Length targets:
+- blurb: 2 sentences, 45–75 words total.
+- curiosityHook: 1 sentence, 15–30 words.
+- summary: 7–10 short sentences, 160–240 words total.
+- researchQuestion: 1–2 simple sentences.
+- whatTheyDid: 90–150 words.
+- whatTheyFound: 100–180 words.
+- mainResult: 1 simple sentence.
+- whatThisCouldLeadTo: 90–150 words.
+- deepDive: 180–280 words.
+- whyItMatters: 2–3 specific sentences.
+- limitations: 2–4 specific sentences.
+
+FIELD STYLE:
+
+blurb:
+Keep it hooky and specific. Include the study type or method and the main result/claim.
+Do NOT use vague implications alone.
+A good blurb sounds like ScienceDaily, but simpler.
+
+summary:
+This should act like a plain-English abstract.
+Go straight into the paper. No intro filler.
+Use this structure:
+- What problem the paper focuses on.
+- What kind of paper/study it is.
+- What researchers used or looked at.
+- What they did.
+- What they found or argued.
+- Why the result matters.
+- What is still early or uncertain.
+
+whatTheyDid:
+Explain the materials and method. Be concrete.
+Examples: how many people, what species, what dataset, what technology, what comparison, what trial phase, what type of model, what review scope.
+If the abstract does not give a number, do not invent one.
+
+whatTheyFound:
+Explain the result, not just the goal.
+If the paper is a review, explain the main pattern or argument it found across prior work.
+If the paper is a protocol, explain what the planned study will examine, and say results are not available yet.
+If the paper is a framework/commentary, explain the specific framework or argument.
+
+whatThisCouldLeadTo:
+Be specific about the future possibility.
+Bad: "This could help medicine and technology."
+Better: "If light-based printing and bioinks keep improving, researchers could make small tissue models that are better for testing drugs or studying how damaged tissue heals. That is different from printing a transplant-ready organ, which is still much harder."
+
+limitations:
+Be specific but simple.
+Say exactly why the reader should be cautious.
+Examples: animal-only, cell-only, review-only, observational, small sample, early-stage engineering, protocol without results, correlation not causation.
+"""
 
 USER_PROMPT_TEMPLATE = """
-Convert the following research article metadata into a Research Unwrapped article card and full-read explanation.
+Convert this research article metadata into a Research Unwrapped article card and read-more explanation.
 
 {headline_rules}
+
+{specificity_rules}
 
 ARTICLE METADATA:
 Original title: {title}
@@ -311,130 +397,21 @@ PMID: {pmid}
 Source URL: {source_url}
 Suggested category: {category}
 
-Return a valid JSON object that follows the required schema.
+Return valid JSON that follows the schema exactly.
 
-WRITING RULES:
+Output must feel like this:
+Simple enough for a normal person, but specific enough that it clearly belongs to this exact research paper.
 
-1. simpleTitle:
-Use the HEADLINE RULES exactly.
-Create a captivating but accurate reader-facing title.
-It must explain the implication or why the research matters.
-It should make a student want to click.
-It should NOT sound like PubMed, a journal article, or a topic label.
+Required writing approach:
+- Lead with what happened in the paper.
+- Explain what they used and how they did it.
+- Explain what they found.
+- Then explain what it could lead to, carefully.
+- Keep the original paper link for technical details; your job is to make the paper understandable before they click it.
 
-Do NOT copy the original paper title unless it is already simple, clear, and exciting.
-Do NOT use academic title phrases such as:
-- "A conceptual framework"
-- "A systematic review"
-- "An investigation of"
-- "Associations between"
-- "Characterization of"
-- "Mechanisms underlying"
-- "Integrating X into Y"
-- "Evaluation of"
-- "Assessment of"
-- "Protocol"
-- "Scoping review protocol"
-
-Instead, translate the title into the real-world finding, question, or implication.
-
-The title should usually follow this formula:
-Simple technology/discovery + cautious verb + real-world future implication
-
-Strong examples:
-- Light-Based 3D Printing Could Bring Lab-Grown Organs Closer
-- Gut-Friendly Diets May Be Linked to Lower Blood Pressure
-- AI Could Help Doctors Catch Swallowing Problems Earlier
-- Brain Signals Could Help Future Prosthetics Move More Naturally
-- Tiny Cancer Models Could Reveal How Tumors Spread
-- Hotter Homes May Put Older Adults at Greater Risk
-
-Bad examples:
-- Digital light processing bioprinting
-- Gut microbiome and hypertension
-- AI-assisted diagnosis
-- Tumor microenvironment interactions
-- Heat exhaustion in older adults
-
-2. blurb:
-Write 1-2 sentences for the article card.
-It should explain the finding in simple language.
-No jargon unless immediately understandable.
-Keep it under 45 words.
-Make it interesting enough that someone wants to click.
-Do not begin every blurb with "Researchers found."
-
-3. curiosityHook:
-Write one opening sentence for the full article.
-Start with why the reader should care.
-Use a question, contrast, everyday scenario, or surprising implication.
-Do not start with "This study explores..."
-
-4. summary:
-Write 3-4 sentences that tell the reader the story of the study in simple language:
-- What problem is being studied?
-- What did the scientists do or argue?
-- What did they find or propose?
-- Why is it interesting?
-
-5. whatTheyFound:
-Explain the main finding in plain English.
-Use 2-4 short paragraphs.
-Mention whether the study was in humans, animals, cells, data, AI models, a clinical trial, a review, or a framework paper.
-Be clear about what was actually shown.
-
-6. whyItMatters:
-Explain the real-world implication.
-Connect to health, learning, technology, environment, society, or future research.
-Do not overclaim.
-
-7. deepDive:
-Explain the science behind the finding in accessible language.
-This is where harder science can appear, but explain it as you go.
-Use analogies when helpful.
-Assume the reader is smart but new to the field.
-Keep paragraphs short.
-Do not make it sound like a textbook.
-
-8. scientificTerms:
-Pick 3-6 important scientific terms from the article.
-For each term, explain it in simple language.
-Definitions should be one sentence.
-Use terms that help the reader understand the article, not random vocabulary.
-Avoid generic terms like "abstract," "peer review," or "correlation" unless directly needed for this article.
-
-9. keyTakeaways:
-Write 3 short takeaways.
-Each should be useful.
-At least one should mention a limitation or uncertainty when appropriate.
-
-10. limitations:
-Explain what this study does NOT prove.
-Mention sample size, model type, early-stage status, correlation vs causation, review/protocol status, preprint status, or need for further research when relevant.
-This must be honest and specific.
-
-11. difficulty:
-Choose one:
-- "Beginner" if most high school students can understand it easily
-- "Intermediate" if it requires some biology/medicine/AI background
-- "Advanced" if the topic is technical but still worth explaining
-
-12. Accuracy rules:
-- If it is an animal study, do not imply it is proven in humans.
-- If it is observational, do not imply causation.
-- If it is a review, commentary, protocol, or framework paper, do not describe it as a new experiment.
-- If it is a preprint, mention that it has not been peer reviewed.
-- Do not invent statistics, claims, authors, institutions, or applications.
-- If the abstract does not provide enough detail, say so in limitations.
-
-13. Image guidance:
-- Choose an image concept that directly matches the research.
-- Do not use generic lab photos unless the article is broadly about lab research.
-- If the article is about the brain, use brain/neuron imagery.
-- If it is about cancer, use cells, tumors, immune cells, or treatment imagery.
-- If it is about genetics, use DNA, gene editing, sequencing, or chromosomes.
-- If it is about AI, use data, models, code, or AI-assisted science visuals.
-- If it is about environment, use the specific ecosystem, pollutant, organism, or climate issue.
+Do not include generic filler.
+Do not write only broad implications.
+Do not copy the abstract.
 """
 
 def log(message: str) -> None:
@@ -603,51 +580,138 @@ def make_simple_fallback_title(title: str, category: str = "Science") -> str:
     return f"New {category_clean} Research Could Point to Bigger Possibilities"
 
 
+
+def make_plain_topic(title: str) -> str:
+    """Make a rough, simple topic phrase for fallback mode."""
+    topic = clean_text(title)
+    topic = re.split(r":|—|-", topic)[0].strip()
+    topic = re.sub(r"\b(a|an|the)\b", "", topic, flags=re.IGNORECASE)
+    topic = re.sub(r"\s+", " ", topic).strip()
+    return topic[:90] or "this research"
+
+
 def fallback_summary(raw: Dict[str, Any]) -> Dict[str, Any]:
     title = raw["title"]
     abstract = raw["abstract"]
     category = raw.get("category", "Science")
     score = raw.get("difficultyScore", 0)
     difficulty = "Advanced" if score >= 3 else "Intermediate" if score >= 1 else "Beginner"
-    sentences = [s for s in re.split(r"(?<=[.!?])\s+", abstract) if s]
-    first_sentence = sentences[0] if sentences else "This research explores a recent scientific question."
-    second_sentence = sentences[1] if len(sentences) > 1 else "The full paper gives the technical details behind the finding."
     simple_title = make_simple_fallback_title(title, category)
+    topic = make_plain_topic(title)
+    category_lower = str(category).lower()
 
     return {
         "simpleTitle": simple_title,
-        "blurb": clean_text(f"{first_sentence[:150].rstrip()}{'…' if len(first_sentence) > 150 else ''}"),
-        "curiosityHook": "This research points to a bigger question: how could today’s science become tomorrow’s real-world solution?",
-        "summary": clean_text(
-            f"This article looks at a recent idea in {str(category).lower()} and why it may matter beyond the lab. "
-            f"The original study focuses on: {title}. "
-            "The details are technical, but the bigger idea is that scientists are testing new ways to understand or solve a real problem."
+        "blurb": clean_text(
+            f"This research looks at {topic.lower()} and why it could matter beyond the lab."
         ),
-        "whatTheyFound": clean_text(f"{first_sentence} {second_sentence}"),
-        "deepDive": clean_text(abstract[:1200].rstrip() + ("…" if len(abstract) > 1200 else "")),
-        "whyItMatters": "This matters because it could help readers understand how early scientific ideas may eventually shape medicine, technology, health, or the environment.",
+        "curiosityHook": "Some scientific ideas start small, but they can point toward much bigger possibilities.",
+        "summary": clean_text(
+            f"This article is about {topic.lower()}. "
+            f"The big idea is connected to {category_lower} and why it may matter in the real world. "
+            "The original paper has the full scientific detail, but the main point is that researchers are exploring a possible new path forward."
+        ),
+        "whatTheyFound": clean_text(
+            f"The paper focuses on {topic.lower()}. It suggests this area may help scientists ask better questions or build better tools. "
+            "This does not mean the idea is ready for everyday use yet."
+        ),
+        "deepDive": clean_text(
+            "Think of this as an early step in a larger scientific story. Researchers are trying to understand whether this idea can help solve a real problem. "
+            "The technical paper gives the detailed methods and evidence, while this summary keeps the main idea simple."
+        ),
+        "whyItMatters": "This matters because early research can help scientists move closer to future tools, treatments, or better decisions.",
         "keyTakeaways": [
-            "The study explores a recent scientific question with real-world implications.",
-            "The finding is promising, but the original article has the most precise technical details.",
-            "More research is needed before broad conclusions can be made."
+            "The study connects to a real-world science problem.",
+            "The idea is promising, but it is not a finished solution yet.",
+            "Readers can use the original source for the full technical details."
         ],
-        "limitations": "This is an automated simplified summary based on the abstract. Readers should check the original source before making scientific or medical claims.",
+        "limitations": "This is a simplified summary based on the abstract. The original paper should be checked for exact methods, evidence, and limits.",
         "scientificTerms": fallback_terms(title, abstract),
         "difficulty": difficulty,
-        "readTime": 4 if difficulty == "Advanced" else 3,
+        "readTime": 3 if difficulty != "Advanced" else 4,
         "imageSearchQuery": "",
         "imageAltText": "",
         "imageCaption": "",
     }
 
 
+BAD_GENERATION_PHRASES = [
+    "this article looks at a recent idea",
+    "this study explores",
+    "this research points to a bigger question",
+    "could help readers understand",
+    "testing new ways to understand or solve a real problem",
+    "study addresses a recent question",
+    "readers should use the source link",
+    "here is why this research is worth a closer look",
+    "objective.",
+    "background.",
+    "offers potential to restore function",
+    "could reveal more than we thought",
+    "bigger possibilities",
+]
+
+
+def validate_summary_quality(summary: Dict[str, Any], raw: Dict[str, Any]) -> List[str]:
+    """Return a list of quality problems. Empty list means acceptable."""
+    problems: List[str] = []
+    combined = " ".join(str(summary.get(k, "")) for k in [
+        "simpleTitle", "blurb", "curiosityHook", "summary", "researchQuestion", "whatTheyDid",
+        "whatTheyFound", "mainResult", "whatThisCouldLeadTo", "deepDive", "whyItMatters", "limitations"
+    ]).lower()
+
+    for phrase in BAD_GENERATION_PHRASES:
+        if phrase in combined:
+            problems.append(f"Generic/filler phrase found: {phrase}")
+
+    if len(clean_text(summary.get("blurb"))) < 60:
+        problems.append("Blurb is too short to explain the actual study.")
+    if len(clean_text(summary.get("summary"))) < 450:
+        problems.append("Summary is too short or generic; it needs real study details.")
+    if len(clean_text(summary.get("whatTheyDid"))) < 350:
+        problems.append("whatTheyDid is too short; it needs concrete method/material details from the abstract.")
+    if len(clean_text(summary.get("whatTheyFound"))) < 400:
+        problems.append("whatTheyFound is too short; it needs concrete results from the abstract.")
+    if len(clean_text(summary.get("whatThisCouldLeadTo"))) < 300:
+        problems.append("whatThisCouldLeadTo is too short or generic; it needs a specific future use/implication.")
+    if len(clean_text(summary.get("deepDive"))) < 650:
+        problems.append("deepDive is too short; it needs a simple but useful explanation.")
+
+    title_words = set(re.findall(r"[a-z]{4,}", raw.get("title", "").lower()))
+    abstract_words = set(re.findall(r"[a-z]{4,}", raw.get("abstract", "").lower()))
+    source_words = title_words | abstract_words
+    output_words = set(re.findall(r"[a-z]{4,}", combined))
+    anchor_words = source_words & output_words
+
+    # This is a rough guard against purely generic summaries.
+    if len(anchor_words) < 10:
+        problems.append("Output does not appear anchored enough to the article abstract.")
+
+    if clean_text(summary.get("simpleTitle", "")).lower() in [
+        "brain signals could reveal more than we thought",
+        "new science research could point to bigger possibilities",
+    ]:
+        problems.append("Title is too generic.")
+
+    return problems
+
+
 def summarize_with_openai(raw: Dict[str, Any]) -> Dict[str, Any]:
-    if not OPENAI_API_KEY or OpenAI is None:
-        return fallback_summary(raw)
+    # Quality rule: do not silently publish generic fallback text.
+    if not OPENAI_API_KEY:
+        raise RuntimeError(
+            "OPENAI_API_KEY is missing. Add it in GitHub Settings → Secrets and variables → Actions. "
+            "This script requires OpenAI so Research Unwrapped does not publish generic fallback summaries."
+        )
+    if OpenAI is None:
+        raise RuntimeError(
+            "The openai Python package is not installed. Make sure requirements.txt includes openai."
+        )
 
     client = OpenAI(api_key=OPENAI_API_KEY)
-    prompt = USER_PROMPT_TEMPLATE.format(
+    base_prompt = USER_PROMPT_TEMPLATE.format(
         headline_rules=HEADLINE_RULES,
+        specificity_rules=SPECIFICITY_RULES,
         title=raw["title"],
         abstract=raw["abstract"][:4500],
         journal=raw.get("journal", ""),
@@ -659,27 +723,48 @@ def summarize_with_openai(raw: Dict[str, Any]) -> Dict[str, Any]:
         category=raw["category"],
     )
 
-    try:
-        response = client.responses.create(
-            model=OPENAI_MODEL,
-            input=[
-                {"role": "system", "content": SYSTEM_PROMPT + "\n\nReturn valid JSON that follows the schema exactly."},
-                {"role": "user", "content": prompt},
-            ],
-            text={
-                "format": {
-                    "type": "json_schema",
-                    "name": "research_unwrapped_article",
-                    "schema": ARTICLE_SCHEMA,
-                    "strict": True,
-                }
-            },
-        )
-        return json.loads(response.output_text)
-    except Exception as exc:
-        log(f"OpenAI summary failed for {raw.get('id')}: {exc}. Using fallback summary.")
-        return fallback_summary(raw)
+    last_problems: List[str] = []
+    for attempt in range(1, 4):
+        quality_feedback = ""
+        if last_problems:
+            quality_feedback = (
+                "\n\nQUALITY FIX REQUIRED FROM PREVIOUS ATTEMPT:\n- "
+                + "\n- ".join(last_problems)
+                + "\nRewrite the JSON so it is specific to the paper, simple, and useful."
+            )
 
+        try:
+            response = client.responses.create(
+                model=OPENAI_MODEL,
+                input=[
+                    {"role": "system", "content": SYSTEM_PROMPT + "\n\nReturn valid JSON that follows the schema exactly."},
+                    {"role": "user", "content": base_prompt + quality_feedback},
+                ],
+                text={
+                    "format": {
+                        "type": "json_schema",
+                        "name": "research_unwrapped_article",
+                        "schema": ARTICLE_SCHEMA,
+                        "strict": True,
+                    }
+                },
+            )
+            summary = json.loads(response.output_text)
+            problems = validate_summary_quality(summary, raw)
+            if not problems:
+                return summary
+            last_problems = problems
+            log(f"Quality retry {attempt}/3 for {raw.get('id')}: {'; '.join(problems)}")
+        except Exception as exc:
+            raise RuntimeError(
+                f"OpenAI summary failed for {raw.get('id')}: {exc}. "
+                "Stopping instead of publishing generic fallback summaries."
+            ) from exc
+
+    raise RuntimeError(
+        f"Generated summary for {raw.get('id')} stayed too generic after 3 attempts: "
+        + "; ".join(last_problems)
+    )
 
 def build_query(base_query: str, start_date: str, end_date: str) -> str:
     return f"({base_query}) AND HAS_ABSTRACT:Y AND FIRST_PDATE:[{start_date} TO {end_date}]"
@@ -813,7 +898,11 @@ def assemble_article(raw: Dict[str, Any], summary: Dict[str, Any]) -> Dict[str, 
         "excerpt": clean_text(summary.get("blurb")),
         "curiosityHook": clean_text(summary.get("curiosityHook")),
         "summary": clean_text(summary.get("summary")),
+        "researchQuestion": clean_text(summary.get("researchQuestion")),
+        "whatTheyDid": clean_text(summary.get("whatTheyDid")),
         "whatTheyFound": clean_text(summary.get("whatTheyFound")),
+        "mainResult": clean_text(summary.get("mainResult")),
+        "whatThisCouldLeadTo": clean_text(summary.get("whatThisCouldLeadTo")),
         "deepDive": clean_text(summary.get("deepDive")),
         "body": clean_text(summary.get("deepDive")),
         "whyItMatters": clean_text(summary.get("whyItMatters")),
@@ -868,9 +957,19 @@ def main() -> int:
         # Gentle pacing for APIs.
         time.sleep(0.4 if OPENAI_API_KEY else 0.05)
 
+    # Final safety dedupe before writing, in case the same paper appears in multiple categories.
+    final_articles = []
+    final_seen = set()
+    for article in articles:
+        key = (article.get("doi") or article.get("pmid") or article.get("sourceUrl") or article.get("originalTitle") or article.get("title") or "").lower().strip()
+        key = re.sub(r"\s+", " ", key)
+        if key and key not in final_seen:
+            final_seen.add(key)
+            final_articles.append(article)
+
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-    OUTPUT_FILE.write_text(json.dumps(articles, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-    log(f"Wrote {len(articles)} articles to {OUTPUT_FILE}.")
+    OUTPUT_FILE.write_text(json.dumps(final_articles, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    log(f"Wrote {len(final_articles)} articles to {OUTPUT_FILE}.")
     return 0
 
 
