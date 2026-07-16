@@ -1032,6 +1032,45 @@
       margin-top: 6px;
     }
 
+
+    .difficulty-pill {
+      width: fit-content;
+      margin-bottom: 12px;
+      padding: 6px 10px;
+      border-radius: 999px;
+      color: #ffffff;
+      background: rgba(0, 213, 255, 0.11);
+      border: 1px solid rgba(0, 213, 255, 0.28);
+      font-size: 12px;
+      font-weight: 850;
+    }
+
+    .science-terms {
+      margin-top: 22px;
+      padding: 22px;
+      border-radius: 18px;
+      border: 1px solid rgba(0, 213, 255, 0.22);
+      background: rgba(0, 213, 255, 0.055);
+    }
+
+    .science-terms h3 {
+      margin-bottom: 14px;
+    }
+
+    .science-term {
+      margin-bottom: 13px;
+      color: #d7deec;
+      line-height: 1.65;
+    }
+
+    .science-term:last-child {
+      margin-bottom: 0;
+    }
+
+    .science-term strong {
+      color: #ffffff;
+    }
+
     .takeaways {
       margin-top: 22px;
       padding: 22px;
@@ -1363,6 +1402,9 @@
             <option value="AI & Computer Science">AI & Computer Science</option>
             <option value="Medicine">Medicine</option>
             <option value="Genetics">Genetics</option>
+            <option value="Women’s Health">Women’s Health</option>
+            <option value="Public Health">Public Health</option>
+            <option value="Nutrition">Nutrition</option>
             <option value="Environment">Environment</option>
           </select>
         </div>
@@ -1378,6 +1420,9 @@
           <button class="chip" data-category="AI & Computer Science">▣ AI & Computer Science</button>
           <button class="chip" data-category="Medicine">♡ Medicine</button>
           <button class="chip" data-category="Genetics">🧬 Genetics</button>
+          <button class="chip" data-category="Women’s Health">♀ Women’s Health</button>
+          <button class="chip" data-category="Public Health">🌍 Public Health</button>
+          <button class="chip" data-category="Nutrition">🥗 Nutrition</button>
           <button class="chip" data-category="Environment">♧ Environment</button>
         </div>
       </div>
@@ -1715,6 +1760,9 @@
       "AI & Computer Science": "RUimages/AI.jpg",
       "Medicine": "RUimages/prosthetic.jpg",
       "Genetics": "RUimages/genetics.jpg",
+      "Women’s Health": "RUimages/prosthetic.jpg",
+      "Public Health": "RUimages/genetics.jpg",
+      "Nutrition": "RUimages/genetics.jpg",
       "Environment": "RUimages/genetics.jpg",
       "All": "RUimages/genetics.jpg"
     };
@@ -1816,13 +1864,17 @@
     function getSearchText(item) {
       return `
         ${item.title || ""}
+        ${item.originalTitle || ""}
         ${item.category || ""}
         ${item.blurb || ""}
         ${item.excerpt || ""}
         ${item.summary || ""}
         ${item.body || ""}
+        ${item.deepDive || ""}
         ${item.whyItMatters || ""}
         ${item.limitations || ""}
+        ${item.difficulty || ""}
+        ${Array.isArray(item.scientificTerms) ? item.scientificTerms.map((entry) => `${entry.term || ""} ${entry.explanation || ""}`).join(" ") : ""}
         ${item.journal || ""}
         ${item.sourceName || ""}
       `.toLowerCase();
@@ -1835,6 +1887,25 @@
       setTimeout(() => {
         toast.classList.remove("show");
       }, 2200);
+    }
+
+    function dedupeDiscoveries(items) {
+      const seen = new Set();
+      return items.filter((item) => {
+        const key = String(
+          item.doi ||
+          item.pmid ||
+          item.sourceUrl ||
+          item.originalTitle ||
+          item.title ||
+          item.id ||
+          ""
+        ).trim().toLowerCase();
+
+        if (!key || seen.has(key)) return false;
+        seen.add(key);
+        return true;
+      });
     }
 
     async function loadDiscoveries() {
@@ -1854,7 +1925,7 @@
           throw new Error("articles.json is empty or not an array");
         }
 
-        discoveries = data;
+        discoveries = dedupeDiscoveries(data);
         showToast("Latest research loaded.");
       } catch (error) {
         console.warn(error);
@@ -1916,13 +1987,14 @@
           <div class="card-img">
             <img
               src="${escapeHTML(image)}"
-              alt="${escapeHTML(item.imageAltText || item.title || "Research article")}"
+              alt="${escapeHTML(item.title || "Research article")}"
               onerror="this.onerror=null; this.src='${IMAGE_FALLBACKS[item.category] || IMAGE_FALLBACKS.All}';"
             >
           </div>
 
           <div class="card-body">
             <span class="tag">${escapeHTML(item.category || "Research")}</span>
+            ${item.difficulty ? `<span class="difficulty-pill">${escapeHTML(item.difficulty)} read</span>` : ""}
 
             <h3>${escapeHTML(item.title || "Untitled Research Discovery")}</h3>
 
@@ -1980,7 +2052,7 @@
         : "";
 
       modalImage.src = getImageForArticle(item);
-      modalImage.alt = item.imageAltText || item.title || "Research article";
+      modalImage.alt = item.title || "Research article";
       modalImage.onerror = function () {
         handleImageError(this, item.category);
       };
@@ -1993,16 +2065,80 @@
         <span>${getReadTime(item)} min read</span>
       `;
 
-      modalSummary.textContent = item.summary || getBlurb(item);
+      modalSummary.textContent = item.curiosityHook || getBlurb(item);
+
+      const researchQuestion = item.researchQuestion || "";
+      const whatTheyDid = item.whatTheyDid || "";
+      const whatTheyFound = item.whatTheyFound || "";
+      const mainResult = item.mainResult || "";
+      const whatThisCouldLeadTo = item.whatThisCouldLeadTo || "";
+      const deeperScience = item.deepDive || item.body || "";
+      const originalTitle = item.originalTitle || "";
+      const scientificTerms = Array.isArray(item.scientificTerms) ? item.scientificTerms : [];
+      const scientificTermsHTML = scientificTerms.length
+        ? `
+          <div class="science-terms">
+            <h3>Scientific terms explained</h3>
+            ${scientificTerms
+              .map((entry) => `
+                <div class="science-term">
+                  <strong>${escapeHTML(entry.term || "Term")}:</strong>
+                  ${escapeHTML(entry.explanation || "A key concept from this study.")}
+                </div>
+              `)
+              .join("")}
+          </div>
+        `
+        : "";
 
       modalBody.innerHTML = `
-        <div class="modal-section">
-          <strong>Why it matters:</strong><br>
-          ${escapeHTML(item.whyItMatters || "This research could help scientists better understand an important problem and may guide future studies.")}
-        </div>
+        ${item.difficulty ? `<div class="difficulty-pill">${escapeHTML(item.difficulty)} read</div>` : ""}
+
+        ${item.summary ? `
+          <div class="modal-section">
+            <strong>Plain-English abstract:</strong><br>
+            ${escapeHTML(item.summary).replace(/\n/g, "<br>")}
+          </div>
+        ` : ""}
+
+        ${researchQuestion ? `
+          <div class="modal-section">
+            <strong>What question was this paper asking?</strong><br>
+            ${escapeHTML(researchQuestion).replace(/\n/g, "<br>")}
+          </div>
+        ` : ""}
+
+        ${whatTheyDid ? `
+          <div class="modal-section">
+            <strong>What did the researchers do?</strong><br>
+            ${escapeHTML(whatTheyDid).replace(/\n/g, "<br>")}
+          </div>
+        ` : ""}
+
+        ${whatTheyFound ? `
+          <div class="modal-section">
+            <strong>What did they find?</strong><br>
+            ${mainResult ? `<em>${escapeHTML(mainResult)}</em><br><br>` : ""}
+            ${escapeHTML(whatTheyFound).replace(/\n/g, "<br>")}
+          </div>
+        ` : ""}
+
+        ${whatThisCouldLeadTo ? `
+          <div class="modal-section">
+            <strong>What could this lead to?</strong><br>
+            ${escapeHTML(whatThisCouldLeadTo).replace(/\n/g, "<br>")}
+          </div>
+        ` : ""}
+
+        ${deeperScience ? `
+          <div class="modal-section">
+            <strong>Simple science explanation:</strong><br>
+            ${escapeHTML(deeperScience).replace(/\n/g, "<br>")}
+          </div>
+        ` : ""}
 
         <div class="modal-section">
-          <strong>Limitations:</strong><br>
+          <strong>What is still unknown?</strong><br>
           ${escapeHTML(item.limitations || "More research is needed before applying this finding widely.")}
         </div>
 
@@ -2013,10 +2149,13 @@
               ? `<a class="source-link" href="${escapeHTML(sourceUrl)}" target="_blank" rel="noopener">${escapeHTML(sourceLabel)}</a>`
               : `<span class="source-link">${escapeHTML(sourceLabel)}</span>`
           }
+          ${originalTitle ? `<div class="source-meta">Original paper title: ${escapeHTML(originalTitle)}</div>` : ""}
           ${authors}
           ${pmid}
           ${doi}
         </div>
+
+        ${scientificTermsHTML}
       `;
 
       const takeaways = Array.isArray(item.keyTakeaways)
