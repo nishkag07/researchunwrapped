@@ -1383,7 +1383,7 @@
 
   <header class="site-header" id="siteHeader">
     <nav class="nav">
-      <a href="#" class="brand" aria-label="Research Unwrapped home">
+      <a href="index.html" class="brand" aria-label="Research Unwrapped home">
         <img class="brand-logo" src="RUimages/logo.jpg" alt="Research Unwrapped logo" />
         <div class="brand-text">
           Research
@@ -1392,18 +1392,18 @@
       </a>
 
       <div class="nav-links" id="navLinks">
-        <a class="active" href="#home">Home</a>
-        <a href="#discoveries">Explore</a>
-        <a href="#categories">Categories</a>
-        <a href="#about">About</a>
-        <a href="#submit">Submit Research</a>
+        <a class="active" href="index.html">Home</a>
+        <a href="explore.html">Explore</a>
+        <a href="categories.html">Categories</a>
+        <a href="about.html">About</a>
+        <a href="submit.html">Submit Research</a>
       </div>
 
       <div class="nav-actions">
         <button class="icon-btn" id="themeBtn" aria-label="Toggle glow mode">
           ☼
         </button>
-        <button class="sign-btn" id="signBtn">♡ Sign In</button>
+        <a class="sign-btn" id="signBtn" href="signin.html">♡ Sign In</a>
         <button class="icon-btn mobile-toggle" id="mobileToggle" aria-label="Open menu">
           ☰
         </button>
@@ -1601,8 +1601,8 @@
 
         <div class="footer-col">
           <h4>Explore</h4>
-          <a href="#discoveries">Latest Research</a>
-          <a href="#categories">Categories</a>
+          <a href="index.html#discoveries">Latest Research</a>
+          <a href="categories.html">Categories</a>
           <a href="#discoveries">Trending</a>
           <a href="#submit">For Students</a>
         </div>
@@ -2422,12 +2422,6 @@
     howItWorksBtn.addEventListener("click", () => {
       showToast("Pick a topic, read the simplified summary, then go deeper when ready.");
       document.getElementById("discoveries").scrollIntoView({ behavior: "smooth" });
-    });
-
-    const signBtn = document.getElementById("signBtn");
-
-    signBtn.addEventListener("click", () => {
-      showToast("Sign in is coming soon. For now, bookmarks save on this device.");
     });
 
     const themeBtn = document.getElementById("themeBtn");
