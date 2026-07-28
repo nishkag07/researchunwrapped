@@ -1573,7 +1573,9 @@
         </div>
       </div>
     </section>
-  </main>
+  
+<div id="pagination" class="pagination"></div>
+</main>
 
   <footer>
     <div class="container">
@@ -2038,9 +2040,15 @@
       return filtered;
     }
 
+    
+    let currentPage = 1;
+    const articlesPerPage = 20;
+
     function renderCards() {
       const filtered = getFilteredDiscoveries();
-      const visible = filtered.slice(0, visibleCount);
+      const start = (currentPage - 1) * articlesPerPage;
+      const end = start + articlesPerPage;
+      const visible = filtered.slice(start, end);
 
       cardsGrid.innerHTML = "";
 
@@ -2066,6 +2074,8 @@
 
             <h3>${escapeHTML(item.title || "Untitled Research Discovery")}</h3>
 
+            ${item.researchQuestion ? `<p class="research-question">${escapeHTML(item.researchQuestion)}</p>` : ""}
+
             <div class="meta">
               <span>${escapeHTML(getDisplayDate(item))}</span>
               <span class="dot"></span>
@@ -2079,16 +2089,6 @@
                 Read More
                 <span>→</span>
               </button>
-
-              <div class="mini-actions">
-                <button class="mini-btn ${isSaved ? "saved" : ""}" data-save="${escapeHTML(itemId)}" aria-label="Bookmark">
-                  ${isSaved ? "◆" : "◇"}
-                </button>
-
-                <button class="mini-btn" data-share="${escapeHTML(itemId)}" aria-label="Share">
-                  ⤴
-                </button>
-              </div>
             </div>
           </div>
         `;
@@ -2096,12 +2096,28 @@
         cardsGrid.appendChild(card);
       });
 
-      emptyState.classList.toggle("show", filtered.length === 0);
-      emptyState.textContent = filtered.length === 0
-        ? "No discoveries found. Try a different keyword or category."
-        : "";
-      viewMoreBtn.style.display = filtered.length > visibleCount ? "inline-flex" : "none";
+      renderPagination(filtered.length);
     }
+
+    function renderPagination(total) {
+      const pages = Math.ceil(total / articlesPerPage);
+      const container = document.getElementById("pagination");
+      if (!container) return;
+
+      container.innerHTML = "";
+      for (let i = 1; i <= pages; i++) {
+        const btn = document.createElement("button");
+        btn.innerText = i;
+        btn.className = "page-btn " + (i === currentPage ? "active" : "");
+        btn.onclick = () => {
+          currentPage = i;
+          renderCards();
+          window.scrollTo({ top: 0, behavior: "smooth" });
+        };
+        container.appendChild(btn);
+      }
+    }
+
 
     function openArticle(id) {
       const item = discoveries.find((discovery) => {
