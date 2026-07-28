@@ -997,3 +997,12 @@ def main() -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
+
+
+# IMAGE FALLBACK LOGIC
+def assign_image(summary, category_image):
+    image_query = summary.get("imageSearchQuery", "").strip()
+    if image_query:
+        filename = re.sub(r'[^a-z0-9]+', '-', image_query.lower())[:50] + ".jpg"
+        return f"RUimages/articles/{filename}"
+    return category_image
